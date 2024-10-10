@@ -95,6 +95,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling**|Yingfa Chen et.al.|[2410.07145](http://arxiv.org/abs/2410.07145)|null|
+|**2024-10-09**|**Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity**|Mutian He et.al.|[2410.06846](http://arxiv.org/abs/2410.06846)|null|
+|**2024-10-09**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|null|
+|**2024-10-09**|**Towards Universality: Studying Mechanistic Similarity Across Language Model Architectures**|Junxuan Wang et.al.|[2410.06672](http://arxiv.org/abs/2410.06672)|null|
+|**2024-10-09**|**Mamba-based Segmentation Model for Speaker Diarization**|Alexis Plaquet et.al.|[2410.06459](http://arxiv.org/abs/2410.06459)|**[link](https://github.com/nttcslab-sp/mamba-diarization)**|
+|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|null|
+|**2024-10-08**|**EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment**|Yifei Xing et.al.|[2410.05938](http://arxiv.org/abs/2410.05938)|null|
+|**2024-10-08**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models**|Javier Solís-García et.al.|[2410.05916](http://arxiv.org/abs/2410.05916)|null|
+|**2024-10-08**|**Remote Sensing Image Segmentation Using Vision Mamba and Multi-Scale Multi-Frequency Feature Fusion**|Yice Cao et.al.|[2410.05624](http://arxiv.org/abs/2410.05624)|null|
+|**2024-10-07**|**A Deep Learning-Based Approach for Mangrove Monitoring**|Lucas José Velôso de Souza et.al.|[2410.05443](http://arxiv.org/abs/2410.05443)|**[link](https://github.com/svjlucas/mangroveai)**|
+|**2024-10-07**|**Falcon Mamba: The First Competitive Attention-free 7B Language Model**|Jingwei Zuo et.al.|[2410.05355](http://arxiv.org/abs/2410.05355)|null|
 |**2024-10-07**|**IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2410.05100](http://arxiv.org/abs/2410.05100)|null|
 |**2024-10-05**|**Fundamental Limitations on Subquadratic Alternatives to Transformers**|Josh Alman et.al.|[2410.04271](http://arxiv.org/abs/2410.04271)|null|
 |**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
