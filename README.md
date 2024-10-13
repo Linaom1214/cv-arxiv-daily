@@ -102,7 +102,7 @@
 |**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806](http://arxiv.org/abs/2410.06806)|**[link](https://github.com/vision-sjtu/quadmamba)**|
 |**2024-10-10**|**Towards Universality: Studying Mechanistic Similarity Across Language Model Architectures**|Junxuan Wang et.al.|[2410.06672](http://arxiv.org/abs/2410.06672)|null|
 |**2024-10-10**|**Mamba-based Segmentation Model for Speaker Diarization**|Alexis Plaquet et.al.|[2410.06459](http://arxiv.org/abs/2410.06459)|**[link](https://github.com/nttcslab-sp/mamba-diarization)**|
-|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|null|
+|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|**[link](https://github.com/fudan-zvg/demo)**|
 |**2024-10-08**|**EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment**|Yifei Xing et.al.|[2410.05938](http://arxiv.org/abs/2410.05938)|null|
 |**2024-10-08**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models**|Javier Solís-García et.al.|[2410.05916](http://arxiv.org/abs/2410.05916)|null|
 |**2024-10-08**|**Remote Sensing Image Segmentation Using Vision Mamba and Multi-Scale Multi-Frequency Feature Fusion**|Yice Cao et.al.|[2410.05624](http://arxiv.org/abs/2410.05624)|null|
