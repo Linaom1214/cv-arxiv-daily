@@ -87,6 +87,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
+|**2024-10-11**|**Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient**|Wenlong Wang et.al.|[2410.08893](http://arxiv.org/abs/2410.08893)|**[link](https://github.com/realwenlongwang/drama)**|
 |**2024-10-10**|**Moyun: A Diffusion-Based Model for Style-Specific Chinese Calligraphy Generation**|Kaiyuan Liu et.al.|[2410.07618](http://arxiv.org/abs/2410.07618)|null|
 |**2024-10-09**|**Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling**|Yingfa Chen et.al.|[2410.07145](http://arxiv.org/abs/2410.07145)|null|
 |**2024-10-09**|**Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity**|Mutian He et.al.|[2410.06846](http://arxiv.org/abs/2410.06846)|null|
