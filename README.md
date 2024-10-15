@@ -96,6 +96,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**V2M: Visual 2-Dimensional Mamba for Image Representation Learning**|Chengkun Wang et.al.|[2410.10382](http://arxiv.org/abs/2410.10382)|**[link](https://github.com/wangck20/v2m)**|
+|**2024-10-14**|**GlobalMamba: Global Image Serialization for Vision Mamba**|Chengkun Wang et.al.|[2410.10316](http://arxiv.org/abs/2410.10316)|**[link](https://github.com/wangck20/globalmamba)**|
+|**2024-10-14**|**Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution**|Junbo Qiao et.al.|[2410.10140](http://arxiv.org/abs/2410.10140)|null|
+|**2024-10-13**|**SlimSeiz: Efficient Channel-Adaptive Seizure Prediction Using a Mamba-Enhanced Network**|Guorui Lu et.al.|[2410.09998](http://arxiv.org/abs/2410.09998)|null|
+|**2024-10-12**|**Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models**|Sathya Kamesh Bhethanabhotla et.al.|[2410.09385](http://arxiv.org/abs/2410.09385)|null|
 |**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
 |**2024-10-11**|**Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient**|Wenlong Wang et.al.|[2410.08893](http://arxiv.org/abs/2410.08893)|**[link](https://github.com/realwenlongwang/drama)**|
 |**2024-10-10**|**Moyun: A Diffusion-Based Model for Style-Specific Chinese Calligraphy Generation**|Kaiyuan Liu et.al.|[2410.07618](http://arxiv.org/abs/2410.07618)|null|
