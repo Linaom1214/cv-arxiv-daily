@@ -4,10 +4,10 @@ user_name: "Linaom1214"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: True
+show_badge: False
 max_results: 20
 
-publish_readme: True
+publish_readme: False
 publish_gitpage: True
 publish_wechat: False
 
@@ -29,4 +29,6 @@ keywords:
     "segmentation":
         filters: ["transformer", "seg"]
     "mamba":
-        filters: ["mamba"]        
+        filters: ["mamba"]     
+    "medical seg":
+        filters: ["medical", "seg"]      

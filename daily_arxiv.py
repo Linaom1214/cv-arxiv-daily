@@ -112,7 +112,6 @@ def get_daily_papers(topic,query="slam", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
-
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
@@ -129,22 +128,18 @@ def get_daily_papers(topic,query="slam", max_results=2):
             repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url, paper_abstract)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url, paper_abstract)
 
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
+                       update_time,paper_title,paper_first_author,paper_key,paper_url, paper_abstract)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                       update_time,paper_title,paper_first_author,paper_url,paper_url, paper_abstract)
 
             # TODO: select useful comments
             comments = None
@@ -171,8 +166,10 @@ def update_paper_links(filename):
         authors = parts[3].strip()
         arxiv_id = parts[4].strip()
         code = parts[5].strip()
+        abstract = parts[5].strip()
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id,code
+
+        return date,title,authors,arxiv_id,code, abstract
 
     with open(filename,"r") as f:
         content = f.read()
@@ -188,9 +185,9 @@ def update_paper_links(filename):
             for paper_id,contents in v.items():
                 contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                update_time, paper_title, paper_first_author, paper_url, code_url, abstract  = parse_arxiv_string(contents)
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+                contents = "|{}|{}|{}|{}|{}|{}\n".format(update_time,paper_title,paper_first_author,paper_url,code_url, abstract)
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
                 
@@ -300,36 +297,34 @@ def json_to_md(filename,md_filename,
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
-            f.write("  <ol>\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
-            f.write("</details>\n\n")
+            # f.write("  <ol>\n")
+            # for keyword in data.keys():
+            #     day_content = data[keyword]
+            #     if not day_content:
+            #         continue
+            #     kw = keyword.replace(' ','-')      
+            #     f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+            # f.write("  </ol>\n")
+            # f.write("</details>\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
             # the head of each part
-            f.write(f"## {keyword}\n\n")
+            # f.write(f"## {keyword}\n\n")
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("|Publish Date|Title|Authors|PDF|Code|Abtract|\n" + "|---|---|---|---|---|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("| Publish Date | Title | Authors | PDF | Code | Abstract|\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|:-----|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
@@ -338,32 +333,13 @@ def json_to_md(filename,md_filename,
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
 
-            f.write(f"\n")
+            # f.write(f"\n")
             
             #Add: back to top
-            if use_b2t:
-                top_info = f"#Updated on {DateNow}"
-                top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
-            
-        if show_badge == True:
-            # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+            # if use_b2t:
+            #     top_info = f"#Updated on {DateNow}"
+            #     top_info = top_info.replace(' ','-').replace('.','')
+            #     f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
                 
     logging.info(f"{task} finished")        
 
@@ -392,20 +368,6 @@ def demo(**config):
             print("\n")
         logging.info(f"GET daily papers end")
 
-    # 1. update README.md file
-    if publish_readme:
-        json_file = config['json_readme_path']
-        md_file   = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            # update json data
-            update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
-
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
         json_file = config['json_gitpage_path']
@@ -419,17 +381,6 @@ def demo(**config):
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
 
-    # 3. Update docs/wechat.md file
-    if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
