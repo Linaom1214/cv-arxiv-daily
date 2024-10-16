@@ -386,7 +386,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
-    parser.add_argument('--update_paper_links', default=False,
+    parser.add_argument('--update_paper_links', default=True,
                         action="store_true",help='whether to update paper links etc.')                        
     args = parser.parse_args()
     config = load_config(args.config_path)
