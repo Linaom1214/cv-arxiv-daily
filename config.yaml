@@ -4,12 +4,12 @@ user_name: "Linaom1214"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: False
-max_results: 20
+show_badge: True
+max_results: 30
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'
