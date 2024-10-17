@@ -135,10 +135,26 @@ def update_paper_links(filename):
         json.dump(data, f)
 
 def update_json_file(filename, data_dict):
-    with open(filename, "r") as f:
-        content = f.read()
-        json_data = json.loads(content) if content else {}
+    """
+    更新 JSON 文件的内容。如果文件为空或不合法，使用空字典。
+    """
+    try:
+        # 尝试打开并读取JSON文件
+        with open(filename, "r") as f:
+            content = f.read().strip()  # 去除多余的空白字符
+            if not content:  # 如果文件为空，初始化为空字典
+                logging.warning(f"{filename} is empty, initializing with an empty dictionary.")
+                json_data = {}
+            else:
+                json_data = json.loads(content)  # 解析非空文件内容
+    except FileNotFoundError:
+        logging.warning(f"{filename} not found, creating new JSON file.")
+        json_data = {}  # 如果文件不存在，创建一个新的空字典
+    except json.JSONDecodeError as e:
+        logging.error(f"Error decoding JSON from {filename}: {e}")
+        json_data = {}  # 如果JSON解析失败，使用空字典
 
+    # 更新 JSON 文件内容
     for data in data_dict:
         for keyword, papers in data.items():
             if keyword in json_data:
@@ -146,8 +162,11 @@ def update_json_file(filename, data_dict):
             else:
                 json_data[keyword] = papers
 
+    # 将更新后的内容写回文件
     with open(filename, "w") as f:
-        json.dump(json_data, f)
+        json.dump(json_data, f, indent=4)
+    logging.info(f"Updated {filename} with new data.")
+
 
 def json_to_md(filename, md_filename, task='', to_web=False, use_title=True, show_badge=True):
     """
