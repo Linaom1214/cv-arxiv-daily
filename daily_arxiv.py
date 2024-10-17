@@ -81,23 +81,23 @@ def get_daily_papers(topic, query="slam", max_results=2):
             paper_id = result.get_short_id()
             paper_title = result.title
             paper_url = f"{arxiv_url}abs/{paper_id.split('v')[0]}"
-            paper_abstract = result.summary.replace("\n", " ")
+            paper_abstract = result.summary.replace("\n", " ")  # 获取摘要并去掉换行符
             paper_first_author = get_authors(result.authors, first_author=True)
             update_time = result.updated.date()
 
             logging.info(f"Time = {update_time}, title = {paper_title}, author = {paper_first_author}")
 
-            # Try to get the code link from the API
+            # 尝试获取代码链接
             r = requests.get(base_url + paper_id).json()
             repo_url = r.get("official", {}).get("url", None)
 
             paper_entry = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|"
             if repo_url:
-                content[paper_id] = paper_entry + f"**[link]({repo_url})**|\n"
-                content_to_web[paper_id] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}], Code: **[{repo_url}]({repo_url})**\n"
+                content[paper_id] = paper_entry + f"**[link]({repo_url})**|{paper_abstract}|\n"
+                content_to_web[paper_id] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}], Code: **[{repo_url}]({repo_url})**, Abstract: {paper_abstract}\n"
             else:
-                content[paper_id] = paper_entry + "null|\n"
-                content_to_web[paper_id] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]\n"
+                content[paper_id] = paper_entry + f"null|{paper_abstract}|\n"
+                content_to_web[paper_id] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}], Abstract: {paper_abstract}\n"
 
         except Exception as e:
             logging.error(f"Error processing paper {paper_id}: {e}")
@@ -150,11 +150,25 @@ def update_json_file(filename, data_dict):
         json.dump(json_data, f)
 
 def json_to_md(filename, md_filename, task='', to_web=False, use_title=True, show_badge=True):
+    """
+    @param filename: str, input JSON file path
+    @param md_filename: str, output Markdown file path
+    """
     DateNow = datetime.date.today().strftime("%Y.%m.%d")
 
+    # 修正读取文件的逻辑，避免直接对空文件进行JSON解析
     with open(filename, "r") as f:
-        data = json.loads(f.read()) if f.read() else {}
+        content = f.read().strip()  # 读取并去除空白字符
+        if not content:
+            data = {}  # 如果文件为空，设置为一个空字典
+        else:
+            try:
+                data = json.loads(content)  # 尝试解析JSON内容
+            except json.JSONDecodeError as e:
+                logging.error(f"Error decoding JSON from {filename}: {e}")
+                data = {}  # 如果JSON解析失败，使用空字典作为数据
 
+    # 打开Markdown文件准备写入
     with open(md_filename, "w+") as f:
         if use_title and to_web:
             f.write("---\nlayout: default\n---\n\n")
@@ -162,9 +176,13 @@ def json_to_md(filename, md_filename, task='', to_web=False, use_title=True, sho
             f.write("[![Contributors][contributors-shield]][contributors-url]\n[![Forks][forks-shield]][forks-url]\n")
         f.write(f"## Updated on {DateNow}\n")
 
+        # Markdown表头包含摘要字段
+        if use_title:
+            f.write("| Publish Date | Title | Authors | PDF | Code | Abstract |\n")
+            f.write("|:---------|:-----------------------|:---------|:------|:------|:--------|\n")
+
+        # 遍历数据并写入Markdown格式，确保摘要信息包含在内
         for keyword, papers in data.items():
-            if use_title:
-                f.write("| Publish Date | Title | Authors | PDF | Code |\n|:---------|:-----------------------|:---------|:------|:------|\n")
             sorted_papers = sort_papers(papers)
             for paper in sorted_papers.values():
                 f.write(paper)
