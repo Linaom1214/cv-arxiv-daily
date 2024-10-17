@@ -7,7 +7,7 @@ show_links: True
 show_badge: False
 max_results: 20
 
-publish_readme: False
+publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
