@@ -87,6 +87,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging**|Zhenghao Pan et.al.|[2410.14214](http://arxiv.org/abs/2410.14214)|null|
+|**2024-10-17**|**Provable Benefits of Complex Parameterizations for Structured State Space Models**|Yuval Ran-Milo et.al.|[2410.14067](http://arxiv.org/abs/2410.14067)|null|
 |**2024-10-17**|**RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**|Kejun Ren et.al.|[2410.13532](http://arxiv.org/abs/2410.13532)|null|
 |**2024-10-17**|**DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone**|Hongfan Gao et.al.|[2410.13338](http://arxiv.org/abs/2410.13338)|null|
 |**2024-10-17**|**Quamba: A Post-Training Quantization Recipe for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2410.13229](http://arxiv.org/abs/2410.13229)|null|
