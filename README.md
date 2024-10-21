@@ -152,7 +152,7 @@
 |**2024-10-02**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122](http://arxiv.org/abs/2409.17122)|**[link](https://github.com/swiman/mamba-medical-classification)**|
 |**2024-09-25**|**Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement**|Guanlin Li et.al.|[2409.16604](http://arxiv.org/abs/2409.16604)|**[link](https://github.com/guanguanboy/Semi-LLIE)**|
 |**2024-10-02**|**Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO**|Ali Badiezadeh et.al.|[2409.16205](http://arxiv.org/abs/2409.16205)|null|
-|**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
+|**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|**[link](https://github.com/alwaysfhao/tim4rec)**|
 |**2024-09-24**|**DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection**|Jiaxin Ye et.al.|[2409.15936](http://arxiv.org/abs/2409.15936)|**[link](https://github.com/Jiaxin-Ye/DepMamba)**|
 |**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841](http://arxiv.org/abs/2409.15841)|null|
 |**2024-09-23**|**DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization**|Nayoung Oh et.al.|[2409.14719](http://arxiv.org/abs/2409.14719)|null|
