@@ -40,8 +40,8 @@
 |**2025-10-20**|**Who Needs Crossings?: Noncrossing Linkages are Universal, and Deciding (Global) Rigidity is Hard**|Zachary Abel et.al.|[link](http://arxiv.org/abs/2510.17737v1)|null|
 |**2025-10-20**|**Spanning trees with large maximum degrees**|Jun Yan et.al.|[link](http://arxiv.org/abs/2510.17736v1)|null|
 |**2025-10-20**|**Can Image-To-Video Models Simulate Pedestrian Dynamics?**|Aaron Appelle et.al.|[link](http://arxiv.org/abs/2510.17731v1)|null|
-|**2025-10-20**|**AcademicEval: Live Long-Context LLM Benchmark**|Haozhen Zhang et.al.|[link](http://arxiv.org/abs/2510.17725v1)|**[code](https://github.com/ulab-uiuc/AcademicEval)**|
-|**2025-10-20**|**Graph-Based Light-Curve Features for Robust Transient Classification**|Jesús D. Petro-Ramos et.al.|[link](http://arxiv.org/abs/2510.17721v1)|**[code](https://github.com/JesusPetro/lightcurve-graph-features)**|
+|**2025-10-20**|**AcademicEval: Live Long-Context LLM Benchmark**|Haozhen Zhang et.al.|[link](http://arxiv.org/abs/2510.17725v1)|null|
+|**2025-10-20**|**Graph-Based Light-Curve Features for Robust Transient Classification**|Jesús D. Petro-Ramos et.al.|[link](http://arxiv.org/abs/2510.17721v1)|null|
 |**2025-10-20**|**Automatic Classification of Circulating Blood Cell Clusters based on Multi-channel Flow Cytometry Imaging**|Suqiang Ma et.al.|[link](http://arxiv.org/abs/2510.17716v1)|null|
 |**2025-10-20**|**QueST: Incentivizing LLMs to Generate Difficult Problems**|Hanxu Hu et.al.|[link](http://arxiv.org/abs/2510.17715v1)|null|
 |**2025-10-20**|**The Marked Edge Walk: A Novel MCMC Algorithm for Sampling of Graph Partitions**|Atticus McWhorter et.al.|[link](http://arxiv.org/abs/2510.17714v1)|null|
