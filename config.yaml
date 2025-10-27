@@ -23,10 +23,10 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "ISTD": 
         filters: ["infrared small target"]
-    "graph":
-        filters: ["graph", "transformer", "seg"]
+    "graph-seg":
+        filters: ["graph", "segmentation"]
     "segmentation":
-        filters: ["transformer", "seg"]
+        filters: ["transformer", "segmentation"]
     "mamba":
         filters: ["mamba"]
     "Cross":
