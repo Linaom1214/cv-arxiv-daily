@@ -28,4 +28,6 @@ keywords:
     "segmentation":
         filters: ["transformer", "seg"]
     "mamba":
-        filters: ["mamba"]        
+        filters: ["mamba"]
+    "Cross":
+        filters: ["cross domian"]
