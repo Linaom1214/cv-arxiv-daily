@@ -1,4 +1,4 @@
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 
 ### ISTD
 
@@ -11,8 +11,8 @@
 |**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|**[code](https://github.com/lartpang/PyIRSTDMetrics)**|
 |**2025-09-10**|**Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2509.08205v1)|null|
 |**2025-09-09**|**Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2509.07654v1)|null|
-|**2025-08-21**|**Bidirectional Temporal Information Propagation for Moving Infrared Small Target Detection**|Dengyan Luo et.al.|[link](http://arxiv.org/abs/2508.15415v1)|**[code](https://github.com/xiaomingxige/BIRD)**|
-|**2025-08-14**|**HyperTea: A Hypergraph-based Temporal Enhancement and Alignment Network for Moving Infrared Small Target Detection**|Zhaoyuan Qi et.al.|[link](http://arxiv.org/abs/2508.10678v1)|**[code](https://github.com/Lurenjia-LRJ/HyperTea)**|
+|**2025-08-21**|**Bidirectional Temporal Information Propagation for Moving Infrared Small Target Detection**|Dengyan Luo et.al.|[link](http://arxiv.org/abs/2508.15415v1)|null|
+|**2025-08-14**|**HyperTea: A Hypergraph-based Temporal Enhancement and Alignment Network for Moving Infrared Small Target Detection**|Zhaoyuan Qi et.al.|[link](http://arxiv.org/abs/2508.10678v1)|null|
 |**2025-08-09**|**NS-FPN: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective**|Maoxun Yuan et.al.|[link](http://arxiv.org/abs/2508.06878v1)|null|
 |**2025-08-02**|**SWAN: Synergistic Wavelet-Attention Network for Infrared Small Target Detection**|Yuxin Jing et.al.|[link](http://arxiv.org/abs/2508.01322v1)|null|
 |**2025-07-24**|**Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection**|Junyao Li et.al.|[link](http://arxiv.org/abs/2507.18260v1)|null|
@@ -254,6 +254,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-27**|**Alita-G: Self-Evolving Generative Agent for Agent Generation**|Jiahao Qiu et.al.|[link](http://arxiv.org/abs/2510.23601v1)|null|
+|**2025-10-27**|**The Benjamin-Ono equation with quasi-periodic data**|Hagen Papenburg et.al.|[link](http://arxiv.org/abs/2510.23599v1)|null|
+|**2025-10-27**|**FARMER: Flow AutoRegressive Transformer over Pixels**|Guangting Zheng et.al.|[link](http://arxiv.org/abs/2510.23588v1)|null|
+|**2025-10-27**|**Hope Speech Detection in Social Media English Corpora: Performance of Traditional and Transformer Models**|Luis Ramos et.al.|[link](http://arxiv.org/abs/2510.23585v1)|null|
+|**2025-10-27**|**Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation**|Junyoung Seo et.al.|[link](http://arxiv.org/abs/2510.23581v1)|null|
+|**2025-10-27**|**RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation**|Yash Jangir et.al.|[link](http://arxiv.org/abs/2510.23571v1)|null|
+|**2025-10-27**|**EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT**|Baoqi Pei et.al.|[link](http://arxiv.org/abs/2510.23569v1)|null|
+|**2025-10-27**|**Lax-Kirchhoff moduli spaces and Hamiltonian 2D TQFT**|Mohamed Moussadek Maiza et.al.|[link](http://arxiv.org/abs/2510.23567v1)|null|
+|**2025-10-27**|**Revising Second Order Terms in Deep Animation Video Coding**|Konstantin Schmidt et.al.|[link](http://arxiv.org/abs/2510.23561v1)|null|
+|**2025-10-27**|**KongNet: A Multi-headed Deep Learning Model for Detection and Classification of Nuclei in Histopathology Images**|Jiaqi Lv et.al.|[link](http://arxiv.org/abs/2510.23559v1)|null|
+|**2025-10-27**|**A U-Net and Transformer Pipeline for Multilingual Image Translation**|Siddharth Sahay et.al.|[link](http://arxiv.org/abs/2510.23554v1)|null|
+|**2025-10-27**|**When No Paths Lead to Rome: Benchmarking Systematic Neural Relational Reasoning**|Anirban Das et.al.|[link](http://arxiv.org/abs/2510.23532v1)|null|
+|**2025-10-27**|**DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**|Wanmeng Li et.al.|[link](http://arxiv.org/abs/2510.23525v1)|null|
+|**2025-10-27**|**Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation**|Anthony Opipari et.al.|[link](http://arxiv.org/abs/2510.23521v1)|null|
+|**2025-10-27**|**FreeFuse: Multi-Subject LoRA Fusion via Auto Masking at Test Time**|Yaoli Liu et.al.|[link](http://arxiv.org/abs/2510.23515v1)|null|
+|**2025-10-27**|**Localising under the drape: proprioception in the era of distributed surgical robotic system**|Martin Huber et.al.|[link](http://arxiv.org/abs/2510.23512v1)|null|
+|**2025-10-27**|**Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier**|Hyeongseop Rha et.al.|[link](http://arxiv.org/abs/2510.23506v1)|null|
+|**2025-10-27**|**Unveiling stellar (and planetary) internal dynamics with the fully compressible MUSIC code**|Arthur Le Saux et.al.|[link](http://arxiv.org/abs/2510.23505v1)|null|
+|**2025-10-27**|**T-REGS: Minimum Spanning Tree Regularization for Self-Supervised Learning**|Julie Mordacq et.al.|[link](http://arxiv.org/abs/2510.23484v1)|null|
+|**2025-10-28**|**FRBNet: Revisiting Low-Light Vision through Frequency-Domain Radial Basis Network**|Fangtong Sun et.al.|[link](http://arxiv.org/abs/2510.23444v2)|null|
 |**2025-10-24**|**Equivariance by Contrast: Identifiable Equivariant Embeddings from Unlabeled Finite Group Actions**|Tobias Schmidt et.al.|[link](http://arxiv.org/abs/2510.21706v1)|null|
 |**2025-10-24**|**Visual Diffusion Models are Geometric Solvers**|Nir Goren et.al.|[link](http://arxiv.org/abs/2510.21697v1)|null|
 |**2025-10-24**|**BachVid: Training-Free Video Generation with Consistent Background and Character**|Han Yan et.al.|[link](http://arxiv.org/abs/2510.21696v1)|null|
@@ -419,6 +439,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-27**|**HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling**|Joungbin An et.al.|[link](http://arxiv.org/abs/2510.23043v1)|null|
+|**2025-10-27**|**Understanding In-Context Learning Beyond Transformers: An Investigation of State Space and Hybrid Architectures**|Shenran Wang et.al.|[link](http://arxiv.org/abs/2510.23006v1)|null|
+|**2025-10-27**|**GTR-Mamba: Geometry-to-Tangent Routing for Hyperbolic POI Recommendation**|Zhuoxuan Li et.al.|[link](http://arxiv.org/abs/2510.22942v1)|null|
+|**2025-10-26**|**Scalable Neural Decoders for Practical Real-Time Quantum Error Correction**|Changwon Lee et.al.|[link](http://arxiv.org/abs/2510.22724v1)|null|
+|**2025-10-26**|**AesCrop: Aesthetic-driven Cropping Guided by Composition**|Yen-Hong Wong et.al.|[link](http://arxiv.org/abs/2510.22528v1)|null|
+|**2025-10-25**|**Multi-dataset Joint Pre-training of Emotional EEG Enables Generalizable Affective Computing**|Qingzhu Zhang et.al.|[link](http://arxiv.org/abs/2510.22197v1)|null|
 |**2025-10-24**|**Correlation Dimension of Auto-Regressive Large Language Models**|Xin Du et.al.|[link](http://arxiv.org/abs/2510.21258v1)|null|
 |**2025-10-24**|**WaveSeg: Enhancing Segmentation Precision via High-Frequency Prior and Mamba-Driven Spectrum Decomposition**|Guoan Xu et.al.|[link](http://arxiv.org/abs/2510.21079v1)|null|
 |**2025-10-22**|**What is the Best Sequence Length for BABYLM?**|Suchir Salhan et.al.|[link](http://arxiv.org/abs/2510.19493v1)|null|
@@ -528,6 +554,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-27**|**Sheaves on Quivers via a Grothendieck Topology on the Path Category**|Eric M. Schmid Jr. et.al.|[link](http://arxiv.org/abs/2510.23580v1)|null|
+|**2025-10-27**|**EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT**|Baoqi Pei et.al.|[link](http://arxiv.org/abs/2510.23569v1)|null|
+|**2025-10-27**|**KongNet: A Multi-headed Deep Learning Model for Detection and Classification of Nuclei in Histopathology Images**|Jiaqi Lv et.al.|[link](http://arxiv.org/abs/2510.23559v1)|null|
+|**2025-10-27**|**A U-Net and Transformer Pipeline for Multilingual Image Translation**|Siddharth Sahay et.al.|[link](http://arxiv.org/abs/2510.23554v1)|null|
+|**2025-10-27**|**When No Paths Lead to Rome: Benchmarking Systematic Neural Relational Reasoning**|Anirban Das et.al.|[link](http://arxiv.org/abs/2510.23532v1)|null|
+|**2025-10-27**|**On generalized inverses of matrices associated with certain graph classes**|Cláudia M. Araújo et.al.|[link](http://arxiv.org/abs/2510.23529v1)|null|
+|**2025-10-27**|**DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**|Wanmeng Li et.al.|[link](http://arxiv.org/abs/2510.23525v1)|null|
+|**2025-10-27**|**Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation**|Anthony Opipari et.al.|[link](http://arxiv.org/abs/2510.23521v1)|null|
+|**2025-10-27**|**FreeFuse: Multi-Subject LoRA Fusion via Auto Masking at Test Time**|Yaoli Liu et.al.|[link](http://arxiv.org/abs/2510.23515v1)|null|
+|**2025-10-27**|**DeFecT-FF: Accelerated Modeling of Defects in Cd-Zn--Te-Se-S Compounds Combining High-Throughput DFT and Machine Learning Force Fields**|Md Habibur Rahman et.al.|[link](http://arxiv.org/abs/2510.23514v1)|null|
+|**2025-10-27**|**A Deep Latent Factor Graph Clustering with Fairness-Utility Trade-off Perspective**|Siamak Ghodsi et.al.|[link](http://arxiv.org/abs/2510.23507v1)|null|
+|**2025-10-27**|**iPac: Incorporating Intra-image Patch Context into Graph Neural Networks for Medical Image Classification**|Usama Zidan et.al.|[link](http://arxiv.org/abs/2510.23504v1)|null|
+|**2025-10-27**|**On the rate of convergence of cylindrical singularity in mean curvature flow**|Yiqi Huang et.al.|[link](http://arxiv.org/abs/2510.23499v1)|null|
+|**2025-10-27**|**Adaptive Dual Prompting: Hierarchical Debiasing for Fairness-aware Graph Neural Networks**|Yuhan Yang et.al.|[link](http://arxiv.org/abs/2510.23469v1)|null|
+|**2025-10-27**|**On Hyperbolic Sombor index of graphs**|Kinkar Chandra Das et.al.|[link](http://arxiv.org/abs/2510.23460v1)|null|
+|**2025-10-28**|**SGFusion: Stochastic Geographic Gradient Fusion in Federated Learning**|Khoa Nguyen et.al.|[link](http://arxiv.org/abs/2510.23455v2)|null|
+|**2025-10-28**|**FRBNet: Revisiting Low-Light Vision through Frequency-Domain Radial Basis Network**|Fangtong Sun et.al.|[link](http://arxiv.org/abs/2510.23444v2)|null|
+|**2025-10-27**|**The complete classification of triply-transitive strongly regular graphs**|Weicong Li et.al.|[link](http://arxiv.org/abs/2510.23441v1)|null|
+|**2025-10-27**|**On the Martin boundary for discrete TASEP**|Vadim Gorin et.al.|[link](http://arxiv.org/abs/2510.23430v1)|null|
+|**2025-10-27**|**Improving Predictions of Molecular Properties with Graph Featurisation and Heterogeneous Ensemble Models**|Michael L. Parker et.al.|[link](http://arxiv.org/abs/2510.23428v1)|null|
 |**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|
 |**2025-10-24**|**A Knowledge-Graph Translation Layer for Mission-Aware Multi-Agent Path Planning in Spatiotemporal Dynamics**|Edward Holmberg et.al.|[link](http://arxiv.org/abs/2510.21695v1)|null|
 |**2025-10-24**|**Optimal Graph Clustering without Edge Density Signals**|Maximilien Dreveton et.al.|[link](http://arxiv.org/abs/2510.21669v1)|null|
@@ -553,6 +599,13 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-27**|**Transferable Deep Reinforcement Learning for Cross-Domain Navigation: from Farmland to the Moon**|Shreya Santra et.al.|[link](http://arxiv.org/abs/2510.23329v1)|null|
+|**2025-10-26**|**Cross-Species Transfer Learning in Agricultural AI: Evaluating ZebraPose Adaptation for Dairy Cattle Pose Estimation**|Mackenzie Tapp et.al.|[link](http://arxiv.org/abs/2510.22618v1)|null|
+|**2025-10-26**|**ZK Coprocessor Bridge: Replay-Safe Private Execution from Solana to Aztec via Wormhole**|Jotaro Yano et.al.|[link](http://arxiv.org/abs/2510.22536v1)|null|
+|**2025-10-25**|**LacMaterial: Large Language Models as Analogical Chemists for Materials Discovery**|Hongyu Guo et.al.|[link](http://arxiv.org/abs/2510.22312v1)|null|
+|**2025-10-25**|**CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding**|Lihuang Fang et.al.|[link](http://arxiv.org/abs/2510.22119v1)|null|
+|**2025-10-24**|**Emotions Where Art Thou: Understanding and Characterizing the Emotional Latent Space of Large Language Models**|Benjamin Reichman et.al.|[link](http://arxiv.org/abs/2510.22042v1)|null|
+|**2025-10-24**|**Structure-Aware Cooperative Ensemble Evolutionary Optimization on Combinatorial Problems with Multimodal Large Language Models**|Jie Zhao et.al.|[link](http://arxiv.org/abs/2510.21906v1)|null|
 |**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|
 |**2025-10-23**|**Gaussian Mixture Flow Matching with Domain Alignment for Multi-Domain Sequential Recommendation**|Xiaoxin Ye et.al.|[link](http://arxiv.org/abs/2510.21021v1)|null|
 |**2025-10-23**|**Meta-Learning for Cross-Task Generalization in Protein Mutation Property Prediction**|Srivathsan Badrinarayanan et.al.|[link](http://arxiv.org/abs/2510.20943v1)|null|
