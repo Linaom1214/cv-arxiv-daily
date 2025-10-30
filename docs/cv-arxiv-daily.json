@@ -7,8 +7,8 @@
     "2509.16888v2": "|**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|**[code](https://github.com/lartpang/PyIRSTDMetrics)**|\n",
     "2509.08205v1": "|**2025-09-10**|**Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2509.08205v1)|null|\n",
     "2509.07654v1": "|**2025-09-09**|**Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2509.07654v1)|null|\n",
-    "2508.15415v1": "|**2025-08-21**|**Bidirectional Temporal Information Propagation for Moving Infrared Small Target Detection**|Dengyan Luo et.al.|[link](http://arxiv.org/abs/2508.15415v1)|null|\n",
-    "2508.10678v1": "|**2025-08-14**|**HyperTea: A Hypergraph-based Temporal Enhancement and Alignment Network for Moving Infrared Small Target Detection**|Zhaoyuan Qi et.al.|[link](http://arxiv.org/abs/2508.10678v1)|null|\n",
+    "2508.15415v1": "|**2025-08-21**|**Bidirectional Temporal Information Propagation for Moving Infrared Small Target Detection**|Dengyan Luo et.al.|[link](http://arxiv.org/abs/2508.15415v1)|**[code](https://github.com/xiaomingxige/BIRD)**|\n",
+    "2508.10678v1": "|**2025-08-14**|**HyperTea: A Hypergraph-based Temporal Enhancement and Alignment Network for Moving Infrared Small Target Detection**|Zhaoyuan Qi et.al.|[link](http://arxiv.org/abs/2508.10678v1)|**[code](https://github.com/Lurenjia-LRJ/HyperTea)**|\n",
     "2508.06878v1": "|**2025-08-09**|**NS-FPN: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective**|Maoxun Yuan et.al.|[link](http://arxiv.org/abs/2508.06878v1)|null|\n",
     "2508.01322v1": "|**2025-08-02**|**SWAN: Synergistic Wavelet-Attention Network for Infrared Small Target Detection**|Yuxin Jing et.al.|[link](http://arxiv.org/abs/2508.01322v1)|null|\n",
     "2507.18260v1": "|**2025-07-24**|**Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection**|Junyao Li et.al.|[link](http://arxiv.org/abs/2507.18260v1)|null|\n",
@@ -423,7 +423,27 @@
     "2510.23506v1": "|**2025-10-27**|**Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier**|Hyeongseop Rha et.al.|[link](http://arxiv.org/abs/2510.23506v1)|null|\n",
     "2510.23505v1": "|**2025-10-27**|**Unveiling stellar (and planetary) internal dynamics with the fully compressible MUSIC code**|Arthur Le Saux et.al.|[link](http://arxiv.org/abs/2510.23505v1)|null|\n",
     "2510.23484v1": "|**2025-10-27**|**T-REGS: Minimum Spanning Tree Regularization for Self-Supervised Learning**|Julie Mordacq et.al.|[link](http://arxiv.org/abs/2510.23484v1)|null|\n",
-    "2510.23444v2": "|**2025-10-28**|**FRBNet: Revisiting Low-Light Vision through Frequency-Domain Radial Basis Network**|Fangtong Sun et.al.|[link](http://arxiv.org/abs/2510.23444v2)|null|\n"
+    "2510.23444v2": "|**2025-10-28**|**FRBNet: Revisiting Low-Light Vision through Frequency-Domain Radial Basis Network**|Fangtong Sun et.al.|[link](http://arxiv.org/abs/2510.23444v2)|null|\n",
+    "2510.24711v1": "|**2025-10-28**|**Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance**|Yujie Wei et.al.|[link](http://arxiv.org/abs/2510.24711v1)|null|\n",
+    "2510.24709v1": "|**2025-10-28**|**Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?**|Yihao Li et.al.|[link](http://arxiv.org/abs/2510.24709v1)|null|\n",
+    "2510.24705v1": "|**2025-10-28**|**Dipole-lets: a new multiscale decomposition for MR phase and quantitative susceptibility mapping**|Ignacio Contreras-Z\u00fa\u00f1iga et.al.|[link](http://arxiv.org/abs/2510.24705v1)|null|\n",
+    "2510.24697v1": "|**2025-10-28**|**WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking**|Zhengwei Tao et.al.|[link](http://arxiv.org/abs/2510.24697v1)|null|\n",
+    "2510.24693v1": "|**2025-10-28**|**STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence**|Zihan Liu et.al.|[link](http://arxiv.org/abs/2510.24693v1)|null|\n",
+    "2510.24688v1": "|**2025-10-28**|**MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection**|Yun Zhang et.al.|[link](http://arxiv.org/abs/2510.24688v1)|null|\n",
+    "2510.24671v1": "|**2025-10-28**|**Multi-Agent Scenario Generation in Roundabouts with a Transformer-enhanced Conditional Variational Autoencoder**|Li Li et.al.|[link](http://arxiv.org/abs/2510.24671v1)|null|\n",
+    "2510.24662v2": "|**2025-10-29**|**Prospects for a 95 GeV Higgs Boson at Future Higgs Factories with Transformer Networks**|Yabo Dong et.al.|[link](http://arxiv.org/abs/2510.24662v2)|null|\n",
+    "2510.24657v1": "|**2025-10-28**|**Group Relative Attention Guidance for Image Editing**|Xuanpu Zhang et.al.|[link](http://arxiv.org/abs/2510.24657v1)|null|\n",
+    "2510.24631v1": "|**2025-10-28**|**Bridging Simulators with Conditional Optimal Transport**|Justine Zeghal et.al.|[link](http://arxiv.org/abs/2510.24631v1)|null|\n",
+    "2510.24626v1": "|**2025-10-28**|**Relative Scaling Laws for LLMs**|William Held et.al.|[link](http://arxiv.org/abs/2510.24626v1)|null|\n",
+    "2510.24623v1": "|**2025-10-28**|**GroundLoc: Efficient Large-Scale Outdoor LiDAR-Only Localization**|Nicolai Steinke et.al.|[link](http://arxiv.org/abs/2510.24623v1)|null|\n",
+    "2510.24614v1": "|**2025-10-28**|**Semi-supervised and unsupervised learning for health indicator extraction from guided waves in aerospace composite structures**|James Josep Perry et.al.|[link](http://arxiv.org/abs/2510.24614v1)|null|\n",
+    "2510.24606v1": "|**2025-10-28**|**Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs**|Siheng Xiong et.al.|[link](http://arxiv.org/abs/2510.24606v1)|null|\n",
+    "2510.24583v2": "|**2025-10-29**|**Leveraging Scale Separation and Stochastic Closure for Data-Driven Prediction of Chaotic Dynamics**|Isma\u00ebl Zighed et.al.|[link](http://arxiv.org/abs/2510.24583v2)|null|\n",
+    "2510.24557v1": "|**2025-10-28**|**Enforcing boundary conditions for physics-informed neural operators**|Niklas G\u00f6schel et.al.|[link](http://arxiv.org/abs/2510.24557v1)|null|\n",
+    "2510.24551v1": "|**2025-10-28**|**Generative AI for Healthcare: Fundamentals, Challenges, and Perspectives**|Gang Chen et.al.|[link](http://arxiv.org/abs/2510.24551v1)|null|\n",
+    "2510.24541v1": "|**2025-10-28**|**Open Korean Historical Corpus: A Millennia-Scale Diachronic Collection of Public Domain Texts**|Seyoung Song et.al.|[link](http://arxiv.org/abs/2510.24541v1)|null|\n",
+    "2510.24519v1": "|**2025-10-28**|**Audio Signal Processing Using Time Domain Mel-Frequency Wavelet Coefficient**|Rinku Sebastian et.al.|[link](http://arxiv.org/abs/2510.24519v1)|null|\n",
+    "2510.24506v1": "|**2025-10-28**|**A Note on primitive pairs for graded Lie algebras**|Tamanna Chatterjee et.al.|[link](http://arxiv.org/abs/2510.24506v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -535,7 +555,9 @@
     "2510.22942v1": "|**2025-10-27**|**GTR-Mamba: Geometry-to-Tangent Routing for Hyperbolic POI Recommendation**|Zhuoxuan Li et.al.|[link](http://arxiv.org/abs/2510.22942v1)|null|\n",
     "2510.22724v1": "|**2025-10-26**|**Scalable Neural Decoders for Practical Real-Time Quantum Error Correction**|Changwon Lee et.al.|[link](http://arxiv.org/abs/2510.22724v1)|null|\n",
     "2510.22528v1": "|**2025-10-26**|**AesCrop: Aesthetic-driven Cropping Guided by Composition**|Yen-Hong Wong et.al.|[link](http://arxiv.org/abs/2510.22528v1)|null|\n",
-    "2510.22197v1": "|**2025-10-25**|**Multi-dataset Joint Pre-training of Emotional EEG Enables Generalizable Affective Computing**|Qingzhu Zhang et.al.|[link](http://arxiv.org/abs/2510.22197v1)|null|\n"
+    "2510.22197v1": "|**2025-10-25**|**Multi-dataset Joint Pre-training of Emotional EEG Enables Generalizable Affective Computing**|Qingzhu Zhang et.al.|[link](http://arxiv.org/abs/2510.22197v1)|null|\n",
+    "2510.24260v1": "|**2025-10-28**|**DeshadowMamba: Deshadowing as 1D Sequential Similarity**|Zhaotong Yang et.al.|[link](http://arxiv.org/abs/2510.24260v1)|null|\n",
+    "2510.16765v2": "|**2025-10-29**|**WaMaIR: Image Restoration via Multiscale Wavelet Convolutions and Mamba-based Channel Modeling with Texture Enhancement**|Shengyu Zhu et.al.|[link](http://arxiv.org/abs/2510.16765v2)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -577,7 +599,27 @@
     "2510.23444v2": "|**2025-10-28**|**FRBNet: Revisiting Low-Light Vision through Frequency-Domain Radial Basis Network**|Fangtong Sun et.al.|[link](http://arxiv.org/abs/2510.23444v2)|null|\n",
     "2510.23441v1": "|**2025-10-27**|**The complete classification of triply-transitive strongly regular graphs**|Weicong Li et.al.|[link](http://arxiv.org/abs/2510.23441v1)|null|\n",
     "2510.23430v1": "|**2025-10-27**|**On the Martin boundary for discrete TASEP**|Vadim Gorin et.al.|[link](http://arxiv.org/abs/2510.23430v1)|null|\n",
-    "2510.23428v1": "|**2025-10-27**|**Improving Predictions of Molecular Properties with Graph Featurisation and Heterogeneous Ensemble Models**|Michael L. Parker et.al.|[link](http://arxiv.org/abs/2510.23428v1)|null|\n"
+    "2510.23428v1": "|**2025-10-27**|**Improving Predictions of Molecular Properties with Graph Featurisation and Heterogeneous Ensemble Models**|Michael L. Parker et.al.|[link](http://arxiv.org/abs/2510.23428v1)|null|\n",
+    "2510.24693v1": "|**2025-10-28**|**STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence**|Zihan Liu et.al.|[link](http://arxiv.org/abs/2510.24693v1)|null|\n",
+    "2510.24691v1": "|**2025-10-28**|**Edge-statistics beyond $1/e$**|Alexandr Grebennikov et.al.|[link](http://arxiv.org/abs/2510.24691v1)|null|\n",
+    "2510.24690v1": "|**2025-10-28**|**Bridging Tool Dependencies and Domain Knowledge: A Graph-Based Framework for In-Context Planning**|Shengjie Liu et.al.|[link](http://arxiv.org/abs/2510.24690v1)|null|\n",
+    "2510.24688v1": "|**2025-10-28**|**MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection**|Yun Zhang et.al.|[link](http://arxiv.org/abs/2510.24688v1)|null|\n",
+    "2510.24675v1": "|**2025-10-28**|**Selfless Reduced Free Products and Graph Products of $\\mathrm{C}^\\ast$-algebras**|Felipe Flores et.al.|[link](http://arxiv.org/abs/2510.24675v1)|null|\n",
+    "2510.24663v1": "|**2025-10-28**|**OrchDAG: Complex Tool Orchestration in Multi-Turn Interactions with Plan DAGs**|Yifu Lu et.al.|[link](http://arxiv.org/abs/2510.24663v1)|null|\n",
+    "2510.24656v2": "|**2025-10-29**|**Virtual Gates Enabled by Digital Surrogate of Quantum Dot Devices**|Alexander Lidiak et.al.|[link](http://arxiv.org/abs/2510.24656v2)|null|\n",
+    "2510.24645v1": "|**2025-10-28**|**FunReason-MT Technical Report: Overcoming the Complexity Barrier in Multi-Turn Function Calling**|Zengzhuang Xu et.al.|[link](http://arxiv.org/abs/2510.24645v1)|null|\n",
+    "2510.24639v1": "|**2025-10-28**|**Causal Ordering for Structure Learning From Time Series**|Pedro P. Sanchez et.al.|[link](http://arxiv.org/abs/2510.24639v1)|null|\n",
+    "2510.24606v1": "|**2025-10-28**|**Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs**|Siheng Xiong et.al.|[link](http://arxiv.org/abs/2510.24606v1)|null|\n",
+    "2510.24557v1": "|**2025-10-28**|**Enforcing boundary conditions for physics-informed neural operators**|Niklas G\u00f6schel et.al.|[link](http://arxiv.org/abs/2510.24557v1)|null|\n",
+    "2510.24528v1": "|**2025-10-28**|**From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning**|Zihan Chen et.al.|[link](http://arxiv.org/abs/2510.24528v1)|null|\n",
+    "2510.24515v1": "|**2025-10-28**|**Stochastic Prize-Collecting Games: Strategic Planning in Multi-Robot Systems**|Malintha Fernando et.al.|[link](http://arxiv.org/abs/2510.24515v1)|null|\n",
+    "2510.24490v1": "|**2025-10-28**|**Kirillov-Reshetikhin Dual Equivalence Graphs**|Joseph McDonough et.al.|[link](http://arxiv.org/abs/2510.24490v1)|null|\n",
+    "2510.24481v1": "|**2025-10-28**|**A solution to the maximum spectral radius conjecture of planar graph**|Guanglong Yu et.al.|[link](http://arxiv.org/abs/2510.24481v1)|null|\n",
+    "2510.24464v1": "|**2025-10-28**|**Kineo: Calibration-Free Metric Motion Capture From Sparse RGB Cameras**|Charles Javerliat et.al.|[link](http://arxiv.org/abs/2510.24464v1)|null|\n",
+    "2510.24463v1": "|**2025-10-28**|**Deep-Learning-Empowered Programmable Topolectrical Circuits**|Hao Jia et.al.|[link](http://arxiv.org/abs/2510.24463v1)|null|\n",
+    "2510.24458v1": "|**2025-10-28**|**Efficient Network Reconfiguration by Randomized Switching**|Samuel Talkington et.al.|[link](http://arxiv.org/abs/2510.24458v1)|null|\n",
+    "2510.24456v1": "|**2025-10-28**|**A Critical Study towards the Detection of Parkinsons Disease using ML Technologies**|Vivek Chetia et.al.|[link](http://arxiv.org/abs/2510.24456v1)|null|\n",
+    "2510.24446v1": "|**2025-10-28**|**SPARTA: Evaluating Reasoning Segmentation Robustness through Black-Box Adversarial Paraphrasing in Text Autoencoder Latent Space**|Viktoriia Zinkovich et.al.|[link](http://arxiv.org/abs/2510.24446v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -606,6 +648,12 @@
     "2510.22312v1": "|**2025-10-25**|**LacMaterial: Large Language Models as Analogical Chemists for Materials Discovery**|Hongyu Guo et.al.|[link](http://arxiv.org/abs/2510.22312v1)|null|\n",
     "2510.22119v1": "|**2025-10-25**|**CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding**|Lihuang Fang et.al.|[link](http://arxiv.org/abs/2510.22119v1)|null|\n",
     "2510.22042v1": "|**2025-10-24**|**Emotions Where Art Thou: Understanding and Characterizing the Emotional Latent Space of Large Language Models**|Benjamin Reichman et.al.|[link](http://arxiv.org/abs/2510.22042v1)|null|\n",
-    "2510.21906v1": "|**2025-10-24**|**Structure-Aware Cooperative Ensemble Evolutionary Optimization on Combinatorial Problems with Multimodal Large Language Models**|Jie Zhao et.al.|[link](http://arxiv.org/abs/2510.21906v1)|null|\n"
+    "2510.21906v1": "|**2025-10-24**|**Structure-Aware Cooperative Ensemble Evolutionary Optimization on Combinatorial Problems with Multimodal Large Language Models**|Jie Zhao et.al.|[link](http://arxiv.org/abs/2510.21906v1)|null|\n",
+    "2510.24321v1": "|**2025-10-28**|**Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning**|Ivica Dimitrovski et.al.|[link](http://arxiv.org/abs/2510.24321v1)|null|\n",
+    "2510.24151v1": "|**2025-10-28**|**BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data**|Bingsen Qiu et.al.|[link](http://arxiv.org/abs/2510.24151v1)|null|\n",
+    "2510.24044v1": "|**2025-10-28**|**Mitigating Negative Transfer via Reducing Environmental Disagreement**|Hui Sun et.al.|[link](http://arxiv.org/abs/2510.24044v1)|null|\n",
+    "2510.24028v1": "|**2025-10-28**|**OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting**|Tingyue Pan et.al.|[link](http://arxiv.org/abs/2510.24028v1)|null|\n",
+    "2510.24000v1": "|**2025-10-28**|**AdvBlur: Adversarial Blur for Robust Diabetic Retinopathy Classification and Cross-Domain Generalization**|Heethanjan Kanagalingam et.al.|[link](http://arxiv.org/abs/2510.24000v1)|null|\n",
+    "2510.23775v1": "|**2025-10-27**|**Explainable Detection of AI-Generated Images with Artifact Localization Using Faster-Than-Lies and Vision-Language Models for Edge Devices**|Aryan Mathur et.al.|[link](http://arxiv.org/abs/2510.23775v1)|null|\n"
   }
 }
