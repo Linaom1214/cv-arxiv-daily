@@ -1,4 +1,4 @@
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 
 ### ISTD
 
@@ -23,6 +23,7 @@
 |**2025-06-15**|**Probing Deep into Temporal Profile Makes the Infrared Small Target Detector Much Better**|Ruojing Li et.al.|[link](http://arxiv.org/abs/2506.12766v1)|null|
 |**2025-06-15**|**It's Not the Target, It's the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2506.10425v2)|null|
 |**2025-06-06**|**SDS-Net: Shallow-Deep Synergism-detection Network for infrared small target detection**|Taoran Yue et.al.|[link](http://arxiv.org/abs/2506.06042v1)|null|
+|**2025-10-30**|**RRCANet: Recurrent Reusable-Convolution Attention Network for Infrared Small Target Detection**|Yongxian Liu et.al.|[link](http://arxiv.org/abs/2506.02393v3)|null|
 |**2025-06-24**|**RRCANet: Recurrent Reusable-Convolution Attention Network for Infrared Small Target Detection**|Yongxian Liu et.al.|[link](http://arxiv.org/abs/2506.02393v2)|null|
 |**2025-06-02**|**Target Driven Adaptive Loss For Infrared Small Target Detection**|Yuho Shoji et.al.|[link](http://arxiv.org/abs/2506.01349v1)|null|
 |**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[link](http://arxiv.org/abs/2505.23214v1)|null|
@@ -254,6 +255,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-29**|**How Data Mixing Shapes In-Context Learning: Asymptotic Equivalence for Transformers with MLPs**|Samet Demir et.al.|[link](http://arxiv.org/abs/2510.25753v1)|null|
+|**2025-10-29**|**LieSolver: A PDE-constrained solver for IBVPs using Lie symmetries**|René P. Klausen et.al.|[link](http://arxiv.org/abs/2510.25731v1)|null|
+|**2025-10-29**|**An almost-almost-Schur lemma on the 3-sphere**|Tobias König et.al.|[link](http://arxiv.org/abs/2510.25723v1)|null|
+|**2025-10-29**|**Dual quantum locking: Dynamic coupling of hydrogen and water sublattices in hydrogen filled ice**|Loan Renaud et.al.|[link](http://arxiv.org/abs/2510.25707v1)|null|
+|**2025-10-29**|**A Light-Cone Approach to Higher-Order Cosmological Observables**|Pierre Béchaz et.al.|[link](http://arxiv.org/abs/2510.25690v1)|null|
+|**2025-10-29**|**Conformal Blocks in 2d Carrollian/Galilean CFTs and Excited State Entanglement Entropy**|Peng-Xiang Hao et.al.|[link](http://arxiv.org/abs/2510.25688v1)|null|
+|**2025-10-29**|**Navigation in a Three-Dimensional Urban Flow using Deep Reinforcement Learning**|Federica Tonti et.al.|[link](http://arxiv.org/abs/2510.25679v1)|null|
+|**2025-10-29**|**Mechanistic Interpretability of RNNs emulating Hidden Markov Models**|Elia Torre et.al.|[link](http://arxiv.org/abs/2510.25674v1)|null|
+|**2025-10-29**|**Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills**|Weikang Wan et.al.|[link](http://arxiv.org/abs/2510.25634v1)|null|
+|**2025-10-29**|**Canonical forms for pairs of matrices associated with Lagrangian and Dirac subspaces**|Sweta Das et.al.|[link](http://arxiv.org/abs/2510.25631v1)|null|
+|**2025-10-29**|**Parameter matching between horizon quasi-local and point-particle definitions at 1PN for quasi-circular and non spinning BBH systems in harmonic gauge**|Dongze Sun et.al.|[link](http://arxiv.org/abs/2510.25618v1)|null|
+|**2025-10-29**|**Standardization of Psychiatric Diagnoses -- Role of Fine-tuned LLM Consortium and OpenAI-gpt-oss Reasoning LLM Enabled Decision Support System**|Eranga Bandara et.al.|[link](http://arxiv.org/abs/2510.25588v1)|null|
+|**2025-10-29**|**Charge-Preserving Operations in Quantum Batteries**|André H. A. Malavazi et.al.|[link](http://arxiv.org/abs/2510.25549v1)|null|
+|**2025-10-29**|**Transformers Provably Learn Directed Acyclic Graphs via Kernel-Guided Mutual Information**|Yuan Cheng et.al.|[link](http://arxiv.org/abs/2510.25542v1)|null|
+|**2025-10-29**|**Next-generation interferometry with gauge-invariant linear optical scatterers**|Christopher R. Schwarze et.al.|[link](http://arxiv.org/abs/2510.25535v1)|null|
+|**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[link](http://arxiv.org/abs/2510.25522v1)|null|
+|**2025-10-29**|**Sum-of-Squares Certificates for Almost-Sure Reachability of Stochastic Polynomial Systems**|Arash Bahari Kordabad et.al.|[link](http://arxiv.org/abs/2510.25513v1)|null|
+|**2025-10-29**|**On the injective norm of random fermionic states and skew-symmetric tensors**|Stephane Dartois et.al.|[link](http://arxiv.org/abs/2510.25474v1)|null|
+|**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[link](http://arxiv.org/abs/2510.25463v1)|null|
+|**2025-10-29**|**Fine-Tuned Language Models for Domain-Specific Summarization and Tagging**|Jun Wang et.al.|[link](http://arxiv.org/abs/2510.25460v1)|null|
 |**2025-10-28**|**Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance**|Yujie Wei et.al.|[link](http://arxiv.org/abs/2510.24711v1)|null|
 |**2025-10-28**|**Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?**|Yihao Li et.al.|[link](http://arxiv.org/abs/2510.24709v1)|null|
 |**2025-10-28**|**Dipole-lets: a new multiscale decomposition for MR phase and quantitative susceptibility mapping**|Ignacio Contreras-Zúñiga et.al.|[link](http://arxiv.org/abs/2510.24705v1)|null|
@@ -459,6 +480,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[link](http://arxiv.org/abs/2510.25522v1)|null|
+|**2025-10-29**|**State Space and Self-Attention Collaborative Network with Feature Aggregation for DOA Estimation**|Qi You et.al.|[link](http://arxiv.org/abs/2510.25193v1)|null|
+|**2025-10-28**|**Language Model Behavioral Phases are Consistent Across Architecture, Training Data, and Scale**|James A. Michaelov et.al.|[link](http://arxiv.org/abs/2510.24963v1)|null|
 |**2025-10-28**|**DeshadowMamba: Deshadowing as 1D Sequential Similarity**|Zhaotong Yang et.al.|[link](http://arxiv.org/abs/2510.24260v1)|null|
 |**2025-10-27**|**HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling**|Joungbin An et.al.|[link](http://arxiv.org/abs/2510.23043v1)|null|
 |**2025-10-27**|**Understanding In-Context Learning Beyond Transformers: An Investigation of State Space and Hybrid Architectures**|Shenran Wang et.al.|[link](http://arxiv.org/abs/2510.23006v1)|null|
@@ -576,6 +600,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-29**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|Chumeng Liang et.al.|[link](http://arxiv.org/abs/2510.25761v1)|null|
+|**2025-10-29**|**MLPrE -- A tool for preprocessing and exploratory data analysis prior to machine learning model construction**|David S Maxwell et.al.|[link](http://arxiv.org/abs/2510.25755v1)|null|
+|**2025-10-29**|**Effect of Full Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[link](http://arxiv.org/abs/2510.25736v1)|null|
+|**2025-10-29**|**Ramsey Numbers in Kneser Graphs**|Emily Heath et.al.|[link](http://arxiv.org/abs/2510.25734v1)|null|
+|**2025-10-29**|**The Limits of Obliviate: Evaluating Unlearning in LLMs via Stimulus-Knowledge Entanglement-Behavior Framework**|Aakriti Shah et.al.|[link](http://arxiv.org/abs/2510.25732v1)|null|
+|**2025-10-29**|**BambooKG: A Neurobiologically-inspired Frequency-Weight Knowledge Graph**|Vanya Arikutharam et.al.|[link](http://arxiv.org/abs/2510.25724v1)|null|
+|**2025-10-29**|**The complex of $r$-co-connected subgraphs, chordality and Fröberg's theorem**|Priyavrat Deshpande et.al.|[link](http://arxiv.org/abs/2510.25710v1)|null|
+|**2025-10-30**|**Fourier Neural Operators for Two-Phase, 2D Mold-Filling Problems Related to Metal Casting**|Edgard Moreira Minete et.al.|[link](http://arxiv.org/abs/2510.25697v2)|null|
+|**2025-10-29**|**Degree Sum Conditions for Graph Rigidity**|Tibor Jordán et.al.|[link](http://arxiv.org/abs/2510.25689v1)|null|
+|**2025-10-29**|**The Szeged Index of Power Graph of Finite Groups**|Subarsha Banerjee et.al.|[link](http://arxiv.org/abs/2510.25686v1)|null|
+|**2025-10-29**|**Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics**|Alessandro Lucchetti et.al.|[link](http://arxiv.org/abs/2510.25683v1)|null|
+|**2025-10-29**|**Mechanistic Interpretability of RNNs emulating Hidden Markov Models**|Elia Torre et.al.|[link](http://arxiv.org/abs/2510.25674v1)|null|
+|**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[link](http://arxiv.org/abs/2510.25661v1)|null|
+|**2025-10-29**|**Subgraph Federated Learning via Spectral Methods**|Javad Aliakbari et.al.|[link](http://arxiv.org/abs/2510.25657v1)|null|
+|**2025-10-29**|**EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic Health Record Analysis**|Yusheng Liao et.al.|[link](http://arxiv.org/abs/2510.25628v1)|null|
+|**2025-10-29**|**Generalized Sobolev IPM for Graph-Based Measures**|Tam Le et.al.|[link](http://arxiv.org/abs/2510.25591v1)|null|
+|**2025-10-29**|**Several classes of $p$-ary linear codes with few-weights derived from Weil sums**|Mrinal Kanti Bose et.al.|[link](http://arxiv.org/abs/2510.25578v1)|null|
+|**2025-10-29**|**Transformers Provably Learn Directed Acyclic Graphs via Kernel-Guided Mutual Information**|Yuan Cheng et.al.|[link](http://arxiv.org/abs/2510.25542v1)|null|
+|**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[link](http://arxiv.org/abs/2510.25522v1)|null|
+|**2025-10-29**|**Convergence of off-policy TD(0) with linear function approximation for reversible Markov chains**|Maik Overmars et.al.|[link](http://arxiv.org/abs/2510.25514v1)|null|
 |**2025-10-28**|**STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence**|Zihan Liu et.al.|[link](http://arxiv.org/abs/2510.24693v1)|null|
 |**2025-10-28**|**Edge-statistics beyond $1/e$**|Alexandr Grebennikov et.al.|[link](http://arxiv.org/abs/2510.24691v1)|null|
 |**2025-10-28**|**Bridging Tool Dependencies and Domain Knowledge: A Graph-Based Framework for In-Context Planning**|Shengjie Liu et.al.|[link](http://arxiv.org/abs/2510.24690v1)|null|
@@ -641,6 +685,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-29**|**Cross Learning between Electronic Structure Theories for Unifying Molecular, Surface, and Inorganic Crystal Foundation Force Fields**|Ilyes Batatia et.al.|[link](http://arxiv.org/abs/2510.25380v1)|null|
+|**2025-10-29**|**DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**|Yinqi Cai et.al.|[link](http://arxiv.org/abs/2510.25237v1)|null|
+|**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[link](http://arxiv.org/abs/2510.25234v1)|null|
+|**2025-10-29**|**Test-Time Adaptive Object Detection with Foundation Model**|Yingjie Gao et.al.|[link](http://arxiv.org/abs/2510.25175v1)|null|
 |**2025-10-28**|**Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning**|Ivica Dimitrovski et.al.|[link](http://arxiv.org/abs/2510.24321v1)|null|
 |**2025-10-28**|**BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data**|Bingsen Qiu et.al.|[link](http://arxiv.org/abs/2510.24151v1)|null|
 |**2025-10-28**|**Mitigating Negative Transfer via Reducing Environmental Disagreement**|Hui Sun et.al.|[link](http://arxiv.org/abs/2510.24044v1)|null|
