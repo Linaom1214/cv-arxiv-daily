@@ -1,4 +1,4 @@
-## Updated on 2025.10.31
+## Updated on 2025.11.01
 
 ### ISTD
 
@@ -255,6 +255,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[link](http://arxiv.org/abs/2510.26794v1)|null|
+|**2025-10-30**|**Learning Pseudorandom Numbers with Transformers: Permuted Congruential Generators, Curricula, and Interpretability**|Tao Tao et.al.|[link](http://arxiv.org/abs/2510.26792v1)|null|
+|**2025-10-30**|**LLMs Process Lists With General Filter Heads**|Arnab Sen Sharma et.al.|[link](http://arxiv.org/abs/2510.26784v1)|null|
+|**2025-10-30**|**Determination of the initial condition for the Balitsky-Kovchegov equation with transformers**|Meisen Gao et.al.|[link](http://arxiv.org/abs/2510.26779v1)|null|
+|**2025-10-30**|**Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance**|Valentyna Starodub et.al.|[link](http://arxiv.org/abs/2510.26778v1)|null|
+|**2025-10-30**|**A KL-divergence based test for elliptical distribution**|Yin Tang et.al.|[link](http://arxiv.org/abs/2510.26775v1)|null|
+|**2025-10-30**|**STaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation Quantization**|Marco Federici et.al.|[link](http://arxiv.org/abs/2510.26771v1)|null|
+|**2025-10-30**|**Spectral Deconvolution without the Deconvolution: Extracting Temperature from X-ray Thomson Scattering Spectra without the Source-and-Instrument Function**|Thomas Gawne et.al.|[link](http://arxiv.org/abs/2510.26747v1)|null|
+|**2025-10-30**|**Deep sequence models tend to memorize geometrically; it is unclear why**|Shahriar Noroozizadeh et.al.|[link](http://arxiv.org/abs/2510.26745v1)|null|
+|**2025-10-30**|**Impact of hydrogenation on the structure, chemistry, and electrical properties of flame-synthesized carbon nanoparticle films**|Luca Basta et.al.|[link](http://arxiv.org/abs/2510.26733v1)|null|
+|**2025-10-30**|**Pareto-Optimal Sampling and Resource Allocation for Timely Communication in Shared-Spectrum Low-Altitude Networks**|Bowen Li et.al.|[link](http://arxiv.org/abs/2510.26708v1)|null|
+|**2025-10-30**|**Stabilizing Rayleigh-Benard convection with reinforcement learning trained on a reduced-order model**|Qiwei Chen et.al.|[link](http://arxiv.org/abs/2510.26705v1)|null|
+|**2025-10-30**|**The End of Manual Decoding: Towards Truly End-to-End Language Models**|Zhichao Wang et.al.|[link](http://arxiv.org/abs/2510.26697v1)|null|
+|**2025-10-30**|**The Impact and Outlook of 3D Gaussian Splatting**|Bernhard Kerbl et.al.|[link](http://arxiv.org/abs/2510.26694v1)|null|
+|**2025-10-30**|**Generative sampling with physics-informed kernels**|Friederike Ihssen et.al.|[link](http://arxiv.org/abs/2510.26678v1)|null|
+|**2025-10-30**|**Refined additive uncertainty principle**|Ivan Bortnovskyi et.al.|[link](http://arxiv.org/abs/2510.26664v1)|null|
+|**2025-10-30**|**Equivalences for the (2-)categories of monoids and unital semigroups**|Xavier Mary et.al.|[link](http://arxiv.org/abs/2510.26660v1)|null|
+|**2025-10-30**|**Bridge and Bound: A Logic-Based Framework for Abstracting (Preliminary Report)**|Andrzej Szalas et.al.|[link](http://arxiv.org/abs/2510.26654v1)|null|
+|**2025-10-30**|**Accelerating mathematical research with language models: A case study of an interaction with GPT-5-Pro on a convex analysis problem**|Adil Salim et.al.|[link](http://arxiv.org/abs/2510.26647v1)|null|
+|**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|Sayed Pedram Haeri Boroujeni et.al.|[link](http://arxiv.org/abs/2510.26641v1)|null|
 |**2025-10-29**|**How Data Mixing Shapes In-Context Learning: Asymptotic Equivalence for Transformers with MLPs**|Samet Demir et.al.|[link](http://arxiv.org/abs/2510.25753v1)|null|
 |**2025-10-29**|**LieSolver: A PDE-constrained solver for IBVPs using Lie symmetries**|René P. Klausen et.al.|[link](http://arxiv.org/abs/2510.25731v1)|null|
 |**2025-10-29**|**An almost-almost-Schur lemma on the 3-sphere**|Tobias König et.al.|[link](http://arxiv.org/abs/2510.25723v1)|null|
@@ -480,6 +500,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-30**|**Cross-Platform Evaluation of Reasoning Capabilities in Foundation Models**|J. de Curtò et.al.|[link](http://arxiv.org/abs/2510.26732v1)|null|
+|**2025-10-29**|**Larger Hausdorff Dimension in Scanning Pattern Facilitates Mamba-Based Methods in Low-Light Image Enhancement**|Xinhua Wang et.al.|[link](http://arxiv.org/abs/2510.26001v1)|null|
+|**2025-10-27**|**StreetMath: Study of LLMs' Approximation Behaviors**|Chiung-Yi Tseng et.al.|[link](http://arxiv.org/abs/2510.25776v1)|null|
 |**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[link](http://arxiv.org/abs/2510.25522v1)|null|
 |**2025-10-29**|**State Space and Self-Attention Collaborative Network with Feature Aggregation for DOA Estimation**|Qi You et.al.|[link](http://arxiv.org/abs/2510.25193v1)|null|
 |**2025-10-28**|**Language Model Behavioral Phases are Consistent Across Architecture, Training Data, and Scale**|James A. Michaelov et.al.|[link](http://arxiv.org/abs/2510.24963v1)|null|
@@ -600,6 +623,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-30**|**HEIR: Learning Graph-Based Motion Hierarchies**|Cheng Zheng et.al.|[link](http://arxiv.org/abs/2510.26786v1)|null|
+|**2025-10-30**|**Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance**|Valentyna Starodub et.al.|[link](http://arxiv.org/abs/2510.26778v1)|null|
+|**2025-10-30**|**Graph Guided Modulo Recovery of EEG Signals**|Soujanya Hazra et.al.|[link](http://arxiv.org/abs/2510.26756v1)|null|
+|**2025-10-30**|**Realization of some Stanley-Reisner algebras and graph colorings**|Yang Hu et.al.|[link](http://arxiv.org/abs/2510.26744v1)|null|
+|**2025-10-30**|**Sharp Fuss-Catalan thresholds in graph bootstrap percolation**|Zsolt Bartha et.al.|[link](http://arxiv.org/abs/2510.26724v1)|null|
+|**2025-10-30**|**Graph theoretic quantum contextuality and unextendible Product Bases**|Gurvir Singh et.al.|[link](http://arxiv.org/abs/2510.26719v1)|null|
+|**2025-10-30**|**Pareto-Optimal Sampling and Resource Allocation for Timely Communication in Shared-Spectrum Low-Altitude Networks**|Bowen Li et.al.|[link](http://arxiv.org/abs/2510.26708v1)|null|
+|**2025-10-30**|**Graph approach for observability analysis in power system dynamic state estimation**|Akhila Kandivalasa et.al.|[link](http://arxiv.org/abs/2510.26701v1)|null|
+|**2025-10-30**|**Tight Differentially Private PCA via Matrix Coherence**|Tommaso d'Orsi et.al.|[link](http://arxiv.org/abs/2510.26679v1)|null|
+|**2025-10-30**|**SAMRI: Segment Anything Model for MRI**|Zhao Wang et.al.|[link](http://arxiv.org/abs/2510.26635v1)|null|
+|**2025-10-30**|**Natural methods of unsupervised topological alignment**|Mikhail S. Arbatskii et.al.|[link](http://arxiv.org/abs/2510.26631v1)|null|
+|**2025-10-30**|**Probabilistic Rule Models as Diagnostic Layers: Interpreting Structural Concept Drift in Post-Crisis Finance**|Dmitry Lesnik et.al.|[link](http://arxiv.org/abs/2510.26627v1)|null|
+|**2025-10-30**|**Toward Automated Security Risk Detection in Large Software Using Call Graph Analysis**|Nicholas Pecka et.al.|[link](http://arxiv.org/abs/2510.26620v1)|null|
+|**2025-10-30**|**Aeolus: A Multi-structural Flight Delay Dataset**|Lin Xu et.al.|[link](http://arxiv.org/abs/2510.26616v1)|null|
+|**2025-10-30**|**Higher-dimensional Chiral Algebras in the Jouanolou Model**|Zhengping Gui et.al.|[link](http://arxiv.org/abs/2510.26608v1)|null|
+|**2025-10-30**|**Bijections Between Smirnov Words and Hamiltonian Cycles in Complete Multipartite Graphs**|El-Mehdi Mehiri et.al.|[link](http://arxiv.org/abs/2510.26597v1)|null|
+|**2025-10-30**|**Localization and anomalous reference frames in gravity**|Laurent Freidel et.al.|[link](http://arxiv.org/abs/2510.26589v1)|null|
+|**2025-10-30**|**Comparative Analysis of Deep Learning Models for Olive Tree Crown and Shadow Segmentation Towards Biovolume Estimation**|Wondimagegn Abebe Demissie et.al.|[link](http://arxiv.org/abs/2510.26573v1)|null|
+|**2025-10-30**|**SA$^{2}$Net: Scale-Adaptive Structure-Affinity Transformation for Spine Segmentation from Ultrasound Volume Projection Imaging**|Hao Xie et.al.|[link](http://arxiv.org/abs/2510.26568v1)|null|
+|**2025-10-30**|**On the Similarity between Epidemiologic Strains, Minimal Self-Replicable Siphons, and autocatalytic cores in (Chemical) Reaction Networks: Towards a Unifying Framework**|Florin Avram et.al.|[link](http://arxiv.org/abs/2510.26526v1)|null|
 |**2025-10-29**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|Chumeng Liang et.al.|[link](http://arxiv.org/abs/2510.25761v1)|null|
 |**2025-10-29**|**MLPrE -- A tool for preprocessing and exploratory data analysis prior to machine learning model construction**|David S Maxwell et.al.|[link](http://arxiv.org/abs/2510.25755v1)|null|
 |**2025-10-29**|**Effect of Full Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[link](http://arxiv.org/abs/2510.25736v1)|null|
@@ -685,6 +728,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-30**|**CATCH: A Modular Cross-domain Adaptive Template with Hook**|Xinjin Li et.al.|[link](http://arxiv.org/abs/2510.26582v1)|null|
+|**2025-10-30**|**WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging**|Min Hou et.al.|[link](http://arxiv.org/abs/2510.26546v1)|null|
+|**2025-10-30**|**From Amateur to Master: Infusing Knowledge into LLMs via Automated Curriculum Learning**|Nishit Neema et.al.|[link](http://arxiv.org/abs/2510.26336v1)|null|
 |**2025-10-29**|**Cross Learning between Electronic Structure Theories for Unifying Molecular, Surface, and Inorganic Crystal Foundation Force Fields**|Ilyes Batatia et.al.|[link](http://arxiv.org/abs/2510.25380v1)|null|
 |**2025-10-29**|**DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**|Yinqi Cai et.al.|[link](http://arxiv.org/abs/2510.25237v1)|null|
 |**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[link](http://arxiv.org/abs/2510.25234v1)|null|
