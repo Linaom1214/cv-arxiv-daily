@@ -1,4 +1,4 @@
-## Updated on 2025.11.03
+## Updated on 2025.11.04
 
 ### ISTD
 
@@ -255,6 +255,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-31**|**LifWavNet: Lifting Wavelet-based Network for Non-contact ECG Reconstruction from Radar**|Soumitra Kundu et.al.|[link](http://arxiv.org/abs/2510.27692v1)|null|
+|**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Danyal Maqbool et.al.|[link](http://arxiv.org/abs/2510.27680v1)|null|
+|**2025-10-31**|**Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models**|Joyoni Dey et.al.|[link](http://arxiv.org/abs/2510.27679v1)|null|
+|**2025-10-31**|**Vision Transformer for Robust Occluded Person Reidentification in Complex Surveillance Scenes**|Bo Li et.al.|[link](http://arxiv.org/abs/2510.27677v1)|null|
+|**2025-10-31**|**Deep learning denoising unlocks quantitative insights in operando materials microscopy**|Samuel Degnan-Morgenstern et.al.|[link](http://arxiv.org/abs/2510.27667v1)|null|
+|**2025-10-31**|**NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception**|Congzhang Shao et.al.|[link](http://arxiv.org/abs/2510.27647v1)|null|
+|**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[link](http://arxiv.org/abs/2510.27646v1)|null|
+|**2025-10-31**|**SpecAttn: Speculating Sparse Attention**|Harsh Shah et.al.|[link](http://arxiv.org/abs/2510.27641v1)|null|
+|**2025-10-31**|**Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation**|Riccardo Brioschi et.al.|[link](http://arxiv.org/abs/2510.27632v1)|null|
+|**2025-10-31**|**Ergodic averages for sparse corners**|Nikos Frantzikinakis et.al.|[link](http://arxiv.org/abs/2510.27627v1)|null|
+|**2025-10-31**|**Poincaré Maps with the Theory of Functional Connections**|A. K. de Almeida Jr et.al.|[link](http://arxiv.org/abs/2510.27626v1)|null|
+|**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won et.al.|[link](http://arxiv.org/abs/2510.27607v1)|null|
+|**2025-10-31**|**Navigated hepatic tumor resection using intraoperative ultrasound imaging**|Karin Olthof et.al.|[link](http://arxiv.org/abs/2510.27596v1)|null|
+|**2025-10-31**|**Extreme breakdown of the Einstein relation in liquid water under centrifugation**|Joseph F. Wild et.al.|[link](http://arxiv.org/abs/2510.27561v1)|null|
+|**2025-10-31**|**Multilingual BERT language model for medical tasks: Evaluation on domain-specific adaptation and cross-linguality**|Yinghao Luo et.al.|[link](http://arxiv.org/abs/2510.27552v1)|null|
+|**2025-10-31**|**MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series**|Xue Xia et.al.|[link](http://arxiv.org/abs/2510.27547v1)|null|
+|**2025-10-31**|**EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities**|Travis Davies et.al.|[link](http://arxiv.org/abs/2510.27545v1)|null|
+|**2025-10-31**|**Beyond Demographics: Behavioural Segmentation and Spatial Analytics to Enhance Visitor Experience at The British Museum**|Naomi Muggleton et.al.|[link](http://arxiv.org/abs/2510.27542v1)|null|
+|**2025-10-31**|**Representing Classical Compositions through Implication-Realization Temporal-Gestalt Graphs**|A. V. Bomediano et.al.|[link](http://arxiv.org/abs/2510.27530v1)|null|
+|**2025-10-31**|**Mastering an Accurate and Generalizable Simulation-Based Method to Obtain Bias-corrected Point Estimates and Sampling Variance for Any Effect Sizes**|Shinichi Nakagawa et.al.|[link](http://arxiv.org/abs/2510.27519v1)|null|
 |**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[link](http://arxiv.org/abs/2510.26794v1)|null|
 |**2025-10-30**|**Learning Pseudorandom Numbers with Transformers: Permuted Congruential Generators, Curricula, and Interpretability**|Tao Tao et.al.|[link](http://arxiv.org/abs/2510.26792v1)|null|
 |**2025-10-30**|**LLMs Process Lists With General Filter Heads**|Arnab Sen Sharma et.al.|[link](http://arxiv.org/abs/2510.26784v1)|null|
@@ -500,7 +520,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-31**|**Context-Gated Cross-Modal Perception with Visual Mamba for PET-CT Lung Tumor Segmentation**|Elena Mulero Ayllón et.al.|[link](http://arxiv.org/abs/2510.27508v1)|null|
+|**2025-10-31**|**Versatile and Efficient Medical Image Super-Resolution Via Frequency-Gated Mamba**|Wenfeng Huang et.al.|[link](http://arxiv.org/abs/2510.27296v1)|null|
+|**2025-10-31**|**AFM-Net: Advanced Fusing Hierarchical CNN Visual Priors with Global Sequence Modeling for Remote Sensing Image Scene Classification**|Yuanhao Tang et.al.|[link](http://arxiv.org/abs/2510.27155v1)|null|
+|**2025-10-30**|**Understanding and Enhancing Mamba-Transformer Hybrids for Memory Recall and Language Modeling**|Hyunji Lee et.al.|[link](http://arxiv.org/abs/2510.26912v1)|null|
 |**2025-10-30**|**Cross-Platform Evaluation of Reasoning Capabilities in Foundation Models**|J. de Curtò et.al.|[link](http://arxiv.org/abs/2510.26732v1)|null|
+|**2025-10-31**|**Larger Hausdorff Dimension in Scanning Pattern Facilitates Mamba-Based Methods in Low-Light Image Enhancement**|Xinhua Wang et.al.|[link](http://arxiv.org/abs/2510.26001v2)|null|
 |**2025-10-29**|**Larger Hausdorff Dimension in Scanning Pattern Facilitates Mamba-Based Methods in Low-Light Image Enhancement**|Xinhua Wang et.al.|[link](http://arxiv.org/abs/2510.26001v1)|null|
 |**2025-10-27**|**StreetMath: Study of LLMs' Approximation Behaviors**|Chiung-Yi Tseng et.al.|[link](http://arxiv.org/abs/2510.25776v1)|null|
 |**2025-10-29**|**Comparative Study of UNet-based Architectures for Liver Tumor Segmentation in Multi-Phase Contrast-Enhanced Computed Tomography**|Doan-Van-Anh Ly et.al.|[link](http://arxiv.org/abs/2510.25522v1)|null|
@@ -623,6 +648,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-31**|**A Lovász-Kneser theorem for triangulations**|Anton Molnar et.al.|[link](http://arxiv.org/abs/2510.27689v1)|null|
+|**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Danyal Maqbool et.al.|[link](http://arxiv.org/abs/2510.27680v1)|null|
+|**2025-10-31**|**Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models**|Joyoni Dey et.al.|[link](http://arxiv.org/abs/2510.27679v1)|null|
+|**2025-10-31**|**Deep learning denoising unlocks quantitative insights in operando materials microscopy**|Samuel Degnan-Morgenstern et.al.|[link](http://arxiv.org/abs/2510.27667v1)|null|
+|**2025-10-31**|**Community Detection on Model Explanation Graphs for Explainable AI**|Ehsan Moradi et.al.|[link](http://arxiv.org/abs/2510.27655v1)|null|
+|**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[link](http://arxiv.org/abs/2510.27646v1)|null|
+|**2025-10-31**|**Bayesian Optimization on Networks**|Wenwen Li et.al.|[link](http://arxiv.org/abs/2510.27643v1)|null|
+|**2025-10-31**|**Compactness for small cardinals in mathematics: principles, consequences, and limitations**|Radek Honzik et.al.|[link](http://arxiv.org/abs/2510.27618v1)|null|
+|**2025-10-31**|**ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling**|Zhuohan Wang et.al.|[link](http://arxiv.org/abs/2510.27610v1)|null|
+|**2025-10-31**|**Navigated hepatic tumor resection using intraoperative ultrasound imaging**|Karin Olthof et.al.|[link](http://arxiv.org/abs/2510.27596v1)|null|
+|**2025-10-31**|**Toward Accurate Long-Horizon Robotic Manipulation: Language-to-Action with Foundation Models via Scene Graphs**|Sushil Samuel Dinesh et.al.|[link](http://arxiv.org/abs/2510.27558v1)|null|
+|**2025-10-31**|**Sybil-Resistant Service Discovery for Agent Economies**|David Shi et.al.|[link](http://arxiv.org/abs/2510.27554v1)|null|
+|**2025-10-31**|**MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series**|Xue Xia et.al.|[link](http://arxiv.org/abs/2510.27547v1)|null|
+|**2025-10-31**|**Beyond Demographics: Behavioural Segmentation and Spatial Analytics to Enhance Visitor Experience at The British Museum**|Naomi Muggleton et.al.|[link](http://arxiv.org/abs/2510.27542v1)|null|
+|**2025-10-31**|**Representing Classical Compositions through Implication-Realization Temporal-Gestalt Graphs**|A. V. Bomediano et.al.|[link](http://arxiv.org/abs/2510.27530v1)|null|
+|**2025-10-31**|**Learning Sparse Approximate Inverse Preconditioners for Conjugate Gradient Solvers on GPUs**|Zherui Yang et.al.|[link](http://arxiv.org/abs/2510.27517v1)|null|
+|**2025-10-31**|**Rigidity Theory of Graphs with Heterogeneous Vertices**|Yongjie Liu et.al.|[link](http://arxiv.org/abs/2510.27515v1)|null|
+|**2025-10-31**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[link](http://arxiv.org/abs/2510.27511v1)|null|
+|**2025-10-31**|**Context-Gated Cross-Modal Perception with Visual Mamba for PET-CT Lung Tumor Segmentation**|Elena Mulero Ayllón et.al.|[link](http://arxiv.org/abs/2510.27508v1)|null|
+|**2025-10-31**|**Spectral Neural Graph Sparsification**|Angelica Liguori et.al.|[link](http://arxiv.org/abs/2510.27474v1)|null|
 |**2025-10-30**|**HEIR: Learning Graph-Based Motion Hierarchies**|Cheng Zheng et.al.|[link](http://arxiv.org/abs/2510.26786v1)|null|
 |**2025-10-30**|**Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance**|Valentyna Starodub et.al.|[link](http://arxiv.org/abs/2510.26778v1)|null|
 |**2025-10-30**|**Graph Guided Modulo Recovery of EEG Signals**|Soujanya Hazra et.al.|[link](http://arxiv.org/abs/2510.26756v1)|null|
@@ -728,6 +773,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-10-31**|**Leveraging Generic Time Series Foundation Models for EEG Classification**|Théo Gnassounou et.al.|[link](http://arxiv.org/abs/2510.27522v1)|null|
+|**2025-10-31**|**Effect of Domain Generalization Techniques in Low Resource Systems**|Mahi Aminu et.al.|[link](http://arxiv.org/abs/2510.27512v1)|null|
+|**2025-10-31**|**Modality Alignment across Trees on Heterogeneous Hyperbolic Manifolds**|Wu Wei et.al.|[link](http://arxiv.org/abs/2510.27391v1)|null|
+|**2025-10-31**|**GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation**|Tao Liu et.al.|[link](http://arxiv.org/abs/2510.27210v1)|null|
+|**2025-10-30**|**AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception**|Mario Camarena et.al.|[link](http://arxiv.org/abs/2510.27047v1)|null|
+|**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[link](http://arxiv.org/abs/2510.26854v1)|null|
 |**2025-10-30**|**CATCH: A Modular Cross-domain Adaptive Template with Hook**|Xinjin Li et.al.|[link](http://arxiv.org/abs/2510.26582v1)|null|
 |**2025-10-30**|**WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging**|Min Hou et.al.|[link](http://arxiv.org/abs/2510.26546v1)|null|
 |**2025-10-30**|**From Amateur to Master: Infusing Knowledge into LLMs via Automated Curriculum Learning**|Nishit Neema et.al.|[link](http://arxiv.org/abs/2510.26336v1)|null|
