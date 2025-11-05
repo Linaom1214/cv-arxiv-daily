@@ -751,7 +751,8 @@
     "2510.27515v1": "|**2025-10-31**|**Rigidity Theory of Graphs with Heterogeneous Vertices**|Yongjie Liu et.al.|[link](http://arxiv.org/abs/2510.27515v1)|null|\n",
     "2510.27511v1": "|**2025-10-31**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[link](http://arxiv.org/abs/2510.27511v1)|null|\n",
     "2510.27508v1": "|**2025-10-31**|**Context-Gated Cross-Modal Perception with Visual Mamba for PET-CT Lung Tumor Segmentation**|Elena Mulero Ayll\u00f3n et.al.|[link](http://arxiv.org/abs/2510.27508v1)|null|\n",
-    "2510.27474v1": "|**2025-10-31**|**Spectral Neural Graph Sparsification**|Angelica Liguori et.al.|[link](http://arxiv.org/abs/2510.27474v1)|null|\n"
+    "2510.27474v1": "|**2025-10-31**|**Spectral Neural Graph Sparsification**|Angelica Liguori et.al.|[link](http://arxiv.org/abs/2510.27474v1)|null|\n",
+    "2510.27511v2": "|**2025-11-03**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[link](http://arxiv.org/abs/2510.27511v2)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -799,6 +800,7 @@
     "2510.27391v1": "|**2025-10-31**|**Modality Alignment across Trees on Heterogeneous Hyperbolic Manifolds**|Wu Wei et.al.|[link](http://arxiv.org/abs/2510.27391v1)|null|\n",
     "2510.27210v1": "|**2025-10-31**|**GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation**|Tao Liu et.al.|[link](http://arxiv.org/abs/2510.27210v1)|null|\n",
     "2510.27047v1": "|**2025-10-30**|**AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception**|Mario Camarena et.al.|[link](http://arxiv.org/abs/2510.27047v1)|null|\n",
-    "2510.26854v1": "|**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[link](http://arxiv.org/abs/2510.26854v1)|null|\n"
+    "2510.26854v1": "|**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[link](http://arxiv.org/abs/2510.26854v1)|null|\n",
+    "2510.24028v2": "|**2025-11-03**|**OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting**|Tingyue Pan et.al.|[link](http://arxiv.org/abs/2510.24028v2)|null|\n"
   }
 }

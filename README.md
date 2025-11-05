@@ -1,4 +1,4 @@
-## Updated on 2025.11.04
+## Updated on 2025.11.05
 
 ### ISTD
 
@@ -665,6 +665,7 @@
 |**2025-10-31**|**Representing Classical Compositions through Implication-Realization Temporal-Gestalt Graphs**|A. V. Bomediano et.al.|[link](http://arxiv.org/abs/2510.27530v1)|null|
 |**2025-10-31**|**Learning Sparse Approximate Inverse Preconditioners for Conjugate Gradient Solvers on GPUs**|Zherui Yang et.al.|[link](http://arxiv.org/abs/2510.27517v1)|null|
 |**2025-10-31**|**Rigidity Theory of Graphs with Heterogeneous Vertices**|Yongjie Liu et.al.|[link](http://arxiv.org/abs/2510.27515v1)|null|
+|**2025-11-03**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[link](http://arxiv.org/abs/2510.27511v2)|null|
 |**2025-10-31**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[link](http://arxiv.org/abs/2510.27511v1)|null|
 |**2025-10-31**|**Context-Gated Cross-Modal Perception with Visual Mamba for PET-CT Lung Tumor Segmentation**|Elena Mulero Ayllón et.al.|[link](http://arxiv.org/abs/2510.27508v1)|null|
 |**2025-10-31**|**Spectral Neural Graph Sparsification**|Angelica Liguori et.al.|[link](http://arxiv.org/abs/2510.27474v1)|null|
@@ -789,6 +790,7 @@
 |**2025-10-28**|**Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning**|Ivica Dimitrovski et.al.|[link](http://arxiv.org/abs/2510.24321v1)|null|
 |**2025-10-28**|**BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data**|Bingsen Qiu et.al.|[link](http://arxiv.org/abs/2510.24151v1)|null|
 |**2025-10-28**|**Mitigating Negative Transfer via Reducing Environmental Disagreement**|Hui Sun et.al.|[link](http://arxiv.org/abs/2510.24044v1)|null|
+|**2025-11-03**|**OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting**|Tingyue Pan et.al.|[link](http://arxiv.org/abs/2510.24028v2)|null|
 |**2025-10-28**|**OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting**|Tingyue Pan et.al.|[link](http://arxiv.org/abs/2510.24028v1)|null|
 |**2025-10-28**|**AdvBlur: Adversarial Blur for Robust Diabetic Retinopathy Classification and Cross-Domain Generalization**|Heethanjan Kanagalingam et.al.|[link](http://arxiv.org/abs/2510.24000v1)|null|
 |**2025-10-27**|**Explainable Detection of AI-Generated Images with Artifact Localization Using Faster-Than-Lies and Vision-Language Models for Edge Devices**|Aryan Mathur et.al.|[link](http://arxiv.org/abs/2510.23775v1)|null|
