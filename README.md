@@ -1,4 +1,4 @@
-## Updated on 2025.11.05
+## Updated on 2025.11.06
 
 ### ISTD
 
@@ -255,6 +255,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[link](http://arxiv.org/abs/2511.02830v1)|null|
+|**2025-11-04**|**PLUTO-4: Frontier Pathology Foundation Models**|Harshith Padigela et.al.|[link](http://arxiv.org/abs/2511.02826v1)|null|
+|**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz et.al.|[link](http://arxiv.org/abs/2511.02777v1)|null|
+|**2025-11-04**|**STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation**|Bum Chul Kwon et.al.|[link](http://arxiv.org/abs/2511.02769v1)|null|
+|**2025-11-04**|**LLM-Supported Formal Knowledge Representation for Enhancing Control Engineering Content with an Interactive Semantic Layer**|Julius Fiedler et.al.|[link](http://arxiv.org/abs/2511.02759v1)|null|
+|**2025-11-04**|**Finite free probability and $S$ transforms of Jacobi processes**|Nizar Demni et.al.|[link](http://arxiv.org/abs/2511.02758v1)|null|
+|**2025-11-04**|**GPU-based track-finding for the J-PARC muon g-2/EDM experiment**|Hridey Chetri et.al.|[link](http://arxiv.org/abs/2511.02742v1)|null|
+|**2025-11-04**|**Efficient Variational Quantum Algorithms for the Generalized Assignment Problem**|Carlo Mastroianni et.al.|[link](http://arxiv.org/abs/2511.02739v1)|null|
+|**2025-11-04**|**Observational tests of the conformal osculating Barthel-Kropina cosmological model**|Himanshu Chaudhary et.al.|[link](http://arxiv.org/abs/2511.02729v1)|null|
+|**2025-11-04**|**Numerical valuation of European options under two-asset infinite-activity exponential Lévy models**|Massimiliano Moda et.al.|[link](http://arxiv.org/abs/2511.02700v1)|null|
+|**2025-11-04**|**Discretization and convergence of the ballistic Benamou-Brenier formulation of the porous medium and Burgers equations**|Mirebeau Jean-Marie et.al.|[link](http://arxiv.org/abs/2511.02662v1)|null|
+|**2025-11-04**|**Signal recovery using Gabor frames**|Ivan Bortnovskyi et.al.|[link](http://arxiv.org/abs/2511.02661v1)|null|
+|**2025-11-04**|**Differentiable Hierarchical Visual Tokenization**|Marius Aasan et.al.|[link](http://arxiv.org/abs/2511.02652v1)|null|
+|**2025-11-04**|**Apriel-H1: Towards Efficient Enterprise Reasoning Models**|Oleksiy Ostapenko et.al.|[link](http://arxiv.org/abs/2511.02651v1)|null|
+|**2025-11-04**|**Federated Attention: A Distributed Paradigm for Collaborative LLM Inference over Edge Networks**|Xiumei Deng et.al.|[link](http://arxiv.org/abs/2511.02647v1)|null|
+|**2025-11-04**|**Adaptive Quantum Matter: Variational Organization through Ising Agents**|Lakshya Nagpal et.al.|[link](http://arxiv.org/abs/2511.02636v1)|null|
+|**2025-11-04**|**Generalized mKdV Equation and Genus Two Jacobi Type Hyperelliptic Differential Equation**|Masahito Hayashi et.al.|[link](http://arxiv.org/abs/2511.02621v1)|null|
+|**2025-11-04**|**Zero-Shot Multi-Animal Tracking in the Wild**|Jan Frederik Meier et.al.|[link](http://arxiv.org/abs/2511.02591v1)|null|
+|**2025-11-04**|**Resource-efficient Automatic Refinement of Segmentations via Weak Supervision from Light Feedback**|Alix de Langlais et.al.|[link](http://arxiv.org/abs/2511.02576v1)|null|
+|**2025-11-04**|**RIS-Assisted 3D Spherical Splatting for Object Composition Visualization using Detection Transformers**|Anastasios T. Sotiropoulos et.al.|[link](http://arxiv.org/abs/2511.02573v1)|null|
 |**2025-10-31**|**LifWavNet: Lifting Wavelet-based Network for Non-contact ECG Reconstruction from Radar**|Soumitra Kundu et.al.|[link](http://arxiv.org/abs/2510.27692v1)|null|
 |**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Danyal Maqbool et.al.|[link](http://arxiv.org/abs/2510.27680v1)|null|
 |**2025-10-31**|**Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models**|Joyoni Dey et.al.|[link](http://arxiv.org/abs/2510.27679v1)|null|
@@ -520,6 +540,14 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-04**|**Apriel-H1: Towards Efficient Enterprise Reasoning Models**|Oleksiy Ostapenko et.al.|[link](http://arxiv.org/abs/2511.02651v1)|null|
+|**2025-11-04**|**Improving DF-Conformer Using Hydra For High-Fidelity Generative Speech Enhancement on Discrete Codec Token**|Shogo Seki et.al.|[link](http://arxiv.org/abs/2511.02454v1)|null|
+|**2025-11-04**|**M3PD Dataset: Dual-view Photoplethysmography (PPG) Using Front-and-rear Cameras of Smartphones in Lab and Clinical Settings**|Jiankai Tang et.al.|[link](http://arxiv.org/abs/2511.02349v1)|null|
+|**2025-11-04**|**MM-UNet: Morph Mamba U-shaped Convolutional Networks for Retinal Vessel Segmentation**|Jiawen Liu et.al.|[link](http://arxiv.org/abs/2511.02193v1)|null|
+|**2025-11-03**|**CMI-MTL: Cross-Mamba interaction based multi-task learning for medical visual question answering**|Qiangguo Jin et.al.|[link](http://arxiv.org/abs/2511.01357v1)|null|
+|**2025-11-03**|**MVSMamba: Multi-View Stereo with State Space Model**|Jianfei Jiang et.al.|[link](http://arxiv.org/abs/2511.01315v1)|null|
+|**2025-10-31**|**MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba**|Linzhe Jiang et.al.|[link](http://arxiv.org/abs/2511.00260v1)|null|
+|**2025-10-29**|**MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning**|Peilin Tan et.al.|[link](http://arxiv.org/abs/2511.00085v1)|null|
 |**2025-10-31**|**Context-Gated Cross-Modal Perception with Visual Mamba for PET-CT Lung Tumor Segmentation**|Elena Mulero Ayllón et.al.|[link](http://arxiv.org/abs/2510.27508v1)|null|
 |**2025-10-31**|**Versatile and Efficient Medical Image Super-Resolution Via Frequency-Gated Mamba**|Wenfeng Huang et.al.|[link](http://arxiv.org/abs/2510.27296v1)|null|
 |**2025-10-31**|**AFM-Net: Advanced Fusing Hierarchical CNN Visual Priors with Global Sequence Modeling for Remote Sensing Image Scene Classification**|Yuanhao Tang et.al.|[link](http://arxiv.org/abs/2510.27155v1)|null|
@@ -648,6 +676,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[link](http://arxiv.org/abs/2511.02830v1)|null|
+|**2025-11-04**|**PLUTO-4: Frontier Pathology Foundation Models**|Harshith Padigela et.al.|[link](http://arxiv.org/abs/2511.02826v1)|null|
+|**2025-11-04**|**Improved lower bounds for the maximum order of an induced acyclic subgraph**|Shamil Asgarli et.al.|[link](http://arxiv.org/abs/2511.02819v1)|null|
+|**2025-11-04**|**Nodal Count for Orthogonally Invariant Ensembles**|Lior Alon et.al.|[link](http://arxiv.org/abs/2511.02784v1)|null|
+|**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz et.al.|[link](http://arxiv.org/abs/2511.02777v1)|null|
+|**2025-11-04**|**$\mathcal{Z}$-stable Graph Algebras**|Gregory Faurot et.al.|[link](http://arxiv.org/abs/2511.02760v1)|null|
+|**2025-11-04**|**LLM-Supported Formal Knowledge Representation for Enhancing Control Engineering Content with an Interactive Semantic Layer**|Julius Fiedler et.al.|[link](http://arxiv.org/abs/2511.02759v1)|null|
+|**2025-11-04**|**A Simple and Fast $(3+\varepsilon)$-approximation for Constrained Correlation Clustering**|Nate Veldt et.al.|[link](http://arxiv.org/abs/2511.02705v1)|null|
+|**2025-11-04**|**CRRM: A 5G system-level simulator**|Keith Briggs et.al.|[link](http://arxiv.org/abs/2511.02692v1)|null|
+|**2025-11-04**|**Accelerating Graph Similarity Search through Integer Linear Programming**|Andrea D'Ascenzo et.al.|[link](http://arxiv.org/abs/2511.02611v1)|null|
+|**2025-11-04**|**Zero-Shot Multi-Animal Tracking in the Wild**|Jan Frederik Meier et.al.|[link](http://arxiv.org/abs/2511.02591v1)|null|
+|**2025-11-04**|**Resource-efficient Automatic Refinement of Segmentations via Weak Supervision from Light Feedback**|Alix de Langlais et.al.|[link](http://arxiv.org/abs/2511.02576v1)|null|
+|**2025-11-04**|**Analysis of dissipative dynamics on noncommutative spaces and statistical inference of continuous time network stochastic processes**|Shreya Mehta et.al.|[link](http://arxiv.org/abs/2511.02538v1)|null|
+|**2025-11-04**|**Theoretical Guarantees for Causal Discovery on Large Random Graphs**|Mathieu Chevalley et.al.|[link](http://arxiv.org/abs/2511.02536v1)|null|
+|**2025-11-04**|**Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting**|Enhong Mu et.al.|[link](http://arxiv.org/abs/2511.02534v1)|null|
+|**2025-11-04**|**Causal Graph Neural Networks for Healthcare**|Munib Mesinovic et.al.|[link](http://arxiv.org/abs/2511.02531v1)|null|
+|**2025-11-04**|**ESA: Energy-Based Shot Assembly Optimization for Automatic Video Editing**|Yaosen Chen et.al.|[link](http://arxiv.org/abs/2511.02505v1)|null|
+|**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[link](http://arxiv.org/abs/2511.02489v1)|null|
+|**2025-11-04**|**Using ensemble learning with hybrid graph neural networks and transformers to predict traffic in cities**|Ismail Zrigui et.al.|[link](http://arxiv.org/abs/2511.02484v1)|null|
+|**2025-11-04**|**SKGE: Spherical Knowledge Graph Embedding with Geometric Regularization**|Xuan-Truong Quan et.al.|[link](http://arxiv.org/abs/2511.02460v1)|null|
 |**2025-10-31**|**A Lovász-Kneser theorem for triangulations**|Anton Molnar et.al.|[link](http://arxiv.org/abs/2510.27689v1)|null|
 |**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Danyal Maqbool et.al.|[link](http://arxiv.org/abs/2510.27680v1)|null|
 |**2025-10-31**|**Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models**|Joyoni Dey et.al.|[link](http://arxiv.org/abs/2510.27679v1)|null|
@@ -774,6 +822,25 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-04**|**Generalizable super-resolution turbulence reconstruction from minimal training data**|Wu Haokai et.al.|[link](http://arxiv.org/abs/2511.02604v1)|null|
+|**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[link](http://arxiv.org/abs/2511.02489v1)|null|
+|**2025-11-04**|**Merging Continual Pretraining Models for Domain-Specialized LLMs: A Case Study in Finance**|Kentaro Ueda et.al.|[link](http://arxiv.org/abs/2511.02451v1)|null|
+|**2025-11-04**|**LLM4PG: Adapting Large Language Model for Pathloss Map Generation via Synesthesia of Machines**|Mingran Sun et.al.|[link](http://arxiv.org/abs/2511.02423v1)|null|
+|**2025-11-04**|**Synthetic Crop-Weed Image Generation and its Impact on Model Generalization**|Garen Boyadjian et.al.|[link](http://arxiv.org/abs/2511.02417v1)|null|
+|**2025-11-04**|**ChartM$^3$: A Multi-Stage Code-Driven Pipeline for Constructing Multi-Dimensional and Multi-Step Visual Reasoning Data in Chart Comprehension**|Duo Xu et.al.|[link](http://arxiv.org/abs/2511.02415v1)|null|
+|**2025-11-04**|**MammoClean: Toward Reproducible and Bias-Aware AI in Mammography through Dataset Harmonization**|Yalda Zafari et.al.|[link](http://arxiv.org/abs/2511.02400v1)|null|
+|**2025-11-04**|**RoME: Domain-Robust Mixture-of-Experts for MILP Solution Prediction across Domains**|Tianle Pu et.al.|[link](http://arxiv.org/abs/2511.02331v1)|null|
+|**2025-11-04**|**Augmenting Open-Vocabulary Dysarthric Speech Assessment with Human Perceptual Supervision**|Kaimeng Jia et.al.|[link](http://arxiv.org/abs/2511.02270v1)|null|
+|**2025-11-04**|**KGBridge: Knowledge-Guided Prompt Learning for Non-overlapping Cross-Domain Recommendation**|Yuhan Wang et.al.|[link](http://arxiv.org/abs/2511.02181v1)|null|
+|**2025-11-03**|**Wonder3D++: Cross-domain Diffusion for High-fidelity 3D Generation from a Single Image**|Yuxiao Yang et.al.|[link](http://arxiv.org/abs/2511.01767v1)|null|
+|**2025-11-03**|**DEER: Disentangled Mixture of Experts with Instance-Adaptive Routing for Generalizable Machine-Generated Text Detection**|Guoxin Ma et.al.|[link](http://arxiv.org/abs/2511.01192v1)|null|
+|**2025-11-02**|**Advancing Machine-Generated Text Detection from an Easy to Hard Supervision Perspective**|Chenwang Wu et.al.|[link](http://arxiv.org/abs/2511.00988v1)|null|
+|**2025-11-02**|**Empowering LLMs with Structural Role Inference for Zero-Shot Graph Learning**|Heng Zhang et.al.|[link](http://arxiv.org/abs/2511.00898v1)|null|
+|**2025-11-02**|**Logic-informed reinforcement learning for cross-domain optimization of large-scale cyber-physical systems**|Guangxi Wan et.al.|[link](http://arxiv.org/abs/2511.00806v1)|null|
+|**2025-11-01**|**Applying Medical Imaging Tractography Techniques to Painterly Rendering of Images**|Alberto Di Biase et.al.|[link](http://arxiv.org/abs/2511.00702v1)|null|
+|**2025-11-01**|**Generalized Category Discovery under Domain Shift: A Frequency Domain Perspective**|Wei Feng et.al.|[link](http://arxiv.org/abs/2511.00573v1)|null|
+|**2025-11-01**|**Leveraging the Cross-Domain & Cross-Linguistic Corpus for Low Resource NMT: A Case Study On Bhili-Hindi-English Parallel Corpus**|Pooja Singh et.al.|[link](http://arxiv.org/abs/2511.00486v1)|null|
+|**2025-11-01**|**A Systematic Review of Spatio-Temporal Statistical Models: Theory, Structure, and Applications**|Isabella Habereder et.al.|[link](http://arxiv.org/abs/2511.00422v1)|null|
 |**2025-10-31**|**Leveraging Generic Time Series Foundation Models for EEG Classification**|Théo Gnassounou et.al.|[link](http://arxiv.org/abs/2510.27522v1)|null|
 |**2025-10-31**|**Effect of Domain Generalization Techniques in Low Resource Systems**|Mahi Aminu et.al.|[link](http://arxiv.org/abs/2510.27512v1)|null|
 |**2025-10-31**|**Modality Alignment across Trees on Heterogeneous Hyperbolic Manifolds**|Wu Wei et.al.|[link](http://arxiv.org/abs/2510.27391v1)|null|
