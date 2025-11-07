@@ -1,4 +1,4 @@
-## Updated on 2025.11.06
+## Updated on 2025.11.07
 
 ### ISTD
 
@@ -255,6 +255,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-05**|**High-order Accumulative Regularization for Gradient Minimization in Convex Programming**|Yao Ji et.al.|[link](http://arxiv.org/abs/2511.03723v1)|null|
+|**2025-11-05**|**Echoes of the First Stars: Massive Star Evolution in Extremely Metal-Poor Environments with the Habitable Worlds Observatory**|Peter Senchyna et.al.|[link](http://arxiv.org/abs/2511.03715v1)|null|
+|**2025-11-05**|**Momentum Distribution of a Fermi Gas with Coulomb Interaction in the Random Phase Approximation**|Niels Benedikter et.al.|[link](http://arxiv.org/abs/2511.03654v1)|null|
+|**2025-11-05**|**Neural Beamforming with Doppler-Aware Sparse Attention for High Mobility Environments**|Cemil Vahapoglu et.al.|[link](http://arxiv.org/abs/2511.03632v1)|null|
+|**2025-11-05**|**A systematic review of relation extraction task since the emergence of Transformers**|Ringwald Celian et.al.|[link](http://arxiv.org/abs/2511.03610v1)|null|
+|**2025-11-05**|**The first year of LISA Galactic foreground**|Riccardo Buscicchio et.al.|[link](http://arxiv.org/abs/2511.03604v1)|null|
+|**2025-11-05**|**Approaches to the Inverse Fourier Transformation with Limited and Discrete Data**|Yu-Fei Ling et.al.|[link](http://arxiv.org/abs/2511.03593v1)|null|
+|**2025-11-05**|**PerfDojo: Automated ML Library Generation for Heterogeneous Architectures**|Andrei Ivanov et.al.|[link](http://arxiv.org/abs/2511.03586v1)|null|
+|**2025-11-05**|**AILA--First Experiments with Localist Language Models**|Joachim Diederich et.al.|[link](http://arxiv.org/abs/2511.03559v1)|null|
+|**2025-11-05**|**Bearing Syntactic Fruit with Stack-Augmented Neural Networks**|Brian DuSell et.al.|[link](http://arxiv.org/abs/2511.03547v1)|null|
+|**2025-11-05**|**Physical fitness post VO2max -- a computational framework**|J Borresen et.al.|[link](http://arxiv.org/abs/2511.03546v1)|null|
+|**2025-11-05**|**Scalar molecules $η_{b}B_{c}^{-}$ and $η_{c}B_{c}^{+} $ with asymmetric quark contents**|S. S. Agaev et.al.|[link](http://arxiv.org/abs/2511.03541v1)|null|
+|**2025-11-05**|**Efficient Neural Networks with Discrete Cosine Transform Activations**|Marc Martinez-Gost et.al.|[link](http://arxiv.org/abs/2511.03531v1)|null|
+|**2025-11-05**|**Quantum effects in the magnon spectrum of 2D altermagnets via continuous similarity transformations**|Raymond Wiedmann et.al.|[link](http://arxiv.org/abs/2511.03528v1)|null|
+|**2025-11-05**|**ROSBag MCP Server: Analyzing Robot Data with LLMs for Agentic Embodied AI Applications**|Lei Fu et.al.|[link](http://arxiv.org/abs/2511.03497v1)|null|
+|**2025-11-05**|**Coincidence among sum formulas for zeta-like multiple values**|Kwang-Wu Chen et.al.|[link](http://arxiv.org/abs/2511.03431v1)|null|
+|**2025-11-05**|**SyMuPe: Affective and Controllable Symbolic Music Performance**|Ilya Borovik et.al.|[link](http://arxiv.org/abs/2511.03425v1)|null|
+|**2025-11-05**|**Robust Alignment of the Human Embryo in 3D Ultrasound using PCA and an Ensemble of Heuristic, Atlas-based and Learning-based Classifiers Evaluated on the Rotterdam Periconceptional Cohort**|Nikolai Herrmann et.al.|[link](http://arxiv.org/abs/2511.03416v1)|null|
+|**2025-11-05**|**Efficient Reasoning via Thought-Training and Thought-Free Inference**|Canhui Wu et.al.|[link](http://arxiv.org/abs/2511.03408v1)|null|
+|**2025-11-05**|**An Alternative Derivation and Optimal Design Method of the Generalized Bilinear Transformation for Discretizing Analog Systems**|Shen Chen et.al.|[link](http://arxiv.org/abs/2511.03403v1)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[link](http://arxiv.org/abs/2511.02830v1)|null|
 |**2025-11-04**|**PLUTO-4: Frontier Pathology Foundation Models**|Harshith Padigela et.al.|[link](http://arxiv.org/abs/2511.02826v1)|null|
 |**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz et.al.|[link](http://arxiv.org/abs/2511.02777v1)|null|
@@ -540,6 +560,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-05**|**Enhancing Medical Image Segmentation via Heat Conduction Equation**|Rong Wu et.al.|[link](http://arxiv.org/abs/2511.03260v1)|null|
+|**2025-11-05**|**Transformer-Progressive Mamba Network for Lightweight Image Super-Resolution**|Sichen Guo et.al.|[link](http://arxiv.org/abs/2511.03232v1)|null|
 |**2025-11-04**|**Apriel-H1: Towards Efficient Enterprise Reasoning Models**|Oleksiy Ostapenko et.al.|[link](http://arxiv.org/abs/2511.02651v1)|null|
 |**2025-11-04**|**Improving DF-Conformer Using Hydra For High-Fidelity Generative Speech Enhancement on Discrete Codec Token**|Shogo Seki et.al.|[link](http://arxiv.org/abs/2511.02454v1)|null|
 |**2025-11-04**|**M3PD Dataset: Dual-view Photoplethysmography (PPG) Using Front-and-rear Cameras of Smartphones in Lab and Clinical Settings**|Jiankai Tang et.al.|[link](http://arxiv.org/abs/2511.02349v1)|null|
@@ -676,6 +698,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-05**|**Distance Exceptional Graphs and the Curvature Index**|Sawyer Jack Robertson et.al.|[link](http://arxiv.org/abs/2511.03719v1)|null|
+|**2025-11-05**|**An Improved Quality Hierarchical Congestion Approximator in Near-Linear Time**|Monika Henzinger et.al.|[link](http://arxiv.org/abs/2511.03716v1)|null|
+|**2025-11-05**|**Simulation-Based Validation of an Integrated 4D/5D Digital-Twin Framework for Predictive Construction Control**|Atena Khoshkonesh et.al.|[link](http://arxiv.org/abs/2511.03684v1)|null|
+|**2025-11-05**|**Borsuk's conjecture for two-distance sets and its equivalent formulation for graphs**|Oleg R. Musin et.al.|[link](http://arxiv.org/abs/2511.03668v1)|null|
+|**2025-11-05**|**SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection**|Mahek Desai et.al.|[link](http://arxiv.org/abs/2511.03661v1)|null|
+|**2025-11-05**|**Efficient Testing Implies Structured Symmetry**|Cynthia Dwork et.al.|[link](http://arxiv.org/abs/2511.03653v1)|null|
+|**2025-11-05**|**Improved Bounds with a Simple Algorithm for Edge Estimation for Graphs of Unknown Size**|Debarshi Chanda et.al.|[link](http://arxiv.org/abs/2511.03650v1)|null|
+|**2025-11-05**|**Non-Monotonicity in Fair Division of Graphs**|Hadi Hosseini et.al.|[link](http://arxiv.org/abs/2511.03629v1)|null|
+|**2025-11-05**|**The first year of LISA Galactic foreground**|Riccardo Buscicchio et.al.|[link](http://arxiv.org/abs/2511.03604v1)|null|
+|**2025-11-05**|**Characterizations of undirected 2-quasi best match graphs**|Annachiara Korchmaros et.al.|[link](http://arxiv.org/abs/2511.03592v1)|null|
+|**2025-11-05**|**Knowledge Graph for Intelligent Generation of Artistic Image Creation: Constructing a New Annotation Hierarchy**|Jia Kaixin et.al.|[link](http://arxiv.org/abs/2511.03585v1)|null|
+|**2025-11-05**|**Engineering Algorithms for $\ell$-Isolated Maximal Clique Enumeration**|Marco D'Elia et.al.|[link](http://arxiv.org/abs/2511.03525v1)|null|
+|**2025-11-05**|**Counterexamples to statements on isometric graph coverings**|Paul Bastide et.al.|[link](http://arxiv.org/abs/2511.03524v1)|null|
+|**2025-11-05**|**Towards Scalable Web Accessibility Audit with MLLMs as Copilots**|Ming Gu et.al.|[link](http://arxiv.org/abs/2511.03471v1)|null|
+|**2025-11-05**|**Dynamic Meta-Kernelization**|Christian Bertram et.al.|[link](http://arxiv.org/abs/2511.03461v1)|null|
+|**2025-11-05**|**Inter-Agent Trust Models: A Comparative Study of Brief, Claim, Proof, Stake, Reputation and Constraint in Agentic Web Protocol Design-A2A, AP2, ERC-8004, and Beyond**|Botao 'Amber' Hu et.al.|[link](http://arxiv.org/abs/2511.03434v1)|null|
+|**2025-11-05**|**Chords of longest cycles in graphs with large circumferences**|Haidong Wu et.al.|[link](http://arxiv.org/abs/2511.03422v1)|null|
+|**2025-11-05**|**Multi-layer dissolution exponential-family models for weighted signed networks**|Alberto Caimo et.al.|[link](http://arxiv.org/abs/2511.03420v1)|null|
+|**2025-11-05**|**Robust Alignment of the Human Embryo in 3D Ultrasound using PCA and an Ensemble of Heuristic, Atlas-based and Learning-based Classifiers Evaluated on the Rotterdam Periconceptional Cohort**|Nikolai Herrmann et.al.|[link](http://arxiv.org/abs/2511.03416v1)|null|
+|**2025-11-05**|**Overcoming the Generalization Limits of SLM Finetuning for Shape-Based Extraction of Datatype and Object Properties**|Célian Ringwald et.al.|[link](http://arxiv.org/abs/2511.03407v1)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[link](http://arxiv.org/abs/2511.02830v1)|null|
 |**2025-11-04**|**PLUTO-4: Frontier Pathology Foundation Models**|Harshith Padigela et.al.|[link](http://arxiv.org/abs/2511.02826v1)|null|
 |**2025-11-04**|**Improved lower bounds for the maximum order of an induced acyclic subgraph**|Shamil Asgarli et.al.|[link](http://arxiv.org/abs/2511.02819v1)|null|
@@ -822,6 +864,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-05**|**U2F: Encouraging SWE-Agent to Seize Novelty without Losing Feasibility**|Wencheng Ye et.al.|[link](http://arxiv.org/abs/2511.03517v1)|null|
+|**2025-11-05**|**Beyond Citations: Measuring Idea-level Knowledge Diffusion from Research to Journalism and Policy-making**|Yangliu Fan et.al.|[link](http://arxiv.org/abs/2511.03378v1)|null|
+|**2025-11-05**|**FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction**|Ruizhe Zheng et.al.|[link](http://arxiv.org/abs/2511.03263v1)|null|
+|**2025-11-04**|**SCALE-VLP: Soft-Weighted Contrastive Volumetric Vision-Language Pre-training with Spatial-Knowledge Semantics**|Ailar Mahdizadeh et.al.|[link](http://arxiv.org/abs/2511.02996v1)|null|
 |**2025-11-04**|**Generalizable super-resolution turbulence reconstruction from minimal training data**|Wu Haokai et.al.|[link](http://arxiv.org/abs/2511.02604v1)|null|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[link](http://arxiv.org/abs/2511.02489v1)|null|
 |**2025-11-04**|**Merging Continual Pretraining Models for Domain-Specialized LLMs: A Case Study in Finance**|Kentaro Ueda et.al.|[link](http://arxiv.org/abs/2511.02451v1)|null|
