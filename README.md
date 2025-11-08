@@ -1,4 +1,4 @@
-## Updated on 2025.11.07
+## Updated on 2025.11.08
 
 ### ISTD
 
@@ -255,6 +255,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-06**|**Tracking and Understanding Object Transformations**|Yihong Sun et.al.|[link](http://arxiv.org/abs/2511.04678v1)|null|
+|**2025-11-06**|**Cambrian-S: Towards Spatial Supersensing in Video**|Shusheng Yang et.al.|[link](http://arxiv.org/abs/2511.04670v1)|null|
+|**2025-11-06**|**Finite time blow-up for a multi-dimensional model of the Kiselev-Sarsam equation**|Wanwan Zhang et.al.|[link](http://arxiv.org/abs/2511.04660v1)|null|
+|**2025-11-06**|**Advancing Risk Gene Discovery Across the Allele Frequency Spectrum**|Madison Caballero et.al.|[link](http://arxiv.org/abs/2511.04637v1)|null|
+|**2025-11-06**|**Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality**|Tushar Kataria et.al.|[link](http://arxiv.org/abs/2511.04615v1)|null|
+|**2025-11-06**|**Environment Agnostic Goal-Conditioning, A Study of Reward-Free Autonomous Learning**|Hampus Åström et.al.|[link](http://arxiv.org/abs/2511.04598v1)|null|
+|**2025-11-06**|**Automatic detection of CMEs using synthetically-trained Mask R-CNN**|Francisco A. Iglesias et.al.|[link](http://arxiv.org/abs/2511.04589v1)|null|
+|**2025-11-06**|**Knothe-Rosenblatt maps via soft-constrained optimal transport**|Ricardo Baptista et.al.|[link](http://arxiv.org/abs/2511.04579v1)|null|
+|**2025-11-06**|**Integrating Temporal and Structural Context in Graph Transformers for Relational Deep Learning**|Divyansha Lachi et.al.|[link](http://arxiv.org/abs/2511.04557v1)|null|
+|**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al.|[link](http://arxiv.org/abs/2511.04555v1)|null|
+|**2025-11-06**|**Unified Generative Latent Representation for Functional Brain Graphs**|Subati Abulikemu et.al.|[link](http://arxiv.org/abs/2511.04539v1)|null|
+|**2025-11-06**|**A Two-stage Adaptive Lifting PINN Framework for Solving Viscous Approximations to Hyperbolic Conservation Laws**|Yameng Zhu et.al.|[link](http://arxiv.org/abs/2511.04490v1)|null|
+|**2025-11-06**|**Q3R: Quadratic Reweighted Rank Regularizer for Effective Low-Rank Training**|Ipsita Ghosh et.al.|[link](http://arxiv.org/abs/2511.04485v1)|null|
+|**2025-11-06**|**Landslide Hazard Mapping with Geospatial Foundation Models: Geographical Generalizability, Data Scarcity, and Band Adaptability**|Wenwen Li et.al.|[link](http://arxiv.org/abs/2511.04474v1)|null|
+|**2025-11-06**|**Affine Frequency Division Multiplexing: From Communication to Sensing**|Ali Bemani et.al.|[link](http://arxiv.org/abs/2511.04471v1)|null|
+|**2025-11-06**|**ForecastGAN: A Decomposition-Based Adversarial Framework for Multi-Horizon Time Series Forecasting**|Syeda Sitara Wishal Fatima et.al.|[link](http://arxiv.org/abs/2511.04445v1)|null|
+|**2025-11-06**|**Deep Koopman Economic Model Predictive Control of a Pasteurisation Unit**|Patrik Valábek et.al.|[link](http://arxiv.org/abs/2511.04437v1)|null|
+|**2025-11-06**|**HideAndSeg: an AI-based tool with automated prompting for octopus segmentation in natural habitats**|Alan de Aguiar et.al.|[link](http://arxiv.org/abs/2511.04426v1)|null|
+|**2025-11-06**|**An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries**|Riley Fisher et.al.|[link](http://arxiv.org/abs/2511.04424v1)|null|
+|**2025-11-06**|**On the Equivalence of Regression and Classification**|Jayadeva et.al.|[link](http://arxiv.org/abs/2511.04422v1)|null|
 |**2025-11-05**|**High-order Accumulative Regularization for Gradient Minimization in Convex Programming**|Yao Ji et.al.|[link](http://arxiv.org/abs/2511.03723v1)|null|
 |**2025-11-05**|**Echoes of the First Stars: Massive Star Evolution in Extremely Metal-Poor Environments with the Habitable Worlds Observatory**|Peter Senchyna et.al.|[link](http://arxiv.org/abs/2511.03715v1)|null|
 |**2025-11-05**|**Momentum Distribution of a Fermi Gas with Coulomb Interaction in the Random Phase Approximation**|Niels Benedikter et.al.|[link](http://arxiv.org/abs/2511.03654v1)|null|
@@ -560,6 +580,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-06**|**NVIDIA Nemotron Nano V2 VL**|NVIDIA et.al.|[link](http://arxiv.org/abs/2511.03929v1)|null|
 |**2025-11-05**|**Enhancing Medical Image Segmentation via Heat Conduction Equation**|Rong Wu et.al.|[link](http://arxiv.org/abs/2511.03260v1)|null|
 |**2025-11-05**|**Transformer-Progressive Mamba Network for Lightweight Image Super-Resolution**|Sichen Guo et.al.|[link](http://arxiv.org/abs/2511.03232v1)|null|
 |**2025-11-04**|**Apriel-H1: Towards Efficient Enterprise Reasoning Models**|Oleksiy Ostapenko et.al.|[link](http://arxiv.org/abs/2511.02651v1)|null|
@@ -698,6 +719,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-06**|**Dark Energy Survey Year 3 results: Simulation-based $w$CDM inference from weak lensing and galaxy clustering maps with deep learning. I. Analysis design**|A. Thomsen et.al.|[link](http://arxiv.org/abs/2511.04681v1)|null|
+|**2025-11-06**|**Tracking and Understanding Object Transformations**|Yihong Sun et.al.|[link](http://arxiv.org/abs/2511.04678v1)|null|
+|**2025-11-06**|**Cambrian-S: Towards Spatial Supersensing in Video**|Shusheng Yang et.al.|[link](http://arxiv.org/abs/2511.04670v1)|null|
+|**2025-11-06**|**Multi-Method Analysis of Mathematics Placement Assessments: Classical, Machine Learning, and Clustering Approaches**|Julian D. Allagan et.al.|[link](http://arxiv.org/abs/2511.04667v1)|null|
+|**2025-11-06**|**Dynamic causal discovery in Alzheimer's disease through latent pseudotime modelling**|Natalia Glazman et.al.|[link](http://arxiv.org/abs/2511.04619v1)|null|
+|**2025-11-06**|**Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality**|Tushar Kataria et.al.|[link](http://arxiv.org/abs/2511.04615v1)|null|
+|**2025-11-06**|**Geometric Decomposition of Statistical Inference through Gradient Flow and Co-Monotonicity Measures**|Pawel Gajer et.al.|[link](http://arxiv.org/abs/2511.04599v1)|null|
+|**2025-11-06**|**Automatic detection of CMEs using synthetically-trained Mask R-CNN**|Francisco A. Iglesias et.al.|[link](http://arxiv.org/abs/2511.04589v1)|null|
+|**2025-11-06**|**Integrating Temporal and Structural Context in Graph Transformers for Relational Deep Learning**|Divyansha Lachi et.al.|[link](http://arxiv.org/abs/2511.04557v1)|null|
+|**2025-11-06**|**Unified Generative Latent Representation for Functional Brain Graphs**|Subati Abulikemu et.al.|[link](http://arxiv.org/abs/2511.04539v1)|null|
+|**2025-11-06**|**IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection**|Kaveh Eskandari Miandoab et.al.|[link](http://arxiv.org/abs/2511.04528v1)|null|
+|**2025-11-06**|**Ground-Truth Subgraphs for Better Training and Evaluation of Knowledge Graph Augmented LLMs**|Alberto Cattaneo et.al.|[link](http://arxiv.org/abs/2511.04473v1)|null|
+|**2025-11-06**|**Towards Causal Market Simulators**|Dennis Thumm et.al.|[link](http://arxiv.org/abs/2511.04469v1)|null|
+|**2025-11-06**|**Machine learning-driven elasticity prediction in advanced inorganic materials via convolutional neural networks**|Yujie Liu et.al.|[link](http://arxiv.org/abs/2511.04468v1)|null|
+|**2025-11-06**|**HideAndSeg: an AI-based tool with automated prompting for octopus segmentation in natural habitats**|Alan de Aguiar et.al.|[link](http://arxiv.org/abs/2511.04426v1)|null|
+|**2025-11-06**|**The Difference Subgroup Graph of a Finite Group**|Angsuman Das et.al.|[link](http://arxiv.org/abs/2511.04411v1)|null|
+|**2025-11-06**|**Free-order secretary for two-sided independence systems**|Kristóf Bérczi et.al.|[link](http://arxiv.org/abs/2511.04390v1)|null|
+|**2025-11-06**|**Multi-Task Learning for Visually Grounded Reasoning in Gastrointestinal VQA**|Itbaan Safwan et.al.|[link](http://arxiv.org/abs/2511.04384v1)|null|
+|**2025-11-06**|**HPC-Vis: A Visual Analytic System for Interactive Exploration of Historical Painter Cohorts**|Yingping Yang et.al.|[link](http://arxiv.org/abs/2511.04383v1)|null|
+|**2025-11-06**|**Rainbow matchings in edge-colored graphs**|Hongliang Lu et.al.|[link](http://arxiv.org/abs/2511.04374v1)|null|
 |**2025-11-05**|**Distance Exceptional Graphs and the Curvature Index**|Sawyer Jack Robertson et.al.|[link](http://arxiv.org/abs/2511.03719v1)|null|
 |**2025-11-05**|**An Improved Quality Hierarchical Congestion Approximator in Near-Linear Time**|Monika Henzinger et.al.|[link](http://arxiv.org/abs/2511.03716v1)|null|
 |**2025-11-05**|**Simulation-Based Validation of an Integrated 4D/5D Digital-Twin Framework for Predictive Construction Control**|Atena Khoshkonesh et.al.|[link](http://arxiv.org/abs/2511.03684v1)|null|
@@ -864,6 +905,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-06**|**Active Domain Adaptation for mmWave-based HAR via Renyi Entropy-based Uncertainty Estimation**|Mingzhi Lin et.al.|[link](http://arxiv.org/abs/2511.04219v1)|null|
+|**2025-11-06**|**GITER: A Git-Based Declarative Exchange Model Using Kubernetes-Style Custom Resources**|Christos Tranoris et.al.|[link](http://arxiv.org/abs/2511.04182v1)|null|
 |**2025-11-05**|**U2F: Encouraging SWE-Agent to Seize Novelty without Losing Feasibility**|Wencheng Ye et.al.|[link](http://arxiv.org/abs/2511.03517v1)|null|
 |**2025-11-05**|**Beyond Citations: Measuring Idea-level Knowledge Diffusion from Research to Journalism and Policy-making**|Yangliu Fan et.al.|[link](http://arxiv.org/abs/2511.03378v1)|null|
 |**2025-11-05**|**FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction**|Ruizhe Zheng et.al.|[link](http://arxiv.org/abs/2511.03263v1)|null|
