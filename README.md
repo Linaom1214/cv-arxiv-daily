@@ -1,4 +1,4 @@
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 
 ### ISTD
 
@@ -19,7 +19,7 @@
 |**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[link](http://arxiv.org/abs/2507.13113v1)|null|
 |**2025-07-13**|**SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing**|Ximeng Zhai et.al.|[link](http://arxiv.org/abs/2507.09556v1)|null|
 |**2025-07-13**|**DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection**|Zihao Xiong et.al.|[link](http://arxiv.org/abs/2507.09541v1)|null|
-|**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[link](http://arxiv.org/abs/2507.02454v1)|null|
+|**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[link](http://arxiv.org/abs/2507.02454v1)|**[code](https://github.com/UESTC-nnLab/WeCoL)**|
 |**2025-06-15**|**Probing Deep into Temporal Profile Makes the Infrared Small Target Detector Much Better**|Ruojing Li et.al.|[link](http://arxiv.org/abs/2506.12766v1)|null|
 |**2025-06-15**|**It's Not the Target, It's the Background: Rethinking Infrared Small Target Detection via Deep Patch-Free Low-Rank Representations**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2506.10425v2)|null|
 |**2025-06-06**|**SDS-Net: Shallow-Deep Synergism-detection Network for infrared small target detection**|Taoran Yue et.al.|[link](http://arxiv.org/abs/2506.06042v1)|null|
