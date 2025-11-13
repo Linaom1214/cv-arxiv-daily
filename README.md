@@ -1,10 +1,10 @@
-## Updated on 2025.11.11
+## Updated on 2025.11.13
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
-|**2025-10-14**|**Ivan-ISTD: Rethinking Cross-domain Heteroscedastic Noise Perturbations in Infrared Small Target Detection**|Yuehui Li et.al.|[link](http://arxiv.org/abs/2510.12241v1)|null|
+|**2025-10-15**|**Ivan-ISTD: Rethinking Cross-domain Heteroscedastic Noise Perturbations in Infrared Small Target Detection**|Yuehui Li et.al.|[link](http://arxiv.org/abs/2510.12241v1)|null|
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
 |**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|**[code](https://github.com/moured/TY-RIST)**|
 |**2025-09-25**|**DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection**|Jiayi Zuo et.al.|[link](http://arxiv.org/abs/2509.20701v1)|null|
@@ -16,7 +16,7 @@
 |**2025-08-09**|**NS-FPN: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective**|Maoxun Yuan et.al.|[link](http://arxiv.org/abs/2508.06878v1)|null|
 |**2025-08-02**|**SWAN: Synergistic Wavelet-Attention Network for Infrared Small Target Detection**|Yuxin Jing et.al.|[link](http://arxiv.org/abs/2508.01322v1)|null|
 |**2025-07-24**|**Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection**|Junyao Li et.al.|[link](http://arxiv.org/abs/2507.18260v1)|null|
-|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[link](http://arxiv.org/abs/2507.13113v1)|null|
+|**2025-07-18**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[link](http://arxiv.org/abs/2507.13113v1)|null|
 |**2025-07-13**|**SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing**|Ximeng Zhai et.al.|[link](http://arxiv.org/abs/2507.09556v1)|null|
 |**2025-07-13**|**DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection**|Zihao Xiong et.al.|[link](http://arxiv.org/abs/2507.09541v1)|null|
 |**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[link](http://arxiv.org/abs/2507.02454v1)|null|
@@ -25,7 +25,7 @@
 |**2025-06-06**|**SDS-Net: Shallow-Deep Synergism-detection Network for infrared small target detection**|Taoran Yue et.al.|[link](http://arxiv.org/abs/2506.06042v1)|null|
 |**2025-10-30**|**RRCANet: Recurrent Reusable-Convolution Attention Network for Infrared Small Target Detection**|Yongxian Liu et.al.|[link](http://arxiv.org/abs/2506.02393v3)|null|
 |**2025-06-24**|**RRCANet: Recurrent Reusable-Convolution Attention Network for Infrared Small Target Detection**|Yongxian Liu et.al.|[link](http://arxiv.org/abs/2506.02393v2)|null|
-|**2025-06-02**|**Target Driven Adaptive Loss For Infrared Small Target Detection**|Yuho Shoji et.al.|[link](http://arxiv.org/abs/2506.01349v1)|null|
+|**2025-06-03**|**Target Driven Adaptive Loss For Infrared Small Target Detection**|Yuho Shoji et.al.|[link](http://arxiv.org/abs/2506.01349v1)|null|
 |**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[link](http://arxiv.org/abs/2505.23214v1)|null|
 |**2025-05-25**|**DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing**|Shengdong Han et.al.|[link](http://arxiv.org/abs/2505.19148v1)|null|
 |**2025-10-07**|**AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection**|Yangting Shi et.al.|[link](http://arxiv.org/abs/2505.15184v2)|null|
@@ -33,7 +33,7 @@
 |**2025-05-15**|**CSPENet: Contour-Aware and Saliency Priors Embedding Network for Infrared Small Target Detection**|Jiakun Deng et.al.|[link](http://arxiv.org/abs/2505.09943v1)|null|
 |**2025-07-13**|**Selective Variable Convolution Meets Dynamic Content-Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[link](http://arxiv.org/abs/2504.21612v2)|null|
 |**2025-08-02**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[link](http://arxiv.org/abs/2504.21581v3)|null|
-|**2025-04-23**|**Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning**|Yahao Lu et.al.|[link](http://arxiv.org/abs/2504.16487v1)|null|
+|**2025-04-24**|**Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning**|Yahao Lu et.al.|[link](http://arxiv.org/abs/2504.16487v1)|**[code](https://github.com/luy0222/RealScene-ISTD)**|
 |**2025-10-13**|**LSP-ST: Ladder Shape-Biased Side-Tuning for Robust Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2504.14481v2)|null|
 |**2025-04-19**|**ISTD-YOLO: A Multi-Scale Lightweight High-Performance Infrared Small Target Detection Algorithm**|Shang Zhang et.al.|[link](http://arxiv.org/abs/2504.14289v1)|null|
 |**2025-06-20**|**MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection**|Xiaojin Lu et.al.|[link](http://arxiv.org/abs/2503.17193v2)|null|
@@ -51,28 +51,29 @@
 |**2025-02-20**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[link](http://arxiv.org/abs/2409.12448v3)|null|
 |**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[link](http://arxiv.org/abs/2409.04714v1)|null|
 |**2025-03-12**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[link](http://arxiv.org/abs/2409.04011v2)|null|
-|**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[link](http://arxiv.org/abs/2408.09615v1)|null|
+|**2024-08-20**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[link](http://arxiv.org/abs/2408.09615v1)|null|
 |**2024-11-16**|**Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[link](http://arxiv.org/abs/2408.08191v5)|null|
 |**2024-09-15**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[link](http://arxiv.org/abs/2408.04823v2)|null|
 |**2024-10-03**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[link](http://arxiv.org/abs/2408.03717v2)|null|
 |**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2408.02780v1)|null|
-|**2024-08-05**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2408.02773v1)|null|
+|**2024-08-07**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2408.02773v1)|null|
 |**2024-08-08**|**Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection**|Jing Wu et.al.|[link](http://arxiv.org/abs/2408.01976v2)|null|
 |**2025-04-22**|**Towards Robust Infrared Small Target Detection: A Feature-Enhanced and Sensitivity-Tunable Framework**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2407.20090v2)|null|
 |**2025-10-07**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection**|Mengxuan Xiao et.al.|[link](http://arxiv.org/abs/2407.20078v3)|null|
 |**2024-07-22**|**Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection**|Fei Zhou et.al.|[link](http://arxiv.org/abs/2407.15369v1)|null|
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[link](http://arxiv.org/abs/2407.07520v1)|null|
+|**2024-07-02**|**Small Aerial Target Detection for Airborne Infrared Detection Systems using LightGBM and Trajectory Constraints**|Xiaoliang Sun et.al.|[link](http://arxiv.org/abs/2407.01278v1)|null|
 |**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[link](http://arxiv.org/abs/2406.13445v1)|null|
 |**2024-09-05**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[link](http://arxiv.org/abs/2406.06949v2)|null|
 |**2024-11-25**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2406.02037v2)|null|
 |**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[link](http://arxiv.org/abs/2406.00632v1)|null|
 |**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[link](http://arxiv.org/abs/2403.19366v1)|null|
-|**2024-03-13**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[link](http://arxiv.org/abs/2403.08380v1)|null|
-|**2024-03-08**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[link](http://arxiv.org/abs/2403.05416v1)|null|
-|**2024-06-24**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[link](http://arxiv.org/abs/2403.02148v4)|null|
+|**2024-03-14**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[link](http://arxiv.org/abs/2403.08380v1)|**[code](https://github.com/Li-Haoqing/IRSTD-Diff)**|
+|**2024-03-11**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[link](http://arxiv.org/abs/2403.05416v1)|**[code](https://github.com/luy0222/SIRST-5K)**|
+|**2024-06-25**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[link](http://arxiv.org/abs/2403.02148v4)|**[code](https://github.com/txchen-USTC/MiM-ISTD)**|
 |**2024-02-28**|**Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach**|Jiqian Zhao et.al.|[link](http://arxiv.org/abs/2402.18003v1)|null|
 |**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[link](http://arxiv.org/abs/2402.05410v1)|null|
-|**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2402.02288v1)|null|
+|**2024-02-06**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2402.02288v1)|null|
 |**2024-02-03**|**TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection**|Tianxiang Chen et.al.|[link](http://arxiv.org/abs/2402.02046v1)|null|
 |**2024-04-30**|**SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection**|Shuai Yuan et.al.|[link](http://arxiv.org/abs/2401.15583v3)|null|
 |**2025-01-24**|**ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping**|Shuai Yuan et.al.|[link](http://arxiv.org/abs/2401.15578v3)|null|
@@ -81,9 +82,9 @@
 |**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[link](http://arxiv.org/abs/2311.00917v1)|null|
 |**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[link](http://arxiv.org/abs/2310.12562v1)|null|
 |**2023-10-09**|**Infrared Small Target Detection Using Double-Weighted Multi-Granularity Patch Tensor Model With Tensor-Train Decomposition**|Guiyu Zhang et.al.|[link](http://arxiv.org/abs/2310.05347v1)|null|
-|**2023-09-24**|**ILNet: Low-level Matters for Salient Infrared Small Target Detection**|Haoqing Li et.al.|[link](http://arxiv.org/abs/2309.13646v1)|null|
+|**2023-09-26**|**ILNet: Low-level Matters for Salient Infrared Small Target Detection**|Haoqing Li et.al.|[link](http://arxiv.org/abs/2309.13646v1)|null|
 |**2023-09-03**|**Enhancing Infrared Small Target Detection Robustness with Bi-Level Adversarial Framework**|Zhu Liu et.al.|[link](http://arxiv.org/abs/2309.01099v1)|null|
-|**2024-02-27**|**EFLNet: Enhancing Feature Learning for Infrared Small Target Detection**|Bo Yang et.al.|[link](http://arxiv.org/abs/2307.14723v2)|null|
+|**2024-02-28**|**EFLNet: Enhancing Feature Learning for Infrared Small Target Detection**|Bo Yang et.al.|[link](http://arxiv.org/abs/2307.14723v2)|null|
 |**2023-04-10**|**Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection**|Boyang Li et.al.|[link](http://arxiv.org/abs/2304.04442v1)|null|
 |**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[link](http://arxiv.org/abs/2304.01484v3)|null|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[link](http://arxiv.org/abs/2303.10321v1)|null|
@@ -92,19 +93,21 @@
 |**2022-12-31**|**One-Stage Cascade Refinement Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[link](http://arxiv.org/abs/2212.08472v2)|null|
 |**2023-06-29**|**iSmallNet: Densely Nested Network with Label Decoupling for Infrared Small Target Detection**|Zhiheng Hu et.al.|[link](http://arxiv.org/abs/2210.16561v2)|null|
 |**2023-04-15**|**CourtNet for Infrared Small-Target Detection**|Jingchao Peng et.al.|[link](http://arxiv.org/abs/2209.13780v2)|null|
-|**2022-06-14**|**A Multi-task Framework for Infrared Small Target Detection and Segmentation**|Yuhang Chen et.al.|[link](http://arxiv.org/abs/2206.06923v1)|null|
+|**2022-10-05**|**A Multi-task Framework for Infrared Small Target Detection and Segmentation**|Yuhang Chen et.al.|[link](http://arxiv.org/abs/2206.06923v1)|null|
 |**2022-06-05**|**MPANet: Multi-Patch Attention For Infrared Small Target object Detection**|Ao Wang et.al.|[link](http://arxiv.org/abs/2206.02120v1)|null|
 |**2022-05-26**|**PixelGame: Infrared small target segmentation as a Nash equilibrium**|Heng Zhou et.al.|[link](http://arxiv.org/abs/2205.13124v1)|null|
-|**2023-04-04**|**Local Motion and Contrast Priors Driven Deep Network for Infrared Small Target Super-Resolution**|Xinyi Ying et.al.|[link](http://arxiv.org/abs/2201.01014v5)|null|
+|**2023-04-05**|**Local Motion and Contrast Priors Driven Deep Network for Infrared Small Target Super-Resolution**|Xinyi Ying et.al.|[link](http://arxiv.org/abs/2201.01014v5)|null|
 |**2021-11-05**|**AGPCNet: Attention-Guided Pyramid Context Networks for Infrared Small Target Detection**|Tianfang Zhang et.al.|[link](http://arxiv.org/abs/2111.03580v1)|null|
-|**2021-09-29**|**Local Patch Network with Global Attention for Infrared Small Target Detection**|Fang Chen et.al.|[link](http://arxiv.org/abs/2108.06054v3)|null|
-|**2022-08-16**|**Dense Nested Attention Network for Infrared Small Target Detection**|Boyang Li et.al.|[link](http://arxiv.org/abs/2106.00487v3)|null|
+|**2025-07-15**|**Local Patch Network with Global Attention for Infrared Small Target Detection**|Fang Chen et.al.|[link](http://arxiv.org/abs/2108.06054v3)|null|
+|**2022-08-17**|**Dense Nested Attention Network for Infrared Small Target Detection**|Boyang Li et.al.|[link](http://arxiv.org/abs/2106.00487v3)|null|
 |**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[link](http://arxiv.org/abs/2105.14974v2)|null|
 |**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[link](http://arxiv.org/abs/2012.08573v1)|null|
 |**2020-11-24**|**Infrared small target detection based on isotropic constraint under complex background**|Fan Wang et.al.|[link](http://arxiv.org/abs/2011.12059v1)|null|
 |**2020-10-02**|**Multiple Infrared Small Targets Detection based on Hierarchical Maximal Entropy Random Walk**|Chaoqun Xia et.al.|[link](http://arxiv.org/abs/2010.00923v1)|null|
-|**2020-09-30**|**Asymmetric Contextual Modulation for Infrared Small Target Detection**|Yimian Dai et.al.|[link](http://arxiv.org/abs/2009.14530v1)|null|
+|**2020-10-01**|**Asymmetric Contextual Modulation for Infrared Small Target Detection**|Yimian Dai et.al.|[link](http://arxiv.org/abs/2009.14530v1)|**[code](https://github.com/YimianDai/open-acm)**|
 |**2020-06-15**|**Filter design for small target detection on infrared imagery using normalized-cross-correlation layer**|H. Seçkin Demir et.al.|[link](http://arxiv.org/abs/2006.08162v1)|null|
+|**2020-01-17**|**TBC-Net: A real-time detector for infrared small target detection using semantic constraint**|Mingxin Zhao et.al.|[link](http://arxiv.org/abs/2001.05852v1)|null|
+|**2022-09-20**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[link](http://arxiv.org/abs/1810.03173v4)|null|
 
 ### graph
 
@@ -595,6 +598,26 @@
 |**2025-10-20**|**The Free Transformer**|François Fleuret et.al.|[link](http://arxiv.org/abs/2510.17558v1)|null|
 |**2025-10-20**|**MambaX-Net: Dual-Input Mamba-Enhanced Cross-Attention Network for Longitudinal MRI Segmentation**|Yovin Yahathugoda et.al.|[link](http://arxiv.org/abs/2510.17529v1)|null|
 |**2025-10-20**|**Néel-Vector-Orientation Induced Intrinsic Half-Metallicity in Two-Dimensional Altermagnets**|Xin Chen et.al.|[link](http://arxiv.org/abs/2510.17522v1)|null|
+|**2025-08-08**|**Decoupling Continual Semantic Segmentation**|Yifu Guo et.al.|[link](http://arxiv.org/abs/2508.05065v1)|null|
+|**2024-11-05**|**MBDRes-U-Net: Multi-Scale Lightweight Brain Tumor Segmentation Network**|Longfeng Shen et.al.|[link](http://arxiv.org/abs/2411.01896v1)|null|
+|**2024-11-28**|**Image Segmentation in Foundation Model Era: A Survey**|Tianfei Zhou et.al.|[link](http://arxiv.org/abs/2408.12957v3)|null|
+|**2024-07-23**|**Point Transformer V3 Extreme: 1st Place Solution for 2024 Waymo Open Dataset Challenge in Semantic Segmentation**|Xiaoyang Wu et.al.|[link](http://arxiv.org/abs/2407.15282v1)|null|
+|**2024-04-09**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[link](http://arxiv.org/abs/2404.05657v1)|null|
+|**2023-09-01**|**Prompt-enhanced Hierarchical Transformer Elevating Cardiopulmonary Resuscitation Instruction via Temporal Action Segmentation**|Yang Liu et.al.|[link](http://arxiv.org/abs/2308.16552v1)|null|
+|**2024-03-08**|**EasyPortrait -- Face Parsing and Portrait Segmentation Dataset**|Karina Kvanchiani et.al.|[link](http://arxiv.org/abs/2304.13509v3)|null|
+|**2024-08-06**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[link](http://arxiv.org/abs/2304.09854v4)|null|
+|**2022-08-30**|**Accurate and Robust Lesion RECIST Diameter Prediction and Segmentation with Transformers**|Youbao Tang et.al.|[link](http://arxiv.org/abs/2208.13113v1)|null|
+|**2022-03-29**|**Stratified Transformer for 3D Point Cloud Segmentation**|Xin Lai et.al.|[link](http://arxiv.org/abs/2203.14508v1)|null|
+|**2022-01-05**|**PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture**|Kai Han et.al.|[link](http://arxiv.org/abs/2201.00978v1)|null|
+|**2022-04-14**|**SeMask: Semantically Masked Transformers for Semantic Segmentation**|Jitesh Jain et.al.|[link](http://arxiv.org/abs/2112.12782v3)|null|
+|**2021-11-22**|**Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP**|Daniil Pakhomov et.al.|[link](http://arxiv.org/abs/2107.12518v2)|null|
+|**2021-04-26**|**Learning to Cluster Faces via Transformer**|Jinxing Ye et.al.|[link](http://arxiv.org/abs/2104.11502v1)|null|
+|**2020-11-24**|**Efficient embedding network for 3D brain tumor segmentation**|Hicham Messaoudi et.al.|[link](http://arxiv.org/abs/2011.11052v1)|null|
+|**2019-10-18**|**End-to-End Cascaded U-Nets with a Localization Network for Kidney Tumor Segmentation**|Minh H. Vu et.al.|[link](http://arxiv.org/abs/1910.07521v1)|null|
+|**2021-05-03**|**Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation**|Yuhui Yuan et.al.|[link](http://arxiv.org/abs/1909.11065v6)|null|
+|**2019-09-17**|**3D Kidneys and Kidney Tumor Semantic Segmentation using Boundary-Aware Networks**|Andriy Myronenko et.al.|[link](http://arxiv.org/abs/1909.06684v1)|null|
+|**2019-03-18**|**Mixture Modeling of Global Shape Priors and Autoencoding Local Intensity Priors for Left Atrium Segmentation**|Tim Sodergren et.al.|[link](http://arxiv.org/abs/1903.06260v1)|null|
+|**2013-02-19**|**Robust Image Segmentation in Low Depth Of Field Images**|Franz Graf et.al.|[link](http://arxiv.org/abs/1302.3900v1)|null|
 
 ### mamba
 
@@ -735,6 +758,26 @@
 |**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|Yuchan Jie et.al.|[link](http://arxiv.org/abs/2509.09427v1)|null|
 |**2025-10-17**|**First-order State Space Model for Lightweight Image Super-resolution**|Yujie Zhu et.al.|[link](http://arxiv.org/abs/2509.08458v2)|null|
 |**2025-09-10**|**Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|[link](http://arxiv.org/abs/2509.08265v1)|null|
+|**2025-10-30**|**Differential Mamba**|Nadav Schneider et.al.|[link](http://arxiv.org/abs/2507.06204v2)|null|
+|**2025-07-02**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[link](http://arxiv.org/abs/2507.00849v1)|null|
+|**2025-07-01**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[link](http://arxiv.org/abs/2506.23783v1)|null|
+|**2025-04-25**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[link](http://arxiv.org/abs/2504.17515v1)|null|
+|**2025-09-23**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[link](http://arxiv.org/abs/2504.13499v2)|null|
+|**2025-04-11**|**ms-Mamba: Multi-scale Mamba for Time-Series Forecasting**|Yusuf Meric Karadag et.al.|[link](http://arxiv.org/abs/2504.07654v1)|null|
+|**2025-10-07**|**Mamba base PKD for efficient knowledge compression**|José Medina et.al.|[link](http://arxiv.org/abs/2503.01727v2)|null|
+|**2024-10-15**|**Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution**|Junbo Qiao et.al.|[link](http://arxiv.org/abs/2410.10140v1)|null|
+|**2024-10-11**|**Mamba-based Segmentation Model for Speaker Diarization**|Alexis Plaquet et.al.|[link](http://arxiv.org/abs/2410.06459v2)|null|
+|**2025-05-30**|**Exploring the Limitations of Mamba in COPY and CoT Reasoning**|Ruifeng Ren et.al.|[link](http://arxiv.org/abs/2410.03810v3)|null|
+|**2024-08-23**|**Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval**|Hanqi Zhang et.al.|[link](http://arxiv.org/abs/2408.08066v2)|null|
+|**2025-06-30**|**Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**|Xiaojie Li et.al.|[link](http://arxiv.org/abs/2407.06136v3)|null|
+|**2024-06-27**|**Deep Mamba Multi-modal Learning**|Jian Zhu et.al.|[link](http://arxiv.org/abs/2406.18007v1)|null|
+|**2024-06-12**|**Autoregressive Pretraining with Mamba in Vision**|Sucheng Ren et.al.|[link](http://arxiv.org/abs/2406.07537v1)|null|
+|**2024-06-06**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[link](http://arxiv.org/abs/2406.03344v1)|null|
+|**2024-05-08**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[link](http://arxiv.org/abs/2405.04404v1)|null|
+|**2024-05-01**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[link](http://arxiv.org/abs/2404.19394v1)|null|
+|**2024-06-28**|**Bi-Mamba+: Bidirectional Mamba for Time Series Forecasting**|Aobo Liang et.al.|[link](http://arxiv.org/abs/2404.15772v3)|null|
+|**2024-06-25**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[link](http://arxiv.org/abs/2403.02148v4)|null|
+|**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[link](http://arxiv.org/abs/2401.09417v3)|null|
 
 ### graph-seg
 
@@ -941,11 +984,32 @@
 |**2025-10-24**|**Estimating Treatment Effects in Networks using Domain Adversarial Training**|Daan Caljon et.al.|[link](http://arxiv.org/abs/2510.21457v1)|null|
 |**2025-10-24**|**Causality Meets Locality: Provably Generalizable and Scalable Policy Learning for Networked Systems**|Hao Liang et.al.|[link](http://arxiv.org/abs/2510.21427v1)|null|
 |**2025-10-24**|**MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence**|Yue Feng et.al.|[link](http://arxiv.org/abs/2510.21406v1)|null|
+|**2024-11-05**|**On RAC Drawings of Graphs with Two Bends per Edge**|Csaba D. Tóth et.al.|[link](http://arxiv.org/abs/2308.02663v3)|null|
+|**2021-11-22**|**Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP**|Daniil Pakhomov et.al.|[link](http://arxiv.org/abs/2107.12518v2)|null|
+|**2021-07-06**|**Template-Based Graph Clustering**|Mateus Riva et.al.|[link](http://arxiv.org/abs/2107.01994v1)|null|
+|**2020-11-24**|**Efficient embedding network for 3D brain tumor segmentation**|Hicham Messaoudi et.al.|[link](http://arxiv.org/abs/2011.11052v1)|null|
+|**2021-06-28**|**Graph Rewriting and Relabeling with PBPO+**|Roy Overbeek et.al.|[link](http://arxiv.org/abs/2010.08230v3)|null|
+|**2019-09-17**|**3D Kidneys and Kidney Tumor Semantic Segmentation using Boundary-Aware Networks**|Andriy Myronenko et.al.|[link](http://arxiv.org/abs/1909.06684v1)|null|
+|**2023-07-28**|**$L(p,q)$-Labeling of Graphs with Interval Representations**|Mehmet Akif Yetim et.al.|[link](http://arxiv.org/abs/1909.05425v2)|null|
+|**2019-09-10**|**Variants of the Segment Number of a Graph**|Yoshio Okamoto et.al.|[link](http://arxiv.org/abs/1908.08871v2)|null|
+|**2021-11-16**|**A limit theorem for small cliques in inhomogeneous random graphs**|Jan Hladky et.al.|[link](http://arxiv.org/abs/1903.10570v3)|null|
+|**2019-03-18**|**Mixture Modeling of Global Shape Priors and Autoencoding Local Intensity Priors for Left Atrium Segmentation**|Tim Sodergren et.al.|[link](http://arxiv.org/abs/1903.06260v1)|null|
+|**2019-01-18**|**Hamiltonian chromatic number of block graphs**|Devsi Bantva et.al.|[link](http://arxiv.org/abs/1901.05839v1)|null|
+|**2018-09-10**|**Drawing Planar Graphs with Few Geometric Primitives**|Gregor Hültenschmidt et.al.|[link](http://arxiv.org/abs/1703.01691v4)|null|
+|**2018-12-18**|**Crossing Minimization for 1-page and 2-page Drawings of Graphs with Bounded Treewidth**|Michael J. Bannister et.al.|[link](http://arxiv.org/abs/1408.6321v1)|null|
+|**2015-07-16**|**Planar Induced Subgraphs of Sparse Graphs**|Glencora Borradaile et.al.|[link](http://arxiv.org/abs/1408.5939v2)|null|
+|**2016-03-22**|**The Galois Complexity of Graph Drawing: Why Numerical Solutions are Ubiquitous for Force-Directed, Spectral, and Circle Packing Drawings**|Michael J. Bannister et.al.|[link](http://arxiv.org/abs/1408.1422v1)|null|
+|**2017-05-25**|**Partitioning Perfect Graphs into Stars**|René van Bevern et.al.|[link](http://arxiv.org/abs/1402.2589v3)|null|
+|**2013-02-19**|**Robust Image Segmentation in Low Depth Of Field Images**|Franz Graf et.al.|[link](http://arxiv.org/abs/1302.3900v1)|null|
+|**2011-12-20**|**Lombardi Drawings of Graphs**|Christian A. Duncan et.al.|[link](http://arxiv.org/abs/1009.0579v1)|null|
+|**2015-07-16**|**Optimal 3D Angular Resolution for Low-Degree Graphs**|David Eppstein et.al.|[link](http://arxiv.org/abs/1009.0045v1)|null|
+|**2011-09-07**|**Every longest circuit of a 3-connected, $K_{3,3}$-minor free graph has a chord**|E. Birmelé et.al.|[link](http://arxiv.org/abs/0711.2360v2)|null|
 
 ### Cross
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
 |**2025-11-07**|**PreResQ-R1: Towards Fine-Grained Rank-and-Score Reinforcement Learning for Visual Quality Assessment via Preference-Response Disentangled Policy Optimization**|Zehui Feng et.al.|[link](http://arxiv.org/abs/2511.05393v1)|null|
 |**2025-11-07**|**Cross-domain EEG-based Emotion Recognition with Contrastive Learning**|Rui Yan et.al.|[link](http://arxiv.org/abs/2511.05293v1)|null|
 |**2025-11-07**|**Channel Knowledge Map Construction: Recent Advances and Open Challenges**|Zixiang Ren et.al.|[link](http://arxiv.org/abs/2511.04944v1)|null|
@@ -1022,4 +1086,23 @@
 |**2025-10-21**|**TreeFedDG: Alleviating Global Drift in Federated Domain Generalization for Medical Image Segmentation**|Yucheng Song et.al.|[link](http://arxiv.org/abs/2510.18268v1)|null|
 |**2025-10-20**|**Cross-Domain Long-Term Forecasting: Radiation Dose from Sparse Neutron Sensor via Spatio-Temporal Operator Network**|Jay Phil Yoo et.al.|[link](http://arxiv.org/abs/2510.18041v1)|null|
 |**2025-10-20**|**Signature Forgery Detection: Improving Cross-Dataset Generalization**|Matheus Ramos Parracho et.al.|[link](http://arxiv.org/abs/2510.17724v1)|null|
+|**2025-10-28**|**DmC: Nearest Neighbor Guidance Diffusion Model for Offline Cross-domain Reinforcement Learning**|Linh Le Pham Van et.al.|[link](http://arxiv.org/abs/2507.20499v2)|null|
+|**2025-08-12**|**When Domains Collide: An Activity Theory Exploration of Cross-Disciplinary Collaboration**|Zixuan Feng et.al.|[link](http://arxiv.org/abs/2506.20063v3)|null|
+|**2025-03-13**|**Decoupled Doubly Contrastive Learning for Cross Domain Facial Action Unit Detection**|Yong Li et.al.|[link](http://arxiv.org/abs/2503.08977v1)|null|
+|**2025-10-21**|**Cross-Domain Graph Anomaly Detection via Test-Time Training with Homophily-Guided Self-Supervision**|Delaram Pirhayati et.al.|[link](http://arxiv.org/abs/2502.14293v2)|null|
+|**2025-02-04**|**xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing**|Haoyi Niu et.al.|[link](http://arxiv.org/abs/2409.08687v3)|null|
+|**2024-06-12**|**Two-Stage Adaptive Network for Semi-Supervised Cross-Domain Crater Detection under Varying Scenario Distributions**|Yifan Liu et.al.|[link](http://arxiv.org/abs/2312.06169v2)|null|
+|**2023-03-29**|**MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation**|Ziyuan Zhao et.al.|[link](http://arxiv.org/abs/2303.15826v1)|null|
+|**2023-05-26**|**Cross-domain Compositing with Pretrained Diffusion Models**|Roy Hachnochi et.al.|[link](http://arxiv.org/abs/2302.10167v2)|null|
+|**2023-12-20**|**COSMOS: Cross-Modality Unsupervised Domain Adaptation for 3D Medical Image Segmentation based on Target-aware Domain Translation and Iterative Self-Training**|Hyungseob Shin et.al.|[link](http://arxiv.org/abs/2203.16557v2)|null|
+|**2022-01-05**|**Multi-Representation Adaptation Network for Cross-domain Image Classification**|Yongchun Zhu et.al.|[link](http://arxiv.org/abs/2201.01002v1)|null|
+|**2021-09-30**|**Unsupervised Domain Adaptation in Semantic Segmentation Based on Pixel Alignment and Self-Training**|Hexin Dong et.al.|[link](http://arxiv.org/abs/2109.14219v1)|null|
+|**2019-09-19**|**Weighed Domain-Invariant Representation Learning for Cross-domain Sentiment Analysis**|Minlong Peng et.al.|[link](http://arxiv.org/abs/1909.08167v1)|null|
+|**2019-08-09**|**Neural Network based Deep Transfer Learning for Cross-domain Dependency Parsing**|Zhentao Xia et.al.|[link](http://arxiv.org/abs/1908.02895v1)|null|
+|**2020-07-13**|**Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night**|Vinicius F. Arruda et.al.|[link](http://arxiv.org/abs/1907.08719v1)|null|
+|**2019-10-16**|**Cross-Domain Transferability of Adversarial Perturbations**|Muzammal Naseer et.al.|[link](http://arxiv.org/abs/1905.11736v5)|null|
+|**2019-12-30**|**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**|Qi Cai et.al.|[link](http://arxiv.org/abs/1904.11245v2)|null|
+|**2018-10-12**|**CD-CNN: A Partially Supervised Cross-Domain Deep Learning Model for Urban Resident Recognition**|Jingyuan Wang et.al.|[link](http://arxiv.org/abs/1804.09901v2)|null|
+|**2013-11-28**|**Cross-Domain Sparse Coding**|Jim Jing-Yan Wang et.al.|[link](http://arxiv.org/abs/1311.7080v1)|null|
+|**2011-01-25**|**Cross ratios, translation lengths and maximal representations**|Tobias Hartnick et.al.|[link](http://arxiv.org/abs/0908.4101v2)|null|
 
