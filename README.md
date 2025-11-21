@@ -1,4 +1,4 @@
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 
 ### ISTD
 
@@ -268,6 +268,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-19**|**Resolving Ratio Redundancy in Chemical Freeze-out Studies with Principal Component Analysis and Bayesian Calibration**|Nachiketa Sarkar et.al.|[link](http://arxiv.org/abs/2511.15707v1)|null|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[link](http://arxiv.org/abs/2511.15703v1)|null|
+|**2025-11-19**|**Terrestrial Matter Effects on Reactor Antineutrino Oscillations: Constant vs. Fluctuated Density Profiles**|Yu-Feng Li et.al.|[link](http://arxiv.org/abs/2511.15702v1)|null|
+|**2025-11-19**|**Joint Semantic-Channel Coding and Modulation for Token Communications**|Jingkai Ying et.al.|[link](http://arxiv.org/abs/2511.15699v1)|null|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[link](http://arxiv.org/abs/2511.15684v1)|null|
+|**2025-11-19**|**Efficient quantum state preparation of multivariate functions using tensor networks**|Marco Ballarin et.al.|[link](http://arxiv.org/abs/2511.15674v1)|null|
+|**2025-11-19**|**Quantum-Guided Test Case Minimization for LLM-Based Code Generation**|Huixiang Zhang et.al.|[link](http://arxiv.org/abs/2511.15665v1)|null|
+|**2025-11-19**|**GEO-Bench-2: From Performance to Capability, Rethinking Evaluation in Geospatial AI**|Naomi Simumba et.al.|[link](http://arxiv.org/abs/2511.15658v1)|null|
+|**2025-11-19**|**A Millennium of UK Business Cycles: Insights from Structural VAR Analysis**|Leonardo N. Ferreira et.al.|[link](http://arxiv.org/abs/2511.15643v1)|null|
+|**2025-11-19**|**Navigating Quantum Missteps in Agent-Based Modeling: A Schelling Model Case Study**|C. Nico Barati et.al.|[link](http://arxiv.org/abs/2511.15642v1)|null|
+|**2025-11-19**|**The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification**|Dante Francisco Wasmuht et.al.|[link](http://arxiv.org/abs/2511.15622v1)|null|
+|**2025-11-19**|**FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation**|Tingrui Shen et.al.|[link](http://arxiv.org/abs/2511.15618v1)|null|
+|**2025-11-19**|**Optimus-Q: Utilizing Federated Learning in Adaptive Robots for Intelligent Nuclear Power Plant Operations through Quantum Cryptography**|Sai Puppala et.al.|[link](http://arxiv.org/abs/2511.15614v1)|null|
+|**2025-11-19**|**MaskMed: Decoupled Mask and Class Prediction for Medical Image Segmentation**|Bin Xie et.al.|[link](http://arxiv.org/abs/2511.15603v1)|null|
+|**2025-11-19**|**Endomorphism and automorphism graphs of finite groups**|Midhuna V Ajith et.al.|[link](http://arxiv.org/abs/2511.15602v1)|null|
+|**2025-11-19**|**EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode**|Qian Zhu et.al.|[link](http://arxiv.org/abs/2511.15589v1)|null|
+|**2025-11-19**|**Real-Time Optimal Control via Transformer Networks and Bernstein Polynomials**|Gage MacLin et.al.|[link](http://arxiv.org/abs/2511.15588v1)|null|
+|**2025-11-19**|**Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi**|Kayo Tei et.al.|[link](http://arxiv.org/abs/2511.15581v1)|null|
+|**2025-11-19**|**From Low-Rank Features to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers**|Huiyuan Tian et.al.|[link](http://arxiv.org/abs/2511.15572v1)|null|
+|**2025-11-19**|**Integrability of Siegel transforms and an application**|René Pfitscher et.al.|[link](http://arxiv.org/abs/2511.15568v1)|null|
 |**2025-11-18**|**ARC Is a Vision Problem!**|Keya Hu et.al.|[link](http://arxiv.org/abs/2511.14761v1)|null|
 |**2025-11-18**|**Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers**|Yutian Chen et.al.|[link](http://arxiv.org/abs/2511.14751v1)|null|
 |**2025-11-18**|**Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge**|Antonia Ebner et.al.|[link](http://arxiv.org/abs/2511.14744v1)|null|
@@ -713,6 +733,11 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-19**|**MambaIO: Global-Coordinate Inertial Odometry for Pedestrians via Multi-Scale Frequency-Decoupled Modeling**|Shanshan Zhang et.al.|[link](http://arxiv.org/abs/2511.15645v1)|null|
+|**2025-11-19**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al.|[link](http://arxiv.org/abs/2511.15083v1)|null|
+|**2025-11-19**|**MambaTrack3D: A State Space Model Framework for LiDAR-Based Object Tracking under High Temporal Variation**|Shengjing Tian et.al.|[link](http://arxiv.org/abs/2511.15077v1)|null|
+|**2025-11-18**|**Quality-Controlled Multimodal Emotion Recognition in Conversations with Identity-Based Transfer Learning and MAMBA Fusion**|Zanxu Wang et.al.|[link](http://arxiv.org/abs/2511.14969v1)|null|
+|**2025-11-18**|**When CNNs Outperform Transformers and Mambas: Revisiting Deep Architectures for Dental Caries Segmentation**|Aashish Ghimire et.al.|[link](http://arxiv.org/abs/2511.14860v1)|null|
 |**2025-11-18**|**Parameter Aware Mamba Model for Multi-task Dense Prediction**|Xinzhuo Yu et.al.|[link](http://arxiv.org/abs/2511.14503v1)|null|
 |**2025-11-17**|**WinMamba: Multi-Scale Shifted Windows in State Space Model for 3D Object Detection**|Longhui Zheng et.al.|[link](http://arxiv.org/abs/2511.13138v1)|null|
 |**2025-11-17**|**Semantics and Content Matter: Towards Multi-Prior Hierarchical Mamba for Image Deraining**|Zhaocheng Yu et.al.|[link](http://arxiv.org/abs/2511.13113v1)|null|
@@ -899,6 +924,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-19**|**Terrestrial Matter Effects on Reactor Antineutrino Oscillations: Constant vs. Fluctuated Density Profiles**|Yu-Feng Li et.al.|[link](http://arxiv.org/abs/2511.15702v1)|null|
+|**2025-11-19**|**Front-door Reducibility: Reducing ADMGs to the Standard Front-door Setting via a Graphical Criterion**|Jianqiao Mao et.al.|[link](http://arxiv.org/abs/2511.15679v1)|null|
+|**2025-11-19**|**MF-GCN: A Multi-Frequency Graph Convolutional Network for Tri-Modal Depression Detection Using Eye-Tracking, Facial, and Acoustic Features**|Sejuti Rahman et.al.|[link](http://arxiv.org/abs/2511.15675v1)|null|
+|**2025-11-19**|**GEO-Bench-2: From Performance to Capability, Rethinking Evaluation in Geospatial AI**|Naomi Simumba et.al.|[link](http://arxiv.org/abs/2511.15658v1)|null|
+|**2025-11-19**|**Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning**|Tao Hu et.al.|[link](http://arxiv.org/abs/2511.15633v1)|null|
+|**2025-11-19**|**Fast and Certified Bounding of Security-Constrained DCOPF via Interval Bound Propagation**|Eren Tekeler et.al.|[link](http://arxiv.org/abs/2511.15624v1)|null|
+|**2025-11-19**|**The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification**|Dante Francisco Wasmuht et.al.|[link](http://arxiv.org/abs/2511.15622v1)|null|
+|**2025-11-19**|**MaskMed: Decoupled Mask and Class Prediction for Medical Image Segmentation**|Bin Xie et.al.|[link](http://arxiv.org/abs/2511.15603v1)|null|
+|**2025-11-19**|**Endomorphism and automorphism graphs of finite groups**|Midhuna V Ajith et.al.|[link](http://arxiv.org/abs/2511.15602v1)|null|
+|**2025-11-19**|**Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi**|Kayo Tei et.al.|[link](http://arxiv.org/abs/2511.15581v1)|null|
+|**2025-11-19**|**B+ANN: A Fast Billion-Scale Disk-based Nearest-Neighbor Index**|Selim Furkan Tekin et.al.|[link](http://arxiv.org/abs/2511.15557v1)|null|
+|**2025-11-19**|**The CAPIRE Curriculum Graph: Structural Feature Engineering for Curriculum-Constrained Student Modelling in Higher Education**|H. R. Paz et.al.|[link](http://arxiv.org/abs/2511.15536v1)|null|
+|**2025-11-19**|**A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture**|Pandiyaraju V et.al.|[link](http://arxiv.org/abs/2511.15535v1)|null|
+|**2025-11-19**|**Identification of periodic density structures in Solar Orbiter data: Radial evolution**|C. Katsavrias et.al.|[link](http://arxiv.org/abs/2511.15518v1)|null|
+|**2025-11-19**|**Multi-Text Guided Few-Shot Semantic Segmentation**|Qiang Jiao et.al.|[link](http://arxiv.org/abs/2511.15515v1)|null|
+|**2025-11-19**|**Efficient Exoplanet Imaging Simulations of the Habitable Worlds Observatory**|Jamila Taaki et.al.|[link](http://arxiv.org/abs/2511.15511v1)|null|
+|**2025-11-19**|**On the largest degrees in intersecting hypergraphs**|Peter Frankl et.al.|[link](http://arxiv.org/abs/2511.15508v1)|null|
+|**2025-11-19**|**Proving there is a leader without naming it**|Laurent Feuilloley et.al.|[link](http://arxiv.org/abs/2511.15491v1)|null|
+|**2025-11-19**|**Odd Induced Subgraphs in Graphs of Maximum Degree Four**|Jiangdong Ai et.al.|[link](http://arxiv.org/abs/2511.15489v1)|null|
+|**2025-11-19**|**Computation for Epidemic Prediction with Graph Neural Network by Model Combination**|Xiangxin Kong et.al.|[link](http://arxiv.org/abs/2511.15469v1)|null|
 |**2025-11-18**|**Cloud-Native Vector Search: A Comprehensive Performance Analysis**|Zhaoheng Li et.al.|[link](http://arxiv.org/abs/2511.14748v1)|null|
 |**2025-11-18**|**Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge**|Antonia Ebner et.al.|[link](http://arxiv.org/abs/2511.14744v1)|null|
 |**2025-11-18**|**On finite groups with soluble centralisers**|Valentina Grazian et.al.|[link](http://arxiv.org/abs/2511.14723v1)|null|
@@ -1206,6 +1251,14 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[link](http://arxiv.org/abs/2511.15684v1)|null|
+|**2025-11-19**|**Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector**|Weiheng Zhu et.al.|[link](http://arxiv.org/abs/2511.15571v1)|null|
+|**2025-11-19**|**A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems**|Yu Sha et.al.|[link](http://arxiv.org/abs/2511.15497v1)|null|
+|**2025-11-19**|**Reflexive Evidence-Based Multimodal Learning for Clean Energy Transitions: Causal Insights on Cooking Fuel Access, Urbanization, and Carbon Emissions**|Shan Shan et.al.|[link](http://arxiv.org/abs/2511.15342v1)|null|
+|**2025-11-19**|**Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks**|Bui Duc Son et.al.|[link](http://arxiv.org/abs/2511.15206v1)|null|
+|**2025-11-19**|**Insert In Style: A Zero-Shot Generative Framework for Harmonious Cross-Domain Object Composition**|Raghu Vamsi Chittersu et.al.|[link](http://arxiv.org/abs/2511.15197v1)|null|
+|**2025-11-19**|**MAIF: Enforcing AI Trust and Provenance with an Artifact-Centric Agentic Paradigm**|Vineeth Sai Narajala et.al.|[link](http://arxiv.org/abs/2511.15097v1)|null|
+|**2025-11-19**|**The existence and instability of blowing-up steady states for the Shigesada-Kawasaki-Teramoto competition model with cross-diffusion**|Kousuke Kuto et.al.|[link](http://arxiv.org/abs/2511.15039v1)|null|
 |**2025-11-18**|**Stratospheric Grid: A Wireless Power Transfer Enabled HAP Network with Integrated Generation-Grid-Load-Storage Functions**|Peng Wang et.al.|[link](http://arxiv.org/abs/2511.14527v1)|null|
 |**2025-11-18**|**Toward Robust and Harmonious Adaptation for Cross-modal Retrieval**|Haobin Li et.al.|[link](http://arxiv.org/abs/2511.14416v1)|null|
 |**2025-11-18**|**Cranio-ID: Graph-Based Craniofacial Identification via Automatic Landmark Annotation in 2D Multi-View X-rays**|Ravi Shankar Prasad et.al.|[link](http://arxiv.org/abs/2511.14411v1)|null|
