@@ -1,4 +1,4 @@
-## Updated on 2025.11.21
+## Updated on 2025.11.22
 
 ### ISTD
 
@@ -268,6 +268,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-20**|**Cognitive Foundations for Reasoning and Their Manifestation in LLMs**|Priyanka Kargupta et.al.|[link](http://arxiv.org/abs/2511.16660v1)|null|
+|**2025-11-20**|**Late-decoupled 3D Hierarchical Semantic Segmentation with Semantic Prototype Discrimination based Bi-branch Supervision**|Shuyu Cao et.al.|[link](http://arxiv.org/abs/2511.16650v1)|null|
+|**2025-11-20**|**TFCDiff: Robust ECG Denoising via Time-Frequency Complementary Diffusion**|Pengxin Li et.al.|[link](http://arxiv.org/abs/2511.16627v1)|null|
+|**2025-11-20**|**MedBayes-Lite: Bayesian Uncertainty Quantification for Safe Clinical Decision Support**|Elias Hossain et.al.|[link](http://arxiv.org/abs/2511.16625v1)|null|
+|**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[link](http://arxiv.org/abs/2511.16618v1)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[link](http://arxiv.org/abs/2511.16595v1)|null|
+|**2025-11-20**|**Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks**|Nirjhor Datta et.al.|[link](http://arxiv.org/abs/2511.16574v1)|null|
+|**2025-11-20**|**Probability Weighting Meets Heavy Tails: An Econometric Framework for Behavioral Asset Pricing**|Akash Deep et.al.|[link](http://arxiv.org/abs/2511.16563v1)|null|
+|**2025-11-20**|**A $(2+\varepsilon)$-approximation algorithm for the general scheduling problem in quasipolynomial time**|Alexander Armbruster et.al.|[link](http://arxiv.org/abs/2511.16536v1)|null|
+|**2025-11-20**|**Contrastive vision-language learning with paraphrasing and negation**|Kwun Ho Ngan et.al.|[link](http://arxiv.org/abs/2511.16527v1)|null|
+|**2025-11-20**|**BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization**|Rahul Kumar et.al.|[link](http://arxiv.org/abs/2511.16524v1)|null|
+|**2025-11-20**|**A Butterfly's Eye Camera for Intensity Interferometry with Cherenkov Telescopes**|Juan Cortina et.al.|[link](http://arxiv.org/abs/2511.16505v1)|null|
+|**2025-11-20**|**ODE-ViT: Plug & Play Attention Layer from the Generalization of the ViT as an Ordinary Differential Equation**|Carlos Boned Riera et.al.|[link](http://arxiv.org/abs/2511.16501v1)|null|
+|**2025-11-20**|**Acquisition Time-Informed Breast Tumor Segmentation from Dynamic Contrast-Enhanced MRI**|Rui Wang et.al.|[link](http://arxiv.org/abs/2511.16498v1)|null|
+|**2025-11-20**|**An analytical and experimental study of the energy transition discourse on YouTube**|Aleix Bassolas et.al.|[link](http://arxiv.org/abs/2511.16497v1)|null|
+|**2025-11-20**|**Flow and Depth Assisted Video Prediction with Latent Transformer**|Eliyas Suleyman et.al.|[link](http://arxiv.org/abs/2511.16484v1)|null|
+|**2025-11-20**|**A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms**|Ali Murtaza Caunhye et.al.|[link](http://arxiv.org/abs/2511.16475v1)|null|
+|**2025-11-20**|**FastSurfer-CC: A robust, accurate, and comprehensive framework for corpus callosum morphometry**|Clemens Pollak et.al.|[link](http://arxiv.org/abs/2511.16471v1)|null|
+|**2025-11-20**|**Anatomy of an Idiom: Tracing Non-Compositionality in Language Models**|Andrew Gomes et.al.|[link](http://arxiv.org/abs/2511.16467v1)|null|
+|**2025-11-20**|**Connecting Collisional and Photofragmentation Resonances in the H$_2$ Ungerade Symmetry**|Dávid Hvizdoš et.al.|[link](http://arxiv.org/abs/2511.16461v1)|null|
 |**2025-11-19**|**Resolving Ratio Redundancy in Chemical Freeze-out Studies with Principal Component Analysis and Bayesian Calibration**|Nachiketa Sarkar et.al.|[link](http://arxiv.org/abs/2511.15707v1)|null|
 |**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[link](http://arxiv.org/abs/2511.15703v1)|null|
 |**2025-11-19**|**Terrestrial Matter Effects on Reactor Antineutrino Oscillations: Constant vs. Fluctuated Density Profiles**|Yu-Feng Li et.al.|[link](http://arxiv.org/abs/2511.15702v1)|null|
@@ -733,6 +753,11 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[link](http://arxiv.org/abs/2511.16664v1)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[link](http://arxiv.org/abs/2511.16595v1)|null|
+|**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[link](http://arxiv.org/abs/2511.16191v1)|null|
+|**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[link](http://arxiv.org/abs/2511.16161v1)|null|
+|**2025-11-19**|**Breaking the Bottleneck with DiffuApriel: High-Throughput Diffusion LMs with Mamba Backbone**|Vaibhav Singh et.al.|[link](http://arxiv.org/abs/2511.15927v1)|null|
 |**2025-11-19**|**MambaIO: Global-Coordinate Inertial Odometry for Pedestrians via Multi-Scale Frequency-Decoupled Modeling**|Shanshan Zhang et.al.|[link](http://arxiv.org/abs/2511.15645v1)|null|
 |**2025-11-19**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al.|[link](http://arxiv.org/abs/2511.15083v1)|null|
 |**2025-11-19**|**MambaTrack3D: A State Space Model Framework for LiDAR-Based Object Tracking under High Temporal Variation**|Shengjing Tian et.al.|[link](http://arxiv.org/abs/2511.15077v1)|null|
@@ -924,6 +949,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-20**|**Late-decoupled 3D Hierarchical Semantic Segmentation with Semantic Prototype Discrimination based Bi-branch Supervision**|Shuyu Cao et.al.|[link](http://arxiv.org/abs/2511.16650v1)|null|
+|**2025-11-20**|**TFCDiff: Robust ECG Denoising via Time-Frequency Complementary Diffusion**|Pengxin Li et.al.|[link](http://arxiv.org/abs/2511.16627v1)|null|
+|**2025-11-20**|**Fixed-magnetization Ising on random graphs up to reconstruction**|Reza Gheissari et.al.|[link](http://arxiv.org/abs/2511.16620v1)|null|
+|**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[link](http://arxiv.org/abs/2511.16618v1)|null|
+|**2025-11-20**|**Rate-optimal community detection near the KS threshold via node-robust algorithms**|Jingqiu Ding et.al.|[link](http://arxiv.org/abs/2511.16613v1)|null|
+|**2025-11-20**|**OpenQudit: Extensible and Accelerated Numerical Quantum Compilation via a JIT-Compiled DSL**|Ed Younis et.al.|[link](http://arxiv.org/abs/2511.16585v1)|null|
+|**2025-11-20**|**Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks**|Nirjhor Datta et.al.|[link](http://arxiv.org/abs/2511.16574v1)|null|
+|**2025-11-20**|**Selfconsistent Transfer Operators for Heterogeneous Coupled Maps**|Herbert M. C. Maquera et.al.|[link](http://arxiv.org/abs/2511.16572v1)|null|
+|**2025-11-20**|**Entrywise Approximate Solutions for SDDM Systems in Almost-Linear Time**|Angelo Farfan et.al.|[link](http://arxiv.org/abs/2511.16570v1)|null|
+|**2025-11-20**|**Li-P-S Electrolyte Materials as a Benchmark for Machine-Learned Interatomic Potentials**|Natascia L. Fragapane et.al.|[link](http://arxiv.org/abs/2511.16569v1)|null|
+|**2025-11-20**|**NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening**|Misaal Khan et.al.|[link](http://arxiv.org/abs/2511.16566v1)|null|
+|**2025-11-20**|**Simulating Gaussian boson sampling on graphs in polynomial time**|Konrad Anand et.al.|[link](http://arxiv.org/abs/2511.16558v1)|null|
+|**2025-11-20**|**BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization**|Rahul Kumar et.al.|[link](http://arxiv.org/abs/2511.16524v1)|null|
+|**2025-11-20**|**YOWO: You Only Walk Once to Jointly Map An Indoor Scene and Register Ceiling-mounted Cameras**|Fan Yang et.al.|[link](http://arxiv.org/abs/2511.16521v1)|null|
+|**2025-11-20**|**Geometric property (T) for box spaces and sofic approximations**|Vadim Alekseev et.al.|[link](http://arxiv.org/abs/2511.16515v1)|null|
+|**2025-11-20**|**A Butterfly's Eye Camera for Intensity Interferometry with Cherenkov Telescopes**|Juan Cortina et.al.|[link](http://arxiv.org/abs/2511.16505v1)|null|
+|**2025-11-20**|**Acquisition Time-Informed Breast Tumor Segmentation from Dynamic Contrast-Enhanced MRI**|Rui Wang et.al.|[link](http://arxiv.org/abs/2511.16498v1)|null|
+|**2025-11-20**|**An analytical and experimental study of the energy transition discourse on YouTube**|Aleix Bassolas et.al.|[link](http://arxiv.org/abs/2511.16497v1)|null|
+|**2025-11-20**|**Groups that produce expander graphs**|Luca Sabatini et.al.|[link](http://arxiv.org/abs/2511.16479v1)|null|
+|**2025-11-20**|**FastSurfer-CC: A robust, accurate, and comprehensive framework for corpus callosum morphometry**|Clemens Pollak et.al.|[link](http://arxiv.org/abs/2511.16471v1)|null|
 |**2025-11-19**|**Terrestrial Matter Effects on Reactor Antineutrino Oscillations: Constant vs. Fluctuated Density Profiles**|Yu-Feng Li et.al.|[link](http://arxiv.org/abs/2511.15702v1)|null|
 |**2025-11-19**|**Front-door Reducibility: Reducing ADMGs to the Standard Front-door Setting via a Graphical Criterion**|Jianqiao Mao et.al.|[link](http://arxiv.org/abs/2511.15679v1)|null|
 |**2025-11-19**|**MF-GCN: A Multi-Frequency Graph Convolutional Network for Tri-Modal Depression Detection Using Eye-Tracking, Facial, and Acoustic Features**|Sejuti Rahman et.al.|[link](http://arxiv.org/abs/2511.15675v1)|null|
@@ -1251,6 +1296,15 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-11-20**|**Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks**|Nirjhor Datta et.al.|[link](http://arxiv.org/abs/2511.16574v1)|null|
+|**2025-11-20**|**Enhancing Multi-Camera Gymnast Tracking Through Domain Knowledge Integration**|Fan Yang et.al.|[link](http://arxiv.org/abs/2511.16532v1)|null|
+|**2025-11-20**|**MiMo-Embodied: X-Embodied Foundation Model Technical Report**|Xiaoshuai Hao et.al.|[link](http://arxiv.org/abs/2511.16518v1)|null|
+|**2025-11-20**|**Learning from Sufficient Rationales: Analysing the Relationship Between Explanation Faithfulness and Token-level Regularisation Strategies**|Jonathan Kamp et.al.|[link](http://arxiv.org/abs/2511.16353v1)|null|
+|**2025-11-20**|**Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning**|Mohammad Areeb Qazi et.al.|[link](http://arxiv.org/abs/2511.16333v1)|null|
+|**2025-11-20**|**Domain-Shared Learning and Gradual Alignment for Unsupervised Domain Adaptation Visible-Infrared Person Re-Identification**|Nianchang Huang et.al.|[link](http://arxiv.org/abs/2511.16184v1)|null|
+|**2025-11-20**|**Boosting Medical Visual Understanding From Multi-Granular Language Learning**|Zihan Li et.al.|[link](http://arxiv.org/abs/2511.15943v1)|null|
+|**2025-11-19**|**Tracking financial crime through code and law: a review of regtech applications in anti-money laundering and terrorism financing**|Mariam El Harras et.al.|[link](http://arxiv.org/abs/2511.15764v1)|null|
+|**2025-11-19**|**A time for monsters: Organizational knowing after LLMs**|Samer Faraj et.al.|[link](http://arxiv.org/abs/2511.15762v1)|null|
 |**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[link](http://arxiv.org/abs/2511.15684v1)|null|
 |**2025-11-19**|**Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector**|Weiheng Zhu et.al.|[link](http://arxiv.org/abs/2511.15571v1)|null|
 |**2025-11-19**|**A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems**|Yu Sha et.al.|[link](http://arxiv.org/abs/2511.15497v1)|null|
