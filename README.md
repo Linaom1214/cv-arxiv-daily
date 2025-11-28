@@ -1,4 +1,4 @@
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 
 ### ISTD
 
@@ -272,6 +272,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[link](http://arxiv.org/abs/2511.21690v1)|null|
+|**2025-11-26**|**Lesion-Independent Thalamic Degeneration Identifies Intrinsically Vulnerable Nuclei Associated with Cognitive Impairment in Multiple Sclerosis**|Arshya Pooladi-Darvish et.al.|[link](http://arxiv.org/abs/2511.21677v1)|null|
+|**2025-11-26**|**Revolutionizing Glioma Segmentation & Grading Using 3D MRI - Guided Hybrid Deep Learning Models**|Pandiyaraju V et.al.|[link](http://arxiv.org/abs/2511.21673v1)|null|
+|**2025-11-26**|**Mechanisms of Non-Monotonic Scaling in Vision Transformers**|Anantha Padmanaban Krishna Kumar et.al.|[link](http://arxiv.org/abs/2511.21635v1)|null|
+|**2025-11-26**|**A Category of the Political \Large{Part I - Homónoia}**|Joseph Abdou et.al.|[link](http://arxiv.org/abs/2511.21623v1)|null|
+|**2025-11-26**|**On the Origin of Algorithmic Progress in AI**|Hans Gundlach et.al.|[link](http://arxiv.org/abs/2511.21622v1)|null|
+|**2025-11-26**|**SIR Analysis for Affine Filter Bank Modulation**|Henrique L. Senger et.al.|[link](http://arxiv.org/abs/2511.21615v1)|null|
+|**2025-11-26**|**Automated Protein Motif Localization using Concept Activation Vectors in Protein Language Model Embedding Space**|Ahmad Shamail et.al.|[link](http://arxiv.org/abs/2511.21614v1)|null|
+|**2025-11-26**|**Entropy Coding for Non-Rectangular Transform Blocks using Partitioned DCT Dictionaries for AV1**|Priyanka Das et.al.|[link](http://arxiv.org/abs/2511.21609v1)|null|
+|**2025-11-26**|**ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images**|M. Naseer Subhani et.al.|[link](http://arxiv.org/abs/2511.21606v1)|null|
+|**2025-11-26**|**Detecting absence: A dedicated prediction-error signal emerging in the auditory thalamus**|Alejandro Tabas et.al.|[link](http://arxiv.org/abs/2511.21605v1)|null|
+|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[link](http://arxiv.org/abs/2511.21600v1)|null|
+|**2025-11-26**|**Visualizing LLM Latent Space Geometry Through Dimensionality Reduction**|Alex Ning et.al.|[link](http://arxiv.org/abs/2511.21594v1)|null|
+|**2025-11-26**|**Machine Learning and Deep Learning in Computational Finance: A Systematic Review**|Soufiane El Amine El Alami et.al.|[link](http://arxiv.org/abs/2511.21588v1)|null|
+|**2025-11-26**|**Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**|Alex Ning et.al.|[link](http://arxiv.org/abs/2511.21581v1)|null|
+|**2025-11-26**|**Harmonic-Percussive Disentangled Neural Audio Codec for Bandwidth Extension**|Benoît Giniès et.al.|[link](http://arxiv.org/abs/2511.21580v1)|null|
+|**2025-11-26**|**Large data global well-posedness for the modified Novikov-Veselov system**|Adrian Nachman et.al.|[link](http://arxiv.org/abs/2511.21564v1)|null|
+|**2025-11-26**|**MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors**|Thai-Khanh Nguyen et.al.|[link](http://arxiv.org/abs/2511.21550v1)|null|
+|**2025-11-26**|**Symmetries of excitons**|Muralidhar Nalabothula et.al.|[link](http://arxiv.org/abs/2511.21540v1)|null|
+|**2025-11-26**|**Mechanistic Interpretability for Transformer-based Time Series Classification**|Matīss Kalnāre et.al.|[link](http://arxiv.org/abs/2511.21514v1)|null|
 |**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[link](http://arxiv.org/abs/2511.20646v1)|**[code](https://github.com/WeiHongLee/CrossView3DMTL)**|
 |**2025-11-25**|**PixelDiT: Pixel Diffusion Transformers for Image Generation**|Yongsheng Yu et.al.|[link](http://arxiv.org/abs/2511.20645v1)|null|
 |**2025-11-25**|**Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model**|Ziyue Wang et.al.|[link](http://arxiv.org/abs/2511.20636v1)|null|
@@ -817,6 +837,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-26**|**MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors**|Thai-Khanh Nguyen et.al.|[link](http://arxiv.org/abs/2511.21550v1)|null|
+|**2025-11-26**|**PathMamba: A Hybrid Mamba-Transformer for Topologically Coherent Road Segmentation in Satellite Imagery**|Jules Decaestecker et.al.|[link](http://arxiv.org/abs/2511.21298v1)|null|
 |**2025-11-25**|**DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion**|Yinghui Li et.al.|[link](http://arxiv.org/abs/2511.20278v1)|null|
 |**2025-11-25**|**MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing**|Changho Choi et.al.|[link](http://arxiv.org/abs/2511.19963v1)|null|
 |**2025-11-25**|**Towards Edge General Intelligence: Knowledge Distillation for Mobile Agentic AI**|Yuxuan Wu et.al.|[link](http://arxiv.org/abs/2511.19947v1)|null|
@@ -1033,6 +1055,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-11-26**|**Lesion-Independent Thalamic Degeneration Identifies Intrinsically Vulnerable Nuclei Associated with Cognitive Impairment in Multiple Sclerosis**|Arshya Pooladi-Darvish et.al.|[link](http://arxiv.org/abs/2511.21677v1)|null|
+|**2025-11-26**|**Revolutionizing Glioma Segmentation & Grading Using 3D MRI - Guided Hybrid Deep Learning Models**|Pandiyaraju V et.al.|[link](http://arxiv.org/abs/2511.21673v1)|null|
+|**2025-11-26**|**Intensity doubling for Brownian loop-soups in high dimensions**|Titus Lupu et.al.|[link](http://arxiv.org/abs/2511.21670v1)|null|
+|**2025-11-26**|**Active Learning for GCN-based Action Recognition**|Hichem Sahbi et.al.|[link](http://arxiv.org/abs/2511.21625v1)|null|
+|**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[link](http://arxiv.org/abs/2511.21624v1)|null|
+|**2025-11-26**|**Automated Protein Motif Localization using Concept Activation Vectors in Protein Language Model Embedding Space**|Ahmad Shamail et.al.|[link](http://arxiv.org/abs/2511.21614v1)|null|
+|**2025-11-26**|**ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images**|M. Naseer Subhani et.al.|[link](http://arxiv.org/abs/2511.21606v1)|null|
+|**2025-11-26**|**Relative Turán densities for ordered graphs: all and nothing**|Freddie Illingworth et.al.|[link](http://arxiv.org/abs/2511.21571v1)|null|
+|**2025-11-26**|**MAD-DAG: Protecting Blockchain Consensus from MEV**|Roi Bar-Zur et.al.|[link](http://arxiv.org/abs/2511.21552v1)|null|
+|**2025-11-26**|**Context-Specific Causal Graph Discovery with Unobserved Contexts: Non-Stationarity, Regimes and Spatio-Temporal Patterns**|Martin Rabel et.al.|[link](http://arxiv.org/abs/2511.21537v1)|null|
+|**2025-11-26**|**$k$-path graphs: experiments and conjectures about algebraic connectivity and $α$-index**|Rafael L. de Paula et.al.|[link](http://arxiv.org/abs/2511.21524v1)|null|
+|**2025-11-26**|**Causal Inference: A Tale of Three Frameworks**|Linbo Wang et.al.|[link](http://arxiv.org/abs/2511.21516v1)|null|
+|**2025-11-26**|**Mechanistic Interpretability for Transformer-based Time Series Classification**|Matīss Kalnāre et.al.|[link](http://arxiv.org/abs/2511.21514v1)|null|
+|**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[link](http://arxiv.org/abs/2511.21503v1)|null|
+|**2025-11-26**|**Vertex-based Graph Neural Solver and its Application to Linear Elasticity Equations**|Yun Liu et.al.|[link](http://arxiv.org/abs/2511.21491v1)|null|
+|**2025-11-26**|**Long-Range Antiferromagnetic Order in the AKLT Model on Trees and Treelike Graphs**|Thomas Jackson et.al.|[link](http://arxiv.org/abs/2511.21453v1)|null|
+|**2025-11-26**|**Conversational no-code and multi-agentic disease module identification and drug repurposing prediction with ChatDRex**|Simon Süwer et.al.|[link](http://arxiv.org/abs/2511.21438v1)|null|
+|**2025-11-26**|**From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings**|Jiajie Zhang et.al.|[link](http://arxiv.org/abs/2511.21428v1)|null|
+|**2025-11-26**|**On existence of neutral graph**|Fei Ma et.al.|[link](http://arxiv.org/abs/2511.21426v1)|null|
+|**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[link](http://arxiv.org/abs/2511.21420v1)|null|
 |**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[link](http://arxiv.org/abs/2511.20646v1)|null|
 |**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[link](http://arxiv.org/abs/2511.20641v1)|null|
 |**2025-11-25**|**Evaluating the Performance of Deep Learning Models in Whole-body Dynamic 3D Posture Prediction During Load-reaching Activities**|Seyede Niloofar Hosseini et.al.|[link](http://arxiv.org/abs/2511.20615v1)|null|
@@ -1440,6 +1482,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-11-26**|**Agentic Learner with Grow-and-Refine Multimodal Semantic Memory**|Weihao Bo et.al.|[link](http://arxiv.org/abs/2511.21678v1)|null|
+|**2025-11-26**|**Machine Learning and Deep Learning in Computational Finance: A Systematic Review**|Soufiane El Amine El Alami et.al.|[link](http://arxiv.org/abs/2511.21588v1)|null|
+|**2025-11-26**|**HarmonicAttack: An Adaptive Cross-Domain Audio Watermark Removal**|Kexin Li et.al.|[link](http://arxiv.org/abs/2511.21577v1)|null|
+|**2025-11-26**|**AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control**|Xinyue Guo et.al.|[link](http://arxiv.org/abs/2511.21146v1)|null|
+|**2025-11-26**|**Knowledge Completes the Vision: A Multimodal Entity-aware Retrieval-Augmented Generation Framework for News Image Captioning**|Xiaoxing You et.al.|[link](http://arxiv.org/abs/2511.21002v1)|null|
+|**2025-11-25**|**Exploring Time-Step Size in Reinforcement Learning for Sepsis Treatment**|Yingchuan Sun et.al.|[link](http://arxiv.org/abs/2511.20913v1)|null|
+|**2025-11-25**|**Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model**|Rio Alexa Fear et.al.|[link](http://arxiv.org/abs/2511.20798v1)|null|
 |**2025-11-25**|**E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems**|Rui Xue et.al.|[link](http://arxiv.org/abs/2511.20564v1)|null|
 |**2025-11-25**|**Time-Domain Linear Model-based Framework for Passive Acoustic Mapping of Cavitation Activity**|Tatiana Gelvez-Barrera et.al.|[link](http://arxiv.org/abs/2511.20551v1)|null|
 |**2025-11-25**|**HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation**|Xiang Wang et.al.|[link](http://arxiv.org/abs/2511.20520v1)|null|
@@ -1447,6 +1496,7 @@
 |**2025-11-25**|**From One Attack Domain to Another: Contrastive Transfer Learning with Siamese Networks for APT Detection**|Sidahmed Benabderrahmane et.al.|[link](http://arxiv.org/abs/2511.20500v1)|null|
 |**2025-11-25**|**Towards Trustworthy Wi-Fi Sensing: Systematic Evaluation of Deep Learning Model Robustness to Adversarial Attacks**|Shreevanth Krishnaa Gopalakrishnan et.al.|[link](http://arxiv.org/abs/2511.20456v1)|null|
 |**2025-11-25**|**IrisNet: Infrared Image Status Awareness Meta Decoder for Infrared Small Targets Detection**|Xuelin Qian et.al.|[link](http://arxiv.org/abs/2511.20319v1)|null|
+|**2025-11-26**|**CrossEarth-Gate: Fisher-Guided Adaptive Tuning Engine for Efficient Adaptation of Cross-Domain Remote Sensing Semantic Segmentation**|Shilei Cao et.al.|[link](http://arxiv.org/abs/2511.20302v2)|null|
 |**2025-11-25**|**CrossEarth-Gate: Fisher-Guided Adaptive Tuning Engine for Efficient Adaptation of Cross-Domain Remote Sensing Semantic Segmentation**|Shilei Cao et.al.|[link](http://arxiv.org/abs/2511.20302v1)|null|
 |**2025-11-25**|**DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion**|Yinghui Li et.al.|[link](http://arxiv.org/abs/2511.20278v1)|null|
 |**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Advik Sinha et.al.|[link](http://arxiv.org/abs/2511.20274v1)|null|
