@@ -1,4 +1,4 @@
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 
 ### ISTD
 
@@ -272,6 +272,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-01**|**ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation**|Chenyang Gu et.al.|[link](http://arxiv.org/abs/2512.02013v1)|null|
+|**2025-12-01**|**Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling**|Jack Cook et.al.|[link](http://arxiv.org/abs/2512.02010v1)|null|
+|**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[link](http://arxiv.org/abs/2512.02005v1)|null|
+|**2025-12-01**|**Low-Rank Prehab: Preparing Neural Networks for SVD Compression**|Haoran Qin et.al.|[link](http://arxiv.org/abs/2512.01980v1)|null|
+|**2025-12-01**|**SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning**|Xu Zhang et.al.|[link](http://arxiv.org/abs/2512.01975v1)|null|
+|**2025-12-01**|**Basis Choices for Frequency Domain Statistical Independence Tests and Algorithms for Algebraic Relation Extraction**|Juan Shi et.al.|[link](http://arxiv.org/abs/2512.01963v1)|null|
+|**2025-12-01**|**SVRG and Beyond via Posterior Correction**|Nico Daheim et.al.|[link](http://arxiv.org/abs/2512.01930v1)|null|
+|**2025-12-01**|**Disentangling Progress in Medical Image Registration: Beyond Trend-Driven Architectures towards Domain-Specific Strategies**|Bailiang Jian et.al.|[link](http://arxiv.org/abs/2512.01913v1)|null|
+|**2025-12-01**|**TransientTrack: Advanced Multi-Object Tracking and Classification of Cancer Cells with Transient Fluorescent Signals**|Florian Bürger et.al.|[link](http://arxiv.org/abs/2512.01885v1)|null|
+|**2025-12-01**|**New Spiking Architecture for Multi-Modal Decision-Making in Autonomous Vehicles**|Aref Ghoreishee et.al.|[link](http://arxiv.org/abs/2512.01882v1)|null|
+|**2025-12-01**|**Testing Transformer Learnability on the Arithmetic Sequence of Rooted Trees**|Alessandro Breccia et.al.|[link](http://arxiv.org/abs/2512.01870v1)|null|
+|**2025-12-01**|**The Mean-Field Dynamics of Transformers**|Philippe Rigollet et.al.|[link](http://arxiv.org/abs/2512.01868v1)|null|
+|**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[link](http://arxiv.org/abs/2512.01850v1)|null|
+|**2025-12-01**|**JPEGs Just Got Snipped: Croppable Signatures Against Deepfake Images**|Pericle Perazzo et.al.|[link](http://arxiv.org/abs/2512.01845v1)|null|
+|**2025-12-01**|**Goodness-of-fit testing from observations with multiplicative measurement error**|Jan Johannes et.al.|[link](http://arxiv.org/abs/2512.01838v1)|null|
+|**2025-12-01**|**A Privacy-Preserving Information-Sharing Protocol for Federated Authentication**|Francesco Buccafurri et.al.|[link](http://arxiv.org/abs/2512.01832v1)|null|
+|**2025-12-01**|**Heterogeneous diffusion process with power-law nonlinearity**|Jorge E. Cardona et.al.|[link](http://arxiv.org/abs/2512.01828v1)|null|
+|**2025-12-01**|**Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling**|Meng Cao et.al.|[link](http://arxiv.org/abs/2512.01821v1)|null|
+|**2025-12-01**|**Benchmarking Distributed Quantum Computing Emulators**|Guillermo Díaz-Camacho et.al.|[link](http://arxiv.org/abs/2512.01807v1)|null|
+|**2025-12-01**|**Hybrid Quantum State Preparation via Data Compression**|Emad Rezaei Fard Boosari et.al.|[link](http://arxiv.org/abs/2512.01798v1)|null|
 |**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[link](http://arxiv.org/abs/2511.23477v1)|null|
 |**2025-11-28**|**AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement**|Zhizhou Zhong et.al.|[link](http://arxiv.org/abs/2511.23475v1)|null|
 |**2025-11-28**|**Visual Generation Tuning**|Jiahao Guo et.al.|[link](http://arxiv.org/abs/2511.23469v1)|null|
@@ -857,6 +877,15 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-01**|**ViT$^3$: Unlocking Test-Time Training in Vision**|Dongchen Han et.al.|[link](http://arxiv.org/abs/2512.01643v1)|null|
+|**2025-12-01**|**Toward Content-based Indexing and Retrieval of Head and Neck CT with Abscess Segmentation**|Thao Thi Phuong Dao et.al.|[link](http://arxiv.org/abs/2512.01589v1)|null|
+|**2025-12-01**|**MasHeNe: A Benchmark for Head and Neck CT Mass Segmentation using Window-Enhanced Mamba with Frequency-Domain Integration**|Thao Thi Phuong Dao et.al.|[link](http://arxiv.org/abs/2512.01563v1)|null|
+|**2025-12-01**|**PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**|Yunze Liu et.al.|[link](http://arxiv.org/abs/2512.01383v1)|null|
+|**2025-11-30**|**Sleep Apnea Detection on a Wireless Multimodal Wearable Device Without Oxygen Flow Using a Mamba-based Deep Learning Approach**|Dominik Luszczynski et.al.|[link](http://arxiv.org/abs/2512.00989v1)|null|
+|**2025-11-29**|**MambaScope: Coarse-to-Fine Scoping for Efficient Vision Mamba**|Shanhui Liu et.al.|[link](http://arxiv.org/abs/2512.00647v1)|null|
+|**2025-11-29**|**MM-DETR: An Efficient Multimodal Detection Transformer with Mamba-Driven Dual-Granularity Fusion and Frequency-Aware Modality Adapters**|Jianhong Han et.al.|[link](http://arxiv.org/abs/2512.00363v1)|null|
+|**2025-11-29**|**SMamDiff: Spatial Mamba for Stochastic Human Motion Prediction**|Junqiao Fan et.al.|[link](http://arxiv.org/abs/2512.00355v1)|null|
+|**2025-11-28**|**ReactionMamba: Generating Short &Long Human Reaction Sequences**|Hajra Anwar Beg et.al.|[link](http://arxiv.org/abs/2512.00208v1)|null|
 |**2025-11-28**|**PerfMamba: Performance Analysis and Pruning of Selective State Space Models**|Abdullah Al Asif et.al.|[link](http://arxiv.org/abs/2511.22849v1)|null|
 |**2025-11-27**|**Intelligent Neural Networks: From Layered Architectures to Graph-Organized Intelligence**|Antoine Salomon et.al.|[link](http://arxiv.org/abs/2511.22813v1)|null|
 |**2025-11-27**|**Adaptive Dueling Double Deep Q-networks in Uniswap V3 Replication and Extension with Mamba**|Zhaofeng Zhang et.al.|[link](http://arxiv.org/abs/2511.22101v1)|null|
@@ -1079,6 +1108,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[link](http://arxiv.org/abs/2512.02005v1)|null|
+|**2025-12-01**|**Fault-tolerant mutual-visibility: complexity and solutions for grid-like networks**|Serafino Cicerone et.al.|[link](http://arxiv.org/abs/2512.01978v1)|null|
+|**2025-12-01**|**SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning**|Xu Zhang et.al.|[link](http://arxiv.org/abs/2512.01975v1)|null|
+|**2025-12-01**|**Bounded treewidth, multiple context-free grammars, and downward closures**|C. Aiswarya et.al.|[link](http://arxiv.org/abs/2512.01973v1)|null|
+|**2025-12-01**|**Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models**|Zhongyu Yang et.al.|[link](http://arxiv.org/abs/2512.01949v1)|null|
+|**2025-12-01**|**Minimally tough series-parallel graphs with toughness at least $1/2$**|Gyula Y. Katona et.al.|[link](http://arxiv.org/abs/2512.01905v1)|null|
+|**2025-12-01**|**Tight Bounds for Feedback Vertex Set Parameterized by Clique-width**|Narek Bojikian et.al.|[link](http://arxiv.org/abs/2512.01900v1)|null|
+|**2025-12-01**|**Elastic Weight Consolidation for Knowledge Graph Continual Learning: An Empirical Evaluation**|Gaganpreet Jhajj et.al.|[link](http://arxiv.org/abs/2512.01890v1)|null|
+|**2025-12-01**|**Domain-Decomposed Graph Neural Network Surrogate Modeling for Ice Sheets**|Adrienne M. Propp et.al.|[link](http://arxiv.org/abs/2512.01888v1)|null|
+|**2025-12-01**|**Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning**|Gaganpreet Jhajj et.al.|[link](http://arxiv.org/abs/2512.01878v1)|null|
+|**2025-12-01**|**Streamlining resolution of singularities with weighted blow-ups**|Maxim Jean-Louis Brais et.al.|[link](http://arxiv.org/abs/2512.01859v1)|null|
+|**2025-12-01**|**Excluding a Forest Induced Minor**|Édouard Bonnet et.al.|[link](http://arxiv.org/abs/2512.01857v1)|null|
+|**2025-12-01**|**Mitigating Gender Bias in Depression Detection via Counterfactual Inference**|Mingxuan Hu et.al.|[link](http://arxiv.org/abs/2512.01834v1)|null|
+|**2025-12-01**|**CauSight: Learning to Supersense for Visual Causal Discovery**|Yize Zhang et.al.|[link](http://arxiv.org/abs/2512.01827v1)|null|
+|**2025-12-01**|**JFR: An Efficient Jump Frontier Relaxation Strategy for Bellman-Ford**|Xin Wang et.al.|[link](http://arxiv.org/abs/2512.01802v1)|null|
+|**2025-12-01**|**SAM3-UNet: Simplified Adaptation of Segment Anything Model 3**|Xinyu Xiong et.al.|[link](http://arxiv.org/abs/2512.01789v1)|null|
+|**2025-12-01**|**Learned Image Compression for Earth Observation: Implications for Downstream Segmentation Tasks**|Christian Mollière et.al.|[link](http://arxiv.org/abs/2512.01788v1)|null|
+|**2025-12-01**|**A discrete approach to Dirichlet L-functions via spectral models: special values and zeros**|Anders Karlsson et.al.|[link](http://arxiv.org/abs/2512.01779v1)|null|
+|**2025-12-01**|**Evaluating SAM2 for Video Semantic Segmentation**|Syed Hesham Syed Ariff et.al.|[link](http://arxiv.org/abs/2512.01774v1)|null|
+|**2025-12-01**|**VideoScoop: A Non-Traditional Domain-Independent Framework For Video Analysis**|Hafsa Billah et.al.|[link](http://arxiv.org/abs/2512.01769v1)|null|
 |**2025-11-28**|**Rotationally symmetric plabic graphs and the Lagrangian Grassmannian**|Olha Shevchenko et.al.|[link](http://arxiv.org/abs/2511.23446v1)|null|
 |**2025-11-28**|**Consensus Tree Estimation with False Discovery Rate Control via Partially Ordered Sets**|Maria Alejandra Valdez Cabrera et.al.|[link](http://arxiv.org/abs/2511.23433v1)|null|
 |**2025-11-28**|**Connectedness of special points in the Markoff mod $p$ graphs**|Elisa Bellah et.al.|[link](http://arxiv.org/abs/2511.23401v1)|null|
@@ -1526,6 +1575,26 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-01**|**StyleYourSmile: Cross-Domain Face Retargeting Without Paired Multi-Style Data**|Avirup Dey et.al.|[link](http://arxiv.org/abs/2512.01895v1)|null|
+|**2025-12-01**|**BHRAM-IL: A Benchmark for Hallucination Recognition and Assessment in Multiple Indian Languages**|Hrishikesh Terdalkar et.al.|[link](http://arxiv.org/abs/2512.01852v1)|null|
+|**2025-12-01**|**A Privacy-Preserving Information-Sharing Protocol for Federated Authentication**|Francesco Buccafurri et.al.|[link](http://arxiv.org/abs/2512.01832v1)|null|
+|**2025-12-01**|**Cross-Domain Validation of a Resection-Trained Self-Supervised Model on Multicentre Mesothelioma Biopsies**|Farzaneh Seyedshahi et.al.|[link](http://arxiv.org/abs/2512.01681v1)|null|
+|**2025-12-01**|**Bridging the Scale Gap: Balanced Tiny and General Object Detection in Remote Sensing Imagery**|Zhicheng Zhao et.al.|[link](http://arxiv.org/abs/2512.01665v1)|null|
+|**2025-12-01**|**A Cross-Embodiment Gripper Benchmark for Rigid-Object Manipulation in Aerial and Industrial Robotics**|Marek Vagas et.al.|[link](http://arxiv.org/abs/2512.01598v1)|null|
+|**2025-12-01**|**Semantic-aware Random Convolution and Source Matching for Domain Generalization in Medical Image Segmentation**|Franz Thaler et.al.|[link](http://arxiv.org/abs/2512.01510v1)|null|
+|**2025-12-01**|**Mountain pass for the Ginzburg-Landau energy in a strip: solitons and solitonic vortices**|Amandine Aftalion et.al.|[link](http://arxiv.org/abs/2512.01506v1)|null|
+|**2025-12-01**|**$\mathbf{M^3A}$ Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering**|Jiayi Li et.al.|[link](http://arxiv.org/abs/2512.01446v1)|null|
+|**2025-12-01**|**Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation**|Wei Yang et.al.|[link](http://arxiv.org/abs/2512.01372v1)|null|
+|**2025-12-01**|**Directed evolution algorithm drives neural prediction**|Yanlin Wang et.al.|[link](http://arxiv.org/abs/2512.01362v1)|null|
+|**2025-12-01**|**Experimental Methods, Health Indicators, and Diagnostic Strategies for Retired Lithium-ion Batteries: A Comprehensive Review**|Song Zhang et.al.|[link](http://arxiv.org/abs/2512.01294v1)|null|
+|**2025-11-30**|**ChartAnchor: Chart Grounding with Structural-Semantic Fidelity**|Xinhang Li et.al.|[link](http://arxiv.org/abs/2512.01017v1)|null|
+|**2025-11-30**|**MM-ACT: Learn from Multimodal Parallel Generation to Act**|Haotian Liang et.al.|[link](http://arxiv.org/abs/2512.00975v1)|null|
+|**2025-11-30**|**Adaptive Evidential Learning for Temporal-Semantic Robustness in Moment Retrieval**|Haojian Huang et.al.|[link](http://arxiv.org/abs/2512.00953v1)|null|
+|**2025-11-30**|**Disentangling Proxies of Demographic Adjustments in Clinical Equations**|Aashna P. Shah et.al.|[link](http://arxiv.org/abs/2512.00905v1)|null|
+|**2025-11-30**|**The Outline of Deception: Physical Adversarial Attacks on Traffic Signs Using Edge Patches**|Haojie Jia et.al.|[link](http://arxiv.org/abs/2512.00765v1)|null|
+|**2025-11-30**|**Augmented Runtime Collaboration for Self-Organizing Multi-Agent Systems: A Hybrid Bi-Criteria Routing Approach**|Qingwen Yang et.al.|[link](http://arxiv.org/abs/2512.00740v1)|null|
+|**2025-11-30**|**Cross-Domain Federated Semantic Communication with Global Representation Alignment and Domain-Aware Aggregation**|Loc X. Nguyen et.al.|[link](http://arxiv.org/abs/2512.00711v1)|null|
+|**2025-11-29**|**Graph-Attention Network with Adversarial Domain Alignment for Robust Cross-Domain Facial Expression Recognition**|Razieh Ghaedi et.al.|[link](http://arxiv.org/abs/2512.00641v1)|null|
 |**2025-11-28**|**Chart2Code-MoLA: Efficient Multi-Modal Code Generation via Adaptive Expert Routing**|Yifei Wang et.al.|[link](http://arxiv.org/abs/2511.23321v1)|null|
 |**2025-11-28**|**BanglaSentNet: An Explainable Hybrid Deep Learning Framework for Multi-Aspect Sentiment Analysis with Cross-Domain Transfer Learning**|Ariful Islam et.al.|[link](http://arxiv.org/abs/2511.23264v1)|null|
 |**2025-11-28**|**A Spectral Koopman Approximation Framework for Stochastic Reaction Networks**|Ankit Gupta et.al.|[link](http://arxiv.org/abs/2511.23114v1)|null|
