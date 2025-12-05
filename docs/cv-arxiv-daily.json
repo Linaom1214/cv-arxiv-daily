@@ -117,7 +117,9 @@
     "2511.17268v1": "|**2025-11-21**|**Far-infrared to centimeter emission of very nearby galaxies with archival data**|L. Correia et.al.|[link](http://arxiv.org/abs/2511.17268v1)|null|\n",
     "2511.19306v1": "|**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[link](http://arxiv.org/abs/2511.19306v1)|null|\n",
     "2511.18196v1": "|**2025-11-22**|**JWST COMPASS: Insights into the Systematic Noise Properties of NIRSpec/G395H From a Uniform Reanalysis of Seven Transmission Spectra**|Tyler A. Gordon et.al.|[link](http://arxiv.org/abs/2511.18196v1)|null|\n",
-    "2511.20319v1": "|**2025-11-25**|**IrisNet: Infrared Image Status Awareness Meta Decoder for Infrared Small Targets Detection**|Xuelin Qian et.al.|[link](http://arxiv.org/abs/2511.20319v1)|null|\n"
+    "2511.20319v1": "|**2025-11-25**|**IrisNet: Infrared Image Status Awareness Meta Decoder for Infrared Small Targets Detection**|Xuelin Qian et.al.|[link](http://arxiv.org/abs/2511.20319v1)|null|\n",
+    "2512.03752v1": "|**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|\n",
+    "2512.03470v1": "|**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",
@@ -881,7 +883,27 @@
     "2512.02903v1": "|**2025-12-02**|**Symmetry transformation group arising from the Laplace-Runge-Lenz vector**|Stephen C. Anco et.al.|[link](http://arxiv.org/abs/2512.02903v1)|null|\n",
     "2512.02902v1": "|**2025-12-02**|**VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling**|Weiqi Li et.al.|[link](http://arxiv.org/abs/2512.02902v1)|null|\n",
     "2512.02901v1": "|**2025-12-02**|**FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization**|Feiyu Wang et.al.|[link](http://arxiv.org/abs/2512.02901v1)|null|\n",
-    "2512.02870v1": "|**2025-12-02**|**Taming Camera-Controlled Video Generation with Verifiable Geometry Reward**|Zhaoqing Wang et.al.|[link](http://arxiv.org/abs/2512.02870v1)|null|\n"
+    "2512.02870v1": "|**2025-12-02**|**Taming Camera-Controlled Video Generation with Verifiable Geometry Reward**|Zhaoqing Wang et.al.|[link](http://arxiv.org/abs/2512.02870v1)|null|\n",
+    "2512.04073v1": "|**2025-12-03**|**Noise-induced stop-and-go traffic dynamics: Modelling and control**|Raphael Korbmacher et.al.|[link](http://arxiv.org/abs/2512.04073v1)|null|\n",
+    "2512.04069v1": "|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[link](http://arxiv.org/abs/2512.04069v1)|null|\n",
+    "2512.04066v1": "|**2025-12-03**|**Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**|Pablo Costa Rico et.al.|[link](http://arxiv.org/abs/2512.04066v1)|null|\n",
+    "2512.04040v1": "|**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[link](http://arxiv.org/abs/2512.04040v1)|null|\n",
+    "2512.04021v1": "|**2025-12-03**|**C3G: Learning Compact 3D Representations with 2K Gaussians**|Honggyu An et.al.|[link](http://arxiv.org/abs/2512.04021v1)|null|\n",
+    "2512.04015v1": "|**2025-12-03**|**Learning Group Actions In Disentangled Latent Image Representations**|Farhana Hossain Swarnali et.al.|[link](http://arxiv.org/abs/2512.04015v1)|null|\n",
+    "2512.04012v1": "|**2025-12-03**|**Emergent Outlier View Rejection in Visual Geometry Grounded Transformers**|Jisang Han et.al.|[link](http://arxiv.org/abs/2512.04012v1)|null|\n",
+    "2512.03994v1": "|**2025-12-03**|**Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs**|Oren Rachmil et.al.|[link](http://arxiv.org/abs/2512.03994v1)|null|\n",
+    "2512.03976v1": "|**2025-12-03**|**Adapting Large Language Models to Low-Resource Tibetan: A Two-Stage Continual and Supervised Fine-Tuning Study**|Lifeng Chen et.al.|[link](http://arxiv.org/abs/2512.03976v1)|null|\n",
+    "2512.03967v1": "|**2025-12-03**|**Technical Report on Text Dataset Distillation**|Keith Ando Ogawa et.al.|[link](http://arxiv.org/abs/2512.03967v1)|null|\n",
+    "2512.03949v1": "|**2025-12-03**|**Performance and efficiency of a transformer-based quark/gluon jet tagger in the ATLAS experiment**|ATLAS Collaboration et.al.|[link](http://arxiv.org/abs/2512.03949v1)|null|\n",
+    "2512.03939v1": "|**2025-12-03**|**MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction**|Guole Shen et.al.|[link](http://arxiv.org/abs/2512.03939v1)|null|\n",
+    "2512.03911v1": "|**2025-12-03**|**Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware**|Kenneth Stewart et.al.|[link](http://arxiv.org/abs/2512.03911v1)|null|\n",
+    "2512.03905v1": "|**2025-12-03**|**Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence**|Shuai Yang et.al.|[link](http://arxiv.org/abs/2512.03905v1)|null|\n",
+    "2512.03892v1": "|**2025-12-03**|**Predictions of the LSST Solar System Yield: Neptune Trojans**|Joseph Murtagh et.al.|[link](http://arxiv.org/abs/2512.03892v1)|null|\n",
+    "2512.03883v1": "|**2025-12-03**|**Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy**|Jorge Tapias Gomez et.al.|[link](http://arxiv.org/abs/2512.03883v1)|null|\n",
+    "2512.03870v1": "|**2025-12-03**|**Reconstructing KV Caches with Cross-layer Fusion For Enhanced Transformers**|Hongzhan Lin et.al.|[link](http://arxiv.org/abs/2512.03870v1)|null|\n",
+    "2512.03862v1": "|**2025-12-03**|**Diminishing Returns in Self-Supervised Learning**|Oli Bridge et.al.|[link](http://arxiv.org/abs/2512.03862v1)|null|\n",
+    "2512.03859v1": "|**2025-12-03**|**SUP: An Inferable Private Multiple Testing Framework with Super Uniformity**|Kehan Wang et.al.|[link](http://arxiv.org/abs/2512.03859v1)|null|\n",
+    "2512.03850v1": "|**2025-12-03**|**Density of states of quantum systems from free probability theory: a brief overview**|Keun-Young Kim et.al.|[link](http://arxiv.org/abs/2512.03850v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -1115,7 +1137,12 @@
     "2512.02643v1": "|**2025-12-02**|**Leveraging Large-Scale Pretrained Spatial-Spectral Priors for General Zero-Shot Pansharpening**|Yongchuan Cui et.al.|[link](http://arxiv.org/abs/2512.02643v1)|null|\n",
     "2512.02557v1": "|**2025-12-02**|**Deep Learning-Based Joint Uplink-Downlink CSI Acquisition for Next-Generation Upper Mid-Band Systems**|Xuan He et.al.|[link](http://arxiv.org/abs/2512.02557v1)|null|\n",
     "2512.01589v2": "|**2025-12-02**|**Toward Content-based Indexing and Retrieval of Head and Neck CT with Abscess Segmentation**|Thao Thi Phuong Dao et.al.|[link](http://arxiv.org/abs/2512.01589v2)|null|\n",
-    "2512.01563v2": "|**2025-12-02**|**MasHeNe: A Benchmark for Head and Neck CT Mass Segmentation using Window-Enhanced Mamba with Frequency-Domain Integration**|Thao Thi Phuong Dao et.al.|[link](http://arxiv.org/abs/2512.01563v2)|null|\n"
+    "2512.01563v2": "|**2025-12-02**|**MasHeNe: A Benchmark for Head and Neck CT Mass Segmentation using Window-Enhanced Mamba with Frequency-Domain Integration**|Thao Thi Phuong Dao et.al.|[link](http://arxiv.org/abs/2512.01563v2)|null|\n",
+    "2512.03852v1": "|**2025-12-03**|**Traffic Image Restoration under Adverse Weather via Frequency-Aware Mamba**|Liwen Pan et.al.|[link](http://arxiv.org/abs/2512.03852v1)|null|\n",
+    "2512.03563v1": "|**2025-12-03**|**State Space Models for Bioacoustics: A comparative Evaluation with Transformers**|Chengyu Tang et.al.|[link](http://arxiv.org/abs/2512.03563v1)|null|\n",
+    "2512.03424v1": "|**2025-12-03**|**DM3D: Deformable Mamba via Offset-Guided Gaussian Sequencing for Point Cloud Understanding**|Bin Liu et.al.|[link](http://arxiv.org/abs/2512.03424v1)|null|\n",
+    "2512.03111v1": "|**2025-12-02**|**PanFoMa: A Lightweight Foundation Model and Benchmark for Pan-Cancer**|Xiaoshui Huang et.al.|[link](http://arxiv.org/abs/2512.03111v1)|null|\n",
+    "2512.00647v2": "|**2025-12-03**|**MambaScope: Coarse-to-Fine Scoping for Efficient Vision Mamba**|Shanhui Liu et.al.|[link](http://arxiv.org/abs/2512.00647v2)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -1598,7 +1625,27 @@
     "2512.02952v1": "|**2025-12-02**|**Layout Anything: One Transformer for Universal Room Layout Estimation**|Md Sohag Mia et.al.|[link](http://arxiv.org/abs/2512.02952v1)|null|\n",
     "2512.02947v1": "|**2025-12-02**|**Representation of Inorganic Synthesis Reactions and Prediction: Graphical Framework and Datasets**|Samuel Andrello et.al.|[link](http://arxiv.org/abs/2512.02947v1)|null|\n",
     "2512.02941v1": "|**2025-12-02**|**Pseudocodewords of quantum, quasi-cyclic, and spatially-coupled LDPC codes: a fundamental cone perspective**|Wittawat Kositwattanarerk et.al.|[link](http://arxiv.org/abs/2512.02941v1)|null|\n",
-    "2512.02940v1": "|**2025-12-02**|**Scalable Quantum Walk-Based Heuristics for the Minimum Vertex Cover Problem**|F. S. Luiz et.al.|[link](http://arxiv.org/abs/2512.02940v1)|null|\n"
+    "2512.02940v1": "|**2025-12-02**|**Scalable Quantum Walk-Based Heuristics for the Minimum Vertex Cover Problem**|F. S. Luiz et.al.|[link](http://arxiv.org/abs/2512.02940v1)|null|\n",
+    "2512.04078v1": "|**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. Gonz\u00e1lez D'Le\u00f3n et.al.|[link](http://arxiv.org/abs/2512.04078v1)|null|\n",
+    "2512.04074v1": "|**2025-12-03**|**Well-quasi-orders on embedded planar graphs**|Corentin Lunel et.al.|[link](http://arxiv.org/abs/2512.04074v1)|null|\n",
+    "2512.04071v1": "|**2025-12-03**|**On the Hypergraph Nash-Williams' Conjecture**|Cicely Henderson et.al.|[link](http://arxiv.org/abs/2512.04071v1)|null|\n",
+    "2512.04069v1": "|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[link](http://arxiv.org/abs/2512.04069v1)|null|\n",
+    "2512.04021v1": "|**2025-12-03**|**C3G: Learning Compact 3D Representations with 2K Gaussians**|Honggyu An et.al.|[link](http://arxiv.org/abs/2512.04021v1)|null|\n",
+    "2512.03983v1": "|**2025-12-03**|**Statistical hypothesis testing for differences between layers in dynamic multiplex networks**|Maximilian Baum et.al.|[link](http://arxiv.org/abs/2512.03983v1)|null|\n",
+    "2512.03968v1": "|**2025-12-03**|**Bounded-degree graphs of non-negative Ollivier-Ricci curvature have subexponential growth and diffusive random walk**|Tom Hutchcroft et.al.|[link](http://arxiv.org/abs/2512.03968v1)|null|\n",
+    "2512.03960v1": "|**2025-12-03**|**Aggregating maximal cliques in real-world graphs**|Noga Alon et.al.|[link](http://arxiv.org/abs/2512.03960v1)|null|\n",
+    "2512.03913v1": "|**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Jeongeun Park et.al.|[link](http://arxiv.org/abs/2512.03913v1)|null|\n",
+    "2512.03869v1": "|**2025-12-03**|**An Automated Framework for Large-Scale Graph-Based Cerebrovascular Analysis**|Daniele Falcetta et.al.|[link](http://arxiv.org/abs/2512.03869v1)|null|\n",
+    "2512.03849v1": "|**2025-12-03**|**Bifurcations of Highly Inclined Near Halo Orbits using Moser Regularization**|Chankyu Joung et.al.|[link](http://arxiv.org/abs/2512.03849v1)|null|\n",
+    "2512.03848v1": "|**2025-12-03**|**PULSE: A Unified Multi-Task Architecture for Cardiac Segmentation, Diagnosis, and Few-Shot Cross-Modality Clinical Adaptation**|Hania Ghouse et.al.|[link](http://arxiv.org/abs/2512.03848v1)|null|\n",
+    "2512.03843v1": "|**2025-12-03**|**Robust Algorithms for Path and Cycle Problems in Geometric Intersection Graphs**|Malory Marin et.al.|[link](http://arxiv.org/abs/2512.03843v1)|null|\n",
+    "2512.03834v1": "|**2025-12-03**|**Lean Unet: A Compact Model for Image Segmentation**|Ture Hassler et.al.|[link](http://arxiv.org/abs/2512.03834v1)|null|\n",
+    "2512.03817v1": "|**2025-12-03**|**HieroGlyphTranslator: Automatic Recognition and Translation of Egyptian Hieroglyphs to English**|Ahmed Nasser et.al.|[link](http://arxiv.org/abs/2512.03817v1)|null|\n",
+    "2512.03789v1": "|**2025-12-03**|**Extremal diameters of 3-coloring graphs of trees**|Shamil Asgarli et.al.|[link](http://arxiv.org/abs/2512.03789v1)|null|\n",
+    "2512.03788v1": "|**2025-12-03**|**Quantum Algorithm for Searching for the Longest Segment and the Largest Empty Rectangle**|Kamil Khadiev et.al.|[link](http://arxiv.org/abs/2512.03788v1)|null|\n",
+    "2512.03750v1": "|**2025-12-03**|**Universally Converging Representations of Matter Across Scientific Foundation Models**|Sathya Edamadaka et.al.|[link](http://arxiv.org/abs/2512.03750v1)|null|\n",
+    "2512.03740v1": "|**2025-12-03**|**Quantum Max Cut for complete tripartite graphs**|Tea \u0160trekelj et.al.|[link](http://arxiv.org/abs/2512.03740v1)|null|\n",
+    "2512.03727v1": "|**2025-12-03**|**Colored Markov Random Fields for Probabilistic Topological Modeling**|Lorenzo Marinucci et.al.|[link](http://arxiv.org/abs/2512.03727v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -1891,6 +1938,17 @@
     "2512.02331v1": "|**2025-12-02**|**Instability triggered by mixed convection in a thin fluid layer**|Florian Rein et.al.|[link](http://arxiv.org/abs/2512.02331v1)|null|\n",
     "2512.02326v1": "|**2025-12-02**|**Chromatic derivatives, chromatic expansions and associated spaces II**|Aleksandar Ignjatovic et.al.|[link](http://arxiv.org/abs/2512.02326v1)|null|\n",
     "2512.02304v1": "|**2025-12-02**|**When Does Verification Pay Off? A Closer Look at LLMs as Solution Verifiers**|Jack Lu et.al.|[link](http://arxiv.org/abs/2512.02304v1)|null|\n",
-    "2512.02290v1": "|**2025-12-02**|**Enhancing Cross Domain SAR Oil Spill Segmentation via Morphological Region Perturbation and Synthetic Label-to-SAR Generation**|Andre Juarez et.al.|[link](http://arxiv.org/abs/2512.02290v1)|null|\n"
+    "2512.02290v1": "|**2025-12-02**|**Enhancing Cross Domain SAR Oil Spill Segmentation via Morphological Region Perturbation and Synthetic Label-to-SAR Generation**|Andre Juarez et.al.|[link](http://arxiv.org/abs/2512.02290v1)|null|\n",
+    "2512.03976v1": "|**2025-12-03**|**Adapting Large Language Models to Low-Resource Tibetan: A Two-Stage Continual and Supervised Fine-Tuning Study**|Lifeng Chen et.al.|[link](http://arxiv.org/abs/2512.03976v1)|null|\n",
+    "2512.03883v1": "|**2025-12-03**|**Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy**|Jorge Tapias Gomez et.al.|[link](http://arxiv.org/abs/2512.03883v1)|null|\n",
+    "2512.03775v1": "|**2025-12-03**|**\"MCP Does Not Stand for Misuse Cryptography Protocol\": Uncovering Cryptographic Misuse in Model Context Protocol at Scale**|Biwei Yan et.al.|[link](http://arxiv.org/abs/2512.03775v1)|null|\n",
+    "2512.03765v1": "|**2025-12-03**|**The Treasury Proof Ledger: A Cryptographic Framework for Accountable Bitcoin Treasuries**|Jose E. Puente et.al.|[link](http://arxiv.org/abs/2512.03765v1)|null|\n",
+    "2512.03653v1": "|**2025-12-03**|**Conditional updates of neural network weights for increased out of training performance**|Jan Saynisch-Wagner et.al.|[link](http://arxiv.org/abs/2512.03653v1)|null|\n",
+    "2512.03427v1": "|**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[link](http://arxiv.org/abs/2512.03427v1)|null|\n",
+    "2512.03375v1": "|**2025-12-03**|**MAGE-ID: A Multimodal Generative Framework for Intrusion Detection Systems**|Mahdi Arab Loodaricheh et.al.|[link](http://arxiv.org/abs/2512.03375v1)|null|\n",
+    "2512.03300v1": "|**2025-12-02**|**HydroDCM: Hydrological Domain-Conditioned Modulation for Cross-Reservoir Inflow Prediction**|Pengfei Hu et.al.|[link](http://arxiv.org/abs/2512.03300v1)|null|\n",
+    "2512.03296v1": "|**2025-12-02**|**Associating Healthcare Teamwork with Patient Outcomes for Predictive Analysis**|Hsiao-Ying Lu et.al.|[link](http://arxiv.org/abs/2512.03296v1)|null|\n",
+    "2512.03172v1": "|**2025-12-02**|**On the Virasoro Crossing Kernels at Rational Central Charge**|Julien Roussillon et.al.|[link](http://arxiv.org/abs/2512.03172v1)|null|\n",
+    "2512.02895v2": "|**2025-12-03**|**MindGPT-4ov: An Enhanced MLLM via a Multi-Stage Post-Training Paradigm**|Wei Chen et.al.|[link](http://arxiv.org/abs/2512.02895v2)|null|\n"
   }
 }
