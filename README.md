@@ -1,9 +1,10 @@
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
 |**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|
@@ -33,7 +34,7 @@
 |**2025-08-02**|**SWAN: Synergistic Wavelet-Attention Network for Infrared Small Target Detection**|Yuxin Jing et.al.|[link](http://arxiv.org/abs/2508.01322v1)|null|
 |**2025-07-29**|**Gemini Near Infrared Spectrograph$-$Distant Quasar Survey: the Chandra View**|Andrea Marlar et.al.|[link](http://arxiv.org/abs/2507.22272v1)|null|
 |**2025-07-24**|**Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection**|Junyao Li et.al.|[link](http://arxiv.org/abs/2507.18260v1)|null|
-|**2025-07-18**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[link](http://arxiv.org/abs/2507.13113v1)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[link](http://arxiv.org/abs/2507.13113v1)|null|
 |**2025-07-13**|**SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing**|Ximeng Zhai et.al.|[link](http://arxiv.org/abs/2507.09556v1)|null|
 |**2025-07-13**|**DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection**|Zihao Xiong et.al.|[link](http://arxiv.org/abs/2507.09541v1)|null|
 |**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[link](http://arxiv.org/abs/2507.02454v1)|null|
@@ -275,6 +276,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-05**|**Group Classification (1+2)-dimensional Linear Equation of Asian Options Pricing**|Stanislav V. Spichak et.al.|[link](http://arxiv.org/abs/2512.05963v1)|null|
+|**2025-12-05**|**Synset Signset Germany: a Synthetic Dataset for German Traffic Sign Recognition**|Anne Sielemann et.al.|[link](http://arxiv.org/abs/2512.05936v1)|null|
+|**2025-12-05**|**Transformation of orientation and rotation angles of synchronous satellites: Application to the Galilean moons**|Marie Yseboodt et.al.|[link](http://arxiv.org/abs/2512.05935v1)|null|
+|**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[link](http://arxiv.org/abs/2512.05922v1)|null|
+|**2025-12-05**|**KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity**|Damien Lesens et.al.|[link](http://arxiv.org/abs/2512.05916v1)|null|
+|**2025-12-05**|**Numerically Reliable Brunovsky Transformations**|Shaohui Yang et.al.|[link](http://arxiv.org/abs/2512.05910v1)|null|
+|**2025-12-05**|**Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**|Amirkia Rafiei Oskooei et.al.|[link](http://arxiv.org/abs/2512.05908v1)|null|
+|**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[link](http://arxiv.org/abs/2512.05905v1)|null|
+|**2025-12-05**|**Underwater Image Reconstruction Using a Swin Transformer-Based Generator and PatchGAN Discriminator**|Md. Mahbub Hasan Akash et.al.|[link](http://arxiv.org/abs/2512.05866v1)|null|
+|**2025-12-05**|**Sparse Attention Post-Training for Mechanistic Interpretability**|Florent Draye et.al.|[link](http://arxiv.org/abs/2512.05865v1)|null|
+|**2025-12-05**|**NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation**|Daniel Rose et.al.|[link](http://arxiv.org/abs/2512.05844v1)|null|
+|**2025-12-05**|**Invariant Price of Anarchy: a Metric for Welfarist Traffic Control**|Ilia Shilov et.al.|[link](http://arxiv.org/abs/2512.05843v1)|null|
+|**2025-12-05**|**Conformal transformations of metric spaces and Lorentzian pre-length spaces**|Miguel Manzano et.al.|[link](http://arxiv.org/abs/2512.05842v1)|null|
+|**2025-12-05**|**Time-Temperature-Transformation (TTT) Diagrams to rationalize the nucleation and quenchability of metastable $α$-Li$_3$PS$_4$**|Akira Miura et.al.|[link](http://arxiv.org/abs/2512.05841v1)|null|
+|**2025-12-05**|**Phase-OTDR Event Detection Using Image-Based Data Transformation and Deep Learning**|Muhammet Cagri Yeke et.al.|[link](http://arxiv.org/abs/2512.05830v1)|null|
+|**2025-12-05**|**Higher-order diffusion and Cahn-Hilliard-type models revisited on the half-line**|A. Chatziafratis et.al.|[link](http://arxiv.org/abs/2512.05829v1)|null|
+|**2025-12-05**|**Machine-learning-enabled interpretation of tribological deformation patterns in large-scale MD data**|Hendrik J. Ehrich et.al.|[link](http://arxiv.org/abs/2512.05818v1)|null|
+|**2025-12-05**|**Optimal Safety-Aware Scheduling for Multi-Agent Aerial 3D Printing with Utility Maximization under Dependency Constraints**|Marios-Nektarios Stamatopoulos et.al.|[link](http://arxiv.org/abs/2512.05815v1)|null|
+|**2025-12-05**|**UG-FedDA: Uncertainty-Guided Federated Domain Adaptation for Multi-Center Alzheimer's Disease Detection**|Fubao Zhu et.al.|[link](http://arxiv.org/abs/2512.05814v1)|null|
+|**2025-12-05**|**Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation**|Fabian Konstantinidis et.al.|[link](http://arxiv.org/abs/2512.05812v1)|null|
 |**2025-12-04**|**The Universal Weight Subspace Hypothesis**|Prakhar Kaushik et.al.|[link](http://arxiv.org/abs/2512.05117v1)|null|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[link](http://arxiv.org/abs/2512.05114v1)|null|
 |**2025-12-04**|**ShadowDraw: From Any Object to Shadow-Drawing Compositional Art**|Rundong Luo et.al.|[link](http://arxiv.org/abs/2512.05110v1)|null|
@@ -1182,6 +1203,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-05**|**On cable-graph percolation between dimensions 2 and 3**|Pierre-François Rodriguez et.al.|[link](http://arxiv.org/abs/2512.05947v1)|null|
+|**2025-12-05**|**A poset representation for stable contracts in a two-sided market generated by integer choice functions**|Alexander V. Karzanov et.al.|[link](http://arxiv.org/abs/2512.05942v1)|null|
+|**2025-12-05**|**Synset Signset Germany: a Synthetic Dataset for German Traffic Sign Recognition**|Anne Sielemann et.al.|[link](http://arxiv.org/abs/2512.05936v1)|null|
+|**2025-12-05**|**Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech**|Xuanru Zhou et.al.|[link](http://arxiv.org/abs/2512.05933v1)|null|
+|**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[link](http://arxiv.org/abs/2512.05922v1)|null|
+|**2025-12-05**|**Learning the Cosmic Web: Graph-based Classification of Simulated Galaxies by their Dark Matter Environments**|Dakshesh Kololgi et.al.|[link](http://arxiv.org/abs/2512.05909v1)|null|
+|**2025-12-05**|**The Milnor fiber boundary of an arrangement determines its combinatorics**|Baldur Sigurðsson et.al.|[link](http://arxiv.org/abs/2512.05891v1)|null|
+|**2025-12-05**|**Seaweed algebras with restricted part sizes**|Kassie Archer et.al.|[link](http://arxiv.org/abs/2512.05890v1)|null|
+|**2025-12-05**|**NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation**|Daniel Rose et.al.|[link](http://arxiv.org/abs/2512.05844v1)|null|
+|**2025-12-05**|**On the integral variation map of isolated plane curves singularities**|Pablo Portilla Cuadrado et.al.|[link](http://arxiv.org/abs/2512.05820v1)|null|
+|**2025-12-05**|**Optimal Safety-Aware Scheduling for Multi-Agent Aerial 3D Printing with Utility Maximization under Dependency Constraints**|Marios-Nektarios Stamatopoulos et.al.|[link](http://arxiv.org/abs/2512.05815v1)|null|
+|**2025-12-05**|**Task-Specific Trust Evaluation for Multi-Hop Collaborator Selection via GNN-Aided Distributed Agentic AI**|Botao Zhu et.al.|[link](http://arxiv.org/abs/2512.05788v1)|null|
+|**2025-12-05**|**Nature of continuous spectra in wall-bounded shearing flows of FENE-P fluids**|Pratyush Kumar Mohanty et.al.|[link](http://arxiv.org/abs/2512.05787v1)|null|
+|**2025-12-05**|**Feasibility study for physics-informed direct numerical simulation describing particle suspension in high-loaded compartments of air-segmented flow**|Otto Mierka et.al.|[link](http://arxiv.org/abs/2512.05785v1)|null|
+|**2025-12-05**|**On Sparse Representations of 3-Manifolds**|Kristóf Huszár et.al.|[link](http://arxiv.org/abs/2512.05779v1)|null|
+|**2025-12-05**|**Towards agent-based-model informed neural networks**|Nino Antulov-Fantulin et.al.|[link](http://arxiv.org/abs/2512.05764v1)|null|
+|**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[link](http://arxiv.org/abs/2512.05759v1)|null|
+|**2025-12-05**|**A phase transition in Erdős-Barak random graphs**|Gilles Blanchard et.al.|[link](http://arxiv.org/abs/2512.05756v1)|null|
+|**2025-12-05**|**The Commuting Graphs of Certain Solvable Lie Algebras**|Hieu V. Ha et.al.|[link](http://arxiv.org/abs/2512.05755v1)|null|
+|**2025-12-05**|**AIORA: An AI-Native Multi-Stakeholder Orchestration Architecture for 6G Continuum**|Nuria Molner et.al.|[link](http://arxiv.org/abs/2512.05744v1)|null|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[link](http://arxiv.org/abs/2512.05114v1)|null|
 |**2025-12-04**|**Singularity of the loops within a cable-graph loop-soup conditioned by its occupation time**|Arthur Dremaux et.al.|[link](http://arxiv.org/abs/2512.05086v1)|null|
 |**2025-12-04**|**CNN on `Top': In Search of Scalable & Lightweight Image-based Jet Taggers**|Rajneil Baruah et.al.|[link](http://arxiv.org/abs/2512.05031v1)|null|
@@ -1709,6 +1750,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-05**|**UG-FedDA: Uncertainty-Guided Federated Domain Adaptation for Multi-Center Alzheimer's Disease Detection**|Fubao Zhu et.al.|[link](http://arxiv.org/abs/2512.05814v1)|null|
+|**2025-12-05**|**Experts-Guided Unbalanced Optimal Transport for ISP Learning from Unpaired and/or Paired Data**|Georgy Perevozchikov et.al.|[link](http://arxiv.org/abs/2512.05635v1)|null|
+|**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[link](http://arxiv.org/abs/2512.05613v1)|null|
 |**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[link](http://arxiv.org/abs/2512.04966v1)|null|
 |**2025-12-04**|**Complementary Characterization of Agent-Based Models via Computational Mechanics and Diffusion Models**|Roberto Garrone et.al.|[link](http://arxiv.org/abs/2512.04771v1)|null|
 |**2025-12-04**|**The next-to-next-to-leading-order QCD corrections to $e^+e^-\to η_c/χ_{cJ}+γ$ at B factories**|Cong Li et.al.|[link](http://arxiv.org/abs/2512.04758v1)|null|
