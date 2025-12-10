@@ -1,4 +1,4 @@
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 
 ### ISTD
 
@@ -276,6 +276,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[link](http://arxiv.org/abs/2512.07831v1)|null|
+|**2025-12-08**|**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**|Jeremy Yang et.al.|[link](http://arxiv.org/abs/2512.07828v1)|null|
+|**2025-12-08**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[link](http://arxiv.org/abs/2512.07811v1)|null|
+|**2025-12-08**|**Lang3D-XL: Language Embedded 3D Gaussians for Large-scale Scenes**|Shai Krakovsky et.al.|[link](http://arxiv.org/abs/2512.07807v1)|null|
+|**2025-12-08**|**Multi-view Pyramid Transformer: Look Coarser to See Broader**|Gyeongjin Kang et.al.|[link](http://arxiv.org/abs/2512.07806v1)|null|
+|**2025-12-08**|**Group Representational Position Encoding**|Yifan Zhang et.al.|[link](http://arxiv.org/abs/2512.07805v1)|null|
+|**2025-12-08**|**GatedFWA: Linear Flash Windowed Attention with Gated Associative Memory**|Jiaxu Liu et.al.|[link](http://arxiv.org/abs/2512.07782v1)|null|
+|**2025-12-08**|**GorillaWatch: An Automated System for In-the-Wild Gorilla Re-Identification and Population Monitoring**|Maximilian Schall et.al.|[link](http://arxiv.org/abs/2512.07776v1)|null|
+|**2025-12-08**|**Log-concave functions and transformations thereof**|Dihan Zou et.al.|[link](http://arxiv.org/abs/2512.07768v1)|null|
+|**2025-12-08**|**Unison: A Fully Automatic, Task-Universal, and Low-Cost Framework for Unified Understanding and Generation**|Shihao Zhao et.al.|[link](http://arxiv.org/abs/2512.07747v1)|null|
+|**2025-12-08**|**Symmetric Vaccine Efficacy**|Lucy D'Agostino McGowan et.al.|[link](http://arxiv.org/abs/2512.07739v1)|null|
+|**2025-12-08**|**Bounded oscillation operators on BMO spaces**|Grigori A. Karagulyan et.al.|[link](http://arxiv.org/abs/2512.07736v1)|null|
+|**2025-12-08**|**Multi-Generator Continual Learning for Robust Delay Prediction in 6G**|Xiaoyu Lan et.al.|[link](http://arxiv.org/abs/2512.07726v1)|null|
+|**2025-12-08**|**The Native Spiking Microarchitecture: From Iontronic Primitives to Bit-Exact FP8 Arithmetic**|Zhengzheng Tang et.al.|[link](http://arxiv.org/abs/2512.07724v1)|null|
+|**2025-12-08**|**Enabling Delayed-Full Charging Through Transformer-Based Real-Time-to-Departure Modeling for EV Battery Longevity**|Yonggeon Lee et.al.|[link](http://arxiv.org/abs/2512.07723v1)|null|
+|**2025-12-08**|**Magnonics of time-varying media: Giant amplification via phase-transition-driven temporal interfaces**|Krzysztof Sobucki et.al.|[link](http://arxiv.org/abs/2512.07713v1)|null|
+|**2025-12-08**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[link](http://arxiv.org/abs/2512.07712v1)|null|
+|**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[link](http://arxiv.org/abs/2512.07705v1)|null|
+|**2025-12-08**|**sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only**|Arslan Artykov et.al.|[link](http://arxiv.org/abs/2512.07698v1)|null|
+|**2025-12-08**|**A winning approach to the intersections of twisted non-recurrent sets with fractals**|Junjie Huang et.al.|[link](http://arxiv.org/abs/2512.07686v1)|null|
 |**2025-12-05**|**Group Classification (1+2)-dimensional Linear Equation of Asian Options Pricing**|Stanislav V. Spichak et.al.|[link](http://arxiv.org/abs/2512.05963v1)|null|
 |**2025-12-05**|**Synset Signset Germany: a Synthetic Dataset for German Traffic Sign Recognition**|Anne Sielemann et.al.|[link](http://arxiv.org/abs/2512.05936v1)|null|
 |**2025-12-05**|**Transformation of orientation and rotation angles of synchronous satellites: Application to the Galilean moons**|Marie Yseboodt et.al.|[link](http://arxiv.org/abs/2512.05935v1)|null|
@@ -961,6 +981,14 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-08**|**UltrasODM: A Dual Stream Optical Flow Mamba Network for 3D Freehand Ultrasound Reconstruction**|Mayank Anand et.al.|[link](http://arxiv.org/abs/2512.07756v1)|null|
+|**2025-12-08**|**How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline**|Chunhui Zhang et.al.|[link](http://arxiv.org/abs/2512.07385v1)|null|
+|**2025-12-08**|**PlantBiMoE: A Bidirectional Foundation Model with SparseMoE for Plant Genomes**|Kepeng Lin et.al.|[link](http://arxiv.org/abs/2512.07113v1)|null|
+|**2025-12-08**|**Dual Refinement Cycle Learning: Unsupervised Text Classification of Mamba and Community Detection on Text Attributed Graph**|Hong Wang et.al.|[link](http://arxiv.org/abs/2512.07100v1)|null|
+|**2025-12-07**|**Always Keep Your Promises: DynamicLRP, A Model-Agnostic Solution To Layer-Wise Relevance Propagation**|Kevin Lee et.al.|[link](http://arxiv.org/abs/2512.07010v1)|null|
+|**2025-12-07**|**Adaptive Normalization Mamba with Multi Scale Trend Decomposition and Patch MoE Encoding**|MinCheol Jeon et.al.|[link](http://arxiv.org/abs/2512.06929v1)|null|
+|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[link](http://arxiv.org/abs/2512.06657v1)|null|
+|**2025-12-06**|**S2WMamba: A Spectral-Spatial Wavelet Mamba for Pansharpening**|Haoyu Zhang et.al.|[link](http://arxiv.org/abs/2512.06330v1)|null|
 |**2025-12-03**|**Traffic Image Restoration under Adverse Weather via Frequency-Aware Mamba**|Liwen Pan et.al.|[link](http://arxiv.org/abs/2512.03852v1)|null|
 |**2025-12-03**|**State Space Models for Bioacoustics: A comparative Evaluation with Transformers**|Chengyu Tang et.al.|[link](http://arxiv.org/abs/2512.03563v1)|null|
 |**2025-12-03**|**DM3D: Deformable Mamba via Offset-Guided Gaussian Sequencing for Point Cloud Understanding**|Bin Liu et.al.|[link](http://arxiv.org/abs/2512.03424v1)|null|
@@ -1203,6 +1231,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[link](http://arxiv.org/abs/2512.07831v1)|null|
+|**2025-12-08**|**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**|Jeremy Yang et.al.|[link](http://arxiv.org/abs/2512.07828v1)|null|
+|**2025-12-08**|**Graph-Based Learning of Spectro-Topographical EEG Representations with Gradient Alignment for Brain-Computer Interfaces**|Prithila Angkan et.al.|[link](http://arxiv.org/abs/2512.07820v1)|null|
+|**2025-12-08**|**The local homological structure of generalized splines**|Kyle Stoltz et.al.|[link](http://arxiv.org/abs/2512.07789v1)|null|
+|**2025-12-08**|**GorillaWatch: An Automated System for In-the-Wild Gorilla Re-Identification and Population Monitoring**|Maximilian Schall et.al.|[link](http://arxiv.org/abs/2512.07776v1)|null|
+|**2025-12-08**|**Exact supported co-degree bounds for Hamilton cycles**|Shoham Letzter et.al.|[link](http://arxiv.org/abs/2512.07751v1)|null|
+|**2025-12-08**|**Quantitative indistinguishability and sparse and dense clusters in factor of IID percolations**|Endre Csóka et.al.|[link](http://arxiv.org/abs/2512.07740v1)|null|
+|**2025-12-08**|**On computing the (exact) Fréchet distance with a frog**|Jacobus Conradi et.al.|[link](http://arxiv.org/abs/2512.07728v1)|null|
+|**2025-12-08**|**Multi-Generator Continual Learning for Robust Delay Prediction in 6G**|Xiaoyu Lan et.al.|[link](http://arxiv.org/abs/2512.07726v1)|null|
+|**2025-12-08**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[link](http://arxiv.org/abs/2512.07712v1)|null|
+|**2025-12-08**|**sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only**|Arslan Artykov et.al.|[link](http://arxiv.org/abs/2512.07698v1)|null|
+|**2025-12-08**|**When Large Language Models Do Not Work: Online Incivility Prediction through Graph Neural Networks**|Zihan Chen et.al.|[link](http://arxiv.org/abs/2512.07684v1)|null|
+|**2025-12-08**|**Equidistant dimension of Cartesian product graphs**|Adria Gispert-Fernandez et.al.|[link](http://arxiv.org/abs/2512.07672v1)|null|
+|**2025-12-08**|**Bridging Code Graphs and Large Language Models for Better Code Understanding**|Zeqi Chen et.al.|[link](http://arxiv.org/abs/2512.07666v1)|null|
+|**2025-12-08**|**Liver Fibrosis Quantification and Analysis: The LiQA Dataset and Baseline Method**|Yuanye Liu et.al.|[link](http://arxiv.org/abs/2512.07651v1)|null|
+|**2025-12-08**|**Segmented Waveguide-Enabled Pinching-Antenna Systems (SWANs) for ISAC**|Hao Jiang et.al.|[link](http://arxiv.org/abs/2512.07649v1)|null|
+|**2025-12-08**|**Decomposition Sampling for Efficient Region Annotations in Active Learning**|Jingna Qiu et.al.|[link](http://arxiv.org/abs/2512.07606v1)|null|
+|**2025-12-08**|**Online Segment Any 3D Thing as Instance Tracking**|Hanshi Wang et.al.|[link](http://arxiv.org/abs/2512.07599v1)|null|
+|**2025-12-08**|**More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery**|Wenzhen Dong et.al.|[link](http://arxiv.org/abs/2512.07596v1)|null|
+|**2025-12-08**|**Extended formulations for the maximum weighted co-2-plex problem**|Alexandre Dupont-Bouillard et.al.|[link](http://arxiv.org/abs/2512.07592v1)|null|
 |**2025-12-05**|**On cable-graph percolation between dimensions 2 and 3**|Pierre-François Rodriguez et.al.|[link](http://arxiv.org/abs/2512.05947v1)|null|
 |**2025-12-05**|**A poset representation for stable contracts in a two-sided market generated by integer choice functions**|Alexander V. Karzanov et.al.|[link](http://arxiv.org/abs/2512.05942v1)|null|
 |**2025-12-05**|**Synset Signset Germany: a Synthetic Dataset for German Traffic Sign Recognition**|Anne Sielemann et.al.|[link](http://arxiv.org/abs/2512.05936v1)|null|
@@ -1750,6 +1798,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-08**|**GorillaWatch: An Automated System for In-the-Wild Gorilla Re-Identification and Population Monitoring**|Maximilian Schall et.al.|[link](http://arxiv.org/abs/2512.07776v1)|null|
+|**2025-12-07**|**An Analysis of Large Language Models for Simulating User Responses in Surveys**|Ziyun Yu et.al.|[link](http://arxiv.org/abs/2512.06874v1)|null|
+|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[link](http://arxiv.org/abs/2512.06657v1)|null|
+|**2025-12-06**|**On The Role of K-Space Acquisition in MRI Reconstruction Domain-Generalization**|Mohammed Wattad et.al.|[link](http://arxiv.org/abs/2512.06530v1)|null|
+|**2025-12-06**|**Towards Stable Cross-Domain Depression Recognition under Missing Modalities**|Jiuyi Chen et.al.|[link](http://arxiv.org/abs/2512.06447v1)|null|
 |**2025-12-05**|**UG-FedDA: Uncertainty-Guided Federated Domain Adaptation for Multi-Center Alzheimer's Disease Detection**|Fubao Zhu et.al.|[link](http://arxiv.org/abs/2512.05814v1)|null|
 |**2025-12-05**|**Experts-Guided Unbalanced Optimal Transport for ISP Learning from Unpaired and/or Paired Data**|Georgy Perevozchikov et.al.|[link](http://arxiv.org/abs/2512.05635v1)|null|
 |**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[link](http://arxiv.org/abs/2512.05613v1)|null|
