@@ -1,4 +1,4 @@
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 
 ### ISTD
 
@@ -19,7 +19,7 @@
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
 |**2025-10-02**|**A Mid-Infrared Spectroscopic Study of Young Stellar Objects in the SMC Region NGC 346: JWST Detects Dust, Accretion, Ices and Outflows**|Nolan Habel et.al.|[link](http://arxiv.org/abs/2510.02606v1)|null|
 |**2025-10-01**|**Simulating Spectral Confusion in SPHEREx Photometry and Redshifts**|Zhaoyu Huai et.al.|[link](http://arxiv.org/abs/2510.01410v1)|null|
-|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|null|
+|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|**[code](https://github.com/moured/TY-RIST)**|
 |**2025-09-25**|**DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection**|Jiayi Zuo et.al.|[link](http://arxiv.org/abs/2509.20701v1)|null|
 |**2025-09-24**|**Fast and compact time-resolved spectroscopy enabled by Quantum Walk Combs**|Ina Heckelmann et.al.|[link](http://arxiv.org/abs/2509.20112v1)|null|
 |**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|null|
@@ -276,6 +276,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[link](http://arxiv.org/abs/2512.08931v1)|null|
+|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[link](http://arxiv.org/abs/2512.08930v1)|null|
+|**2025-12-09**|**Efficiently Reconstructing Dynamic Scenes One D4RT at a Time**|Chuhan Zhang et.al.|[link](http://arxiv.org/abs/2512.08924v1)|null|
+|**2025-12-09**|**Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration**|Jin Hyeon Kim et.al.|[link](http://arxiv.org/abs/2512.08922v1)|null|
+|**2025-12-09**|**SAQ: Stabilizer-Aware Quantum Error Correction Decoder**|David Zenati et.al.|[link](http://arxiv.org/abs/2512.08914v1)|null|
+|**2025-12-09**|**Architecture Design for Rise/Fall Asymmetry Glitch Minimization in Current-Steering DACs**|Ramin Babaee et.al.|[link](http://arxiv.org/abs/2512.08909v1)|null|
+|**2025-12-09**|**Timing-Error Optimized Architecture for Current-Steering DACs**|Ramin Babaee et.al.|[link](http://arxiv.org/abs/2512.08903v1)|null|
+|**2025-12-09**|**UniLayDiff: A Unified Diffusion Transformer for Content-Aware Layout Generation**|Zeyang Liu et.al.|[link](http://arxiv.org/abs/2512.08897v1)|null|
+|**2025-12-09**|**Modelling and valuation of catastrophe bonds across multiple regions**|Krzysztof Burnecki et.al.|[link](http://arxiv.org/abs/2512.08890v1)|null|
+|**2025-12-09**|**Accelerated Rotation-Invariant Convolution for UAV Image Segmentation**|Manduhu Manduhu et.al.|[link](http://arxiv.org/abs/2512.08888v1)|null|
+|**2025-12-09**|**A Fast Broadband Beamspace Transformation**|Nakul Singh et.al.|[link](http://arxiv.org/abs/2512.08887v1)|null|
+|**2025-12-09**|**Explainable Anomaly Detection for Industrial IoT Data Streams**|Ana Rita Paupério et.al.|[link](http://arxiv.org/abs/2512.08885v1)|null|
+|**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[link](http://arxiv.org/abs/2512.08873v1)|null|
+|**2025-12-09**|**SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA**|Jing Zhang et.al.|[link](http://arxiv.org/abs/2512.08867v1)|null|
+|**2025-12-09**|**Near real-time channel selection for Distributed Acoustic Sensing technology**|Emanuele Bozzi et.al.|[link](http://arxiv.org/abs/2512.08845v1)|null|
+|**2025-12-09**|**A Methodology for Quantitative AI Risk Modeling**|Malcolm Murray et.al.|[link](http://arxiv.org/abs/2512.08844v1)|null|
+|**2025-12-09**|**The Strong-$CP$ Problem and its Gauge Axion solution as Evidence for Fundamental Strings**|Gia Dvali et.al.|[link](http://arxiv.org/abs/2512.08834v1)|null|
+|**2025-12-09**|**InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models**|Hongyuan Tao et.al.|[link](http://arxiv.org/abs/2512.08829v1)|null|
+|**2025-12-09**|**CIEMAT-QI4X: a reactor-relevant quasi-isodynamic stellarator configuration compatible with an island divertor**|E. Sánchez et.al.|[link](http://arxiv.org/abs/2512.08825v1)|null|
+|**2025-12-09**|**Do Depth-Grown Models Overcome the Curse of Depth? An In-Depth Analysis**|Ferdinand Kapl et.al.|[link](http://arxiv.org/abs/2512.08819v1)|null|
 |**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[link](http://arxiv.org/abs/2512.07831v1)|null|
 |**2025-12-08**|**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**|Jeremy Yang et.al.|[link](http://arxiv.org/abs/2512.07828v1)|null|
 |**2025-12-08**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[link](http://arxiv.org/abs/2512.07811v1)|null|
@@ -1231,6 +1251,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-09**|**Architecture Design for Rise/Fall Asymmetry Glitch Minimization in Current-Steering DACs**|Ramin Babaee et.al.|[link](http://arxiv.org/abs/2512.08909v1)|null|
+|**2025-12-09**|**Timing-Error Optimized Architecture for Current-Steering DACs**|Ramin Babaee et.al.|[link](http://arxiv.org/abs/2512.08903v1)|null|
+|**2025-12-09**|**On the Prague dimension of sparse random graphs**|Felix Joos et.al.|[link](http://arxiv.org/abs/2512.08899v1)|null|
+|**2025-12-09**|**Accelerated Rotation-Invariant Convolution for UAV Image Segmentation**|Manduhu Manduhu et.al.|[link](http://arxiv.org/abs/2512.08888v1)|null|
+|**2025-12-09**|**Near real-time channel selection for Distributed Acoustic Sensing technology**|Emanuele Bozzi et.al.|[link](http://arxiv.org/abs/2512.08845v1)|null|
+|**2025-12-09**|**Loose Hamiltonicity**|Richard Lang et.al.|[link](http://arxiv.org/abs/2512.08837v1)|null|
+|**2025-12-09**|**Clasped web bases from hourglass plabic graphs**|Pranav Enugandla et.al.|[link](http://arxiv.org/abs/2512.08817v1)|null|
+|**2025-12-09**|**Delay-Oriented Distributed Scheduling with TransGNN**|Boxuan Wen et.al.|[link](http://arxiv.org/abs/2512.08799v1)|null|
+|**2025-12-09**|**Can TabPFN Compete with GNNs for Node Classification via Graph Tabularization?**|Jeongwhan Choi et.al.|[link](http://arxiv.org/abs/2512.08798v1)|null|
+|**2025-12-09**|**Graph Quantum Magic Squares and Free Spectrahedra**|Francesca La Piana et.al.|[link](http://arxiv.org/abs/2512.08797v1)|null|
+|**2025-12-09**|**Persistent Homology for Labeled Datasets: Gromov-Hausdorff Stability and Generalized Landscapes**|Yaoying Fu et.al.|[link](http://arxiv.org/abs/2512.08794v1)|null|
+|**2025-12-09**|**Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning**|Jinfeng Xu et.al.|[link](http://arxiv.org/abs/2512.08763v1)|null|
+|**2025-12-09**|**A Scalable Pipeline Combining Procedural 3D Graphics and Guided Diffusion for Photorealistic Synthetic Training Data Generation in White Button Mushroom Segmentation**|Artúr I. Károly et.al.|[link](http://arxiv.org/abs/2512.08747v1)|null|
+|**2025-12-09**|**RF sensing with dense IoT network graphs: An EM-informed analysis**|Federica Fieramosca et.al.|[link](http://arxiv.org/abs/2512.08746v1)|null|
+|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[link](http://arxiv.org/abs/2512.08730v1)|null|
+|**2025-12-09**|**Geometry-driven transitions in sparse long-range spin models with cold atoms**|Alex Gunning et.al.|[link](http://arxiv.org/abs/2512.08709v1)|null|
+|**2025-12-09**|**On the Number of Posets**|Rico Zöllner et.al.|[link](http://arxiv.org/abs/2512.08686v1)|null|
+|**2025-12-09**|**Fast free resolutions of bifiltered chain complexes**|Ulrich Bauer et.al.|[link](http://arxiv.org/abs/2512.08652v1)|null|
+|**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[link](http://arxiv.org/abs/2512.08625v1)|null|
+|**2025-12-09**|**Operator Lanczos Approach enabling Neural Quantum States as Real-Frequency Impurity Solvers**|Jonas B. Rigo et.al.|[link](http://arxiv.org/abs/2512.08624v1)|null|
 |**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[link](http://arxiv.org/abs/2512.07831v1)|null|
 |**2025-12-08**|**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**|Jeremy Yang et.al.|[link](http://arxiv.org/abs/2512.07828v1)|null|
 |**2025-12-08**|**Graph-Based Learning of Spectro-Topographical EEG Representations with Gradient Alignment for Brain-Computer Interfaces**|Prithila Angkan et.al.|[link](http://arxiv.org/abs/2512.07820v1)|null|
@@ -1798,6 +1838,8 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-09**|**A Lightweight Transfer Learning-Based State-of-Health Monitoring with Application to Lithium-ion Batteries in Unmanned Air Vehicles**|Jiang Liu et.al.|[link](http://arxiv.org/abs/2512.08512v1)|null|
+|**2025-12-09**|**PolyLingua: Margin-based Inter-class Transformer for Robust Cross-domain Language Detection**|Ali Lotfi Rezaabad et.al.|[link](http://arxiv.org/abs/2512.08143v1)|null|
 |**2025-12-08**|**GorillaWatch: An Automated System for In-the-Wild Gorilla Re-Identification and Population Monitoring**|Maximilian Schall et.al.|[link](http://arxiv.org/abs/2512.07776v1)|null|
 |**2025-12-07**|**An Analysis of Large Language Models for Simulating User Responses in Surveys**|Ziyun Yu et.al.|[link](http://arxiv.org/abs/2512.06874v1)|null|
 |**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[link](http://arxiv.org/abs/2512.06657v1)|null|
