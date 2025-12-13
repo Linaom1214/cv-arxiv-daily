@@ -1,4 +1,4 @@
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 
 ### ISTD
 
@@ -277,6 +277,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[link](http://arxiv.org/abs/2512.10954v1)|null|
+|**2025-12-11**|**Bidirectional Normalizing Flow: From Data to Noise and Back**|Yiyang Lu et.al.|[link](http://arxiv.org/abs/2512.10953v1)|null|
+|**2025-12-11**|**MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2512.10945v1)|null|
+|**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[link](http://arxiv.org/abs/2512.10939v1)|null|
+|**2025-12-11**|**Stronger Normalization-Free Transformers**|Mingzhi Chen et.al.|[link](http://arxiv.org/abs/2512.10938v1)|null|
+|**2025-12-11**|**Empirical evaluation of the Frank-Wolfe methods for constructing white-box adversarial attacks**|Kristina Korotkova et.al.|[link](http://arxiv.org/abs/2512.10936v1)|null|
+|**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[link](http://arxiv.org/abs/2512.10935v1)|null|
+|**2025-12-11**|**Free plane curves with a linear Jacobian syzygy**|Valentina Beorchia et.al.|[link](http://arxiv.org/abs/2512.10928v1)|null|
+|**2025-12-11**|**SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale**|Max Zimmer et.al.|[link](http://arxiv.org/abs/2512.10922v1)|null|
+|**2025-12-11**|**Structural, physical, and Judd-Ofelt analysis of germanium magnesium-telluroborate glass containing different amounts of Tm2O3**|A. A. El-Maaref et.al.|[link](http://arxiv.org/abs/2512.10920v1)|null|
+|**2025-12-11**|**Imprint of the black hole interior on thermal four-point correlators**|Joydeep Chakravarty et.al.|[link](http://arxiv.org/abs/2512.10912v1)|null|
+|**2025-12-11**|**A vision for ground-based astronomy beyond the 2030s: How to build ESO's next big telescope sustainably**|Laurane Fréour et.al.|[link](http://arxiv.org/abs/2512.10902v1)|null|
+|**2025-12-11**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[link](http://arxiv.org/abs/2512.10891v1)|null|
+|**2025-12-11**|**PubTables-v2: A new large-scale dataset for full-page and multi-page table extraction**|Brandon Smock et.al.|[link](http://arxiv.org/abs/2512.10888v1)|null|
+|**2025-12-11**|**Spectral Theory of the Weighted Fourier Transform with respect to a Function in $\mathbb{R}^n$: Uncertainty Principle and Diffusion-Wave Applications**|Gustavo Dorrego et.al.|[link](http://arxiv.org/abs/2512.10880v1)|null|
+|**2025-12-11**|**Structure of Chern-Simons Graviton Scattering Amplitudes from Topological Gravity Equivalence Theorem and Double Copy**|Hong-Xu Liu et.al.|[link](http://arxiv.org/abs/2512.10870v1)|null|
+|**2025-12-11**|**Topological Engineering of a Frustrated Antiferromagnetic Triradical in Aza-Triangulene Architectures**|Francisco Romero-Lara et.al.|[link](http://arxiv.org/abs/2512.10869v1)|null|
+|**2025-12-11**|**From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models**|Zongzhao Li et.al.|[link](http://arxiv.org/abs/2512.10867v1)|null|
+|**2025-12-11**|**UrbanAI 2025 Challenge: Linear vs Transformer Models for Long-Horizon Exogenous Temperature Forecasting**|Ruslan Gokhman et.al.|[link](http://arxiv.org/abs/2512.10866v1)|null|
+|**2025-12-11**|**Towards Cumulative Abstract Semantics via Handlers**|Cade Lueker et.al.|[link](http://arxiv.org/abs/2512.10861v1)|null|
 |**2025-12-10**|**GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures**|Patrick Noras et.al.|[link](http://arxiv.org/abs/2512.09925v1)|null|
 |**2025-12-10**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[link](http://arxiv.org/abs/2512.09924v1)|null|
 |**2025-12-10**|**Optical arbitrary waveform generation using spectro-temporal unitary transforms**|Callum Deakin et.al.|[link](http://arxiv.org/abs/2512.09919v1)|null|
@@ -1022,7 +1042,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[link](http://arxiv.org/abs/2512.10353v1)|null|
+|**2025-12-11**|**StateSpace-SSL: Linear-Time Self-supervised Learning for Plant Disease Detection**|Abdullah Al Mamun et.al.|[link](http://arxiv.org/abs/2512.09492v2)|null|
 |**2025-12-10**|**StateSpace-SSL: Linear-Time Self-supervised Learning for Plant Disease Detectio**|Abdullah Al Mamun et.al.|[link](http://arxiv.org/abs/2512.09492v1)|null|
+|**2025-12-11**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[link](http://arxiv.org/abs/2512.09383v2)|null|
 |**2025-12-10**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[link](http://arxiv.org/abs/2512.09383v1)|null|
 |**2025-12-08**|**UltrasODM: A Dual Stream Optical Flow Mamba Network for 3D Freehand Ultrasound Reconstruction**|Mayank Anand et.al.|[link](http://arxiv.org/abs/2512.07756v1)|null|
 |**2025-12-08**|**How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline**|Chunhui Zhang et.al.|[link](http://arxiv.org/abs/2512.07385v1)|null|
@@ -1275,6 +1298,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-11**|**MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2512.10945v1)|null|
+|**2025-12-11**|**Anomalous scaling law for the two-dimensional Gaussian free field**|Pierre-François Rodriguez et.al.|[link](http://arxiv.org/abs/2512.10933v1)|null|
+|**2025-12-11**|**Free plane curves with a linear Jacobian syzygy**|Valentina Beorchia et.al.|[link](http://arxiv.org/abs/2512.10928v1)|null|
+|**2025-12-11**|**PubTables-v2: A new large-scale dataset for full-page and multi-page table extraction**|Brandon Smock et.al.|[link](http://arxiv.org/abs/2512.10888v1)|null|
+|**2025-12-11**|**A Differentiable Digital Twin of Distributed Link Scheduling for Contention-Aware Networking**|Zhongyuan Zhao et.al.|[link](http://arxiv.org/abs/2512.10874v1)|null|
+|**2025-12-11**|**Quantifying Emotional Tone in Tolkien's The Hobbit: Dialogue Sentiment Analysis with RegEx, NRC-VAD, and Python**|Lilin Qiu et.al.|[link](http://arxiv.org/abs/2512.10865v1)|null|
+|**2025-12-11**|**Modeling, Segmenting and Statistics of Transient Spindles via Two-Dimensional Ornstein-Uhlenbeck Dynamics**|C. Sun et.al.|[link](http://arxiv.org/abs/2512.10844v1)|null|
+|**2025-12-11**|**Vertex-distinguishing edge coloring of graphs**|Yuping Gao et.al.|[link](http://arxiv.org/abs/2512.10827v1)|null|
+|**2025-12-11**|**Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading**|Masum Shah Junayed et.al.|[link](http://arxiv.org/abs/2512.10808v1)|null|
+|**2025-12-11**|**Approximating Euclidean Shallow-Light Trees**|Hung Le et.al.|[link](http://arxiv.org/abs/2512.10797v1)|null|
+|**2025-12-11**|**Physics-Informed Learning of Microvascular Flow Models using Graph Neural Networks**|Paolo Botta et.al.|[link](http://arxiv.org/abs/2512.10792v1)|null|
+|**2025-12-11**|**Template-Free Retrosynthesis with Graph-Prior Augmented Transformers**|Youjun Zhao et.al.|[link](http://arxiv.org/abs/2512.10770v1)|null|
+|**2025-12-11**|**LGAN: An Efficient High-Order Graph Neural Network via the Line Graph Aggregation**|Lin Du et.al.|[link](http://arxiv.org/abs/2512.10735v1)|null|
+|**2025-12-11**|**Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality**|Lingjing Kong et.al.|[link](http://arxiv.org/abs/2512.10720v1)|null|
+|**2025-12-11**|**Dynamic sparse graphs with overlapping communities**|Antreas Laos et.al.|[link](http://arxiv.org/abs/2512.10717v1)|null|
+|**2025-12-11**|**CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images**|Matias Cosarinsky et.al.|[link](http://arxiv.org/abs/2512.10715v1)|null|
+|**2025-12-11**|**On Neutral Edge Sets in Anti-Ramsey Numbers**|Ali Ghalavand et.al.|[link](http://arxiv.org/abs/2512.10676v1)|null|
+|**2025-12-11**|**XDen-1K: A Density Field Dataset of Real-World Objects**|Jingxuan Zhang et.al.|[link](http://arxiv.org/abs/2512.10668v1)|null|
+|**2025-12-11**|**A Spiking Neural Network Implementation of Gaussian Belief Propagation**|Sepideh Adamiat et.al.|[link](http://arxiv.org/abs/2512.10638v1)|null|
+|**2025-12-11**|**Efficient Hypergraph Pattern Matching via Match-and-Filter and Intersection Constraint**|Siwoo Song et.al.|[link](http://arxiv.org/abs/2512.10621v1)|null|
 |**2025-12-10**|**GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures**|Patrick Noras et.al.|[link](http://arxiv.org/abs/2512.09925v1)|null|
 |**2025-12-10**|**NordFKB: a fine-grained benchmark dataset for geospatial AI in Norway**|Sander Riisøen Jyhne et.al.|[link](http://arxiv.org/abs/2512.09913v1)|null|
 |**2025-12-10**|**YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos**|Ryan Meegan et.al.|[link](http://arxiv.org/abs/2512.09903v1)|null|
@@ -1882,6 +1925,8 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-11**|**Take a Peek: Efficient Encoder Adaptation for Few-Shot Semantic Segmentation via LoRA**|Pasquale De Marinis et.al.|[link](http://arxiv.org/abs/2512.10521v1)|null|
+|**2025-12-10**|**MedXAI: A Retrieval-Augmented and Self-Verifying Framework for Knowledge-Guided Medical Image Analysis**|Midhat Urooj et.al.|[link](http://arxiv.org/abs/2512.10098v1)|null|
 |**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al.|[link](http://arxiv.org/abs/2512.09627v1)|null|
 |**2025-12-10**|**Privacy-Preserving Computer Vision for Industry: Three Case Studies in Human-Centric Manufacturing**|Sander De Coninck et.al.|[link](http://arxiv.org/abs/2512.09463v1)|null|
 |**2025-12-09**|**Meta Lattice: Model Space Redesign for Cost-Effective Industry-Scale Ads Recommendations**|Liang Luo et.al.|[link](http://arxiv.org/abs/2512.09200v1)|null|
