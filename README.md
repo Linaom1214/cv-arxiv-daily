@@ -1,4 +1,4 @@
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 
 ### ISTD
 
@@ -277,6 +277,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-12**|**Particulate: Feed-Forward 3D Object Articulation**|Ruining Li et.al.|[link](http://arxiv.org/abs/2512.11798v1)|null|
+|**2025-12-12**|**Uncertainty-Aware Domain Adaptation for Vitiligo Segmentation in Clinical Photographs**|Wentao Jiang et.al.|[link](http://arxiv.org/abs/2512.11791v1)|null|
+|**2025-12-12**|**Toward a Decision Support System for Energy-Efficient Ferry Operation on Lake Constance based on Optimal Control**|Hannes Homburger et.al.|[link](http://arxiv.org/abs/2512.11786v1)|null|
+|**2025-12-12**|**Softmax as Linear Attention in the Large-Prompt Regime: a Measure-based Perspective**|Etienne Boursier et.al.|[link](http://arxiv.org/abs/2512.11784v1)|null|
+|**2025-12-12**|**MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator**|Peiqing Yang et.al.|[link](http://arxiv.org/abs/2512.11782v1)|null|
+|**2025-12-12**|**Targeted cooling of urban cycling networks for heat-resilient mobility**|Agustin Cabrera et.al.|[link](http://arxiv.org/abs/2512.11753v1)|null|
+|**2025-12-12**|**LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems**|Ernesto Casablanca et.al.|[link](http://arxiv.org/abs/2512.11750v1)|null|
+|**2025-12-12**|**The quantum evolutions of the diffractive transverse-momentum dependent gluon distribution**|E. Iancu et.al.|[link](http://arxiv.org/abs/2512.11730v1)|null|
+|**2025-12-12**|**Weak-to-Strong Generalization Enables Fully Automated De Novo Training of Multi-head Mask-RCNN Model for Segmenting Densely Overlapping Cell Nuclei in Multiplex Whole-slice Brain Images**|Lin Bai et.al.|[link](http://arxiv.org/abs/2512.11722v1)|null|
+|**2025-12-12**|**Reframing Music-Driven 2D Dance Pose Generation as Multi-Channel Image Generation**|Yan Zhang et.al.|[link](http://arxiv.org/abs/2512.11720v1)|null|
+|**2025-12-12**|**Referring Change Detection in Remote Sensing Imagery**|Yilmaz Korkmaz et.al.|[link](http://arxiv.org/abs/2512.11719v1)|null|
+|**2025-12-12**|**EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing**|Wei Chow et.al.|[link](http://arxiv.org/abs/2512.11715v1)|null|
+|**2025-12-12**|**Real-Time Polarization Control for Satellite QKD with Liquid-Crystal Beacon Stabilization**|Ondrej Klicnik et.al.|[link](http://arxiv.org/abs/2512.11714v1)|null|
+|**2025-12-12**|**Building Bridges in Quantum Information Science Education: Expert Insights to Guide Framework Development for Interdisciplinary Teaching and Evolution of Common Language**|Liam Doyle et.al.|[link](http://arxiv.org/abs/2512.11706v1)|null|
+|**2025-12-12**|**Text images processing system using artificial intelligence models**|Aya Kaysan Bahjat et.al.|[link](http://arxiv.org/abs/2512.11691v1)|null|
+|**2025-12-12**|**Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs**|Manuela Chacon-Chamorro et.al.|[link](http://arxiv.org/abs/2512.11689v1)|null|
+|**2025-12-12**|**Transformer Embeddings for Fast Microlensing Inference**|Nolan Smyth et.al.|[link](http://arxiv.org/abs/2512.11687v1)|null|
+|**2025-12-12**|**Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection**|Qiushi Guo et.al.|[link](http://arxiv.org/abs/2512.11683v1)|null|
+|**2025-12-12**|**Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing**|Xu Zhang et.al.|[link](http://arxiv.org/abs/2512.11680v1)|null|
+|**2025-12-12**|**Logarithmic Cartier Transform**|Sami Fersi et.al.|[link](http://arxiv.org/abs/2512.11660v1)|null|
 |**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[link](http://arxiv.org/abs/2512.10954v1)|null|
 |**2025-12-11**|**Bidirectional Normalizing Flow: From Data to Noise and Back**|Yiyang Lu et.al.|[link](http://arxiv.org/abs/2512.10953v1)|null|
 |**2025-12-11**|**MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2512.10945v1)|null|
@@ -1042,6 +1062,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-12**|**TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition**|Yanan Liu et.al.|[link](http://arxiv.org/abs/2512.11503v1)|null|
+|**2025-12-12**|**Learning to Evolve with Convergence Guarantee via Neural Unrolling**|Jiaxin Gao et.al.|[link](http://arxiv.org/abs/2512.11453v1)|null|
+|**2025-12-12**|**Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene**|Junqiao Wang et.al.|[link](http://arxiv.org/abs/2512.11327v1)|null|
 |**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[link](http://arxiv.org/abs/2512.10353v1)|null|
 |**2025-12-11**|**StateSpace-SSL: Linear-Time Self-supervised Learning for Plant Disease Detection**|Abdullah Al Mamun et.al.|[link](http://arxiv.org/abs/2512.09492v2)|null|
 |**2025-12-10**|**StateSpace-SSL: Linear-Time Self-supervised Learning for Plant Disease Detectio**|Abdullah Al Mamun et.al.|[link](http://arxiv.org/abs/2512.09492v1)|null|
@@ -1298,6 +1321,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-12**|**Uncertainty-Aware Domain Adaptation for Vitiligo Segmentation in Clinical Photographs**|Wentao Jiang et.al.|[link](http://arxiv.org/abs/2512.11791v1)|null|
+|**2025-12-12**|**MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator**|Peiqing Yang et.al.|[link](http://arxiv.org/abs/2512.11782v1)|null|
+|**2025-12-12**|**A Doubled Adjacency Spectral Embedding Approach to Graph Clustering**|Sinyoung Park et.al.|[link](http://arxiv.org/abs/2512.11777v1)|null|
+|**2025-12-12**|**Covariate-assisted graph matching**|Trisha Dawn et.al.|[link](http://arxiv.org/abs/2512.11761v1)|null|
+|**2025-12-12**|**Targeted cooling of urban cycling networks for heat-resilient mobility**|Agustin Cabrera et.al.|[link](http://arxiv.org/abs/2512.11753v1)|null|
+|**2025-12-12**|**Quantum Dynamical Signatures of Topological Flow Transitions in Limit Cycle Phases**|Alejandro S. Gómez et.al.|[link](http://arxiv.org/abs/2512.11747v1)|null|
+|**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[link](http://arxiv.org/abs/2512.11743v1)|null|
+|**2025-12-12**|**Multiscale Causal Geometric Deep Learning for Modeling Brain Structure**|Chengzhi Xia et.al.|[link](http://arxiv.org/abs/2512.11738v1)|null|
+|**2025-12-12**|**Spatially Varying Gene Regulatory Networks via Bayesian Nonparametric Covariate-Dependent Directed Cyclic Graphical Models**|Trisha Dawn et.al.|[link](http://arxiv.org/abs/2512.11732v1)|null|
+|**2025-12-12**|**Qubits in second quantisation in fermionic simulators**|Ahana Ghoshal et.al.|[link](http://arxiv.org/abs/2512.11726v1)|null|
+|**2025-12-12**|**The parameterized complexity of Strong Conflict-Free Vertex-Connection Colorability**|Carl Feghali et.al.|[link](http://arxiv.org/abs/2512.11725v1)|null|
+|**2025-12-12**|**Weak-to-Strong Generalization Enables Fully Automated De Novo Training of Multi-head Mask-RCNN Model for Segmenting Densely Overlapping Cell Nuclei in Multiplex Whole-slice Brain Images**|Lin Bai et.al.|[link](http://arxiv.org/abs/2512.11722v1)|null|
+|**2025-12-12**|**Reframing Music-Driven 2D Dance Pose Generation as Multi-Channel Image Generation**|Yan Zhang et.al.|[link](http://arxiv.org/abs/2512.11720v1)|null|
+|**2025-12-12**|**Referring Change Detection in Remote Sensing Imagery**|Yilmaz Korkmaz et.al.|[link](http://arxiv.org/abs/2512.11719v1)|null|
+|**2025-12-12**|**Two-dimensional Decompositions of High-dimensional Configurations for Efficient Multi-vehicle Coordination at Intelligent Intersections**|Amirreza Akbari et.al.|[link](http://arxiv.org/abs/2512.11713v1)|null|
+|**2025-12-12**|**Classification of borderenergetic chemical graphs and borderenergetic graphs of order 12**|Péter Csikvári et.al.|[link](http://arxiv.org/abs/2512.11684v1)|null|
+|**2025-12-12**|**Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection**|Qiushi Guo et.al.|[link](http://arxiv.org/abs/2512.11683v1)|null|
+|**2025-12-12**|**Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing**|Xu Zhang et.al.|[link](http://arxiv.org/abs/2512.11680v1)|null|
+|**2025-12-12**|**Natural Language Interaction for Editing Visual Knowledge Graphs**|Reza Shahriari et.al.|[link](http://arxiv.org/abs/2512.11674v1)|null|
+|**2025-12-12**|**Scalable Similarity Search over Large Attributed Bipartite Graphs**|Xi Ou et.al.|[link](http://arxiv.org/abs/2512.11606v1)|null|
 |**2025-12-11**|**MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2512.10945v1)|null|
 |**2025-12-11**|**Anomalous scaling law for the two-dimensional Gaussian free field**|Pierre-François Rodriguez et.al.|[link](http://arxiv.org/abs/2512.10933v1)|null|
 |**2025-12-11**|**Free plane curves with a linear Jacobian syzygy**|Valentina Beorchia et.al.|[link](http://arxiv.org/abs/2512.10928v1)|null|
@@ -1925,6 +1968,10 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh et.al.|[link](http://arxiv.org/abs/2512.11350v1)|null|
+|**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Pranav Guruprasad et.al.|[link](http://arxiv.org/abs/2512.11315v1)|null|
+|**2025-12-12**|**Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language**|Yunkai Zhang et.al.|[link](http://arxiv.org/abs/2512.11251v1)|null|
+|**2025-12-11**|**Harnessing Rich Multi-Modal Data for Spatial-Temporal Homophily-Embedded Graph Learning Across Domains and Localities**|Takuya Kurihana et.al.|[link](http://arxiv.org/abs/2512.11178v1)|null|
 |**2025-12-11**|**Take a Peek: Efficient Encoder Adaptation for Few-Shot Semantic Segmentation via LoRA**|Pasquale De Marinis et.al.|[link](http://arxiv.org/abs/2512.10521v1)|null|
 |**2025-12-10**|**MedXAI: A Retrieval-Augmented and Self-Verifying Framework for Knowledge-Guided Medical Image Analysis**|Midhat Urooj et.al.|[link](http://arxiv.org/abs/2512.10098v1)|null|
 |**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al.|[link](http://arxiv.org/abs/2512.09627v1)|null|
