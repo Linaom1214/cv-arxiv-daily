@@ -122,7 +122,8 @@
     "2512.03470v1": "|**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|\n",
     "2512.04511v1": "|**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|\n",
     "2512.05511v1": "|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|\n",
-    "2512.09497v1": "|**2025-12-10**|**Gradient-Guided Learning Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2512.09497v1)|null|\n"
+    "2512.09497v1": "|**2025-12-10**|**Gradient-Guided Learning Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2512.09497v1)|null|\n",
+    "2512.03470v2": "|**2025-12-13**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v2)|null|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",
@@ -1046,7 +1047,27 @@
     "2512.11687v1": "|**2025-12-12**|**Transformer Embeddings for Fast Microlensing Inference**|Nolan Smyth et.al.|[link](http://arxiv.org/abs/2512.11687v1)|null|\n",
     "2512.11683v1": "|**2025-12-12**|**Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection**|Qiushi Guo et.al.|[link](http://arxiv.org/abs/2512.11683v1)|null|\n",
     "2512.11680v1": "|**2025-12-12**|**Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing**|Xu Zhang et.al.|[link](http://arxiv.org/abs/2512.11680v1)|null|\n",
-    "2512.11660v1": "|**2025-12-12**|**Logarithmic Cartier Transform**|Sami Fersi et.al.|[link](http://arxiv.org/abs/2512.11660v1)|null|\n"
+    "2512.11660v1": "|**2025-12-12**|**Logarithmic Cartier Transform**|Sami Fersi et.al.|[link](http://arxiv.org/abs/2512.11660v1)|null|\n",
+    "2512.13690v1": "|**2025-12-15**|**DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders**|Susung Hong et.al.|[link](http://arxiv.org/abs/2512.13690v1)|null|\n",
+    "2512.13689v1": "|**2025-12-15**|**LitePT: Lighter Yet Stronger Point Transformer**|Yuanwen Yue et.al.|[link](http://arxiv.org/abs/2512.13689v1)|null|\n",
+    "2512.13685v1": "|**2025-12-15**|**Beyond surface form: A pipeline for semantic analysis in Alzheimer's Disease detection from spontaneous speech**|Dylan Phelps et.al.|[link](http://arxiv.org/abs/2512.13685v1)|null|\n",
+    "2512.13684v1": "|**2025-12-15**|**Recurrent Video Masked Autoencoders**|Daniel Zoran et.al.|[link](http://arxiv.org/abs/2512.13684v1)|null|\n",
+    "2512.13680v1": "|**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[link](http://arxiv.org/abs/2512.13680v1)|null|\n",
+    "2512.13677v1": "|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[link](http://arxiv.org/abs/2512.13677v1)|null|\n",
+    "2512.13672v1": "|**2025-12-15**|**Directional Textual Inversion for Personalized Text-to-Image Generation**|Kunhee Kim et.al.|[link](http://arxiv.org/abs/2512.13672v1)|null|\n",
+    "2512.13665v1": "|**2025-12-15**|**Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency**|Wenhan Chen et.al.|[link](http://arxiv.org/abs/2512.13665v1)|null|\n",
+    "2512.13653v1": "|**2025-12-15**|**The spectrum of axions in a scaling string network**|Jos\u00e9 Correia et.al.|[link](http://arxiv.org/abs/2512.13653v1)|null|\n",
+    "2512.13651v1": "|**2025-12-15**|**Schr\u00f6dinger Symmetry in Spherically-symmetric Static Mini-superspaces with Matter Fields**|Taishi Sano et.al.|[link](http://arxiv.org/abs/2512.13651v1)|null|\n",
+    "2512.13639v1": "|**2025-12-15**|**Charge: A Comprehensive Novel View Synthesis Benchmark and Dataset to Bind Them All**|Michal Nazarczuk et.al.|[link](http://arxiv.org/abs/2512.13639v1)|null|\n",
+    "2512.13609v1": "|**2025-12-15**|**Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models**|Shweta Mahajan et.al.|[link](http://arxiv.org/abs/2512.13609v1)|null|\n",
+    "2512.13589v1": "|**2025-12-15**|**Reciprocal relationship between detectability and observability in a non-uniform setting**|Ignacio Huerta et.al.|[link](http://arxiv.org/abs/2512.13589v1)|null|\n",
+    "2512.13588v1": "|**2025-12-15**|**Vortex core spectroscopy links pseudogap and Lifshitz critical point in a cuprate superconductor**|Tejas Parasram Singar et.al.|[link](http://arxiv.org/abs/2512.13588v1)|null|\n",
+    "2512.13580v1": "|**2025-12-15**|**Optimised Fermion-Qubit Encodings for Quantum Simulation with Reduced Transpiled Circuit Depth**|Michael Williams de la Bastida et.al.|[link](http://arxiv.org/abs/2512.13580v1)|null|\n",
+    "2512.13575v1": "|**2025-12-15**|**Could a thin-shell configuration lie hidden within the Universe?**|Mauricio Cataldo et.al.|[link](http://arxiv.org/abs/2512.13575v1)|null|\n",
+    "2512.13559v1": "|**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[link](http://arxiv.org/abs/2512.13559v1)|null|\n",
+    "2512.13552v1": "|**2025-12-15**|**PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation**|Hour Kaing et.al.|[link](http://arxiv.org/abs/2512.13552v1)|null|\n",
+    "2512.13541v1": "|**2025-12-15**|**Null quantization, shadows and boost eigenfunctions in Lorentzian AdS**|N\u00faria Navarro et.al.|[link](http://arxiv.org/abs/2512.13541v1)|null|\n",
+    "2512.13534v1": "|**2025-12-15**|**Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains**|Marianne Rakic et.al.|[link](http://arxiv.org/abs/2512.13534v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -1945,7 +1966,27 @@
     "2512.11683v1": "|**2025-12-12**|**Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection**|Qiushi Guo et.al.|[link](http://arxiv.org/abs/2512.11683v1)|null|\n",
     "2512.11680v1": "|**2025-12-12**|**Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing**|Xu Zhang et.al.|[link](http://arxiv.org/abs/2512.11680v1)|null|\n",
     "2512.11674v1": "|**2025-12-12**|**Natural Language Interaction for Editing Visual Knowledge Graphs**|Reza Shahriari et.al.|[link](http://arxiv.org/abs/2512.11674v1)|null|\n",
-    "2512.11606v1": "|**2025-12-12**|**Scalable Similarity Search over Large Attributed Bipartite Graphs**|Xi Ou et.al.|[link](http://arxiv.org/abs/2512.11606v1)|null|\n"
+    "2512.11606v1": "|**2025-12-12**|**Scalable Similarity Search over Large Attributed Bipartite Graphs**|Xi Ou et.al.|[link](http://arxiv.org/abs/2512.11606v1)|null|\n",
+    "2512.13680v1": "|**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[link](http://arxiv.org/abs/2512.13680v1)|null|\n",
+    "2512.13662v1": "|**2025-12-15**|**Large Components and Trees of Random Mappings**|Ljuben Mutafchiev et.al.|[link](http://arxiv.org/abs/2512.13662v1)|null|\n",
+    "2512.13653v1": "|**2025-12-15**|**The spectrum of axions in a scaling string network**|Jos\u00e9 Correia et.al.|[link](http://arxiv.org/abs/2512.13653v1)|null|\n",
+    "2512.13639v1": "|**2025-12-15**|**Charge: A Comprehensive Novel View Synthesis Benchmark and Dataset to Bind Them All**|Michal Nazarczuk et.al.|[link](http://arxiv.org/abs/2512.13639v1)|null|\n",
+    "2512.13617v1": "|**2025-12-15**|**LightTopoGAT: Enhancing Graph Attention Networks with Topological Features for Efficient Graph Classification**|Ankit Sharma et.al.|[link](http://arxiv.org/abs/2512.13617v1)|null|\n",
+    "2512.13595v1": "|**2025-12-15**|**Laplacian Spectrum of cozero-divisor graphs of commutative polynomial rings**|Sarbari Mitra et.al.|[link](http://arxiv.org/abs/2512.13595v1)|null|\n",
+    "2512.13585v1": "|**2025-12-15**|**On the transmission irregular trees with the maximum Wiener index**|Ivan Damnjanovi\u0107 et.al.|[link](http://arxiv.org/abs/2512.13585v1)|null|\n",
+    "2512.13583v1": "|**2025-12-15**|**DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**|Zehan Zhu et.al.|[link](http://arxiv.org/abs/2512.13583v1)|null|\n",
+    "2512.13580v1": "|**2025-12-15**|**Optimised Fermion-Qubit Encodings for Quantum Simulation with Reduced Transpiled Circuit Depth**|Michael Williams de la Bastida et.al.|[link](http://arxiv.org/abs/2512.13580v1)|null|\n",
+    "2512.13553v1": "|**2025-12-15**|**Flow topology classification of limit cycles**|Thomas Mutschler et.al.|[link](http://arxiv.org/abs/2512.13553v1)|null|\n",
+    "2512.13552v1": "|**2025-12-15**|**PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation**|Hour Kaing et.al.|[link](http://arxiv.org/abs/2512.13552v1)|null|\n",
+    "2512.13534v1": "|**2025-12-15**|**Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains**|Marianne Rakic et.al.|[link](http://arxiv.org/abs/2512.13534v1)|null|\n",
+    "2512.13513v1": "|**2025-12-15**|**Harmonic Analysis on Directed Networks: A Biorthogonal Laplacian Framework for Non-Normal Graphs**|Chandrasekhar Gokavarapu et.al.|[link](http://arxiv.org/abs/2512.13513v1)|null|\n",
+    "2512.13510v1": "|**2025-12-15**|**MedCEG: Reinforcing Verifiable Medical Reasoning with Critical Evidence Graph**|Linjie Mu et.al.|[link](http://arxiv.org/abs/2512.13510v1)|null|\n",
+    "2512.13468v1": "|**2025-12-15**|**Peripheral hyper-Wiener index of a graph**|Andry N. Rabenantoandro et.al.|[link](http://arxiv.org/abs/2512.13468v1)|null|\n",
+    "2512.13460v1": "|**2025-12-15**|**DP-EMAR: A Differentially Private Framework for Autonomous Model Weight Repair in Federated IoT Systems**|Chethana Prasad Kabgere et.al.|[link](http://arxiv.org/abs/2512.13460v1)|null|\n",
+    "2512.13457v1": "|**2025-12-15**|**Displaying prescribed sets of ends by linked tree-decompositions**|Sandra Albrechtsen et.al.|[link](http://arxiv.org/abs/2512.13457v1)|null|\n",
+    "2512.13454v1": "|**2025-12-15**|**Test-Time Modification: Inverse Domain Transformation for Robust Perception**|Arpit Jadon et.al.|[link](http://arxiv.org/abs/2512.13454v1)|null|\n",
+    "2512.13449v1": "|**2025-12-15**|**A few observations around Gaussian domination and continuous symmetry breaking for spin O(N) model**|Xiao Han et.al.|[link](http://arxiv.org/abs/2512.13449v1)|null|\n",
+    "2512.13440v1": "|**2025-12-15**|**IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images**|Thalyssa Baiocco-Rodrigues et.al.|[link](http://arxiv.org/abs/2512.13440v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -2281,6 +2322,15 @@
     "2512.11350v1": "|**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh et.al.|[link](http://arxiv.org/abs/2512.11350v1)|null|\n",
     "2512.11315v1": "|**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Pranav Guruprasad et.al.|[link](http://arxiv.org/abs/2512.11315v1)|null|\n",
     "2512.11251v1": "|**2025-12-12**|**Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language**|Yunkai Zhang et.al.|[link](http://arxiv.org/abs/2512.11251v1)|null|\n",
-    "2512.11178v1": "|**2025-12-11**|**Harnessing Rich Multi-Modal Data for Spatial-Temporal Homophily-Embedded Graph Learning Across Domains and Localities**|Takuya Kurihana et.al.|[link](http://arxiv.org/abs/2512.11178v1)|null|\n"
+    "2512.11178v1": "|**2025-12-11**|**Harnessing Rich Multi-Modal Data for Spatial-Temporal Homophily-Embedded Graph Learning Across Domains and Localities**|Takuya Kurihana et.al.|[link](http://arxiv.org/abs/2512.11178v1)|null|\n",
+    "2512.13665v1": "|**2025-12-15**|**Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency**|Wenhan Chen et.al.|[link](http://arxiv.org/abs/2512.13665v1)|null|\n",
+    "2512.13607v1": "|**2025-12-15**|**Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models**|Boxin Wang et.al.|[link](http://arxiv.org/abs/2512.13607v1)|null|\n",
+    "2512.13316v1": "|**2025-12-15**|**ALIGN-FL: Architecture-independent Learning through Invariant Generative component sharing in Federated Learning**|Mayank Gulati et.al.|[link](http://arxiv.org/abs/2512.13316v1)|null|\n",
+    "2512.12992v1": "|**2025-12-15**|**A Framework for Assessing Sustainability Conflicts in the Design of Medical Devices**|Apala Chakrabarti et.al.|[link](http://arxiv.org/abs/2512.12992v1)|null|\n",
+    "2512.12449v1": "|**2025-12-13**|**Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications**|Jo\u00e3o Morais et.al.|[link](http://arxiv.org/abs/2512.12449v1)|null|\n",
+    "2512.12303v1": "|**2025-12-13**|**OMUDA: Omni-level Masking for Unsupervised Domain Adaptation in Semantic Segmentation**|Yang Ou et.al.|[link](http://arxiv.org/abs/2512.12303v1)|null|\n",
+    "2512.12112v1": "|**2025-12-13**|**BRIDG-ICS: AI-Grounded Knowledge Graphs for Intelligent Threat Analytics in Industry~5.0 Cyber-Physical Systems**|Padmeswari Nandiya et.al.|[link](http://arxiv.org/abs/2512.12112v1)|null|\n",
+    "2512.09200v2": "|**2025-12-15**|**Meta Lattice: Model Space Redesign for Cost-Effective Industry-Scale Ads Recommendations**|Liang Luo et.al.|[link](http://arxiv.org/abs/2512.09200v2)|null|\n",
+    "2512.08512v2": "|**2025-12-14**|**A Lightweight Transfer Learning-Based State-of-Health Monitoring with Application to Lithium-ion Batteries in Autonomous Air Vehicles**|Jiang Liu et.al.|[link](http://arxiv.org/abs/2512.08512v2)|null|\n"
   }
 }

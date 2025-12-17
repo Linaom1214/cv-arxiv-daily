@@ -1,4 +1,4 @@
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 
 ### ISTD
 
@@ -8,6 +8,7 @@
 |**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
+|**2025-12-13**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v2)|null|
 |**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|
 |**2025-11-25**|**IrisNet: Infrared Image Status Awareness Meta Decoder for Infrared Small Targets Detection**|Xuelin Qian et.al.|[link](http://arxiv.org/abs/2511.20319v1)|null|
 |**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[link](http://arxiv.org/abs/2511.19306v1)|null|
@@ -277,6 +278,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-15**|**DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders**|Susung Hong et.al.|[link](http://arxiv.org/abs/2512.13690v1)|null|
+|**2025-12-15**|**LitePT: Lighter Yet Stronger Point Transformer**|Yuanwen Yue et.al.|[link](http://arxiv.org/abs/2512.13689v1)|null|
+|**2025-12-15**|**Beyond surface form: A pipeline for semantic analysis in Alzheimer's Disease detection from spontaneous speech**|Dylan Phelps et.al.|[link](http://arxiv.org/abs/2512.13685v1)|null|
+|**2025-12-15**|**Recurrent Video Masked Autoencoders**|Daniel Zoran et.al.|[link](http://arxiv.org/abs/2512.13684v1)|null|
+|**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[link](http://arxiv.org/abs/2512.13680v1)|null|
+|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[link](http://arxiv.org/abs/2512.13677v1)|null|
+|**2025-12-15**|**Directional Textual Inversion for Personalized Text-to-Image Generation**|Kunhee Kim et.al.|[link](http://arxiv.org/abs/2512.13672v1)|null|
+|**2025-12-15**|**Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency**|Wenhan Chen et.al.|[link](http://arxiv.org/abs/2512.13665v1)|null|
+|**2025-12-15**|**The spectrum of axions in a scaling string network**|José Correia et.al.|[link](http://arxiv.org/abs/2512.13653v1)|null|
+|**2025-12-15**|**Schrödinger Symmetry in Spherically-symmetric Static Mini-superspaces with Matter Fields**|Taishi Sano et.al.|[link](http://arxiv.org/abs/2512.13651v1)|null|
+|**2025-12-15**|**Charge: A Comprehensive Novel View Synthesis Benchmark and Dataset to Bind Them All**|Michal Nazarczuk et.al.|[link](http://arxiv.org/abs/2512.13639v1)|null|
+|**2025-12-15**|**Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models**|Shweta Mahajan et.al.|[link](http://arxiv.org/abs/2512.13609v1)|null|
+|**2025-12-15**|**Reciprocal relationship between detectability and observability in a non-uniform setting**|Ignacio Huerta et.al.|[link](http://arxiv.org/abs/2512.13589v1)|null|
+|**2025-12-15**|**Vortex core spectroscopy links pseudogap and Lifshitz critical point in a cuprate superconductor**|Tejas Parasram Singar et.al.|[link](http://arxiv.org/abs/2512.13588v1)|null|
+|**2025-12-15**|**Optimised Fermion-Qubit Encodings for Quantum Simulation with Reduced Transpiled Circuit Depth**|Michael Williams de la Bastida et.al.|[link](http://arxiv.org/abs/2512.13580v1)|null|
+|**2025-12-15**|**Could a thin-shell configuration lie hidden within the Universe?**|Mauricio Cataldo et.al.|[link](http://arxiv.org/abs/2512.13575v1)|null|
+|**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[link](http://arxiv.org/abs/2512.13559v1)|null|
+|**2025-12-15**|**PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation**|Hour Kaing et.al.|[link](http://arxiv.org/abs/2512.13552v1)|null|
+|**2025-12-15**|**Null quantization, shadows and boost eigenfunctions in Lorentzian AdS**|Núria Navarro et.al.|[link](http://arxiv.org/abs/2512.13541v1)|null|
+|**2025-12-15**|**Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains**|Marianne Rakic et.al.|[link](http://arxiv.org/abs/2512.13534v1)|null|
 |**2025-12-12**|**Particulate: Feed-Forward 3D Object Articulation**|Ruining Li et.al.|[link](http://arxiv.org/abs/2512.11798v1)|null|
 |**2025-12-12**|**Uncertainty-Aware Domain Adaptation for Vitiligo Segmentation in Clinical Photographs**|Wentao Jiang et.al.|[link](http://arxiv.org/abs/2512.11791v1)|null|
 |**2025-12-12**|**Toward a Decision Support System for Energy-Efficient Ferry Operation on Lake Constance based on Optimal Control**|Hannes Homburger et.al.|[link](http://arxiv.org/abs/2512.11786v1)|null|
@@ -1321,6 +1342,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[link](http://arxiv.org/abs/2512.13680v1)|null|
+|**2025-12-15**|**Large Components and Trees of Random Mappings**|Ljuben Mutafchiev et.al.|[link](http://arxiv.org/abs/2512.13662v1)|null|
+|**2025-12-15**|**The spectrum of axions in a scaling string network**|José Correia et.al.|[link](http://arxiv.org/abs/2512.13653v1)|null|
+|**2025-12-15**|**Charge: A Comprehensive Novel View Synthesis Benchmark and Dataset to Bind Them All**|Michal Nazarczuk et.al.|[link](http://arxiv.org/abs/2512.13639v1)|null|
+|**2025-12-15**|**LightTopoGAT: Enhancing Graph Attention Networks with Topological Features for Efficient Graph Classification**|Ankit Sharma et.al.|[link](http://arxiv.org/abs/2512.13617v1)|null|
+|**2025-12-15**|**Laplacian Spectrum of cozero-divisor graphs of commutative polynomial rings**|Sarbari Mitra et.al.|[link](http://arxiv.org/abs/2512.13595v1)|null|
+|**2025-12-15**|**On the transmission irregular trees with the maximum Wiener index**|Ivan Damnjanović et.al.|[link](http://arxiv.org/abs/2512.13585v1)|null|
+|**2025-12-15**|**DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**|Zehan Zhu et.al.|[link](http://arxiv.org/abs/2512.13583v1)|null|
+|**2025-12-15**|**Optimised Fermion-Qubit Encodings for Quantum Simulation with Reduced Transpiled Circuit Depth**|Michael Williams de la Bastida et.al.|[link](http://arxiv.org/abs/2512.13580v1)|null|
+|**2025-12-15**|**Flow topology classification of limit cycles**|Thomas Mutschler et.al.|[link](http://arxiv.org/abs/2512.13553v1)|null|
+|**2025-12-15**|**PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation**|Hour Kaing et.al.|[link](http://arxiv.org/abs/2512.13552v1)|null|
+|**2025-12-15**|**Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains**|Marianne Rakic et.al.|[link](http://arxiv.org/abs/2512.13534v1)|null|
+|**2025-12-15**|**Harmonic Analysis on Directed Networks: A Biorthogonal Laplacian Framework for Non-Normal Graphs**|Chandrasekhar Gokavarapu et.al.|[link](http://arxiv.org/abs/2512.13513v1)|null|
+|**2025-12-15**|**MedCEG: Reinforcing Verifiable Medical Reasoning with Critical Evidence Graph**|Linjie Mu et.al.|[link](http://arxiv.org/abs/2512.13510v1)|null|
+|**2025-12-15**|**Peripheral hyper-Wiener index of a graph**|Andry N. Rabenantoandro et.al.|[link](http://arxiv.org/abs/2512.13468v1)|null|
+|**2025-12-15**|**DP-EMAR: A Differentially Private Framework for Autonomous Model Weight Repair in Federated IoT Systems**|Chethana Prasad Kabgere et.al.|[link](http://arxiv.org/abs/2512.13460v1)|null|
+|**2025-12-15**|**Displaying prescribed sets of ends by linked tree-decompositions**|Sandra Albrechtsen et.al.|[link](http://arxiv.org/abs/2512.13457v1)|null|
+|**2025-12-15**|**Test-Time Modification: Inverse Domain Transformation for Robust Perception**|Arpit Jadon et.al.|[link](http://arxiv.org/abs/2512.13454v1)|null|
+|**2025-12-15**|**A few observations around Gaussian domination and continuous symmetry breaking for spin O(N) model**|Xiao Han et.al.|[link](http://arxiv.org/abs/2512.13449v1)|null|
+|**2025-12-15**|**IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images**|Thalyssa Baiocco-Rodrigues et.al.|[link](http://arxiv.org/abs/2512.13440v1)|null|
 |**2025-12-12**|**Uncertainty-Aware Domain Adaptation for Vitiligo Segmentation in Clinical Photographs**|Wentao Jiang et.al.|[link](http://arxiv.org/abs/2512.11791v1)|null|
 |**2025-12-12**|**MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator**|Peiqing Yang et.al.|[link](http://arxiv.org/abs/2512.11782v1)|null|
 |**2025-12-12**|**A Doubled Adjacency Spectral Embedding Approach to Graph Clustering**|Sinyoung Park et.al.|[link](http://arxiv.org/abs/2512.11777v1)|null|
@@ -1968,6 +2009,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-15**|**Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency**|Wenhan Chen et.al.|[link](http://arxiv.org/abs/2512.13665v1)|null|
+|**2025-12-15**|**Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models**|Boxin Wang et.al.|[link](http://arxiv.org/abs/2512.13607v1)|null|
+|**2025-12-15**|**ALIGN-FL: Architecture-independent Learning through Invariant Generative component sharing in Federated Learning**|Mayank Gulati et.al.|[link](http://arxiv.org/abs/2512.13316v1)|null|
+|**2025-12-15**|**A Framework for Assessing Sustainability Conflicts in the Design of Medical Devices**|Apala Chakrabarti et.al.|[link](http://arxiv.org/abs/2512.12992v1)|null|
+|**2025-12-13**|**Comparing Stochastic and Ray-tracing Datasets in Machine Learning for Wireless Applications**|João Morais et.al.|[link](http://arxiv.org/abs/2512.12449v1)|null|
+|**2025-12-13**|**OMUDA: Omni-level Masking for Unsupervised Domain Adaptation in Semantic Segmentation**|Yang Ou et.al.|[link](http://arxiv.org/abs/2512.12303v1)|null|
+|**2025-12-13**|**BRIDG-ICS: AI-Grounded Knowledge Graphs for Intelligent Threat Analytics in Industry~5.0 Cyber-Physical Systems**|Padmeswari Nandiya et.al.|[link](http://arxiv.org/abs/2512.12112v1)|null|
 |**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh et.al.|[link](http://arxiv.org/abs/2512.11350v1)|null|
 |**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Pranav Guruprasad et.al.|[link](http://arxiv.org/abs/2512.11315v1)|null|
 |**2025-12-12**|**Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language**|Yunkai Zhang et.al.|[link](http://arxiv.org/abs/2512.11251v1)|null|
@@ -1976,8 +2024,10 @@
 |**2025-12-10**|**MedXAI: A Retrieval-Augmented and Self-Verifying Framework for Knowledge-Guided Medical Image Analysis**|Midhat Urooj et.al.|[link](http://arxiv.org/abs/2512.10098v1)|null|
 |**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al.|[link](http://arxiv.org/abs/2512.09627v1)|null|
 |**2025-12-10**|**Privacy-Preserving Computer Vision for Industry: Three Case Studies in Human-Centric Manufacturing**|Sander De Coninck et.al.|[link](http://arxiv.org/abs/2512.09463v1)|null|
+|**2025-12-15**|**Meta Lattice: Model Space Redesign for Cost-Effective Industry-Scale Ads Recommendations**|Liang Luo et.al.|[link](http://arxiv.org/abs/2512.09200v2)|null|
 |**2025-12-09**|**Meta Lattice: Model Space Redesign for Cost-Effective Industry-Scale Ads Recommendations**|Liang Luo et.al.|[link](http://arxiv.org/abs/2512.09200v1)|null|
 |**2025-12-08**|**Enhancing Knowledge Transfer in Hyperspectral Image Classification via Cross-scene Knowledge Integration**|Lu Huo et.al.|[link](http://arxiv.org/abs/2512.08989v1)|null|
+|**2025-12-14**|**A Lightweight Transfer Learning-Based State-of-Health Monitoring with Application to Lithium-ion Batteries in Autonomous Air Vehicles**|Jiang Liu et.al.|[link](http://arxiv.org/abs/2512.08512v2)|null|
 |**2025-12-09**|**A Lightweight Transfer Learning-Based State-of-Health Monitoring with Application to Lithium-ion Batteries in Unmanned Air Vehicles**|Jiang Liu et.al.|[link](http://arxiv.org/abs/2512.08512v1)|null|
 |**2025-12-10**|**PolyLingua: Margin-based Inter-class Transformer for Robust Cross-domain Language Detection**|Ali Lotfi Rezaabad et.al.|[link](http://arxiv.org/abs/2512.08143v2)|null|
 |**2025-12-09**|**PolyLingua: Margin-based Inter-class Transformer for Robust Cross-domain Language Detection**|Ali Lotfi Rezaabad et.al.|[link](http://arxiv.org/abs/2512.08143v1)|null|
