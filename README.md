@@ -1,4 +1,4 @@
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 
 ### ISTD
 
@@ -278,6 +278,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-16**|**Universal Reasoning Model**|Zitian Gao et.al.|[link](http://arxiv.org/abs/2512.14693v1)|null|
+|**2025-12-16**|**Fast and Accurate Causal Parallel Decoding using Jacobi Forcing**|Lanxiang Hu et.al.|[link](http://arxiv.org/abs/2512.14681v1)|null|
+|**2025-12-16**|**ART: Articulated Reconstruction Transformer**|Zizhang Li et.al.|[link](http://arxiv.org/abs/2512.14671v1)|null|
+|**2025-12-16**|**WaveSim: A Wavelet-based Multi-scale Similarity Metric for Weather and Climate Fields**|Gabriele Accarino et.al.|[link](http://arxiv.org/abs/2512.14656v1)|null|
+|**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[link](http://arxiv.org/abs/2512.14653v1)|null|
+|**2025-12-16**|**Segmental Attention Decoding With Long Form Acoustic Encodings**|Pawel Swietojanski et.al.|[link](http://arxiv.org/abs/2512.14652v1)|null|
+|**2025-12-16**|**Swampland bound on quintessential inflation in IDM**|S. Saoud et.al.|[link](http://arxiv.org/abs/2512.14651v1)|null|
+|**2025-12-16**|**Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-guided Subtyping and Lesion-Wise Model Ensemble**|Daniel Capellán-Martín et.al.|[link](http://arxiv.org/abs/2512.14648v1)|null|
+|**2025-12-16**|**A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images**|Rao Muhammad Umer et.al.|[link](http://arxiv.org/abs/2512.14640v1)|null|
+|**2025-12-16**|**AMD-HookNet++: Evolution of AMD-HookNet with Hybrid CNN-Transformer Feature Enhancement for Glacier Calving Front Segmentation**|Fei Wu et.al.|[link](http://arxiv.org/abs/2512.14639v1)|null|
+|**2025-12-16**|**MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation**|Yash Vishe et.al.|[link](http://arxiv.org/abs/2512.14629v1)|null|
+|**2025-12-16**|**Distill Video Datasets into Images**|Zhenghao Zhao et.al.|[link](http://arxiv.org/abs/2512.14621v1)|null|
+|**2025-12-16**|**ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning**|Chaohao Yuan et.al.|[link](http://arxiv.org/abs/2512.14619v1)|null|
+|**2025-12-16**|**Estimating Program Participation with Partial Validation**|Augustine Denteh et.al.|[link](http://arxiv.org/abs/2512.14616v1)|null|
+|**2025-12-16**|**LLmFPCA-detect: LLM-powered Multivariate Functional PCA for Anomaly Detection in Sparse Longitudinal Texts**|Prasanjit Dubey et.al.|[link](http://arxiv.org/abs/2512.14604v1)|null|
+|**2025-12-16**|**Sequential realization of Quantum Instruments**|Soham Sau et.al.|[link](http://arxiv.org/abs/2512.14588v1)|null|
+|**2025-12-16**|**Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer**|Adarsha Shrestha et.al.|[link](http://arxiv.org/abs/2512.14585v1)|null|
+|**2025-12-16**|**Limit profiles of ASEP**|David A. Henriquez Bernal et.al.|[link](http://arxiv.org/abs/2512.14584v1)|null|
+|**2025-12-16**|**S-Duality and Categorical Gauge Theory**|Javier Chagoya et.al.|[link](http://arxiv.org/abs/2512.14579v1)|null|
+|**2025-12-16**|**Entanglement measure for the W-class states**|Reza Hamzehofi et.al.|[link](http://arxiv.org/abs/2512.14566v1)|null|
 |**2025-12-15**|**DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders**|Susung Hong et.al.|[link](http://arxiv.org/abs/2512.13690v1)|null|
 |**2025-12-15**|**LitePT: Lighter Yet Stronger Point Transformer**|Yuanwen Yue et.al.|[link](http://arxiv.org/abs/2512.13689v1)|null|
 |**2025-12-15**|**Beyond surface form: A pipeline for semantic analysis in Alzheimer's Disease detection from spontaneous speech**|Dylan Phelps et.al.|[link](http://arxiv.org/abs/2512.13685v1)|null|
@@ -1083,6 +1103,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-16**|**Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics**|Additi Pandey et.al.|[link](http://arxiv.org/abs/2512.14471v1)|null|
+|**2025-12-16**|**PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition**|Abdullah Al Mamun et.al.|[link](http://arxiv.org/abs/2512.14309v1)|null|
 |**2025-12-12**|**TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition**|Yanan Liu et.al.|[link](http://arxiv.org/abs/2512.11503v1)|null|
 |**2025-12-12**|**Learning to Evolve with Convergence Guarantee via Neural Unrolling**|Jiaxin Gao et.al.|[link](http://arxiv.org/abs/2512.11453v1)|null|
 |**2025-12-12**|**Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene**|Junqiao Wang et.al.|[link](http://arxiv.org/abs/2512.11327v1)|null|
@@ -1342,6 +1364,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[link](http://arxiv.org/abs/2512.14653v1)|null|
+|**2025-12-16**|**Segmental Attention Decoding With Long Form Acoustic Encodings**|Pawel Swietojanski et.al.|[link](http://arxiv.org/abs/2512.14652v1)|null|
+|**2025-12-16**|**Adaptable Segmentation Pipeline for Diverse Brain Tumors with Radiomic-guided Subtyping and Lesion-Wise Model Ensemble**|Daniel Capellán-Martín et.al.|[link](http://arxiv.org/abs/2512.14648v1)|null|
+|**2025-12-16**|**AMD-HookNet++: Evolution of AMD-HookNet with Hybrid CNN-Transformer Feature Enhancement for Glacier Calving Front Segmentation**|Fei Wu et.al.|[link](http://arxiv.org/abs/2512.14639v1)|null|
+|**2025-12-16**|**ParaFormer: A Generalized PageRank Graph Transformer for Graph Representation Learning**|Chaohao Yuan et.al.|[link](http://arxiv.org/abs/2512.14619v1)|null|
+|**2025-12-16**|**LLmFPCA-detect: LLM-powered Multivariate Functional PCA for Anomaly Detection in Sparse Longitudinal Texts**|Prasanjit Dubey et.al.|[link](http://arxiv.org/abs/2512.14604v1)|null|
+|**2025-12-16**|**Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer**|Adarsha Shrestha et.al.|[link](http://arxiv.org/abs/2512.14585v1)|null|
+|**2025-12-16**|**Limit profiles of ASEP**|David A. Henriquez Bernal et.al.|[link](http://arxiv.org/abs/2512.14584v1)|null|
+|**2025-12-16**|**Power counting in the spectral action matrix model**|Eva-Maria Hekkelman et.al.|[link](http://arxiv.org/abs/2512.14581v1)|null|
+|**2025-12-16**|**Cluster expansion of the log-likelihood ratio: Optimal detection of planted matchings**|Timothy L. H. Wee et.al.|[link](http://arxiv.org/abs/2512.14567v1)|null|
+|**2025-12-16**|**On solvability of the first Hochschild cohomology of odd p-groups**|Matthew Antrobus et.al.|[link](http://arxiv.org/abs/2512.14555v1)|null|
+|**2025-12-16**|**A Graph-Based Forensic Framework for Inferring Hardware Noise of Cloud Quantum Backend**|Subrata Das et.al.|[link](http://arxiv.org/abs/2512.14541v1)|null|
+|**2025-12-16**|**Low-codimensional Subvarieties Inside Dense Multilinear Varieties**|Luka Milićević et.al.|[link](http://arxiv.org/abs/2512.14529v1)|null|
+|**2025-12-16**|**Excursions in Sylvester-Gallai land**|Imre Barany et.al.|[link](http://arxiv.org/abs/2512.14518v1)|null|
+|**2025-12-16**|**BridgeNet: A Dataset of Graph-based Bridge Structural Models for Machine Learning Applications**|Lazlo Bleker et.al.|[link](http://arxiv.org/abs/2512.14496v1)|null|
+|**2025-12-16**|**How Spatially Modulated Activity Reshapes Active Polymer Conformations**|Paolo Malgaretti et.al.|[link](http://arxiv.org/abs/2512.14478v1)|null|
+|**2025-12-16**|**TACK Tunnel Data (TTD): A Benchmark Dataset for Deep Learning-Based Defect Detection in Tunnels**|Andreas Sjölander et.al.|[link](http://arxiv.org/abs/2512.14477v1)|null|
+|**2025-12-16**|**CTransformer: Deep-transformer-based 3D cell membrane tracking with subcellular-resolved molecular quantification**|Zelin Li et.al.|[link](http://arxiv.org/abs/2512.14472v1)|null|
+|**2025-12-16**|**Distribution questions for isogeny graphs over finite fields**|Anwesh Ray et.al.|[link](http://arxiv.org/abs/2512.14469v1)|null|
+|**2025-12-16**|**A preconditioned second-order convex splitting algorithm with extrapolation**|Xinhua Shen et.al.|[link](http://arxiv.org/abs/2512.14468v1)|null|
 |**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[link](http://arxiv.org/abs/2512.13680v1)|null|
 |**2025-12-15**|**Large Components and Trees of Random Mappings**|Ljuben Mutafchiev et.al.|[link](http://arxiv.org/abs/2512.13662v1)|null|
 |**2025-12-15**|**The spectrum of axions in a scaling string network**|José Correia et.al.|[link](http://arxiv.org/abs/2512.13653v1)|null|
@@ -2009,6 +2051,10 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-16**|**FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos**|Zhaolun Li et.al.|[link](http://arxiv.org/abs/2512.14601v1)|null|
+|**2025-12-16**|**LCMem: A Universal Model for Robust Image Memorization Detection**|Mischa Dombrowski et.al.|[link](http://arxiv.org/abs/2512.14421v1)|null|
+|**2025-12-16**|**Robust Design for Multi-Antenna LEO Satellite Communications with Fractional Delay and Doppler Shifts: An RSMA-OTFS Approach**|Yunnuo Xu et.al.|[link](http://arxiv.org/abs/2512.14287v1)|null|
+|**2025-12-15**|**Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services**|Agung Septiadi et.al.|[link](http://arxiv.org/abs/2512.13946v1)|null|
 |**2025-12-15**|**Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency**|Wenhan Chen et.al.|[link](http://arxiv.org/abs/2512.13665v1)|null|
 |**2025-12-15**|**Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models**|Boxin Wang et.al.|[link](http://arxiv.org/abs/2512.13607v1)|null|
 |**2025-12-15**|**ALIGN-FL: Architecture-independent Learning through Invariant Generative component sharing in Federated Learning**|Mayank Gulati et.al.|[link](http://arxiv.org/abs/2512.13316v1)|null|
