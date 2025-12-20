@@ -1,4 +1,4 @@
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 
 ### ISTD
 
@@ -278,6 +278,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[link](http://arxiv.org/abs/2512.16922v1)|null|
+|**2025-12-18**|**DVGT: Driving Visual Geometry Transformer**|Sicheng Zuo et.al.|[link](http://arxiv.org/abs/2512.16919v1)|null|
+|**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[link](http://arxiv.org/abs/2512.16908v1)|null|
+|**2025-12-18**|**VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization**|Xiaoyan Cong et.al.|[link](http://arxiv.org/abs/2512.16906v1)|null|
+|**2025-12-18**|**In-Context Algebra**|Eric Todd et.al.|[link](http://arxiv.org/abs/2512.16902v1)|null|
+|**2025-12-18**|**FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**|Shuyuan Tu et.al.|[link](http://arxiv.org/abs/2512.16900v1)|null|
+|**2025-12-18**|**Fighting non-locality with non-locality: microcausality and boundary conditions in QED**|Philipp A. Hoehn et.al.|[link](http://arxiv.org/abs/2512.16898v1)|null|
+|**2025-12-18**|**M-PhyGs: Multi-Material Object Dynamics from Video**|Norika Wada et.al.|[link](http://arxiv.org/abs/2512.16885v1)|null|
+|**2025-12-18**|**Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation**|Valay Bundele et.al.|[link](http://arxiv.org/abs/2512.16880v1)|null|
+|**2025-12-18**|**Pixel Seal: Adversarial-only training for invisible image and video watermarking**|Tomáš Souček et.al.|[link](http://arxiv.org/abs/2512.16874v1)|null|
+|**2025-12-18**|**On the Universal Representation Property of Spiking Neural Networks**|Shayan Hundrieser et.al.|[link](http://arxiv.org/abs/2512.16872v1)|null|
+|**2025-12-18**|**Semi-Supervised Online Learning on the Edge by Transforming Knowledge from Teacher Models**|Jiabin Xue et.al.|[link](http://arxiv.org/abs/2512.16866v1)|null|
+|**2025-12-18**|**Dilaton Effective Field Theory across the Conformal Edge**|Thomas Appelquist et.al.|[link](http://arxiv.org/abs/2512.16863v1)|null|
+|**2025-12-18**|**ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning**|Zihan Zhou et.al.|[link](http://arxiv.org/abs/2512.16861v1)|null|
+|**2025-12-18**|**PrivateXR: Defending Privacy Attacks in Extended Reality Through Explainable AI-Guided Differential Privacy**|Ripan Kumar Kundu et.al.|[link](http://arxiv.org/abs/2512.16851v1)|null|
+|**2025-12-18**|**LLMCache: Layer-Wise Caching Strategies for Accelerated Reuse in Transformer Inference**|Harsh Vardhan Bansal et.al.|[link](http://arxiv.org/abs/2512.16843v1)|null|
+|**2025-12-18**|**Radiology Report Generation with Layer-Wise Anatomical Attention**|Emmanuel D. Muñiz-De-León et.al.|[link](http://arxiv.org/abs/2512.16841v1)|null|
+|**2025-12-18**|**On Some Transformations Associated to a Certain Cone**|Vladimir Vasilyev et.al.|[link](http://arxiv.org/abs/2512.16840v1)|null|
+|**2025-12-18**|**DenseBEV: Transforming BEV Grid Cells into 3D Objects**|Marius Dähling et.al.|[link](http://arxiv.org/abs/2512.16818v1)|null|
+|**2025-12-18**|**Toward Systematic Counterfactual Fairness Evaluation of Large Language Models: The CAFFE Framework**|Alessandra Parziale et.al.|[link](http://arxiv.org/abs/2512.16816v1)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[link](http://arxiv.org/abs/2512.15715v1)|null|
 |**2025-12-17**|**Multi-View Foundation Models**|Leo Segre et.al.|[link](http://arxiv.org/abs/2512.15708v1)|null|
 |**2025-12-17**|**GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection**|Yu Wang et.al.|[link](http://arxiv.org/abs/2512.15707v1)|null|
@@ -1123,6 +1143,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-18**|**KOSS: Kalman-Optimal Selective State Spaces for Long-Term Sequence Modeling**|Lei Wang et.al.|[link](http://arxiv.org/abs/2512.16723v1)|null|
+|**2025-12-18**|**CPMamba: Selective State Space Models for MIMO Channel Prediction in High-Mobility Environments**|Sheng Luo et.al.|[link](http://arxiv.org/abs/2512.16315v1)|null|
+|**2025-12-14**|**RAMBO: Reliability Analysis for Mamba through Bit-flip attack Optimization**|Sanjay Das et.al.|[link](http://arxiv.org/abs/2512.15778v1)|null|
 |**2025-12-17**|**Characterizing Mamba's Selective Memory using Auto-Encoders**|Tamanna Hossain et.al.|[link](http://arxiv.org/abs/2512.15653v1)|null|
 |**2025-12-17**|**MMMamba: A Versatile Cross-Modal In Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement**|Yingying Wang et.al.|[link](http://arxiv.org/abs/2512.15261v1)|null|
 |**2025-12-16**|**Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics**|Additi Pandey et.al.|[link](http://arxiv.org/abs/2512.14471v1)|null|
@@ -1386,6 +1409,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[link](http://arxiv.org/abs/2512.16922v1)|null|
+|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[link](http://arxiv.org/abs/2512.16909v1)|null|
+|**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[link](http://arxiv.org/abs/2512.16908v1)|null|
+|**2025-12-18**|**Machine learning assisted high throughput prediction of moiré materials**|Daniel Kaplan et.al.|[link](http://arxiv.org/abs/2512.16892v1)|null|
+|**2025-12-18**|**M-PhyGs: Multi-Material Object Dynamics from Video**|Norika Wada et.al.|[link](http://arxiv.org/abs/2512.16885v1)|null|
+|**2025-12-18**|**Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation**|Valay Bundele et.al.|[link](http://arxiv.org/abs/2512.16880v1)|null|
+|**2025-12-18**|**ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning**|Zihan Zhou et.al.|[link](http://arxiv.org/abs/2512.16861v1)|null|
+|**2025-12-18**|**Radiology Report Generation with Layer-Wise Anatomical Attention**|Emmanuel D. Muñiz-De-León et.al.|[link](http://arxiv.org/abs/2512.16841v1)|null|
+|**2025-12-18**|**Enhancing Kinematics Understanding Through a Real-Time Graph-Based Motion Video Game**|Mateo Dutra et.al.|[link](http://arxiv.org/abs/2512.16838v1)|null|
+|**2025-12-18**|**Optimal array geometries for kinetic magnetism and Nagaoka polarons**|N. Hernandez-Cepeda et.al.|[link](http://arxiv.org/abs/2512.16834v1)|null|
+|**2025-12-18**|**Analogicity in List Coloring Problems and Interval $k$-$(γ,μ)$-choosability: A Complexity-Theoretic Study**|Simone Ingrid Monteiro Gama et.al.|[link](http://arxiv.org/abs/2512.16807v1)|null|
+|**2025-12-18**|**Embedding trees using minimum and maximum degree conditions**|Alexey Pokrovskiy et.al.|[link](http://arxiv.org/abs/2512.16799v1)|null|
+|**2025-12-18**|**Evaluation of a large-area double-sided silicon strip detector for quality assurance in ion-beam radiotherapy**|Devin Hymers et.al.|[link](http://arxiv.org/abs/2512.16789v1)|null|
+|**2025-12-18**|**Few-Shot Specific Emitter Identification via Integrated Complex Variational Mode Decomposition and Spatial Attention Transfer**|Chenyu Zhu et.al.|[link](http://arxiv.org/abs/2512.16786v1)|null|
+|**2025-12-18**|**On the derived length of Dyer groups**|Olga Varghese et.al.|[link](http://arxiv.org/abs/2512.16782v1)|null|
+|**2025-12-18**|**Pattern recognition in complex systems via vector-field representations of spatio-temporal data**|Ingrid Amaranta Membrillo Solis et.al.|[link](http://arxiv.org/abs/2512.16763v1)|null|
+|**2025-12-18**|**QuantumSavory: Write Symbolically, Run on Any Backend -- A Unified Simulation Toolkit for Quantum Computing and Networking**|Hana KimLee et.al.|[link](http://arxiv.org/abs/2512.16752v1)|null|
+|**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[link](http://arxiv.org/abs/2512.16740v1)|null|
+|**2025-12-18**|**KOSS: Kalman-Optimal Selective State Spaces for Long-Term Sequence Modeling**|Lei Wang et.al.|[link](http://arxiv.org/abs/2512.16723v1)|null|
+|**2025-12-18**|**CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies**|John M. Statheros et.al.|[link](http://arxiv.org/abs/2512.16700v1)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[link](http://arxiv.org/abs/2512.15715v1)|null|
 |**2025-12-17**|**Multi-View Foundation Models**|Leo Segre et.al.|[link](http://arxiv.org/abs/2512.15708v1)|null|
 |**2025-12-17**|**Combinatorial structures in quantum correlation: A new perspective**|Rohit kumar et.al.|[link](http://arxiv.org/abs/2512.15686v1)|null|
@@ -2093,6 +2136,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-18**|**Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation**|Yin Zhang et.al.|[link](http://arxiv.org/abs/2512.16567v1)|null|
+|**2025-12-18**|**Adaptive Frequency Domain Alignment Network for Medical image segmentation**|Zhanwei Li et.al.|[link](http://arxiv.org/abs/2512.16393v1)|null|
+|**2025-12-18**|**Towards Closing the Domain Gap with Event Cameras**|M. Oltan Sevinc et.al.|[link](http://arxiv.org/abs/2512.16178v1)|null|
 |**2025-12-17**|**Reducing Pilots in Channel Estimation With Predictive Foundation Models**|Xingyu Zhou et.al.|[link](http://arxiv.org/abs/2512.15562v1)|null|
 |**2025-12-15**|**AquaDiff: Diffusion-Based Underwater Image Enhancement for Addressing Color Distortion**|Afrah Shaahid et.al.|[link](http://arxiv.org/abs/2512.14760v1)|null|
 |**2025-12-16**|**FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos**|Zhaolun Li et.al.|[link](http://arxiv.org/abs/2512.14601v1)|null|
