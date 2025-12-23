@@ -1,4 +1,4 @@
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 
 ### ISTD
 
@@ -31,7 +31,7 @@
 |**2025-08-26**|**A 3D thermophysical model for binary asteroid systems: Application to the BYORP effect on (175706) 1996 FG3**|Kya C. Sorli et.al.|[link](http://arxiv.org/abs/2508.18568v1)|null|
 |**2025-08-21**|**Bidirectional Temporal Information Propagation for Moving Infrared Small Target Detection**|Dengyan Luo et.al.|[link](http://arxiv.org/abs/2508.15415v1)|null|
 |**2025-10-06**|**The Roman Space Telescope as a Planetary Defense Asset**|Bryan J. Holler et.al.|[link](http://arxiv.org/abs/2508.14412v2)|null|
-|**2025-08-14**|**HyperTea: A Hypergraph-based Temporal Enhancement and Alignment Network for Moving Infrared Small Target Detection**|Zhaoyuan Qi et.al.|[link](http://arxiv.org/abs/2508.10678v1)|**[code](https://github.com/Lurenjia-LRJ/HyperTea)**|
+|**2025-08-14**|**HyperTea: A Hypergraph-based Temporal Enhancement and Alignment Network for Moving Infrared Small Target Detection**|Zhaoyuan Qi et.al.|[link](http://arxiv.org/abs/2508.10678v1)|null|
 |**2025-08-09**|**NS-FPN: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective**|Maoxun Yuan et.al.|[link](http://arxiv.org/abs/2508.06878v1)|null|
 |**2025-08-02**|**SWAN: Synergistic Wavelet-Attention Network for Infrared Small Target Detection**|Yuxin Jing et.al.|[link](http://arxiv.org/abs/2508.01322v1)|null|
 |**2025-07-29**|**Gemini Near Infrared Spectrograph$-$Distant Quasar Survey: the Chandra View**|Andrea Marlar et.al.|[link](http://arxiv.org/abs/2507.22272v1)|null|
@@ -278,6 +278,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-19**|**Diffusion Forcing for Multi-Agent Interaction Sequence Modeling**|Vongani H. Maluleke et.al.|[link](http://arxiv.org/abs/2512.17900v1)|null|
+|**2025-12-19**|**Keypoint Counting Classifiers: Turning Vision Transformers into Self-Explainable Models Without Training**|Kristoffer Wickstrøm et.al.|[link](http://arxiv.org/abs/2512.17891v1)|null|
+|**2025-12-19**|**Spectro-temporal unitary transformations for coherent modulation: design trade-offs and practical considerations**|Callum Deakin et.al.|[link](http://arxiv.org/abs/2512.17890v1)|null|
+|**2025-12-19**|**Learning vertical coordinates via automatic differentiation of a dynamical core**|Tim Whittaker et.al.|[link](http://arxiv.org/abs/2512.17877v1)|null|
+|**2025-12-19**|**Conformal invariants for the zero mode equation**|Guofang Wang et.al.|[link](http://arxiv.org/abs/2512.17854v1)|null|
+|**2025-12-19**|**The Semi-Classical Limit from the Dirac Equation with Time-Dependent External Electromagnetic Field to Relativistic Vlasov Equations**|François Golse et.al.|[link](http://arxiv.org/abs/2512.17849v1)|null|
+|**2025-12-19**|**Novel Double-Chirp Preamble Design for Multiuser Asynchronous Massive MIMO LoRa Networks**|The Khai Nguyen et.al.|[link](http://arxiv.org/abs/2512.17835v1)|null|
+|**2025-12-19**|**Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding**|Yue Li et.al.|[link](http://arxiv.org/abs/2512.17817v1)|null|
+|**2025-12-19**|**Quantum Wasserstein distance for Gaussian states**|Anaelle Hertz et.al.|[link](http://arxiv.org/abs/2512.17809v1)|null|
+|**2025-12-19**|**Zeros of polynomial powers under the heat flow**|Antonia Höfert et.al.|[link](http://arxiv.org/abs/2512.17808v1)|null|
+|**2025-12-19**|**Techno-Economic Case Study of a Rural Local Electricity Community in Switzerland**|Gerard Marias Gonzalez et.al.|[link](http://arxiv.org/abs/2512.17803v1)|null|
+|**2025-12-19**|**Kerr-induced non-Gaussianity of ultrafast bright squeezed vacuum**|Andrei Rasputnyi et.al.|[link](http://arxiv.org/abs/2512.17797v1)|null|
+|**2025-12-19**|**Intelligent Knowledge Mining Framework: Bridging AI Analysis and Trustworthy Preservation**|Binh Vu et.al.|[link](http://arxiv.org/abs/2512.17795v1)|null|
+|**2025-12-19**|**Long-Range depth estimation using learning based Hybrid Distortion Model for CCTV cameras**|Ami Pandat et.al.|[link](http://arxiv.org/abs/2512.17784v1)|null|
+|**2025-12-19**|**MedNeXt-v2: Scaling 3D ConvNeXts for Large-Scale Supervised Representation Learning in Medical Image Segmentation**|Saikat Roy et.al.|[link](http://arxiv.org/abs/2512.17774v1)|null|
+|**2025-12-19**|**Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image**|Simon Giebenhain et.al.|[link](http://arxiv.org/abs/2512.17773v1)|null|
+|**2025-12-19**|**Bangla MedER: Multi-BERT Ensemble Approach for the Recognition of Bangla Medical Entity**|Tanjim Taharat Aurpa et.al.|[link](http://arxiv.org/abs/2512.17769v1)|null|
+|**2025-12-19**|**Breast Cancer Neoadjuvant Chemotherapy Treatment Response Prediction Using Aligned Longitudinal MRI and Clinical Data**|Rahul Ravi et.al.|[link](http://arxiv.org/abs/2512.17759v1)|null|
+|**2025-12-19**|**When Pamplona sounds different: the soundscape transformation of San Fermin through intelligent acoustic sensors and a sound repository**|Amaia Sagasti et.al.|[link](http://arxiv.org/abs/2512.17740v1)|null|
+|**2025-12-19**|**AdaptPrompt: Parameter-Efficient Adaptation of VLMs for Generalizable Deepfake Detection**|Yichen Jiang et.al.|[link](http://arxiv.org/abs/2512.17730v1)|null|
 |**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[link](http://arxiv.org/abs/2512.16922v1)|null|
 |**2025-12-18**|**DVGT: Driving Visual Geometry Transformer**|Sicheng Zuo et.al.|[link](http://arxiv.org/abs/2512.16919v1)|null|
 |**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[link](http://arxiv.org/abs/2512.16908v1)|null|
@@ -1143,14 +1163,16 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-19**|**MambaMIL+: Modeling Long-Term Contextual Patterns for Gigapixel Whole Slide Image**|Qian Zeng et.al.|[link](http://arxiv.org/abs/2512.17726v1)|null|
+|**2025-12-19**|**WDFFU-Mamba: A Wavelet-guided Dual-attention Feature Fusion Mamba for Breast Tumor Segmentation in Ultrasound Images**|Guoping Cai et.al.|[link](http://arxiv.org/abs/2512.17278v1)|null|
 |**2025-12-18**|**KOSS: Kalman-Optimal Selective State Spaces for Long-Term Sequence Modeling**|Lei Wang et.al.|[link](http://arxiv.org/abs/2512.16723v1)|null|
 |**2025-12-18**|**CPMamba: Selective State Space Models for MIMO Channel Prediction in High-Mobility Environments**|Sheng Luo et.al.|[link](http://arxiv.org/abs/2512.16315v1)|null|
 |**2025-12-14**|**RAMBO: Reliability Analysis for Mamba through Bit-flip attack Optimization**|Sanjay Das et.al.|[link](http://arxiv.org/abs/2512.15778v1)|null|
 |**2025-12-17**|**Characterizing Mamba's Selective Memory using Auto-Encoders**|Tamanna Hossain et.al.|[link](http://arxiv.org/abs/2512.15653v1)|null|
-|**2025-12-17**|**MMMamba: A Versatile Cross-Modal In Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement**|Yingying Wang et.al.|[link](http://arxiv.org/abs/2512.15261v1)|null|
+|**2025-12-17**|**MMMamba: A Versatile Cross-Modal In Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement**|Yingying Wang et.al.|[link](http://arxiv.org/abs/2512.15261v1)|**[code](https://github.com/Gracewangyy/MMMamba)**|
 |**2025-12-16**|**Kinetic-Mamba: Mamba-Assisted Predictions of Stiff Chemical Kinetics**|Additi Pandey et.al.|[link](http://arxiv.org/abs/2512.14471v1)|null|
 |**2025-12-16**|**PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition**|Abdullah Al Mamun et.al.|[link](http://arxiv.org/abs/2512.14309v1)|null|
-|**2025-12-12**|**TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition**|Yanan Liu et.al.|[link](http://arxiv.org/abs/2512.11503v1)|null|
+|**2025-12-12**|**TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition**|Yanan Liu et.al.|[link](http://arxiv.org/abs/2512.11503v1)|**[code](https://github.com/ryannus2025-ai/TSkel-Mamba)**|
 |**2025-12-12**|**Learning to Evolve with Convergence Guarantee via Neural Unrolling**|Jiaxin Gao et.al.|[link](http://arxiv.org/abs/2512.11453v1)|null|
 |**2025-12-12**|**Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene**|Junqiao Wang et.al.|[link](http://arxiv.org/abs/2512.11327v1)|null|
 |**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[link](http://arxiv.org/abs/2512.10353v1)|null|
@@ -1409,6 +1431,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-19**|**Plane Strong Connectivity Augmentation**|Stéphane Bessy et.al.|[link](http://arxiv.org/abs/2512.17904v1)|null|
+|**2025-12-19**|**Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding**|Yue Li et.al.|[link](http://arxiv.org/abs/2512.17817v1)|null|
+|**2025-12-19**|**On the classification of capillary graphs in Euclidean and non-Euclidean spaces**|Giulio Colombo et.al.|[link](http://arxiv.org/abs/2512.17813v1)|null|
+|**2025-12-19**|**A linear upper bound for zero-sum Ramsey numbers of bounded degree graphs**|Jasmin Katz et.al.|[link](http://arxiv.org/abs/2512.17790v1)|null|
+|**2025-12-19**|**MedNeXt-v2: Scaling 3D ConvNeXts for Large-Scale Supervised Representation Learning in Medical Image Segmentation**|Saikat Roy et.al.|[link](http://arxiv.org/abs/2512.17774v1)|null|
+|**2025-12-19**|**Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation**|Luca Miglior et.al.|[link](http://arxiv.org/abs/2512.17762v1)|null|
+|**2025-12-19**|**Breast Cancer Neoadjuvant Chemotherapy Treatment Response Prediction Using Aligned Longitudinal MRI and Clinical Data**|Rahul Ravi et.al.|[link](http://arxiv.org/abs/2512.17759v1)|null|
+|**2025-12-19**|**Diversity Recommendation via Causal Deconfounding of Co-purchase Relations and Counterfactual Exposure**|Jingmao Zhang et.al.|[link](http://arxiv.org/abs/2512.17733v1)|null|
+|**2025-12-19**|**SAVeD: A First-Person Social Media Video Dataset for ADAS-equipped vehicle Near-Miss and Crash Event Analyses**|Shaoyan Zhai et.al.|[link](http://arxiv.org/abs/2512.17724v1)|null|
+|**2025-12-19**|**Gaussian random graphs and Ramsey numbers**|Zach Hunter et.al.|[link](http://arxiv.org/abs/2512.17718v1)|null|
+|**2025-12-19**|**On the Complexity of Bipartite Degree Realizability**|István Miklós et.al.|[link](http://arxiv.org/abs/2512.17709v1)|null|
+|**2025-12-19**|**A Dependent Feature Allocation Model Based on Random Fields**|Bernardo Flores et.al.|[link](http://arxiv.org/abs/2512.17701v1)|null|
+|**2025-12-19**|**Spatially-informed transformers: Injecting geostatistical covariance biases into self-attention for spatio-temporal forecasting**|Yuri Calleo et.al.|[link](http://arxiv.org/abs/2512.17696v1)|null|
+|**2025-12-19**|**Antimagicness of graphs with a dominating clique**|Grégoire Beaudoire et.al.|[link](http://arxiv.org/abs/2512.17693v1)|null|
+|**2025-12-19**|**Networks as the fundamental constituents of the universe**|Carlo A. Trugenberger et.al.|[link](http://arxiv.org/abs/2512.17676v1)|null|
+|**2025-12-19**|**Simulstream: Open-Source Toolkit for Evaluation and Demonstration of Streaming Speech-to-Text Translation Systems**|Marco Gaido et.al.|[link](http://arxiv.org/abs/2512.17648v1)|null|
+|**2025-12-19**|**Persistent commutative algebra on graphs and hypergraphs**|Faisal Suwayyid et.al.|[link](http://arxiv.org/abs/2512.17619v1)|null|
+|**2025-12-19**|**Semi-Supervised 3D Segmentation for Type-B Aortic Dissection with Slim UNETR**|Denis Mikhailapov et.al.|[link](http://arxiv.org/abs/2512.17610v1)|null|
+|**2025-12-19**|**MGRegBench: A Novel Benchmark Dataset with Anatomical Landmarks for Mammography Image Registration**|Svetlana Krasnova et.al.|[link](http://arxiv.org/abs/2512.17605v1)|null|
+|**2025-12-19**|**Machine Learning for Static and Single-Event Dynamic Complex Network Analysis**|Nikolaos Nakis et.al.|[link](http://arxiv.org/abs/2512.17577v1)|null|
 |**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[link](http://arxiv.org/abs/2512.16922v1)|null|
 |**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[link](http://arxiv.org/abs/2512.16909v1)|null|
 |**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[link](http://arxiv.org/abs/2512.16908v1)|null|
@@ -2136,6 +2178,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-19**|**AdaptPrompt: Parameter-Efficient Adaptation of VLMs for Generalizable Deepfake Detection**|Yichen Jiang et.al.|[link](http://arxiv.org/abs/2512.17730v1)|null|
 |**2025-12-18**|**Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation**|Yin Zhang et.al.|[link](http://arxiv.org/abs/2512.16567v1)|null|
 |**2025-12-18**|**Adaptive Frequency Domain Alignment Network for Medical image segmentation**|Zhanwei Li et.al.|[link](http://arxiv.org/abs/2512.16393v1)|null|
 |**2025-12-18**|**Towards Closing the Domain Gap with Event Cameras**|M. Oltan Sevinc et.al.|[link](http://arxiv.org/abs/2512.16178v1)|null|
