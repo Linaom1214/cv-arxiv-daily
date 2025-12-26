@@ -1,4 +1,4 @@
-## Updated on 2025.12.25
+## Updated on 2025.12.26
 
 ### ISTD
 
@@ -278,6 +278,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[link](http://arxiv.org/abs/2512.21333v1)|null|
+|**2025-12-24**|**TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning**|Varun Belagali et.al.|[link](http://arxiv.org/abs/2512.21331v1)|null|
+|**2025-12-24**|**Towards Practical Automatic Piano Reduction using BERT with Semi-supervised Learning**|Wan Ki Wong et.al.|[link](http://arxiv.org/abs/2512.21324v1)|null|
+|**2025-12-24**|**Parallel Token Prediction for Language Models**|Felix Draxler et.al.|[link](http://arxiv.org/abs/2512.21323v1)|null|
+|**2025-12-24**|**Optimizing Quantum State Transformation Under Locality Constraint**|Sasan Sarbishegi et.al.|[link](http://arxiv.org/abs/2512.21310v1)|null|
+|**2025-12-24**|**Post-Processing Mask-Based Table Segmentation for Structural Coordinate Extraction**|Suren Bandara et.al.|[link](http://arxiv.org/abs/2512.21287v1)|null|
+|**2025-12-24**|**Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential**|Shihao Zou et.al.|[link](http://arxiv.org/abs/2512.21284v1)|null|
+|**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[link](http://arxiv.org/abs/2512.21280v1)|null|
+|**2025-12-24**|**GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation**|Snehal Singh Tomar et.al.|[link](http://arxiv.org/abs/2512.21276v1)|null|
+|**2025-12-24**|**Random dilation superchannel**|Satoshi Yoshida et.al.|[link](http://arxiv.org/abs/2512.21260v1)|null|
+|**2025-12-24**|**DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation**|Jiawei Liu et.al.|[link](http://arxiv.org/abs/2512.21252v1)|null|
+|**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[link](http://arxiv.org/abs/2512.21237v1)|null|
+|**2025-12-24**|**Twisted Feynman Integrals: from generating functions to spin-resummed post-Minkowskian dynamics**|Joon-Hwi Kim et.al.|[link](http://arxiv.org/abs/2512.21210v1)|null|
+|**2025-12-24**|**Towards Arbitrary Motion Completing via Hierarchical Continuous Representation**|Chenghao Xu et.al.|[link](http://arxiv.org/abs/2512.21183v1)|null|
+|**2025-12-24**|**A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation**|Chenghao Xu et.al.|[link](http://arxiv.org/abs/2512.21174v1)|null|
+|**2025-12-24**|**Differential bundles as functors from free modules**|Florian Schwarz et.al.|[link](http://arxiv.org/abs/2512.21147v1)|null|
+|**2025-12-24**|**TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation**|Gaoren Lin et.al.|[link](http://arxiv.org/abs/2512.21135v1)|null|
+|**2025-12-24**|**The monoid of monotone and decreasing partial transformations on a finite chain**|Muhammad Mansur Zubairu et.al.|[link](http://arxiv.org/abs/2512.21134v1)|null|
+|**2025-12-24**|**Topological Interface States and Nonlinear Thermoelectric Performance in Armchair Graphene Nanoribbon Heterostructures**|David M T Kuo et.al.|[link](http://arxiv.org/abs/2512.21121v1)|null|
+|**2025-12-24**|**Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching**|Minyuan Xiao et.al.|[link](http://arxiv.org/abs/2512.21116v1)|null|
 |**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[link](http://arxiv.org/abs/2512.20618v1)|null|
 |**2025-12-23**|**Repurposing Video Diffusion Transformers for Robust Point Tracking**|Soowon Son et.al.|[link](http://arxiv.org/abs/2512.20606v1)|null|
 |**2025-12-23**|**Random Stinespring superchannel: converting channel queries into dilation isometry queries**|Filippo Girardi et.al.|[link](http://arxiv.org/abs/2512.20599v1)|null|
@@ -1203,6 +1223,11 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-24**|**Multi-Attribute guided Thermal Face Image Translation based on Latent Diffusion Model**|Mingshu Cai et.al.|[link](http://arxiv.org/abs/2512.21032v1)|null|
+|**2025-12-24**|**FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing**|Mingshu Cai et.al.|[link](http://arxiv.org/abs/2512.21015v1)|null|
+|**2025-12-24**|**Self-supervised Multiplex Consensus Mamba for General Image Fusion**|Yingying Wang et.al.|[link](http://arxiv.org/abs/2512.20921v1)|null|
+|**2025-12-24**|**NVIDIA Nemotron 3: Efficient and Open Intelligence**|NVIDIA et.al.|[link](http://arxiv.org/abs/2512.20856v1)|null|
+|**2025-12-23**|**Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[link](http://arxiv.org/abs/2512.20848v1)|null|
 |**2025-12-23**|**milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion**|Niraj Prakash Kini et.al.|[link](http://arxiv.org/abs/2512.20128v1)|null|
 |**2025-12-22**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[link](http://arxiv.org/abs/2512.19676v1)|null|
 |**2025-12-22**|**Generative Krylov Subspace Representations for Scalable Quantum Eigensolvers**|Changwon Lee et.al.|[link](http://arxiv.org/abs/2512.19420v1)|null|
@@ -1480,6 +1505,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[link](http://arxiv.org/abs/2512.21333v1)|null|
+|**2025-12-24**|**Mixing time of the random walk on the giant component of the random geometric graph**|Magnus H. Haaland et.al.|[link](http://arxiv.org/abs/2512.21322v1)|null|
+|**2025-12-24**|**Large time behavior of the solution to the Cauchy problem for the discrete p-Laplacian with density on infinite graphs**|Alan A. Tedeev et.al.|[link](http://arxiv.org/abs/2512.21321v1)|null|
+|**2025-12-24**|**An Allele-Centric Pan-Graph-Matrix Representation for Scalable Pangenome Analysis**|Roberto Garrone et.al.|[link](http://arxiv.org/abs/2512.21320v1)|null|
+|**2025-12-24**|**Independence Complexes of Hexagonal Grid Graphs**|Himanshu Chandrakar et.al.|[link](http://arxiv.org/abs/2512.21318v1)|null|
+|**2025-12-24**|**Degenerate Vertex Cuts in Sparse Graphs**|Thilo Hartel et.al.|[link](http://arxiv.org/abs/2512.21298v1)|null|
+|**2025-12-24**|**Post-Processing Mask-Based Table Segmentation for Structural Coordinate Extraction**|Suren Bandara et.al.|[link](http://arxiv.org/abs/2512.21287v1)|null|
+|**2025-12-24**|**Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential**|Shihao Zou et.al.|[link](http://arxiv.org/abs/2512.21284v1)|null|
+|**2025-12-24**|**DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation**|Jiawei Liu et.al.|[link](http://arxiv.org/abs/2512.21252v1)|null|
+|**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Anatoly O. Onishchenko et.al.|[link](http://arxiv.org/abs/2512.21243v1)|null|
+|**2025-12-24**|**Perfect codes and regular sets in vertex-transitive graphs**|Alireza Abdollahi et.al.|[link](http://arxiv.org/abs/2512.21242v1)|null|
+|**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[link](http://arxiv.org/abs/2512.21237v1)|null|
+|**2025-12-24**|**Choosability of multipartite hypergraphs**|Peter Bradshaw et.al.|[link](http://arxiv.org/abs/2512.21222v1)|null|
+|**2025-12-24**|**Causal-driven attribution (CDA): Estimating channel influence without user-level data**|Georgios Filippou et.al.|[link](http://arxiv.org/abs/2512.21211v1)|null|
+|**2025-12-24**|**Can Randomness lead to non-anarchical mixing angles ?**|Aadarsh Singh Sudhir K Vempati et.al.|[link](http://arxiv.org/abs/2512.21202v1)|null|
+|**2025-12-24**|**A Community-Enhanced Graph Representation Model for Link Prediction**|Lei Wang et.al.|[link](http://arxiv.org/abs/2512.21166v1)|null|
+|**2025-12-24**|**A class of entangled and diffeomorphism-invariant states in loop quantum gravity: Bell-network states**|Bekir Baytaş et.al.|[link](http://arxiv.org/abs/2512.21145v1)|null|
+|**2025-12-24**|**Emotion Diffusion in Real and Simulated Social Graphs: Structural Limits of LLM-Based Social Simulation**|Qiqi Qiang et.al.|[link](http://arxiv.org/abs/2512.21138v1)|null|
+|**2025-12-24**|**TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation**|Gaoren Lin et.al.|[link](http://arxiv.org/abs/2512.21135v1)|null|
+|**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[link](http://arxiv.org/abs/2512.21133v1)|null|
 |**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[link](http://arxiv.org/abs/2512.20618v1)|null|
 |**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Changyi Lin et.al.|[link](http://arxiv.org/abs/2512.20591v1)|null|
 |**2025-12-23**|**Framing Lattices and Flow Polytopes**|Matias von Bell et.al.|[link](http://arxiv.org/abs/2512.20575v1)|null|
@@ -2267,6 +2312,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[link](http://arxiv.org/abs/2512.21257v1)|null|
+|**2025-12-24**|**Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection**|Ruiqi Liu et.al.|[link](http://arxiv.org/abs/2512.20937v1)|null|
+|**2025-12-24**|**When Future Communications Shift Toward Narrow Beams: A Forward Looking Survey on Pointing Errors and Alignment Limits**|Meysam Ghanbari et.al.|[link](http://arxiv.org/abs/2512.20874v1)|null|
 |**2025-12-23**|**CBA: Communication-Bound-Aware Cross-Domain Resource Assignment for Pipeline-Parallel Distributed LLM Training in Dynamic Multi-DC Optical Networks**|Dianxuan Fu et.al.|[link](http://arxiv.org/abs/2512.20080v1)|null|
 |**2025-12-22**|**Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning**|Jiayun Wu et.al.|[link](http://arxiv.org/abs/2512.19920v1)|null|
 |**2025-12-22**|**DREAM: Dynamic Red-teaming across Environments for AI Models**|Liming Lu et.al.|[link](http://arxiv.org/abs/2512.19016v1)|null|
