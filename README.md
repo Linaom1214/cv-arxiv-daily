@@ -1,4 +1,4 @@
-## Updated on 2025.12.26
+## Updated on 2025.12.27
 
 ### ISTD
 
@@ -1514,7 +1514,7 @@
 |**2025-12-24**|**Post-Processing Mask-Based Table Segmentation for Structural Coordinate Extraction**|Suren Bandara et.al.|[link](http://arxiv.org/abs/2512.21287v1)|null|
 |**2025-12-24**|**Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential**|Shihao Zou et.al.|[link](http://arxiv.org/abs/2512.21284v1)|null|
 |**2025-12-24**|**DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation**|Jiawei Liu et.al.|[link](http://arxiv.org/abs/2512.21252v1)|null|
-|**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Anatoly O. Onishchenko et.al.|[link](http://arxiv.org/abs/2512.21243v1)|null|
+|**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Anatoly O. Onishchenko et.al.|[link](http://arxiv.org/abs/2512.21243v1)|**[code](https://github.com/Onishenko-sci/LookPlanGraph)**|
 |**2025-12-24**|**Perfect codes and regular sets in vertex-transitive graphs**|Alireza Abdollahi et.al.|[link](http://arxiv.org/abs/2512.21242v1)|null|
 |**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[link](http://arxiv.org/abs/2512.21237v1)|null|
 |**2025-12-24**|**Choosability of multipartite hypergraphs**|Peter Bradshaw et.al.|[link](http://arxiv.org/abs/2512.21222v1)|null|
