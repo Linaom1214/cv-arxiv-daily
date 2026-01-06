@@ -1,4 +1,4 @@
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 
 ### ISTD
 
@@ -278,6 +278,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-02**|**Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI**|Wenhui Chu et.al.|[link](http://arxiv.org/abs/2601.00794v1)|null|
+|**2026-01-02**|**Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning**|Valentin Noël et.al.|[link](http://arxiv.org/abs/2601.00791v1)|null|
+|**2026-01-02**|**Toward Open Science in the AEC Community: An Ecosystem for Sustainable Digital Knowledge Sharing and Reuse**|Ruoxin Xiong et.al.|[link](http://arxiv.org/abs/2601.00788v1)|null|
+|**2026-01-02**|**Adapting Natural Language Processing Models Across Jurisdictions: A pilot Study in Canadian Cancer Registries**|Jonathan Simkin et.al.|[link](http://arxiv.org/abs/2601.00787v1)|null|
+|**2026-01-02**|**Improving Router Security using BERT**|John Carter et.al.|[link](http://arxiv.org/abs/2601.00783v1)|null|
+|**2026-01-02**|**Exponentially Accelerated Sampling of Pauli Strings for Nonstabilizerness**|Zhenyu Xiao et.al.|[link](http://arxiv.org/abs/2601.00761v1)|null|
+|**2026-01-02**|**Gradient-free ensemble transform methods for generalized Bayesian inference in generative models**|Diksha Bhandari et.al.|[link](http://arxiv.org/abs/2601.00760v1)|null|
+|**2026-01-02**|**The Ground State Energy of a Mean-Field Fermi Gas in Two Dimensions**|Gregorio Casadei et.al.|[link](http://arxiv.org/abs/2601.00750v1)|null|
+|**2026-01-02**|**Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI**|Turab Lookman et.al.|[link](http://arxiv.org/abs/2601.00742v1)|null|
+|**2026-01-02**|**Second Thoughts: How 1-second subslots transform CEX-DEX Arbitrage on Ethereum**|Aleksei Adadurov et.al.|[link](http://arxiv.org/abs/2601.00738v1)|null|
+|**2026-01-02**|**Geometric Complexity of Quantum Channels via Unitary Dilations**|Alberto Acevedo et.al.|[link](http://arxiv.org/abs/2601.00735v1)|null|
+|**2026-01-02**|**The Imperative for Grand Challenges in Computing**|William Regli et.al.|[link](http://arxiv.org/abs/2601.00700v1)|null|
+|**2026-01-02**|**BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting**|Maximilian Reinwardt et.al.|[link](http://arxiv.org/abs/2601.00698v1)|null|
+|**2026-01-02**|**A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference**|Qingwen Pu et.al.|[link](http://arxiv.org/abs/2601.00694v1)|null|
+|**2026-01-02**|**Nonlocal Microwave Engineering: Constructing Dispersion Relations and Enabling On-Demand Frequency-Momentum Transformations via Time-Switched Long-Distance Interactions**|Matteo Ciabattoni et.al.|[link](http://arxiv.org/abs/2601.00681v1)|null|
+|**2026-01-02**|**Fast-weight Product Key Memory**|Tianyu Zhao et.al.|[link](http://arxiv.org/abs/2601.00671v1)|null|
+|**2026-01-02**|**Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care**|Argha Kamal Samanta et.al.|[link](http://arxiv.org/abs/2601.00670v1)|null|
+|**2026-01-02**|**Quantum Simulation of Protein Fragment Electronic Structure Using Moment-based Adaptive Variational Quantum Algorithms**|Biraja Ghoshal et.al.|[link](http://arxiv.org/abs/2601.00656v1)|null|
+|**2026-01-02**|**Quality Detection of Stored Potatoes via Transfer Learning: A CNN and Vision Transformer Approach**|Shrikant Kapse et.al.|[link](http://arxiv.org/abs/2601.00645v1)|null|
+|**2026-01-02**|**Global Dynamics and Stabilization of Zero-Mode Singularities in Multi-Scale Reaction-Diffusion Systems via Negative Coupling**|Pengyue Hou et.al.|[link](http://arxiv.org/abs/2601.00638v1)|null|
 |**2025-12-31**|**From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**|Xu He et.al.|[link](http://arxiv.org/abs/2512.25066v1)|null|
 |**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[link](http://arxiv.org/abs/2512.25063v1)|null|
 |**2025-12-31**|**Multivariate Generalized Counting Process via Gamma Subordination**|Manisha Dhillon et.al.|[link](http://arxiv.org/abs/2512.25030v1)|null|
@@ -1283,6 +1303,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-01**|**Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation**|Siyan Fang et.al.|[link](http://arxiv.org/abs/2601.00322v1)|null|
 |**2025-12-30**|**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**|Fuqiang Gu et.al.|[link](http://arxiv.org/abs/2512.24243v1)|null|
 |**2025-12-30**|**Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis**|Hao Wu et.al.|[link](http://arxiv.org/abs/2512.24013v1)|null|
 |**2025-12-29**|**Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City**|Tin Hoang et.al.|[link](http://arxiv.org/abs/2512.23898v1)|null|
@@ -1579,6 +1600,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-02**|**Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI**|Wenhui Chu et.al.|[link](http://arxiv.org/abs/2601.00794v1)|null|
+|**2026-01-02**|**Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning**|Valentin Noël et.al.|[link](http://arxiv.org/abs/2601.00791v1)|null|
+|**2026-01-02**|**Set mappings for general graphs**|Lior Gishboliner et.al.|[link](http://arxiv.org/abs/2601.00766v1)|null|
+|**2026-01-02**|**Rational codegree Turán density of hypergraphs**|Jun Gao et.al.|[link](http://arxiv.org/abs/2601.00758v1)|null|
+|**2026-01-02**|**Qubits and Vacuum Amplitudes**|Germán Rodrigo et.al.|[link](http://arxiv.org/abs/2601.00722v1)|null|
+|**2026-01-02**|**DefVINS: Visual-Inertial Odometry for Deformable Scenes**|Samuel Cerezo et.al.|[link](http://arxiv.org/abs/2601.00702v1)|null|
+|**2026-01-02**|**The Imperative for Grand Challenges in Computing**|William Regli et.al.|[link](http://arxiv.org/abs/2601.00700v1)|null|
+|**2026-01-02**|**BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting**|Maximilian Reinwardt et.al.|[link](http://arxiv.org/abs/2601.00698v1)|null|
+|**2026-01-02**|**Interpretability-Guided Bi-objective Optimization: Aligning Accuracy and Explainability**|Kasra Fouladi et.al.|[link](http://arxiv.org/abs/2601.00655v1)|null|
+|**2026-01-02**|**HyperPriv-EPN: Hypergraph Learning with Privileged Knowledge for Ependymoma Prognosis**|Shuren Gabriel Yu et.al.|[link](http://arxiv.org/abs/2601.00626v1)|null|
+|**2026-01-02**|**Some lemmas on spectral radius of graphs: including an application**|Wenqian Zhang et.al.|[link](http://arxiv.org/abs/2601.00621v1)|null|
+|**2026-01-02**|**A Reduction of the Reconstruction Conjecture using Domination and Vertex Pair Parameters**|J. Antony Aravind et.al.|[link](http://arxiv.org/abs/2601.00620v1)|null|
+|**2026-01-02**|**Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning**|Sonia Khetarpaul et.al.|[link](http://arxiv.org/abs/2601.00607v1)|null|
+|**2026-01-02**|**Difference-in-Differences using Double Negative Controls and Graph Neural Networks for Unmeasured Network Confounding**|Zihan Zhang et.al.|[link](http://arxiv.org/abs/2601.00603v1)|null|
+|**2026-01-02**|**Towards a conjecture on long induced rainbow paths in triangle-free graphs**|N. R. Aravind et.al.|[link](http://arxiv.org/abs/2601.00602v1)|null|
+|**2026-01-02**|**Beyond IVR: Benchmarking Customer Support LLM Agents for Business-Adherence**|Sumanth Balaji et.al.|[link](http://arxiv.org/abs/2601.00596v1)|null|
+|**2026-01-02**|**Interacting Ghost Dark Energy with Sign-Changeable Coupling in Brans-Dicke Cosmology**|Kirti Mehta et.al.|[link](http://arxiv.org/abs/2601.00582v1)|null|
+|**2026-01-02**|**A Cascaded Information Interaction Network for Precise Image Segmentation**|Hewen Xiao et.al.|[link](http://arxiv.org/abs/2601.00562v1)|null|
+|**2026-01-02**|**Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation**|Varun Agrawal et.al.|[link](http://arxiv.org/abs/2601.00545v1)|null|
+|**2026-01-02**|**Algorithmic Design and Graph-Based Classification for Rectilinear-Shaped Modules in Floor Plans**|Rohit Lohani et.al.|[link](http://arxiv.org/abs/2601.00539v1)|null|
 |**2025-12-31**|**Melting curve of correlated iron at Earth's core conditions from machine-learned DFT+DMFT**|Rishi Rao et.al.|[link](http://arxiv.org/abs/2512.25061v1)|null|
 |**2025-12-31**|**Thin Tree Verification is coNP-Complete**|Alice Moayyedi et.al.|[link](http://arxiv.org/abs/2512.25043v1)|null|
 |**2025-12-31**|**EF(X) Orientations: A Parameterized Complexity Perspective**|Sotiris Kanellopoulos et.al.|[link](http://arxiv.org/abs/2512.25033v1)|null|
@@ -2446,6 +2487,8 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-01**|**OmniVaT: Single Domain Generalization for Multimodal Visual-Tactile Learning**|Liuxiang Qiu et.al.|[link](http://arxiv.org/abs/2601.00352v1)|null|
+|**2025-12-31**|**Universal Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning**|Ibne Farabi Shihab et.al.|[link](http://arxiv.org/abs/2601.00095v1)|null|
 |**2025-12-31**|**Multi-modal cross-domain mixed fusion model with dual disentanglement for fault diagnosis under unseen working conditions**|Pengcheng Xia et.al.|[link](http://arxiv.org/abs/2512.24679v1)|null|
 |**2025-12-30**|**Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service**|Jingyu Zhang et.al.|[link](http://arxiv.org/abs/2512.24415v1)|null|
 |**2025-12-30**|**MotivNet: Evolving Meta-Sapiens into an Emotionally Intelligent Foundation Model**|Rahul Medicharla et.al.|[link](http://arxiv.org/abs/2512.24231v1)|null|
@@ -2456,6 +2499,7 @@
 |**2025-12-29**|**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**|Jongoh Jeong et.al.|[link](http://arxiv.org/abs/2512.23208v1)|null|
 |**2025-12-29**|**EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion**|Zhen Liang et.al.|[link](http://arxiv.org/abs/2512.23173v1)|null|
 |**2025-12-29**|**Domain-Shift Immunity in Deep Deformable Registration via Local Feature Representations**|Mingzhen Shao et.al.|[link](http://arxiv.org/abs/2512.23142v1)|null|
+|**2026-01-01**|**TabiBERT: A Large-Scale ModernBERT Foundation Model and Unified Benchmarking Framework for Turkish**|Melikşah Türker et.al.|[link](http://arxiv.org/abs/2512.23065v2)|null|
 |**2025-12-28**|**TabiBERT: A Large-Scale ModernBERT Foundation Model and Unified Benchmarking Framework for Turkish**|Melikşah Türker et.al.|[link](http://arxiv.org/abs/2512.23065v1)|null|
 |**2025-12-23**|**Meta-information Guided Cross-domain Synergistic Diffusion Model for Low-dose PET Reconstruction**|Mengxiao Geng et.al.|[link](http://arxiv.org/abs/2512.22237v1)|null|
 |**2025-12-26**|**Patch-Discontinuity Mining for Generalized Deepfake Detection**|Huanhuan Yuan et.al.|[link](http://arxiv.org/abs/2512.22027v1)|null|
