@@ -1,4 +1,4 @@
-## Updated on 2026.01.09
+## Updated on 2026.01.10
 
 ### ISTD
 
@@ -279,6 +279,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-08**|**LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Zhuoyang Liu et.al.|[link](http://arxiv.org/abs/2601.05248v1)|null|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[link](http://arxiv.org/abs/2601.05246v1)|null|
+|**2026-01-08**|**GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2601.05244v1)|null|
+|**2026-01-08**|**Robust Reasoning as a Symmetry-Protected Topological Phase**|Ilmo Sung et.al.|[link](http://arxiv.org/abs/2601.05240v1)|null|
+|**2026-01-08**|**Plenoptic Video Generation**|Xiao Fu et.al.|[link](http://arxiv.org/abs/2601.05239v1)|null|
+|**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[link](http://arxiv.org/abs/2601.05237v1)|null|
+|**2026-01-08**|**Local Multimodal Dynamics in Mixed Ionic-Electronic Conductors and Their Fingerprints in Organic Electrochemical Transistor Operation**|Shubham Tanwar et.al.|[link](http://arxiv.org/abs/2601.05179v1)|null|
+|**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao et.al.|[link](http://arxiv.org/abs/2601.05172v1)|null|
+|**2026-01-08**|**Learning Mixture Models via Efficient High-dimensional Sparse Fourier Transforms**|Alkis Kalavasis et.al.|[link](http://arxiv.org/abs/2601.05157v1)|null|
+|**2026-01-08**|**A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering**|Md. Zahid Hossain et.al.|[link](http://arxiv.org/abs/2601.05143v1)|null|
+|**2026-01-08**|**From Rays to Projections: Better Inputs for Feed-Forward View Synthesis**|Zirui Wu et.al.|[link](http://arxiv.org/abs/2601.05116v1)|null|
+|**2026-01-08**|**A gaseous-helium cooling system for silicon detectors in the Nab experiment**|Love Richburg et.al.|[link](http://arxiv.org/abs/2601.05115v1)|null|
+|**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[link](http://arxiv.org/abs/2601.05105v1)|null|
+|**2026-01-08**|**Driver-Intention Prediction with Deep Learning: Real-Time Brain-to-Vehicle Communication**|Niloufar Alavi et.al.|[link](http://arxiv.org/abs/2601.05084v1)|null|
+|**2026-01-08**|**Driving on Registers**|Ellington Kirby et.al.|[link](http://arxiv.org/abs/2601.05083v1)|null|
+|**2026-01-08**|**DAVOS: An Autonomous Vehicle Operating System in the Vehicle Computing Era**|Yuxin Wang et.al.|[link](http://arxiv.org/abs/2601.05072v1)|null|
+|**2026-01-08**|**Quantitative mapping from conventional MRI using self-supervised physics-guided deep learning: applications to a large-scale, clinically heterogeneous dataset**|Jelmer van Lune et.al.|[link](http://arxiv.org/abs/2601.05063v1)|null|
+|**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra et.al.|[link](http://arxiv.org/abs/2601.05059v1)|null|
+|**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[link](http://arxiv.org/abs/2601.05053v1)|null|
+|**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[link](http://arxiv.org/abs/2601.05047v1)|null|
 |**2026-01-07**|**Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback**|Kumar Rahul et.al.|[link](http://arxiv.org/abs/2601.04184v1)|null|
 |**2026-01-07**|**Diffraction by a Right-Angle Dielectric Wedge: Closed-Form Solution for $ν=\sqrt{2}$**|Jonas Matuzas et.al.|[link](http://arxiv.org/abs/2601.04183v1)|null|
 |**2026-01-07**|**Clinical Data Goes MEDS? Let's OWL make sense of it**|Alberto Marfoglia et.al.|[link](http://arxiv.org/abs/2601.04164v1)|null|
@@ -1344,6 +1364,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-08**|**DB-MSMUNet:Dual Branch Multi-scale Mamba UNet for Pancreatic CT Scans Segmentation**|Qiu Guan et.al.|[link](http://arxiv.org/abs/2601.04676v1)|null|
+|**2026-01-08**|**HUR-MACL: High-Uncertainty Region-Guided Multi-Architecture Collaborative Learning for Head and Neck Multi-Organ Segmentation**|Xiaoyu Liu et.al.|[link](http://arxiv.org/abs/2601.04607v1)|null|
 |**2026-01-07**|**Ensemble Models for Predicting Treatment Response in Pediatric Low-Grade Glioma Managed with Chemotherapy**|Max Bengtsson et.al.|[link](http://arxiv.org/abs/2601.03899v1)|null|
 |**2026-01-06**|**Listen to Rhythm, Choose Movements: Autoregressive Multimodal Dance Generation via Diffusion and Mamba with Decoupled Dance Dataset**|Oran Duan et.al.|[link](http://arxiv.org/abs/2601.03323v1)|null|
 |**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[link](http://arxiv.org/abs/2601.02944v1)|null|
@@ -1352,6 +1374,7 @@
 |**2026-01-05**|**A Mamba-Based Model for Automatic Chord Recognition**|Chunyu Yuan et.al.|[link](http://arxiv.org/abs/2601.02101v1)|null|
 |**2026-01-06**|**Hidden State Poisoning Attacks against Mamba-based Language Models**|Alexandre Le Mercier et.al.|[link](http://arxiv.org/abs/2601.01972v2)|null|
 |**2026-01-05**|**Hidden State Poisoning Attacks against Mamba-based Language Models**|Alexandre Le Mercier et.al.|[link](http://arxiv.org/abs/2601.01972v1)|null|
+|**2026-01-08**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[link](http://arxiv.org/abs/2601.01410v3)|null|
 |**2026-01-06**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[link](http://arxiv.org/abs/2601.01410v2)|null|
 |**2026-01-04**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[link](http://arxiv.org/abs/2601.01410v1)|null|
 |**2026-01-03**|**Benchmarking the Computational and Representational Efficiency of State Space Models against Transformers on Long-Context Dyadic Sessions**|Abidemi Koledoye et.al.|[link](http://arxiv.org/abs/2601.01237v1)|null|
@@ -1655,6 +1678,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-08**|**GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2601.05244v1)|null|
+|**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[link](http://arxiv.org/abs/2601.05237v1)|null|
+|**2026-01-08**|**Some recent results in Ramsey theory**|Robert Morris et.al.|[link](http://arxiv.org/abs/2601.05221v1)|null|
+|**2026-01-08**|**Basis Number of Graphs Excluding Minors**|Colin Geniet et.al.|[link](http://arxiv.org/abs/2601.05195v1)|null|
+|**2026-01-08**|**LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation**|Samy Haffoudhi et.al.|[link](http://arxiv.org/abs/2601.05192v1)|null|
+|**2026-01-08**|**SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning**|Yanchang Liang et.al.|[link](http://arxiv.org/abs/2601.05187v1)|null|
+|**2026-01-08**|**FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts**|Yiji Zhao et.al.|[link](http://arxiv.org/abs/2601.05174v1)|null|
+|**2026-01-08**|**Information-Theoretic Limits on Exact Subgraph Alignment Problem**|Chun Hei Michael Shiu et.al.|[link](http://arxiv.org/abs/2601.05173v1)|null|
+|**2026-01-08**|**Neural Algorithmic Reasoning for Approximate $k$-Coloring with Recursive Warm Starts**|Knut Vanderbush et.al.|[link](http://arxiv.org/abs/2601.05137v1)|null|
+|**2026-01-08**|**A gaseous-helium cooling system for silicon detectors in the Nab experiment**|Love Richburg et.al.|[link](http://arxiv.org/abs/2601.05115v1)|null|
+|**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[link](http://arxiv.org/abs/2601.05105v1)|null|
+|**2026-01-08**|**Driver-Intention Prediction with Deep Learning: Real-Time Brain-to-Vehicle Communication**|Niloufar Alavi et.al.|[link](http://arxiv.org/abs/2601.05084v1)|null|
+|**2026-01-08**|**Isomorphism invariance of the girth of Artin groups**|Giovanni Sartori et.al.|[link](http://arxiv.org/abs/2601.05078v1)|null|
+|**2026-01-08**|**Graph energy as a measure of community detectability in networks**|Lucas Böttcher et.al.|[link](http://arxiv.org/abs/2601.05065v1)|null|
+|**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[link](http://arxiv.org/abs/2601.05053v1)|null|
+|**2026-01-08**|**Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence**|Jennifer D'Souza et.al.|[link](http://arxiv.org/abs/2601.05051v1)|null|
+|**2026-01-08**|**A data structure for monomial ideals with applications to signature Gröbner bases**|Pierre Lairez et.al.|[link](http://arxiv.org/abs/2601.05026v1)|null|
+|**2026-01-08**|**Scalable neural pushbroom architectures for real-time denoising of hyperspectral images onboard satellites**|Ziyao Yi et.al.|[link](http://arxiv.org/abs/2601.05020v1)|null|
+|**2026-01-08**|**TEA: Temporal Adaptive Satellite Image Semantic Segmentation**|Juyuan Kang et.al.|[link](http://arxiv.org/abs/2601.04956v1)|null|
+|**2026-01-08**|**T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs**|Chunyu Wei et.al.|[link](http://arxiv.org/abs/2601.04945v1)|null|
 |**2026-01-07**|**A discrete Benamou-Brenier formulation of Optimal Transport on graphs**|Kieran Morris et.al.|[link](http://arxiv.org/abs/2601.04193v1)|null|
 |**2026-01-07**|**Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation**|Haoran Su et.al.|[link](http://arxiv.org/abs/2601.04177v1)|null|
 |**2026-01-07**|**Stochastic Path Compression for Spectral Tensor Networks on Cyclic Graphs**|Ryan T. Grimm et.al.|[link](http://arxiv.org/abs/2601.04172v1)|null|
@@ -2582,9 +2625,19 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-08**|**Semantically Orthogonal Framework for Citation Classification: Disentangling Intent and Content**|Changxu Duan et.al.|[link](http://arxiv.org/abs/2601.05103v1)|null|
+|**2026-01-08**|**Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation**|Konstantinos E. Kampourakis et.al.|[link](http://arxiv.org/abs/2601.05022v1)|null|
+|**2026-01-08**|**Higher-Order Knowledge Representations for Agentic Scientific Reasoning**|Isabella A. Stewart et.al.|[link](http://arxiv.org/abs/2601.04878v1)|null|
+|**2026-01-08**|**MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News**|Zhiwei Liu et.al.|[link](http://arxiv.org/abs/2601.04857v1)|null|
+|**2026-01-08**|**RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection**|Zhiwei Liu et.al.|[link](http://arxiv.org/abs/2601.04853v1)|null|
+|**2026-01-08**|**Agri-R1: Empowering Generalizable Agricultural Reasoning in Vision-Language Models with Reinforcement Learning**|Wentao Zhang et.al.|[link](http://arxiv.org/abs/2601.04672v1)|null|
+|**2026-01-08**|**Sci-Reasoning: A Dataset Decoding AI Innovation Patterns**|Jiachen Liu et.al.|[link](http://arxiv.org/abs/2601.04577v1)|null|
+|**2026-01-07**|**Achievable Rate and Coding Principle for MIMO Multicarrier Systems With Cross-Domain MAMP Receiver Over Doubly Selective Channels**|Yuhao Chi et.al.|[link](http://arxiv.org/abs/2601.04433v1)|null|
 |**2026-01-07**|**Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning**|Jinyang Wu et.al.|[link](http://arxiv.org/abs/2601.03872v1)|null|
+|**2026-01-08**|**Beyond Physical Labels: Redefining Domains for Robust WiFi-based Gesture Recognition**|Xiang Zhang et.al.|[link](http://arxiv.org/abs/2601.03825v2)|null|
 |**2026-01-07**|**Beyond Physical Labels: Redefining Domains for Robust WiFi-based Gesture Recognition**|Xiang Zhang et.al.|[link](http://arxiv.org/abs/2601.03825v1)|null|
 |**2026-01-07**|**MIND: From Passive Mimicry to Active Reasoning through Capability-Aware Multi-Perspective CoT Distillation**|Jin Cui et.al.|[link](http://arxiv.org/abs/2601.03717v1)|null|
+|**2026-01-08**|**CrackSegFlow: Controllable Flow Matching Synthesis for Generalizable Crack Segmentation with a 50K Image-Mask Benchmark**|Babak Asadi et.al.|[link](http://arxiv.org/abs/2601.03637v2)|null|
 |**2026-01-07**|**CrackSegFlow: Controllable Flow-Matching Synthesis for Generalizable Crack Segmentation with the CSF-50K Benchmark**|Babak Asadi et.al.|[link](http://arxiv.org/abs/2601.03637v1)|null|
 |**2026-01-06**|**Metaphors are a Source of Cross-Domain Misalignment of Large Reasoning Models**|Zhibo Hu et.al.|[link](http://arxiv.org/abs/2601.03388v1)|null|
 |**2026-01-06**|**UniSRCodec: Unified and Low-Bitrate Single Codebook Codec with Sub-Band Reconstruction**|Zhisheng Zhang et.al.|[link](http://arxiv.org/abs/2601.02776v1)|null|
