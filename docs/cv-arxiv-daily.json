@@ -113,7 +113,7 @@
     "2508.14412v2": "|**2025-10-06**|**The Roman Space Telescope as a Planetary Defense Asset**|Bryan J. Holler et.al.|[link](http://arxiv.org/abs/2508.14412v2)|null|\n",
     "2507.22272v1": "|**2025-07-29**|**Gemini Near Infrared Spectrograph$-$Distant Quasar Survey: the Chandra View**|Andrea Marlar et.al.|[link](http://arxiv.org/abs/2507.22272v1)|null|\n",
     "2511.13013v1": "|**2025-11-17**|**You Only Look Omni Gradient Backpropagation for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2511.13013v1)|null|\n",
-    "2511.09352v2": "|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|**[code](https://github.com/IVPLabs/TDCNet)**|\n",
+    "2511.09352v2": "|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|null|\n",
     "2511.17268v1": "|**2025-11-21**|**Far-infrared to centimeter emission of very nearby galaxies with archival data**|L. Correia et.al.|[link](http://arxiv.org/abs/2511.17268v1)|null|\n",
     "2511.19306v1": "|**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[link](http://arxiv.org/abs/2511.19306v1)|null|\n",
     "2511.18196v1": "|**2025-11-22**|**JWST COMPASS: Insights into the Systematic Noise Properties of NIRSpec/G395H From a Uniform Reanalysis of Seven Transmission Spectra**|Tyler A. Gordon et.al.|[link](http://arxiv.org/abs/2511.18196v1)|null|\n",
@@ -124,7 +124,8 @@
     "2512.05511v1": "|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|\n",
     "2512.09497v1": "|**2025-12-10**|**Gradient-Guided Learning Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2512.09497v1)|null|\n",
     "2512.03470v2": "|**2025-12-13**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v2)|null|\n",
-    "2601.02837v1": "|**2026-01-06**|**Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection**|Yuteng Liu et.al.|[link](http://arxiv.org/abs/2601.02837v1)|null|\n"
+    "2601.02837v1": "|**2026-01-06**|**Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection**|Yuteng Liu et.al.|[link](http://arxiv.org/abs/2601.02837v1)|null|\n",
+    "2601.05446v1": "|**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",
@@ -1348,7 +1349,27 @@
     "2601.05063v1": "|**2026-01-08**|**Quantitative mapping from conventional MRI using self-supervised physics-guided deep learning: applications to a large-scale, clinically heterogeneous dataset**|Jelmer van Lune et.al.|[link](http://arxiv.org/abs/2601.05063v1)|null|\n",
     "2601.05059v1": "|**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra et.al.|[link](http://arxiv.org/abs/2601.05059v1)|null|\n",
     "2601.05053v1": "|**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[link](http://arxiv.org/abs/2601.05053v1)|null|\n",
-    "2601.05047v1": "|**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[link](http://arxiv.org/abs/2601.05047v1)|null|\n"
+    "2601.05047v1": "|**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[link](http://arxiv.org/abs/2601.05047v1)|null|\n",
+    "2601.06017v1": "|**2026-01-09**|**Probing Cosmic Expansion and Early Universe with Einstein Telescope**|Angelo Ricciardone et.al.|[link](http://arxiv.org/abs/2601.06017v1)|null|\n",
+    "2601.06016v1": "|**2026-01-09**|**LookAroundNet: Extending Temporal Context with Transformers for Clinically Viable EEG Seizure Detection**|\u00de\u00f3r Sverrisson et.al.|[link](http://arxiv.org/abs/2601.06016v1)|null|\n",
+    "2601.05998v1": "|**2026-01-09**|**Curving Beam Reflections: Model and Experimental Validation**|Caroline Jane Spindel et.al.|[link](http://arxiv.org/abs/2601.05998v1)|null|\n",
+    "2601.05988v1": "|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[link](http://arxiv.org/abs/2601.05988v1)|null|\n",
+    "2601.05978v1": "|**2026-01-09**|**AWaRe-SAC: Proactive Slice Admission Control under Weather-Induced Capacity Uncertainty**|Dror Jacoby et.al.|[link](http://arxiv.org/abs/2601.05978v1)|null|\n",
+    "2601.05975v1": "|**2026-01-09**|**DeePM: Regime-Robust Deep Learning for Systematic Macro Portfolio Management**|Kieran Wood et.al.|[link](http://arxiv.org/abs/2601.05975v1)|null|\n",
+    "2601.05955v1": "|**2026-01-09**|**Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization**|Yuliang Chen et.al.|[link](http://arxiv.org/abs/2601.05955v1)|null|\n",
+    "2601.05954v1": "|**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\\bar{\\partial}$-dressing scheme and modulation**|Boris Konopelchenko et.al.|[link](http://arxiv.org/abs/2601.05954v1)|null|\n",
+    "2601.05942v1": "|**2026-01-09**|**WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al.|[link](http://arxiv.org/abs/2601.05942v1)|null|\n",
+    "2601.05938v1": "|**2026-01-09**|**Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory**|L. F. Calazans de Brito et.al.|[link](http://arxiv.org/abs/2601.05938v1)|null|\n",
+    "2601.05937v1": "|**2026-01-09**|**Performance of a Deep Learning-Based Segmentation Model for Pancreatic Tumors on Public Endoscopic Ultrasound Datasets**|Pankaj Gupta et.al.|[link](http://arxiv.org/abs/2601.05937v1)|null|\n",
+    "2601.05927v1": "|**2026-01-09**|**Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens**|Yohann Perron et.al.|[link](http://arxiv.org/abs/2601.05927v1)|null|\n",
+    "2601.05913v1": "|**2026-01-09**|**Distilling Lightweight Domain Experts from Large ML Models by Identifying Relevant Subspaces**|Pattarawat Chormai et.al.|[link](http://arxiv.org/abs/2601.05913v1)|null|\n",
+    "2601.05861v1": "|**2026-01-09**|**Phase4DFD: Multi-Domain Phase-Aware Attention for Deepfake Detection**|Zhen-Xin Lin et.al.|[link](http://arxiv.org/abs/2601.05861v1)|null|\n",
+    "2601.05855v1": "|**2026-01-09**|**Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation**|Kaiwen Huang et.al.|[link](http://arxiv.org/abs/2601.05855v1)|null|\n",
+    "2601.05852v1": "|**2026-01-09**|**Kidney Cancer Detection Using 3D-Based Latent Diffusion Models**|Jen Dusseljee et.al.|[link](http://arxiv.org/abs/2601.05852v1)|null|\n",
+    "2601.05847v1": "|**2026-01-09**|**Semantic NLP Pipelines for Interoperable Patient Digital Twins from Unstructured EHRs**|Rafael Brens et.al.|[link](http://arxiv.org/abs/2601.05847v1)|null|\n",
+    "2601.05832v1": "|**2026-01-09**|**Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations**|Bj\u00f6rn de Rijk et.al.|[link](http://arxiv.org/abs/2601.05832v1)|null|\n",
+    "2601.05831v1": "|**2026-01-09**|**On the Feasibility of Extreme Heating Rates in SEM using MEMS Heater Platforms**|C. Koenig et.al.|[link](http://arxiv.org/abs/2601.05831v1)|null|\n",
+    "2601.05823v1": "|**2026-01-09**|**Boosting Latent Diffusion Models via Disentangled Representation Alignment**|John Page et.al.|[link](http://arxiv.org/abs/2601.05823v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -1659,7 +1680,10 @@
     "2601.01410v2": "|**2026-01-06**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[link](http://arxiv.org/abs/2601.01410v2)|null|\n",
     "2601.04676v1": "|**2026-01-08**|**DB-MSMUNet:Dual Branch Multi-scale Mamba UNet for Pancreatic CT Scans Segmentation**|Qiu Guan et.al.|[link](http://arxiv.org/abs/2601.04676v1)|null|\n",
     "2601.04607v1": "|**2026-01-08**|**HUR-MACL: High-Uncertainty Region-Guided Multi-Architecture Collaborative Learning for Head and Neck Multi-Organ Segmentation**|Xiaoyu Liu et.al.|[link](http://arxiv.org/abs/2601.04607v1)|null|\n",
-    "2601.01410v3": "|**2026-01-08**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[link](http://arxiv.org/abs/2601.01410v3)|null|\n"
+    "2601.01410v3": "|**2026-01-08**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[link](http://arxiv.org/abs/2601.01410v3)|null|\n",
+    "2601.05527v1": "|**2026-01-09**|**DeMa: Dual-Path Delay-Aware Mamba for Efficient Multivariate Time Series Analysis**|Rui An et.al.|[link](http://arxiv.org/abs/2601.05527v1)|null|\n",
+    "2601.05521v1": "|**2026-01-09**|**Toward an Integrated Cross-Urban Accident Prevention System: A Multi-Task Spatial-Temporal Learning Framework for Urban Safety Management**|Jiayu Fang et.al.|[link](http://arxiv.org/abs/2601.05521v1)|null|\n",
+    "2601.05446v1": "|**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -2602,7 +2626,27 @@
     "2601.05026v1": "|**2026-01-08**|**A data structure for monomial ideals with applications to signature Gr\u00f6bner bases**|Pierre Lairez et.al.|[link](http://arxiv.org/abs/2601.05026v1)|null|\n",
     "2601.05020v1": "|**2026-01-08**|**Scalable neural pushbroom architectures for real-time denoising of hyperspectral images onboard satellites**|Ziyao Yi et.al.|[link](http://arxiv.org/abs/2601.05020v1)|null|\n",
     "2601.04956v1": "|**2026-01-08**|**TEA: Temporal Adaptive Satellite Image Semantic Segmentation**|Juyuan Kang et.al.|[link](http://arxiv.org/abs/2601.04956v1)|null|\n",
-    "2601.04945v1": "|**2026-01-08**|**T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs**|Chunyu Wei et.al.|[link](http://arxiv.org/abs/2601.04945v1)|null|\n"
+    "2601.04945v1": "|**2026-01-08**|**T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs**|Chunyu Wei et.al.|[link](http://arxiv.org/abs/2601.04945v1)|null|\n",
+    "2601.06025v1": "|**2026-01-09**|**Manifold limit for the training of shallow graph convolutional neural networks**|Johanna Tengler et.al.|[link](http://arxiv.org/abs/2601.06025v1)|null|\n",
+    "2601.06016v1": "|**2026-01-09**|**LookAroundNet: Extending Temporal Context with Transformers for Clinically Viable EEG Seizure Detection**|\u00de\u00f3r Sverrisson et.al.|[link](http://arxiv.org/abs/2601.06016v1)|null|\n",
+    "2601.06014v1": "|**2026-01-09**|**On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models**|Roddy Taing et.al.|[link](http://arxiv.org/abs/2601.06014v1)|null|\n",
+    "2601.06002v1": "|**2026-01-09**|**The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[link](http://arxiv.org/abs/2601.06002v1)|null|\n",
+    "2601.05993v1": "|**2026-01-09**|**Detecting Planted Structure in Circular Data**|Taha Ameen et.al.|[link](http://arxiv.org/abs/2601.05993v1)|null|\n",
+    "2601.05988v1": "|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[link](http://arxiv.org/abs/2601.05988v1)|null|\n",
+    "2601.05979v1": "|**2026-01-09**|**Optimization of the metal-dielectric metasurface unit cell for sensitivity enhancement in determination of IgG concentration in solutions**|K. S. Kuznetsova et.al.|[link](http://arxiv.org/abs/2601.05979v1)|null|\n",
+    "2601.05978v1": "|**2026-01-09**|**AWaRe-SAC: Proactive Slice Admission Control under Weather-Induced Capacity Uncertainty**|Dror Jacoby et.al.|[link](http://arxiv.org/abs/2601.05978v1)|null|\n",
+    "2601.05975v1": "|**2026-01-09**|**DeePM: Regime-Robust Deep Learning for Systematic Macro Portfolio Management**|Kieran Wood et.al.|[link](http://arxiv.org/abs/2601.05975v1)|null|\n",
+    "2601.05953v1": "|**2026-01-09**|**Note on edge expansion and modularity in preferential attachment graphs**|Colin McDiarmid et.al.|[link](http://arxiv.org/abs/2601.05953v1)|null|\n",
+    "2601.05942v1": "|**2026-01-09**|**WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al.|[link](http://arxiv.org/abs/2601.05942v1)|null|\n",
+    "2601.05937v1": "|**2026-01-09**|**Performance of a Deep Learning-Based Segmentation Model for Pancreatic Tumors on Public Endoscopic Ultrasound Datasets**|Pankaj Gupta et.al.|[link](http://arxiv.org/abs/2601.05937v1)|null|\n",
+    "2601.05927v1": "|**2026-01-09**|**Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens**|Yohann Perron et.al.|[link](http://arxiv.org/abs/2601.05927v1)|null|\n",
+    "2601.05892v1": "|**2026-01-09**|**Weisfeiler-Leman on graphs of small twin-width**|Irene Heinrich et.al.|[link](http://arxiv.org/abs/2601.05892v1)|null|\n",
+    "2601.05887v1": "|**2026-01-09**|**Cybersecurity AI: A Game-Theoretic AI for Guiding Attack and Defense**|V\u00edctor Mayoral-Vilches et.al.|[link](http://arxiv.org/abs/2601.05887v1)|null|\n",
+    "2601.05885v1": "|**2026-01-09**|**On Edge-Disjoint Maximal Outerplanar Graphs**|Yuto Okada et.al.|[link](http://arxiv.org/abs/2601.05885v1)|null|\n",
+    "2601.05883v1": "|**2026-01-09**|**Spectral Clustering in Birthday Paradox Time**|Michael Kapralov et.al.|[link](http://arxiv.org/abs/2601.05883v1)|null|\n",
+    "2601.05860v1": "|**2026-01-09**|**A Non Linear Spectral Graph Neural Network Simulator for More Stable and Accurate Rollouts**|Salman N. Salman et.al.|[link](http://arxiv.org/abs/2601.05860v1)|null|\n",
+    "2601.05855v1": "|**2026-01-09**|**Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation**|Kaiwen Huang et.al.|[link](http://arxiv.org/abs/2601.05855v1)|null|\n",
+    "2601.05852v1": "|**2026-01-09**|**Kidney Cancer Detection Using 3D-Based Latent Diffusion Models**|Jen Dusseljee et.al.|[link](http://arxiv.org/abs/2601.05852v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -3017,6 +3061,7 @@
     "2601.04577v1": "|**2026-01-08**|**Sci-Reasoning: A Dataset Decoding AI Innovation Patterns**|Jiachen Liu et.al.|[link](http://arxiv.org/abs/2601.04577v1)|null|\n",
     "2601.04433v1": "|**2026-01-07**|**Achievable Rate and Coding Principle for MIMO Multicarrier Systems With Cross-Domain MAMP Receiver Over Doubly Selective Channels**|Yuhao Chi et.al.|[link](http://arxiv.org/abs/2601.04433v1)|null|\n",
     "2601.03825v2": "|**2026-01-08**|**Beyond Physical Labels: Redefining Domains for Robust WiFi-based Gesture Recognition**|Xiang Zhang et.al.|[link](http://arxiv.org/abs/2601.03825v2)|null|\n",
-    "2601.03637v2": "|**2026-01-08**|**CrackSegFlow: Controllable Flow Matching Synthesis for Generalizable Crack Segmentation with a 50K Image-Mask Benchmark**|Babak Asadi et.al.|[link](http://arxiv.org/abs/2601.03637v2)|null|\n"
+    "2601.03637v2": "|**2026-01-08**|**CrackSegFlow: Controllable Flow Matching Synthesis for Generalizable Crack Segmentation with a 50K Image-Mask Benchmark**|Babak Asadi et.al.|[link](http://arxiv.org/abs/2601.03637v2)|null|\n",
+    "2601.05955v1": "|**2026-01-09**|**Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization**|Yuliang Chen et.al.|[link](http://arxiv.org/abs/2601.05955v1)|null|\n"
   }
 }

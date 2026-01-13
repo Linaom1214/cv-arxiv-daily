@@ -1,9 +1,10 @@
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|
 |**2026-01-06**|**Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection**|Yuteng Liu et.al.|[link](http://arxiv.org/abs/2601.02837v1)|null|
 |**2025-12-10**|**Gradient-Guided Learning Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2512.09497v1)|null|
 |**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
@@ -16,7 +17,7 @@
 |**2025-11-22**|**JWST COMPASS: Insights into the Systematic Noise Properties of NIRSpec/G395H From a Uniform Reanalysis of Seven Transmission Spectra**|Tyler A. Gordon et.al.|[link](http://arxiv.org/abs/2511.18196v1)|null|
 |**2025-11-21**|**Far-infrared to centimeter emission of very nearby galaxies with archival data**|L. Correia et.al.|[link](http://arxiv.org/abs/2511.17268v1)|null|
 |**2025-11-17**|**You Only Look Omni Gradient Backpropagation for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2511.13013v1)|null|
-|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|**[code](https://github.com/IVPLabs/TDCNet)**|
+|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|null|
 |**2025-11-11**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v1)|**[code](https://github.com/IVPLaboratory/TDCNet)**|
 |**2025-10-14**|**Ivan-ISTD: Rethinking Cross-domain Heteroscedastic Noise Perturbations in Infrared Small Target Detection**|Yuehui Li et.al.|[link](http://arxiv.org/abs/2510.12241v1)|null|
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
@@ -279,6 +280,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-09**|**Probing Cosmic Expansion and Early Universe with Einstein Telescope**|Angelo Ricciardone et.al.|[link](http://arxiv.org/abs/2601.06017v1)|null|
+|**2026-01-09**|**LookAroundNet: Extending Temporal Context with Transformers for Clinically Viable EEG Seizure Detection**|Þór Sverrisson et.al.|[link](http://arxiv.org/abs/2601.06016v1)|null|
+|**2026-01-09**|**Curving Beam Reflections: Model and Experimental Validation**|Caroline Jane Spindel et.al.|[link](http://arxiv.org/abs/2601.05998v1)|null|
+|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[link](http://arxiv.org/abs/2601.05988v1)|null|
+|**2026-01-09**|**AWaRe-SAC: Proactive Slice Admission Control under Weather-Induced Capacity Uncertainty**|Dror Jacoby et.al.|[link](http://arxiv.org/abs/2601.05978v1)|null|
+|**2026-01-09**|**DeePM: Regime-Robust Deep Learning for Systematic Macro Portfolio Management**|Kieran Wood et.al.|[link](http://arxiv.org/abs/2601.05975v1)|null|
+|**2026-01-09**|**Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization**|Yuliang Chen et.al.|[link](http://arxiv.org/abs/2601.05955v1)|null|
+|**2026-01-09**|**On an integrable 2+1-dimensional extended Dym equation: Lax pair, $\bar{\partial}$-dressing scheme and modulation**|Boris Konopelchenko et.al.|[link](http://arxiv.org/abs/2601.05954v1)|null|
+|**2026-01-09**|**WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al.|[link](http://arxiv.org/abs/2601.05942v1)|null|
+|**2026-01-09**|**Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory**|L. F. Calazans de Brito et.al.|[link](http://arxiv.org/abs/2601.05938v1)|null|
+|**2026-01-09**|**Performance of a Deep Learning-Based Segmentation Model for Pancreatic Tumors on Public Endoscopic Ultrasound Datasets**|Pankaj Gupta et.al.|[link](http://arxiv.org/abs/2601.05937v1)|null|
+|**2026-01-09**|**Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens**|Yohann Perron et.al.|[link](http://arxiv.org/abs/2601.05927v1)|null|
+|**2026-01-09**|**Distilling Lightweight Domain Experts from Large ML Models by Identifying Relevant Subspaces**|Pattarawat Chormai et.al.|[link](http://arxiv.org/abs/2601.05913v1)|null|
+|**2026-01-09**|**Phase4DFD: Multi-Domain Phase-Aware Attention for Deepfake Detection**|Zhen-Xin Lin et.al.|[link](http://arxiv.org/abs/2601.05861v1)|null|
+|**2026-01-09**|**Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation**|Kaiwen Huang et.al.|[link](http://arxiv.org/abs/2601.05855v1)|null|
+|**2026-01-09**|**Kidney Cancer Detection Using 3D-Based Latent Diffusion Models**|Jen Dusseljee et.al.|[link](http://arxiv.org/abs/2601.05852v1)|null|
+|**2026-01-09**|**Semantic NLP Pipelines for Interoperable Patient Digital Twins from Unstructured EHRs**|Rafael Brens et.al.|[link](http://arxiv.org/abs/2601.05847v1)|null|
+|**2026-01-09**|**Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations**|Björn de Rijk et.al.|[link](http://arxiv.org/abs/2601.05832v1)|null|
+|**2026-01-09**|**On the Feasibility of Extreme Heating Rates in SEM using MEMS Heater Platforms**|C. Koenig et.al.|[link](http://arxiv.org/abs/2601.05831v1)|null|
+|**2026-01-09**|**Boosting Latent Diffusion Models via Disentangled Representation Alignment**|John Page et.al.|[link](http://arxiv.org/abs/2601.05823v1)|null|
 |**2026-01-08**|**LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Zhuoyang Liu et.al.|[link](http://arxiv.org/abs/2601.05248v1)|null|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[link](http://arxiv.org/abs/2601.05246v1)|null|
 |**2026-01-08**|**GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2601.05244v1)|null|
@@ -1364,6 +1385,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-09**|**DeMa: Dual-Path Delay-Aware Mamba for Efficient Multivariate Time Series Analysis**|Rui An et.al.|[link](http://arxiv.org/abs/2601.05527v1)|null|
+|**2026-01-09**|**Toward an Integrated Cross-Urban Accident Prevention System: A Multi-Task Spatial-Temporal Learning Framework for Urban Safety Management**|Jiayu Fang et.al.|[link](http://arxiv.org/abs/2601.05521v1)|null|
+|**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|
 |**2026-01-08**|**DB-MSMUNet:Dual Branch Multi-scale Mamba UNet for Pancreatic CT Scans Segmentation**|Qiu Guan et.al.|[link](http://arxiv.org/abs/2601.04676v1)|null|
 |**2026-01-08**|**HUR-MACL: High-Uncertainty Region-Guided Multi-Architecture Collaborative Learning for Head and Neck Multi-Organ Segmentation**|Xiaoyu Liu et.al.|[link](http://arxiv.org/abs/2601.04607v1)|null|
 |**2026-01-07**|**Ensemble Models for Predicting Treatment Response in Pediatric Low-Grade Glioma Managed with Chemotherapy**|Max Bengtsson et.al.|[link](http://arxiv.org/abs/2601.03899v1)|null|
@@ -1678,6 +1702,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-09**|**Manifold limit for the training of shallow graph convolutional neural networks**|Johanna Tengler et.al.|[link](http://arxiv.org/abs/2601.06025v1)|null|
+|**2026-01-09**|**LookAroundNet: Extending Temporal Context with Transformers for Clinically Viable EEG Seizure Detection**|Þór Sverrisson et.al.|[link](http://arxiv.org/abs/2601.06016v1)|null|
+|**2026-01-09**|**On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models**|Roddy Taing et.al.|[link](http://arxiv.org/abs/2601.06014v1)|null|
+|**2026-01-09**|**The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[link](http://arxiv.org/abs/2601.06002v1)|null|
+|**2026-01-09**|**Detecting Planted Structure in Circular Data**|Taha Ameen et.al.|[link](http://arxiv.org/abs/2601.05993v1)|null|
+|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[link](http://arxiv.org/abs/2601.05988v1)|null|
+|**2026-01-09**|**Optimization of the metal-dielectric metasurface unit cell for sensitivity enhancement in determination of IgG concentration in solutions**|K. S. Kuznetsova et.al.|[link](http://arxiv.org/abs/2601.05979v1)|null|
+|**2026-01-09**|**AWaRe-SAC: Proactive Slice Admission Control under Weather-Induced Capacity Uncertainty**|Dror Jacoby et.al.|[link](http://arxiv.org/abs/2601.05978v1)|null|
+|**2026-01-09**|**DeePM: Regime-Robust Deep Learning for Systematic Macro Portfolio Management**|Kieran Wood et.al.|[link](http://arxiv.org/abs/2601.05975v1)|null|
+|**2026-01-09**|**Note on edge expansion and modularity in preferential attachment graphs**|Colin McDiarmid et.al.|[link](http://arxiv.org/abs/2601.05953v1)|null|
+|**2026-01-09**|**WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al.|[link](http://arxiv.org/abs/2601.05942v1)|null|
+|**2026-01-09**|**Performance of a Deep Learning-Based Segmentation Model for Pancreatic Tumors on Public Endoscopic Ultrasound Datasets**|Pankaj Gupta et.al.|[link](http://arxiv.org/abs/2601.05937v1)|null|
+|**2026-01-09**|**Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens**|Yohann Perron et.al.|[link](http://arxiv.org/abs/2601.05927v1)|null|
+|**2026-01-09**|**Weisfeiler-Leman on graphs of small twin-width**|Irene Heinrich et.al.|[link](http://arxiv.org/abs/2601.05892v1)|null|
+|**2026-01-09**|**Cybersecurity AI: A Game-Theoretic AI for Guiding Attack and Defense**|Víctor Mayoral-Vilches et.al.|[link](http://arxiv.org/abs/2601.05887v1)|null|
+|**2026-01-09**|**On Edge-Disjoint Maximal Outerplanar Graphs**|Yuto Okada et.al.|[link](http://arxiv.org/abs/2601.05885v1)|null|
+|**2026-01-09**|**Spectral Clustering in Birthday Paradox Time**|Michael Kapralov et.al.|[link](http://arxiv.org/abs/2601.05883v1)|null|
+|**2026-01-09**|**A Non Linear Spectral Graph Neural Network Simulator for More Stable and Accurate Rollouts**|Salman N. Salman et.al.|[link](http://arxiv.org/abs/2601.05860v1)|null|
+|**2026-01-09**|**Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation**|Kaiwen Huang et.al.|[link](http://arxiv.org/abs/2601.05855v1)|null|
+|**2026-01-09**|**Kidney Cancer Detection Using 3D-Based Latent Diffusion Models**|Jen Dusseljee et.al.|[link](http://arxiv.org/abs/2601.05852v1)|null|
 |**2026-01-08**|**GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation**|Henghui Ding et.al.|[link](http://arxiv.org/abs/2601.05244v1)|null|
 |**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[link](http://arxiv.org/abs/2601.05237v1)|null|
 |**2026-01-08**|**Some recent results in Ramsey theory**|Robert Morris et.al.|[link](http://arxiv.org/abs/2601.05221v1)|null|
@@ -2625,6 +2669,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-09**|**Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization**|Yuliang Chen et.al.|[link](http://arxiv.org/abs/2601.05955v1)|null|
 |**2026-01-08**|**Semantically Orthogonal Framework for Citation Classification: Disentangling Intent and Content**|Changxu Duan et.al.|[link](http://arxiv.org/abs/2601.05103v1)|null|
 |**2026-01-08**|**Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation**|Konstantinos E. Kampourakis et.al.|[link](http://arxiv.org/abs/2601.05022v1)|null|
 |**2026-01-08**|**Higher-Order Knowledge Representations for Agentic Scientific Reasoning**|Isabella A. Stewart et.al.|[link](http://arxiv.org/abs/2601.04878v1)|null|
