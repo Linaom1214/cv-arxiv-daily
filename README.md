@@ -1,4 +1,4 @@
-## Updated on 2026.01.16
+## Updated on 2026.01.17
 
 ### ISTD
 
@@ -280,6 +280,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-15**|**Unbounded symbols, heat flow, and Toeplitz operators**|Sam Looi et.al.|[link](http://arxiv.org/abs/2601.10711v1)|null|
+|**2026-01-15**|**Grounding Agent Memory in Contextual Intent**|Ruozhen Yang et.al.|[link](http://arxiv.org/abs/2601.10702v1)|null|
+|**2026-01-15**|**Mitigating nonlinear transduction noise in high-cooperativity cavity optomechanics**|Daniel Allepuz-Requena et.al.|[link](http://arxiv.org/abs/2601.10689v1)|null|
+|**2026-01-15**|**On the origin of neural scaling laws: from random graphs to natural language**|Maissam Barkeshli et.al.|[link](http://arxiv.org/abs/2601.10684v1)|null|
+|**2026-01-15**|**Implementation of Oblivious Transfer over Binary-Input AWGN Channels by Polar Codes**|Pin-Hsun Lin et.al.|[link](http://arxiv.org/abs/2601.10682v1)|null|
+|**2026-01-15**|**Transforming Crises into Opportunities: From Chaos to Urban Antifragility**|Joseph Uguet et.al.|[link](http://arxiv.org/abs/2601.10658v1)|null|
+|**2026-01-15**|**STEM: Scaling Transformers with Embedding Modules**|Ranajoy Sadhukhan et.al.|[link](http://arxiv.org/abs/2601.10639v1)|null|
+|**2026-01-15**|**Supergravity with Lagrange Multiplier Fields in 2 + 1 Dimensions**|D. G. C. McKeon et.al.|[link](http://arxiv.org/abs/2601.10593v1)|null|
+|**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[link](http://arxiv.org/abs/2601.10592v1)|null|
+|**2026-01-15**|**ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition**|Arundeep Chinta et.al.|[link](http://arxiv.org/abs/2601.10591v1)|null|
+|**2026-01-15**|**Jordan-Segmentable Masks: A Topology-Aware definition for characterizing Binary Image Segmentation**|Serena Grazia De Benedictis et.al.|[link](http://arxiv.org/abs/2601.10577v1)|null|
+|**2026-01-15**|**Origins of the UV continuum and Balmer emission lines in Little Red Dots: observational validation of dense gas envelope models enshrouding the AGN**|Yoshihisa Asada et.al.|[link](http://arxiv.org/abs/2601.10573v1)|null|
+|**2026-01-15**|**Rewriting Systems on Arbitrary Monoids**|Eduardo Magalhães et.al.|[link](http://arxiv.org/abs/2601.10564v1)|null|
+|**2026-01-15**|**Kolmogorov Arnold Networks and Multi-Layer Perceptrons: A Paradigm Shift in Neural Modelling**|Aradhya Gaonkar et.al.|[link](http://arxiv.org/abs/2601.10563v1)|null|
+|**2026-01-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Luxuan Fu et.al.|[link](http://arxiv.org/abs/2601.10551v1)|null|
+|**2026-01-15**|**Smoothness of martingale observables and generalized Feynman-Kac formulas**|Alex Karrila et.al.|[link](http://arxiv.org/abs/2601.10539v1)|null|
+|**2026-01-15**|**Network Integrated Sensing and Communication**|Edward Andrews et.al.|[link](http://arxiv.org/abs/2601.10538v1)|null|
+|**2026-01-15**|**CoGen: Creation of Reusable UI Components in Figma via Textual Commands**|Ishani Kanapathipillai et.al.|[link](http://arxiv.org/abs/2601.10536v1)|null|
+|**2026-01-15**|**Learning from Brain Topography: A Hierarchical Local-Global Graph-Transformer Network for EEG Emotion Recognition**|Yijin Zhou et.al.|[link](http://arxiv.org/abs/2601.10525v1)|null|
+|**2026-01-15**|**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**|Max A. Buettner et.al.|[link](http://arxiv.org/abs/2601.10521v1)|null|
 |**2026-01-14**|**Value-Aware Numerical Representations for Transformer Language Models**|Andreea Dutulescu et.al.|[link](http://arxiv.org/abs/2601.09706v1)|null|
 |**2026-01-14**|**ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation**|Sicong Liu et.al.|[link](http://arxiv.org/abs/2601.09703v1)|null|
 |**2026-01-14**|**SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3**|Ruiqi Shen et.al.|[link](http://arxiv.org/abs/2601.09699v1)|null|
@@ -1770,6 +1790,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-15**|**UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees**|Quinten De Man et.al.|[link](http://arxiv.org/abs/2601.10706v1)|null|
+|**2026-01-15**|**Grounding Agent Memory in Contextual Intent**|Ruozhen Yang et.al.|[link](http://arxiv.org/abs/2601.10702v1)|null|
+|**2026-01-15**|**Perfect Secret Key Generation for a class of Hypergraphical Sources**|Manuj Mukherjee et.al.|[link](http://arxiv.org/abs/2601.10697v1)|null|
+|**2026-01-15**|**On the origin of neural scaling laws: from random graphs to natural language**|Maissam Barkeshli et.al.|[link](http://arxiv.org/abs/2601.10684v1)|null|
+|**2026-01-15**|**Structure and Diversity Aware Context Bubble Construction for Enterprise Retrieval Augmented Systems**|Amir Khurshid et.al.|[link](http://arxiv.org/abs/2601.10681v1)|null|
+|**2026-01-15**|**Uniform stability of the inverse Sturm-Liouville problem on a star-shaped graph**|E. E. Chitorkin et.al.|[link](http://arxiv.org/abs/2601.10652v1)|null|
+|**2026-01-15**|**CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning**|Darshan Singh et.al.|[link](http://arxiv.org/abs/2601.10649v1)|null|
+|**2026-01-15**|**Source localisation in simple random walks**|Ritesh Goenka et.al.|[link](http://arxiv.org/abs/2601.10624v1)|null|
+|**2026-01-15**|**Institutional AI: A Governance Framework for Distributional AGI Safety**|Federico Pierucci et.al.|[link](http://arxiv.org/abs/2601.10599v1)|null|
+|**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[link](http://arxiv.org/abs/2601.10592v1)|null|
+|**2026-01-15**|**Jordan-Segmentable Masks: A Topology-Aware definition for characterizing Binary Image Segmentation**|Serena Grazia De Benedictis et.al.|[link](http://arxiv.org/abs/2601.10577v1)|null|
+|**2026-01-15**|**(a,b)-Fibonacci-Legendre Cordial Graphs and k-Pisano-Legendre Primes**|J. D. Andoyo et.al.|[link](http://arxiv.org/abs/2601.10561v1)|null|
+|**2026-01-15**|**Learning Latency-Aware Orchestration for Parallel Multi-Agent Systems**|Xi Shi et.al.|[link](http://arxiv.org/abs/2601.10560v1)|null|
+|**2026-01-15**|**The inducibility of Turán graphs**|Xizhi Liu et.al.|[link](http://arxiv.org/abs/2601.10548v1)|null|
+|**2026-01-15**|**Network Integrated Sensing and Communication**|Edward Andrews et.al.|[link](http://arxiv.org/abs/2601.10538v1)|null|
+|**2026-01-15**|**Coarsening Causal DAG Models**|Francisco Madaleno et.al.|[link](http://arxiv.org/abs/2601.10531v1)|null|
+|**2026-01-15**|**Learning from Brain Topography: A Hierarchical Local-Global Graph-Transformer Network for EEG Emotion Recognition**|Yijin Zhou et.al.|[link](http://arxiv.org/abs/2601.10525v1)|null|
+|**2026-01-15**|**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**|Max A. Buettner et.al.|[link](http://arxiv.org/abs/2601.10521v1)|null|
+|**2026-01-15**|**Higher order trade-offs in hypergraph community detection**|Jiaze Li et.al.|[link](http://arxiv.org/abs/2601.10502v1)|null|
+|**2026-01-15**|**CROCS: A Two-Stage Clustering Framework for Behaviour-Centric Consumer Segmentation with Smart Meter Data**|Luke W. Yerbury et.al.|[link](http://arxiv.org/abs/2601.10494v1)|null|
 |**2026-01-14**|**SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3**|Ruiqi Shen et.al.|[link](http://arxiv.org/abs/2601.09699v1)|null|
 |**2026-01-14**|**LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models**|Ha Nguyen et.al.|[link](http://arxiv.org/abs/2601.09686v1)|null|
 |**2026-01-14**|**Quantum graphs of homomorphisms**|Andre Kornell et.al.|[link](http://arxiv.org/abs/2601.09685v1)|null|
@@ -2805,6 +2845,7 @@
 |**2026-01-12**|**ForensicFormer: Hierarchical Multi-Scale Reasoning for Cross-Domain Image Forgery Detection**|Hema Hariharan Samson et.al.|[link](http://arxiv.org/abs/2601.08873v1)|null|
 |**2026-01-11**|**Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**|Yi Wang et.al.|[link](http://arxiv.org/abs/2601.08868v1)|null|
 |**2026-01-13**|**VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory**|Shaoan Wang et.al.|[link](http://arxiv.org/abs/2601.08665v1)|null|
+|**2026-01-15**|**EfficientFSL: Enhancing Few-Shot Classification via Query-Only Tuning in Vision Transformers**|Wenwen Liao et.al.|[link](http://arxiv.org/abs/2601.08499v2)|null|
 |**2026-01-13**|**EfficientFSL: Enhancing Few-Shot Classification via Query-Only Tuning in Vision Transformers**|Wenwen Liao et.al.|[link](http://arxiv.org/abs/2601.08499v1)|null|
 |**2026-01-12**|**Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning**|Jiaxuan Lu et.al.|[link](http://arxiv.org/abs/2601.07641v1)|null|
 |**2026-01-12**|**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**|Tessa Pulli et.al.|[link](http://arxiv.org/abs/2601.07333v1)|null|
