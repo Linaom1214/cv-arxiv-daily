@@ -1,4 +1,4 @@
-## Updated on 2026.01.19
+## Updated on 2026.01.20
 
 ### ISTD
 
@@ -280,6 +280,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[link](http://arxiv.org/abs/2601.11514v1)|null|
+|**2026-01-16**|**Predictive autoencoder-transformer model of Cu oxidation state from EELS and XAS spectra**|Brian Lee et.al.|[link](http://arxiv.org/abs/2601.11509v1)|null|
+|**2026-01-16**|**ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes**|Emily Steiner et.al.|[link](http://arxiv.org/abs/2601.11508v1)|null|
+|**2026-01-16**|**BoxMind: Closed-loop AI strategy optimization for elite boxing validated in the 2024 Olympics**|Kaiwen Wang et.al.|[link](http://arxiv.org/abs/2601.11492v1)|null|
+|**2026-01-16**|**Tensor field tomography with attenuation and refraction: adjoint operators for the dynamic case and numerical experiments**|Lukas Vierus et.al.|[link](http://arxiv.org/abs/2601.11483v1)|null|
+|**2026-01-16**|**Low-Rank Key Value Attention**|James O'Neill et.al.|[link](http://arxiv.org/abs/2601.11471v1)|null|
+|**2026-01-16**|**Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations**|Franziska Herbert et.al.|[link](http://arxiv.org/abs/2601.11460v1)|null|
+|**2026-01-16**|**Frame eversion and contextual geometric rigidity**|Alexandru Chirvasitu et.al.|[link](http://arxiv.org/abs/2601.11455v1)|null|
+|**2026-01-16**|**PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs**|Oishee Bintey Hoque et.al.|[link](http://arxiv.org/abs/2601.11451v1)|null|
+|**2026-01-16**|**Principles of Client Enrichment in Multicomponent Biomolecular Condensates**|Aishani Ghosal et.al.|[link](http://arxiv.org/abs/2601.11450v1)|null|
+|**2026-01-16**|**Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation**|Ali Khreis et.al.|[link](http://arxiv.org/abs/2601.11427v1)|null|
+|**2026-01-16**|**Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems**|Jose Sánchez Andreu et.al.|[link](http://arxiv.org/abs/2601.11415v1)|null|
+|**2026-01-16**|**Resolving topological obstructions to vectorial structured field control**|An Aloysius Wang et.al.|[link](http://arxiv.org/abs/2601.11410v1)|null|
+|**2026-01-16**|**Topology-Guaranteed Image Segmentation: Enforcing Connectivity, Genus, and Width Constraints**|Wenxiao Li et.al.|[link](http://arxiv.org/abs/2601.11409v1)|null|
+|**2026-01-16**|**Efficient Channel Autoencoders for Wideband Communications leveraging Walsh-Hadamard interleaving**|Cel Thys et.al.|[link](http://arxiv.org/abs/2601.11407v1)|null|
+|**2026-01-16**|**Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model**|Shuai Yuan et.al.|[link](http://arxiv.org/abs/2601.11400v1)|null|
+|**2026-01-16**|**Star-forming compact groups: Tracing the early evolutionary stages of compact group environments**|Ortiz-Gómez S. et.al.|[link](http://arxiv.org/abs/2601.11399v1)|null|
+|**2026-01-16**|**SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction**|Hanlin Wu et.al.|[link](http://arxiv.org/abs/2601.11396v1)|null|
+|**2026-01-16**|**Polar Orbit Decoding: Universal Parallel Soft Decoding via Automorphism Orbits**|Pin-Jing Li et.al.|[link](http://arxiv.org/abs/2601.11373v1)|null|
+|**2026-01-16**|**InterPUF: Distributed Authentication via Physically Unclonable Functions and Multi-party Computation for Reconfigurable Interposers**|Ishraq Tashdid et.al.|[link](http://arxiv.org/abs/2601.11368v1)|null|
 |**2026-01-15**|**Unbounded symbols, heat flow, and Toeplitz operators**|Sam Looi et.al.|[link](http://arxiv.org/abs/2601.10711v1)|null|
 |**2026-01-15**|**Grounding Agent Memory in Contextual Intent**|Ruozhen Yang et.al.|[link](http://arxiv.org/abs/2601.10702v1)|null|
 |**2026-01-15**|**Mitigating nonlinear transduction noise in high-cooperativity cavity optomechanics**|Daniel Allepuz-Requena et.al.|[link](http://arxiv.org/abs/2601.10689v1)|null|
@@ -1465,6 +1485,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al.|[link](http://arxiv.org/abs/2601.11254v1)|null|
 |**2026-01-14**|**Late Breaking Results: Quamba-SE: Soft-edge Quantizer for Activations in State Space Models**|Yizhi Chen et.al.|[link](http://arxiv.org/abs/2601.09451v1)|null|
 |**2026-01-13**|**SfMamba: Efficient Source-Free Domain Adaptation via Selective Scan Modeling**|Xi Chen et.al.|[link](http://arxiv.org/abs/2601.08608v1)|null|
 |**2026-01-13**|**Scalable Sequential Recommendation under Latency and Memory Constraints**|Adithya Parthasarathy et.al.|[link](http://arxiv.org/abs/2601.08360v1)|null|
@@ -1790,6 +1811,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[link](http://arxiv.org/abs/2601.11514v1)|null|
+|**2026-01-16**|**Krull-Gabriel dimension of Skew group algebras**|Shantanu Sardar et.al.|[link](http://arxiv.org/abs/2601.11512v1)|null|
+|**2026-01-16**|**ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes**|Emily Steiner et.al.|[link](http://arxiv.org/abs/2601.11508v1)|null|
+|**2026-01-16**|**BoxMind: Closed-loop AI strategy optimization for elite boxing validated in the 2024 Olympics**|Kaiwen Wang et.al.|[link](http://arxiv.org/abs/2601.11492v1)|null|
+|**2026-01-16**|**Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations**|Franziska Herbert et.al.|[link](http://arxiv.org/abs/2601.11460v1)|null|
+|**2026-01-16**|**PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs**|Oishee Bintey Hoque et.al.|[link](http://arxiv.org/abs/2601.11451v1)|null|
+|**2026-01-16**|**Principles of Client Enrichment in Multicomponent Biomolecular Condensates**|Aishani Ghosal et.al.|[link](http://arxiv.org/abs/2601.11450v1)|null|
+|**2026-01-16**|**GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance**|Francisco Giral et.al.|[link](http://arxiv.org/abs/2601.11440v1)|null|
+|**2026-01-16**|**Projection-based discrete-time consensus on the unit sphere**|Johan Thunberg et.al.|[link](http://arxiv.org/abs/2601.11439v1)|null|
+|**2026-01-16**|**Simulating Quantum Walk Hamiltonians without Pauli Decomposition**|Mostafa Atallah et.al.|[link](http://arxiv.org/abs/2601.11418v1)|null|
+|**2026-01-16**|**New Adaptive Mechanism for Large Neighborhood Search using Dual Actor-Critic**|Shaohua Yu et.al.|[link](http://arxiv.org/abs/2601.11414v1)|null|
+|**2026-01-16**|**Topology-Guaranteed Image Segmentation: Enforcing Connectivity, Genus, and Width Constraints**|Wenxiao Li et.al.|[link](http://arxiv.org/abs/2601.11409v1)|null|
+|**2026-01-16**|**Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning**|Ahmed Rashwan et.al.|[link](http://arxiv.org/abs/2601.11401v1)|null|
+|**2026-01-16**|**Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model**|Shuai Yuan et.al.|[link](http://arxiv.org/abs/2601.11400v1)|null|
+|**2026-01-16**|**SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction**|Hanlin Wu et.al.|[link](http://arxiv.org/abs/2601.11396v1)|null|
+|**2026-01-16**|**Institutional AI: Governing LLM Collusion in Multi-Agent Cournot Markets via Public Governance Graphs**|Marcantonio Bracale Syrnikov et.al.|[link](http://arxiv.org/abs/2601.11369v1)|null|
+|**2026-01-16**|**Walk based Laplacians for Modeling Diffusion on Complex Networks**|Francesca Arrigo et.al.|[link](http://arxiv.org/abs/2601.11338v1)|null|
+|**2026-01-16**|**Composite and Staged Trust Evaluation for Multi-Hop Collaborator Selection**|Botao Zhu et.al.|[link](http://arxiv.org/abs/2601.11323v1)|null|
+|**2026-01-16**|**Context-Aware Semantic Segmentation via Stage-Wise Attention**|Antoine Carreaud et.al.|[link](http://arxiv.org/abs/2601.11310v1)|null|
+|**2026-01-16**|**SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2**|Gergely Dinya et.al.|[link](http://arxiv.org/abs/2601.11301v1)|null|
 |**2026-01-15**|**UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees**|Quinten De Man et.al.|[link](http://arxiv.org/abs/2601.10706v1)|null|
 |**2026-01-15**|**Grounding Agent Memory in Contextual Intent**|Ruozhen Yang et.al.|[link](http://arxiv.org/abs/2601.10702v1)|null|
 |**2026-01-15**|**Perfect Secret Key Generation for a class of Hypergraphical Sources**|Manuj Mukherjee et.al.|[link](http://arxiv.org/abs/2601.10697v1)|null|
@@ -2837,6 +2878,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-16**|**Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**|Pingzhi Tang et.al.|[link](http://arxiv.org/abs/2601.11258v1)|null|
+|**2026-01-16**|**Differentially Private Subspace Fine-Tuning for Large Language Models**|Lele Zheng et.al.|[link](http://arxiv.org/abs/2601.11113v1)|null|
+|**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[link](http://arxiv.org/abs/2601.10781v1)|null|
 |**2026-01-14**|**TiInsight: A SQL-based Automated Exploratory Data Analysis System through Large Language Models**|Jun-Peng Zhu et.al.|[link](http://arxiv.org/abs/2601.09404v1)|null|
 |**2026-01-14**|**SPOT-Face: Forensic Face Identification using Attention Guided Optimal Transport**|Ravi Shankar Prasad et.al.|[link](http://arxiv.org/abs/2601.09229v1)|null|
 |**2026-01-13**|**Universal Latent Homeomorphic Manifolds: Cross-Domain Representation Learning via Homeomorphism Verification**|Tong Wu et.al.|[link](http://arxiv.org/abs/2601.09025v1)|null|
