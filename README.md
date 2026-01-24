@@ -1,4 +1,4 @@
-## Updated on 2026.01.23
+## Updated on 2026.01.24
 
 ### ISTD
 
@@ -282,6 +282,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[link](http://arxiv.org/abs/2601.16212v1)|null|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[link](http://arxiv.org/abs/2601.16210v1)|null|
+|**2026-01-22**|**Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders**|Shengbang Tong et.al.|[link](http://arxiv.org/abs/2601.16208v1)|null|
+|**2026-01-22**|**Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing**|Song Xia et.al.|[link](http://arxiv.org/abs/2601.16200v1)|null|
+|**2026-01-22**|**360Anything: Geometry-Free Lifting of Images and Videos to 360°**|Ziyi Wu et.al.|[link](http://arxiv.org/abs/2601.16192v1)|null|
+|**2026-01-22**|**Ergodic averages for commutative transformations along return times**|Sebastián Donoso et.al.|[link](http://arxiv.org/abs/2601.16188v1)|null|
+|**2026-01-22**|**Inversion problem in algebras of integrable functions with summable Fourier transforms**|Przemysław Ohrysko et.al.|[link](http://arxiv.org/abs/2601.16186v1)|null|
+|**2026-01-22**|**Scaling Sample-Based Quantum Diagonalization on GPU-Accelerated Systems using OpenMP Offload**|Robert Walkup et.al.|[link](http://arxiv.org/abs/2601.16169v1)|null|
+|**2026-01-22**|**On the dimension drop for harmonic measure on uniformly non-flat Ahlfors-David regular boundaries**|Aritro Pathak et.al.|[link](http://arxiv.org/abs/2601.16167v1)|null|
+|**2026-01-22**|**CONTEX-T: Contextual Privacy Exploitation via Transformer Spectral Analysis for IoT Device Fingerprinting**|Nazmul Islam et.al.|[link](http://arxiv.org/abs/2601.16160v1)|null|
+|**2026-01-22**|**Domain-Incremental Continual Learning for Robust and Efficient Keyword Spotting in Resource Constrained Systems**|Prakash Dhungana et.al.|[link](http://arxiv.org/abs/2601.16158v1)|null|
+|**2026-01-22**|**Pay (Cross) Attention to the Melody: Curriculum Masking for Single-Encoder Melodic Harmonization**|Maximos Kaliakatsos-Papakostas et.al.|[link](http://arxiv.org/abs/2601.16150v1)|null|
+|**2026-01-22**|**Beat-ssl: Capturing Local ECG Morphology through Heartbeat-level Contrastive Learning with Soft Targets**|Muhammad Ilham Rizqyawan et.al.|[link](http://arxiv.org/abs/2601.16147v1)|null|
+|**2026-01-22**|**Automatic Classification of Arabic Literature into Historical Eras**|Zainab Alhathloul et.al.|[link](http://arxiv.org/abs/2601.16138v1)|null|
+|**2026-01-22**|**From many valleys to many topological phases - quantum anomalous Hall effect in IV-VI semiconductor quantum wells**|Szymon Majewski et.al.|[link](http://arxiv.org/abs/2601.16137v1)|null|
+|**2026-01-22**|**On computational schemes for the Magnus expansion of the in-medium similarity renormalization group**|Matthias Heinz et.al.|[link](http://arxiv.org/abs/2601.16133v1)|null|
+|**2026-01-22**|**Exceptional points in Gaussian channels: diffusion gauging and drift-governed spectrum**|Frank Ernesto Quintela Rodríguez et.al.|[link](http://arxiv.org/abs/2601.16121v1)|null|
+|**2026-01-22**|**Distillation-based Layer Dropping (DLD) Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[link](http://arxiv.org/abs/2601.16117v1)|null|
+|**2026-01-22**|**synthocr-gen: A synthetic ocr dataset generator for low-resource languages- breaking the data barrier**|Haq Nawaz Malik et.al.|[link](http://arxiv.org/abs/2601.16113v1)|null|
+|**2026-01-22**|**Variable Splitting Binary Tree Models Based on Bayesian Context Tree Models for Time Series Segmentation**|Yuta Nakahara et.al.|[link](http://arxiv.org/abs/2601.16112v1)|null|
 |**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Gautom Das et.al.|[link](http://arxiv.org/abs/2601.15287v1)|null|
 |**2026-01-21**|**Walk through Paintings: Egocentric World Models from Internet Priors**|Anurag Bagchi et.al.|[link](http://arxiv.org/abs/2601.15284v1)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[link](http://arxiv.org/abs/2601.15275v1)|null|
@@ -1527,6 +1547,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-22**|**Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|[link](http://arxiv.org/abs/2601.16098v1)|null|
+|**2026-01-22**|**NeuroMamba: Multi-Perspective Feature Interaction with Visual Mamba for Neuron Segmentation**|Liuyun Jiang et.al.|[link](http://arxiv.org/abs/2601.15929v1)|null|
 |**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[link](http://arxiv.org/abs/2601.14799v1)|null|
 |**2026-01-21**|**M2I2HA: A Multi-modal Object Detection Method Based on Intra- and Inter-Modal Hypergraph Attention**|Xiaofan Yang et.al.|[link](http://arxiv.org/abs/2601.14776v1)|null|
 |**2026-01-20**|**PAS-Mamba: Phase-Amplitude-Spatial State Space Model for MRI Reconstruction**|Xiaoyan Kui et.al.|[link](http://arxiv.org/abs/2601.14530v1)|null|
@@ -1534,6 +1556,7 @@
 |**2026-01-19**|**On the Relation of State Space Models and Hidden Markov Models**|Aydin Ghojogh et.al.|[link](http://arxiv.org/abs/2601.13357v1)|null|
 |**2026-01-19**|**ConvMambaNet: A Hybrid CNN-Mamba State Space Architecture for Accurate and Real-Time EEG Seizure Detection**|Md. Nishan Khan et.al.|[link](http://arxiv.org/abs/2601.13234v1)|null|
 |**2026-01-19**|**ObjectVisA-120: Object-based Visual Attention Prediction in Interactive Street-crossing Environments**|Igor Vozniak et.al.|[link](http://arxiv.org/abs/2601.13218v1)|null|
+|**2026-01-22**|**StyMam: A Mamba-Based Generator for Artistic Style Transfer**|Zhou Hong et.al.|[link](http://arxiv.org/abs/2601.12954v2)|null|
 |**2026-01-19**|**StyMam: A Mamba-Based Generator for Artistic Style Transfer**|Zhou Hong et.al.|[link](http://arxiv.org/abs/2601.12954v1)|null|
 |**2026-01-19**|**A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection**|Miao Ye et.al.|[link](http://arxiv.org/abs/2601.12745v1)|null|
 |**2026-01-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al.|[link](http://arxiv.org/abs/2601.11254v1)|null|
@@ -1862,6 +1885,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[link](http://arxiv.org/abs/2601.16210v1)|null|
+|**2026-01-22**|**On the structural properties of Lie algebras via associated labeled directed graphs**|Tim Heib et.al.|[link](http://arxiv.org/abs/2601.16161v1)|null|
+|**2026-01-22**|**All ascents exponential from valued constraint graphs of pathwidth three**|Artem Kaznatcheev et.al.|[link](http://arxiv.org/abs/2601.16156v1)|null|
+|**2026-01-22**|**Beat-ssl: Capturing Local ECG Morphology through Heartbeat-level Contrastive Learning with Soft Targets**|Muhammad Ilham Rizqyawan et.al.|[link](http://arxiv.org/abs/2601.16147v1)|null|
+|**2026-01-22**|**Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error Correction Evaluated on IBM Repetition-Code Experiments**|Samuel Stein et.al.|[link](http://arxiv.org/abs/2601.16123v1)|null|
+|**2026-01-22**|**A Case for Hypergraphs to Model and Map SNNs on Neuromorphic Hardware**|Marco Ronzani et.al.|[link](http://arxiv.org/abs/2601.16118v1)|null|
+|**2026-01-22**|**synthocr-gen: A synthetic ocr dataset generator for low-resource languages- breaking the data barrier**|Haq Nawaz Malik et.al.|[link](http://arxiv.org/abs/2601.16113v1)|null|
+|**2026-01-22**|**Variable Splitting Binary Tree Models Based on Bayesian Context Tree Models for Time Series Segmentation**|Yuta Nakahara et.al.|[link](http://arxiv.org/abs/2601.16112v1)|null|
+|**2026-01-22**|**A Linear Bound on the Rich Flow Number for Graphs with a Given Maximum Degree**|Robert Lukoťka et.al.|[link](http://arxiv.org/abs/2601.16104v1)|null|
+|**2026-01-22**|**SAMTok: Representing Any Mask with Two Words**|Yikang Zhou et.al.|[link](http://arxiv.org/abs/2601.16093v1)|null|
+|**2026-01-22**|**Rainbow spanning structures in strongly edge-colored graphs**|Laihao Ding et.al.|[link](http://arxiv.org/abs/2601.16084v1)|null|
+|**2026-01-22**|**DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models**|Hanwen Zhang et.al.|[link](http://arxiv.org/abs/2601.16073v1)|null|
+|**2026-01-22**|**Phi-SegNet: Phase-Integrated Supervision for Medical Image Segmentation**|Shams Nafisa Ali et.al.|[link](http://arxiv.org/abs/2601.16064v1)|null|
+|**2026-01-22**|**ProGiDiff: Prompt-Guided Diffusion-Based Medical Image Segmentation**|Yuan Lin et.al.|[link](http://arxiv.org/abs/2601.16060v1)|null|
+|**2026-01-22**|**Characterizations of monadically dependent tree-ordered weakly sparse structures**|Hector Buffière et.al.|[link](http://arxiv.org/abs/2601.16039v1)|null|
+|**2026-01-22**|**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**|Olga Bunkova et.al.|[link](http://arxiv.org/abs/2601.16038v1)|null|
+|**2026-01-22**|**The flux of particles in a one-dimensional Fleming-Viot process**|Éric Brunet et.al.|[link](http://arxiv.org/abs/2601.16029v1)|null|
+|**2026-01-22**|**Stability Analysis of Power-Electronics-Dominated Grids Using Scaled Relative Graphs**|Eder Baron-Prada et.al.|[link](http://arxiv.org/abs/2601.16014v1)|null|
+|**2026-01-22**|**Infinite random graphs**|Ziemowit Kostana et.al.|[link](http://arxiv.org/abs/2601.16013v1)|null|
+|**2026-01-22**|**A brief note about p-curvature on graphs**|Chunyang Hu et.al.|[link](http://arxiv.org/abs/2601.16010v1)|null|
 |**2026-01-21**|**MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs**|Christoph Bartmann et.al.|[link](http://arxiv.org/abs/2601.15279v1)|null|
 |**2026-01-21**|**DrivIng: A Large-Scale Multimodal Driving Dataset with Full Digital Twin Integration**|Dominik Rößle et.al.|[link](http://arxiv.org/abs/2601.15260v1)|null|
 |**2026-01-21**|**Coloring small locally sparse degenerate graphs and related problems**|Domagoj Bradač et.al.|[link](http://arxiv.org/abs/2601.15245v1)|null|
@@ -2969,6 +3012,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[link](http://arxiv.org/abs/2601.16212v1)|null|
+|**2026-01-22**|**MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging**|Tianjun Wei et.al.|[link](http://arxiv.org/abs/2601.15930v1)|null|
+|**2026-01-22**|**CGPT: Cluster-Guided Partial Tables with LLM-Generated Supervision for Table Retrieval**|Tsung-Hsiang Chou et.al.|[link](http://arxiv.org/abs/2601.15849v1)|null|
+|**2026-01-22**|**Agentic AI Governance and Lifecycle Management in Healthcare**|Chandra Prakash et.al.|[link](http://arxiv.org/abs/2601.15630v1)|null|
+|**2026-01-22**|**Explainable Deepfake Detection with RL Enhanced Self-Blended Images**|Ning Jiang et.al.|[link](http://arxiv.org/abs/2601.15624v1)|null|
 |**2026-01-21**|**Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation**|Haonan Yuan et.al.|[link](http://arxiv.org/abs/2601.15124v1)|null|
 |**2026-01-21**|**A Novel Cross-Domain Channel Estimation Scheme for OFDM**|Mingcheng Nie et.al.|[link](http://arxiv.org/abs/2601.15067v1)|null|
 |**2026-01-21**|**Validating Behavioral Proxies for Disease Risk Monitoring via Large-Scale E-commerce Data**|Naomi Sasaya et.al.|[link](http://arxiv.org/abs/2601.14795v1)|null|
