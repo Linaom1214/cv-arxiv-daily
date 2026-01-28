@@ -1,4 +1,4 @@
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 
 ### ISTD
 
@@ -13,6 +13,7 @@
 |**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
+|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|
 |**2026-01-21**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v3)|null|
 |**2025-12-13**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v2)|null|
 |**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|
@@ -284,6 +285,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-26**|**On-chip control of the coherence matrix of four-mode partially coherent light: rank, entropy, and modal Stokes parameters**|Amin Hashemi et.al.|[link](http://arxiv.org/abs/2601.18797v1)|null|
+|**2026-01-26**|**Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets**|Iaroslav Chelombitko et.al.|[link](http://arxiv.org/abs/2601.18791v1)|null|
+|**2026-01-26**|**Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence Embeddings**|Mumin Jia et.al.|[link](http://arxiv.org/abs/2601.18788v1)|null|
+|**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[link](http://arxiv.org/abs/2601.18785v1)|null|
+|**2026-01-26**|**OptiGAN for Crystal Arrays: Physics-Informed Generative Modeling of Optical Photon Transport in PET Detector Arrays**|Stephan Naunheim et.al.|[link](http://arxiv.org/abs/2601.18780v1)|null|
+|**2026-01-26**|**Practical block encodings of matrix polynomials that can also be trivially controlled**|Martina Nibbi et.al.|[link](http://arxiv.org/abs/2601.18767v1)|null|
+|**2026-01-26**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[link](http://arxiv.org/abs/2601.18714v1)|null|
+|**2026-01-26**|**Point transformer for protein structural heterogeneity analysis using CryoEM**|Muyuan Chen et.al.|[link](http://arxiv.org/abs/2601.18713v1)|null|
+|**2026-01-26**|**SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model**|Jan Hagnberger et.al.|[link](http://arxiv.org/abs/2601.18707v1)|null|
+|**2026-01-26**|**Mechanistic Analysis of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning**|Olaf Yunus Laitinen Imanov et.al.|[link](http://arxiv.org/abs/2601.18699v1)|null|
+|**2026-01-26**|**S$^2$GR: Stepwise Semantic-Guided Reasoning in Latent Space for Generative Recommendation**|Zihao Guo et.al.|[link](http://arxiv.org/abs/2601.18664v1)|null|
+|**2026-01-26**|**D1-D5 CFT data from $AdS_3 \times S^3$ Virasoro-Shapiro amplitude**|Hongliang Jiang et.al.|[link](http://arxiv.org/abs/2601.18646v1)|null|
+|**2026-01-26**|**TwinPurify: Purifying gene expression data to reveal tumor-intrinsic transcriptional programs via self-supervised learning**|Zhiwei Zheng et.al.|[link](http://arxiv.org/abs/2601.18640v1)|null|
+|**2026-01-26**|**Birational Weyl Group Action on the Symplectic Groupoid and Cluster Algebras**|Woojin Choi et.al.|[link](http://arxiv.org/abs/2601.18636v1)|null|
+|**2026-01-26**|**Scale-Aware Self-Supervised Learning for Segmentation of Small and Sparse Structures**|Jorge Quesada et.al.|[link](http://arxiv.org/abs/2601.18619v1)|null|
+|**2026-01-26**|**Geometry-Free Conditional Diffusion Modeling for Solving the Inverse Electrocardiography Problem**|Ramiro Valdes Jara et.al.|[link](http://arxiv.org/abs/2601.18615v1)|null|
+|**2026-01-26**|**Goodness-of-Fit Checks for Joint Models**|Dimitris Rizopoulos et.al.|[link](http://arxiv.org/abs/2601.18598v1)|null|
+|**2026-01-26**|**The generalised balanced power diagram: flat sections, affine transformations and an improved rendering algorithm**|Felix Ballani et.al.|[link](http://arxiv.org/abs/2601.18593v1)|null|
+|**2026-01-26**|**Evaluating Morphological Plausibility of Subword Tokenization via Statistical Alignment with Morpho-Syntactic Features**|Abishek Stephen et.al.|[link](http://arxiv.org/abs/2601.18536v1)|null|
+|**2026-01-26**|**Audio Inpainting in Time-Frequency Domain with Phase-Aware Prior**|Peter Balušík et.al.|[link](http://arxiv.org/abs/2601.18535v1)|null|
 |**2026-01-23**|**SyncLight: Controllable and Consistent Multi-View Relighting**|David Serrano-Lozano et.al.|[link](http://arxiv.org/abs/2601.16981v1)|null|
 |**2026-01-23**|**Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**|Riyang Bao et.al.|[link](http://arxiv.org/abs/2601.16965v1)|null|
 |**2026-01-23**|**Thermodynamically consistent large-eddy simulation models**|Thomas Dubos et.al.|[link](http://arxiv.org/abs/2601.16957v1)|null|
@@ -1569,17 +1590,23 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-25**|**RemEdit: Efficient Diffusion Editing with Riemannian Geometry**|Eashan Adhikarla et.al.|[link](http://arxiv.org/abs/2601.17927v1)|null|
+|**2026-01-24**|**Learning with Geometric Priors in U-Net Variants for Polyp Segmentation**|Fabian Vazquez et.al.|[link](http://arxiv.org/abs/2601.17331v1)|null|
+|**2026-01-23**|**MambaNet: Mamba-assisted Channel Estimation Neural Network With Attention Mechanism**|Dianxin Luan et.al.|[link](http://arxiv.org/abs/2601.17108v1)|null|
+|**2026-01-19**|**Data-Efficient Meningioma Segmentation via Implicit Spatiotemporal Mixing and Sim2Real Semantic Injection**|Yunhao Xu et.al.|[link](http://arxiv.org/abs/2601.17031v1)|null|
 |**2026-01-23**|**PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation**|Ming Kang et.al.|[link](http://arxiv.org/abs/2601.16631v1)|null|
 |**2026-01-23**|**Omni-directional attention mechanism based on Mamba for speech separation**|Ke Xue et.al.|[link](http://arxiv.org/abs/2601.16603v1)|null|
 |**2026-01-22**|**Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|[link](http://arxiv.org/abs/2601.16098v1)|null|
 |**2026-01-22**|**NeuroMamba: Multi-Perspective Feature Interaction with Visual Mamba for Neuron Segmentation**|Liuyun Jiang et.al.|[link](http://arxiv.org/abs/2601.15929v1)|null|
 |**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[link](http://arxiv.org/abs/2601.14799v1)|null|
+|**2026-01-24**|**M2I2HA: Multi-modal Object Detection Based on Intra- and Inter-Modal Hypergraph Attention**|Xiaofan Yang et.al.|[link](http://arxiv.org/abs/2601.14776v2)|null|
 |**2026-01-21**|**M2I2HA: A Multi-modal Object Detection Method Based on Intra- and Inter-Modal Hypergraph Attention**|Xiaofan Yang et.al.|[link](http://arxiv.org/abs/2601.14776v1)|null|
 |**2026-01-20**|**PAS-Mamba: Phase-Amplitude-Spatial State Space Model for MRI Reconstruction**|Xiaoyan Kui et.al.|[link](http://arxiv.org/abs/2601.14530v1)|null|
 |**2026-01-20**|**Gaussian Based Adaptive Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[link](http://arxiv.org/abs/2601.14448v1)|null|
 |**2026-01-19**|**On the Relation of State Space Models and Hidden Markov Models**|Aydin Ghojogh et.al.|[link](http://arxiv.org/abs/2601.13357v1)|null|
 |**2026-01-19**|**ConvMambaNet: A Hybrid CNN-Mamba State Space Architecture for Accurate and Real-Time EEG Seizure Detection**|Md. Nishan Khan et.al.|[link](http://arxiv.org/abs/2601.13234v1)|null|
 |**2026-01-19**|**ObjectVisA-120: Object-based Visual Attention Prediction in Interactive Street-crossing Environments**|Igor Vozniak et.al.|[link](http://arxiv.org/abs/2601.13218v1)|null|
+|**2026-01-25**|**StyMam: A Mamba-Based Generator for Artistic Style Transfer**|Zhou Hong et.al.|[link](http://arxiv.org/abs/2601.12954v3)|null|
 |**2026-01-22**|**StyMam: A Mamba-Based Generator for Artistic Style Transfer**|Zhou Hong et.al.|[link](http://arxiv.org/abs/2601.12954v2)|null|
 |**2026-01-19**|**StyMam: A Mamba-Based Generator for Artistic Style Transfer**|Zhou Hong et.al.|[link](http://arxiv.org/abs/2601.12954v1)|null|
 |**2026-01-19**|**A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection**|Miao Ye et.al.|[link](http://arxiv.org/abs/2601.12745v1)|null|
@@ -1909,6 +1936,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-26**|**Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets**|Iaroslav Chelombitko et.al.|[link](http://arxiv.org/abs/2601.18791v1)|null|
+|**2026-01-26**|**Uniformly balanced $H$-factors in multicoloured complete graphs**|Agnijo Banerjee et.al.|[link](http://arxiv.org/abs/2601.18789v1)|null|
+|**2026-01-26**|**Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence Embeddings**|Mumin Jia et.al.|[link](http://arxiv.org/abs/2601.18788v1)|null|
+|**2026-01-26**|**Low-Bit Quantization of Bandlimited Graph Signals via Iterative Methods**|Felix Krahmer et.al.|[link](http://arxiv.org/abs/2601.18782v1)|null|
+|**2026-01-26**|**OptiGAN for Crystal Arrays: Physics-Informed Generative Modeling of Optical Photon Transport in PET Detector Arrays**|Stephan Naunheim et.al.|[link](http://arxiv.org/abs/2601.18780v1)|null|
+|**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Shutong Chen et.al.|[link](http://arxiv.org/abs/2601.18765v1)|null|
+|**2026-01-26**|**Capturing P: On the Expressive Power and Efficient Evaluation of Boolean Retrieval**|Amir Aavani et.al.|[link](http://arxiv.org/abs/2601.18747v1)|null|
+|**2026-01-26**|**Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules**|Naeyma N. Islam et.al.|[link](http://arxiv.org/abs/2601.18716v1)|null|
+|**2026-01-26**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[link](http://arxiv.org/abs/2601.18714v1)|null|
+|**2026-01-26**|**Scale-Aware Self-Supervised Learning for Segmentation of Small and Sparse Structures**|Jorge Quesada et.al.|[link](http://arxiv.org/abs/2601.18619v1)|null|
+|**2026-01-26**|**Fractal functions defined in terms of number representations in systems with a redundant alphabet**|M. V. Pratsiovytyi et.al.|[link](http://arxiv.org/abs/2601.18610v1)|null|
+|**2026-01-26**|**Distinguishing Graphs by Counting Homomorphisms from Sparse Graphs**|Daniel Neuen et.al.|[link](http://arxiv.org/abs/2601.18602v1)|null|
+|**2026-01-26**|**AGSP-DSA: An Adaptive Graph Signal Processing Framework for Robust Multimodal Fusion with Dynamic Semantic Alignment**|KV Karthikeya et.al.|[link](http://arxiv.org/abs/2601.18589v1)|null|
+|**2026-01-26**|**FastInsight: Fast and Insightful Retrieval via Fusion Operators for Graph RAG**|Seonho An et.al.|[link](http://arxiv.org/abs/2601.18579v1)|null|
+|**2026-01-26**|**Formal Naive Dirac Operators and Graph Topology**|G. M. von Hippel et.al.|[link](http://arxiv.org/abs/2601.18576v1)|null|
+|**2026-01-26**|**Well-quasi-ordered classes of bounded clique-width**|Maël Dumas et.al.|[link](http://arxiv.org/abs/2601.18571v1)|null|
+|**2026-01-26**|**Monochromatic triangle-tilings in dense graphs without large independent sets**|Xinmin Hou et.al.|[link](http://arxiv.org/abs/2601.18565v1)|null|
+|**2026-01-26**|**AI-enabled Satellite Edge Computing: A Single-Pixel Feature based Shallow Classification Model for Hyperspectral Imaging**|Li Fang et.al.|[link](http://arxiv.org/abs/2601.18560v1)|null|
+|**2026-01-26**|**Semilinear Diffusion Equations on Infinite Graphs: The Dissipative and Lipschitz Cases**|Elvise Berchio et.al.|[link](http://arxiv.org/abs/2601.18549v1)|null|
+|**2026-01-26**|**Sufficient conditions for additivity of the zero-error classical capacity of quantum channels**|Jeonghoon Park et.al.|[link](http://arxiv.org/abs/2601.18538v1)|null|
 |**2026-01-23**|**Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**|Riyang Bao et.al.|[link](http://arxiv.org/abs/2601.16965v1)|null|
 |**2026-01-23**|**3D Molecule Generation from Rigid Motifs via SE(3) Flows**|Roman Poletukhin et.al.|[link](http://arxiv.org/abs/2601.16955v1)|null|
 |**2026-01-23**|**Domain-invariant Mixed-domain Semi-supervised Medical Image Segmentation with Clustered Maximum Mean Discrepancy Alignment**|Ba-Thinh Lam et.al.|[link](http://arxiv.org/abs/2601.16954v1)|null|
@@ -3056,11 +3103,21 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-26**|**CONQUER: Context-Aware Representation with Query Enhancement for Text-Based Person Search**|Zequn Xie et.al.|[link](http://arxiv.org/abs/2601.18625v1)|null|
+|**2026-01-26**|**Fair-Eye Net: A Fair, Trustworthy, Multimodal Integrated Glaucoma Full Chain AI System**|Wenbin Wei et.al.|[link](http://arxiv.org/abs/2601.18464v1)|null|
+|**2026-01-26**|**Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents**|Zhihan Liu et.al.|[link](http://arxiv.org/abs/2601.18217v1)|null|
+|**2026-01-26**|**Cross-Domain Transfer with Self-Supervised Spectral-Spatial Modeling for Hyperspectral Image Classification**|Jianshu Chao et.al.|[link](http://arxiv.org/abs/2601.18088v1)|null|
+|**2026-01-26**|**From Human Speech to Ocean Signals: Transferring Speech Large Models for Underwater Acoustic Target Recognition**|Mengcheng Huang et.al.|[link](http://arxiv.org/abs/2601.18086v1)|null|
+|**2026-01-24**|**Spoofing-Aware Speaker Verification via Wavelet Prompt Tuning and Multi-Model Ensembles**|Aref Farhadipour et.al.|[link](http://arxiv.org/abs/2601.17557v1)|null|
+|**2026-01-24**|**Lattice: Generative Guardrails for Conversational Agents**|Emily Broadhurst et.al.|[link](http://arxiv.org/abs/2601.17481v1)|null|
+|**2026-01-24**|**Adversarial Alignment and Disentanglement for Cross-Domain CTR Prediction with Domain-Encompassing Features**|Junyou He et.al.|[link](http://arxiv.org/abs/2601.17472v1)|null|
+|**2026-01-24**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[link](http://arxiv.org/abs/2601.16212v2)|null|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[link](http://arxiv.org/abs/2601.16212v1)|null|
 |**2026-01-22**|**MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging**|Tianjun Wei et.al.|[link](http://arxiv.org/abs/2601.15930v1)|null|
 |**2026-01-22**|**CGPT: Cluster-Guided Partial Tables with LLM-Generated Supervision for Table Retrieval**|Tsung-Hsiang Chou et.al.|[link](http://arxiv.org/abs/2601.15849v1)|null|
 |**2026-01-22**|**Agentic AI Governance and Lifecycle Management in Healthcare**|Chandra Prakash et.al.|[link](http://arxiv.org/abs/2601.15630v1)|null|
 |**2026-01-22**|**Explainable Deepfake Detection with RL Enhanced Self-Blended Images**|Ning Jiang et.al.|[link](http://arxiv.org/abs/2601.15624v1)|null|
+|**2026-01-24**|**RAG-GFM: Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation**|Haonan Yuan et.al.|[link](http://arxiv.org/abs/2601.15124v2)|null|
 |**2026-01-21**|**Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation**|Haonan Yuan et.al.|[link](http://arxiv.org/abs/2601.15124v1)|null|
 |**2026-01-21**|**A Novel Cross-Domain Channel Estimation Scheme for OFDM**|Mingcheng Nie et.al.|[link](http://arxiv.org/abs/2601.15067v1)|null|
 |**2026-01-23**|**Validating Behavioral Proxies for Disease Risk Monitoring via Large-Scale E-commerce Data**|Naomi Sasaya et.al.|[link](http://arxiv.org/abs/2601.14795v2)|null|
