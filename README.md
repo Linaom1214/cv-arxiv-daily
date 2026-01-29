@@ -1,4 +1,4 @@
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 
 ### ISTD
 
@@ -285,6 +285,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-27**|**Evaluation of Oncotimia: An LLM based system for supporting tumour boards**|Luis Lorenzo et.al.|[link](http://arxiv.org/abs/2601.19899v1)|null|
+|**2026-01-27**|**Post-LayerNorm Is Back: Stable, ExpressivE, and Deep**|Chen Chen et.al.|[link](http://arxiv.org/abs/2601.19895v1)|null|
+|**2026-01-27**|**SONIC: Spectral Oriented Neural Invariant Convolutions**|Gijs Joppe Moens et.al.|[link](http://arxiv.org/abs/2601.19884v1)|null|
+|**2026-01-27**|**RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms**|Yiying Sheng et.al.|[link](http://arxiv.org/abs/2601.19876v1)|null|
+|**2026-01-27**|**HexFormer: Hyperbolic Vision Transformer with Exponential Map Aggregation**|Haya Alyoussef et.al.|[link](http://arxiv.org/abs/2601.19849v1)|null|
+|**2026-01-27**|**Oscillating Resonances: Imprints of ultralight dark matter at colliders**|Martin Bauer et.al.|[link](http://arxiv.org/abs/2601.19844v1)|null|
+|**2026-01-27**|**Widely tunable SNAP microresonators via translation of side-coupled optical fibers**|Isha Sharma et.al.|[link](http://arxiv.org/abs/2601.19799v1)|null|
+|**2026-01-27**|**Diffusion for De-Occlusion: Accessory-Aware Diffusion Inpainting for Robust Ear Biometric Recognition**|Deeksha Arun et.al.|[link](http://arxiv.org/abs/2601.19795v1)|null|
+|**2026-01-27**|**Channel Estimation using 5G Sounding Reference Signals: A Delay-Doppler Domain Approach**|Danilo Lelin Li et.al.|[link](http://arxiv.org/abs/2601.19784v1)|null|
+|**2026-01-27**|**Resolving Gauge Ambiguities of the Berry Connection in Non-Hermitian Systems**|Ievgen I. Arkhipov et.al.|[link](http://arxiv.org/abs/2601.19777v1)|null|
+|**2026-01-27**|**PaW-ViT: A Patch-based Warping Vision Transformer for Robust Ear Verification**|Deeksha Arun et.al.|[link](http://arxiv.org/abs/2601.19771v1)|null|
+|**2026-01-27**|**Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification**|Jyun-Ping Kao et.al.|[link](http://arxiv.org/abs/2601.19743v1)|null|
+|**2026-01-27**|**TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching**|Runjia Zeng et.al.|[link](http://arxiv.org/abs/2601.19739v1)|null|
+|**2026-01-27**|**Component-Level Lesioning of Language Models Reveals Clinically Aligned Aphasia Phenotypes**|Yifan Wang et.al.|[link](http://arxiv.org/abs/2601.19723v1)|null|
+|**2026-01-27**|**Accelerating radio astronomy imaging with RICK: a step towards SKA-Mid and SKA-Low**|Giovanni Lacopo et.al.|[link](http://arxiv.org/abs/2601.19714v1)|null|
+|**2026-01-27**|**Lensing without mixing: Probing Baryonic Acoustic Oscillations and other scale-dependent features in cosmic shear surveys**|David Touzeau et.al.|[link](http://arxiv.org/abs/2601.19696v1)|null|
+|**2026-01-27**|**Self-Supervised Weight Templates for Scalable Vision Model Initialization**|Yucheng Xie et.al.|[link](http://arxiv.org/abs/2601.19694v1)|null|
+|**2026-01-27**|**DSVM-UNet : Enhancing VM-UNet with Dual Self-distillation for Medical Image Segmentation**|Renrong Shao et.al.|[link](http://arxiv.org/abs/2601.19690v1)|null|
+|**2026-01-27**|**LLM-Assisted Authentication and Fraud Detection**|Emunah S-S. Chan et.al.|[link](http://arxiv.org/abs/2601.19684v1)|null|
+|**2026-01-27**|**Dynamics of composition operators induced by odometers**|Udayan B. Darji et.al.|[link](http://arxiv.org/abs/2601.19678v1)|null|
 |**2026-01-26**|**On-chip control of the coherence matrix of four-mode partially coherent light: rank, entropy, and modal Stokes parameters**|Amin Hashemi et.al.|[link](http://arxiv.org/abs/2601.18797v1)|null|
 |**2026-01-26**|**Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets**|Iaroslav Chelombitko et.al.|[link](http://arxiv.org/abs/2601.18791v1)|null|
 |**2026-01-26**|**Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence Embeddings**|Mumin Jia et.al.|[link](http://arxiv.org/abs/2601.18788v1)|null|
@@ -1590,6 +1610,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-27**|**DSVM-UNet : Enhancing VM-UNet with Dual Self-distillation for Medical Image Segmentation**|Renrong Shao et.al.|[link](http://arxiv.org/abs/2601.19690v1)|null|
+|**2026-01-27**|**Dual-Strategy-Enhanced ConBiMamba for Neural Speaker Diarization**|Zhen Liao et.al.|[link](http://arxiv.org/abs/2601.19472v1)|null|
+|**2026-01-27**|**CLIP-Guided Unsupervised Semantic-Aware Exposure Correction**|Puzhen Wu et.al.|[link](http://arxiv.org/abs/2601.19129v1)|null|
 |**2026-01-25**|**RemEdit: Efficient Diffusion Editing with Riemannian Geometry**|Eashan Adhikarla et.al.|[link](http://arxiv.org/abs/2601.17927v1)|null|
 |**2026-01-24**|**Learning with Geometric Priors in U-Net Variants for Polyp Segmentation**|Fabian Vazquez et.al.|[link](http://arxiv.org/abs/2601.17331v1)|null|
 |**2026-01-23**|**MambaNet: Mamba-assisted Channel Estimation Neural Network With Attention Mechanism**|Dianxin Luan et.al.|[link](http://arxiv.org/abs/2601.17108v1)|null|
@@ -1936,6 +1959,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[link](http://arxiv.org/abs/2601.19887v1)|null|
+|**2026-01-27**|**Large point-line matchings and small Nikodym sets**|Zach Hunter et.al.|[link](http://arxiv.org/abs/2601.19879v1)|null|
+|**2026-01-27**|**RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms**|Yiying Sheng et.al.|[link](http://arxiv.org/abs/2601.19876v1)|null|
+|**2026-01-27**|**Symmetric and Antisymmetric Quantum States from Graph Structure and Orientation**|Matheus R. de Jesus et.al.|[link](http://arxiv.org/abs/2601.19857v1)|null|
+|**2026-01-27**|**HexFormer: Hyperbolic Vision Transformer with Exponential Map Aggregation**|Haya Alyoussef et.al.|[link](http://arxiv.org/abs/2601.19849v1)|null|
+|**2026-01-27**|**Information-Theoretic Detection of Bimanual Interactions for Dual-Arm Robot Plan Generation**|Elena Merlo et.al.|[link](http://arxiv.org/abs/2601.19832v1)|null|
+|**2026-01-27**|**Widely tunable SNAP microresonators via translation of side-coupled optical fibers**|Isha Sharma et.al.|[link](http://arxiv.org/abs/2601.19799v1)|null|
+|**2026-01-27**|**CASTER: Breaking the Cost-Performance Barrier in Multi-Agent Orchestration via Context-Aware Strategy for Task Efficient Routing**|Shanyv Liu et.al.|[link](http://arxiv.org/abs/2601.19793v1)|null|
+|**2026-01-27**|**Cost-Benefit Analysis for PMU Placement in Power Grids**|Beth Morrison et.al.|[link](http://arxiv.org/abs/2601.19775v1)|null|
+|**2026-01-27**|**General position and mutual-visibility in shadow graphs**|Haritha S. et.al.|[link](http://arxiv.org/abs/2601.19769v1)|null|
+|**2026-01-27**|**The Effect of Architecture During Continual Learning**|Allyson Hahn et.al.|[link](http://arxiv.org/abs/2601.19766v1)|null|
+|**2026-01-27**|**A dual view of Roman Domination: The two neighbour packing problem**|Oliver Bachtler et.al.|[link](http://arxiv.org/abs/2601.19748v1)|null|
+|**2026-01-27**|**GraphDLG: Exploring Deep Leakage from Gradients in Federated Graph Learning**|Shuyue Wei et.al.|[link](http://arxiv.org/abs/2601.19745v1)|null|
+|**2026-01-27**|**Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification**|Jyun-Ping Kao et.al.|[link](http://arxiv.org/abs/2601.19743v1)|null|
+|**2026-01-27**|**Self-Supervised Weight Templates for Scalable Vision Model Initialization**|Yucheng Xie et.al.|[link](http://arxiv.org/abs/2601.19694v1)|null|
+|**2026-01-27**|**DSVM-UNet : Enhancing VM-UNet with Dual Self-distillation for Medical Image Segmentation**|Renrong Shao et.al.|[link](http://arxiv.org/abs/2601.19690v1)|null|
+|**2026-01-27**|**LLM-Assisted Authentication and Fraud Detection**|Emunah S-S. Chan et.al.|[link](http://arxiv.org/abs/2601.19684v1)|null|
+|**2026-01-27**|**Topology-Aware Subset Repair via Entropy-Guided Density and Graph Decomposition**|Guoqi Zhao et.al.|[link](http://arxiv.org/abs/2601.19671v1)|null|
+|**2026-01-27**|**Grasynda: Graph-based Synthetic Time Series Generation**|Luis Amorim et.al.|[link](http://arxiv.org/abs/2601.19668v1)|null|
+|**2026-01-27**|**Single-Winner Voting on Matchings**|Niclas Boehmer et.al.|[link](http://arxiv.org/abs/2601.19653v1)|null|
 |**2026-01-26**|**Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets**|Iaroslav Chelombitko et.al.|[link](http://arxiv.org/abs/2601.18791v1)|null|
 |**2026-01-26**|**Uniformly balanced $H$-factors in multicoloured complete graphs**|Agnijo Banerjee et.al.|[link](http://arxiv.org/abs/2601.18789v1)|null|
 |**2026-01-26**|**Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence Embeddings**|Mumin Jia et.al.|[link](http://arxiv.org/abs/2601.18788v1)|null|
@@ -3103,6 +3146,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-27**|**Cross-Domain Offshore Wind Power Forecasting: Transfer Learning Through Meteorological Clusters**|Dominic Weisser et.al.|[link](http://arxiv.org/abs/2601.19674v1)|null|
+|**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[link](http://arxiv.org/abs/2601.19461v1)|null|
+|**2026-01-27**|**A Multi-View Consistency Framework with Semi-Supervised Domain Adaptation**|Yuting Hong et.al.|[link](http://arxiv.org/abs/2601.19266v1)|null|
+|**2026-01-27**|**Beyond In-Domain Detection: SpikeScore for Cross-Domain Hallucination Detection**|Yongxin Deng et.al.|[link](http://arxiv.org/abs/2601.19245v1)|null|
+|**2026-01-27**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al.|[link](http://arxiv.org/abs/2601.19102v1)|null|
 |**2026-01-26**|**CONQUER: Context-Aware Representation with Query Enhancement for Text-Based Person Search**|Zequn Xie et.al.|[link](http://arxiv.org/abs/2601.18625v1)|null|
 |**2026-01-26**|**Fair-Eye Net: A Fair, Trustworthy, Multimodal Integrated Glaucoma Full Chain AI System**|Wenbin Wei et.al.|[link](http://arxiv.org/abs/2601.18464v1)|null|
 |**2026-01-26**|**Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents**|Zhihan Liu et.al.|[link](http://arxiv.org/abs/2601.18217v1)|null|
