@@ -1,4 +1,4 @@
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 
 ### ISTD
 
@@ -22,7 +22,7 @@
 |**2025-11-22**|**JWST COMPASS: Insights into the Systematic Noise Properties of NIRSpec/G395H From a Uniform Reanalysis of Seven Transmission Spectra**|Tyler A. Gordon et.al.|[link](http://arxiv.org/abs/2511.18196v1)|null|
 |**2025-11-21**|**Far-infrared to centimeter emission of very nearby galaxies with archival data**|L. Correia et.al.|[link](http://arxiv.org/abs/2511.17268v1)|null|
 |**2025-11-17**|**You Only Look Omni Gradient Backpropagation for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2511.13013v1)|null|
-|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|null|
+|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|**[code](https://github.com/IVPLabs/TDCNet)**|
 |**2025-11-11**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v1)|**[code](https://github.com/IVPLaboratory/TDCNet)**|
 |**2025-10-14**|**Ivan-ISTD: Rethinking Cross-domain Heteroscedastic Noise Perturbations in Infrared Small Target Detection**|Yuehui Li et.al.|[link](http://arxiv.org/abs/2510.12241v1)|null|
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
@@ -285,6 +285,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-28**|**Probabilistic Interpolation of Sagittarius A*'s Multi-Wavelength Light Curves Using Diffusion Models**|Gabriel Sasseville et.al.|[link](http://arxiv.org/abs/2601.20863v1)|null|
+|**2026-01-28**|**Quantum teleportation in expanding FRW universe**|Babak Vakili et.al.|[link](http://arxiv.org/abs/2601.20860v1)|null|
+|**2026-01-28**|**A counterexample to the Berger--Coburn conjecture**|Sam Looi et.al.|[link](http://arxiv.org/abs/2601.20859v1)|null|
+|**2026-01-28**|**Exploring Transformer Placement in Variational Autoencoders for Tabular Data Generation**|Aníbal Silva et.al.|[link](http://arxiv.org/abs/2601.20854v1)|null|
+|**2026-01-28**|**PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting**|Olaf Yunus Laitinen Imanov et.al.|[link](http://arxiv.org/abs/2601.20845v1)|null|
+|**2026-01-28**|**Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives**|Tengyue Xu et.al.|[link](http://arxiv.org/abs/2601.20833v1)|null|
+|**2026-01-28**|**Low-Complexity Pilot-Aided Doppler Ambiguity Estimation for OTFS Parametric Channel Estimation**|Bo-Yuan Chen et.al.|[link](http://arxiv.org/abs/2601.20827v1)|null|
+|**2026-01-28**|**The Need for Ultra High Resolution X-ray Imaging**|Kimberly A. Weaver et.al.|[link](http://arxiv.org/abs/2601.20823v1)|null|
+|**2026-01-28**|**How Disciplinary Partnerships Shape Research Landscape in U.S. Library and Information Science Schools**|Jiangen He et.al.|[link](http://arxiv.org/abs/2601.20806v1)|null|
+|**2026-01-28**|**Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers**|Yiran Huang et.al.|[link](http://arxiv.org/abs/2601.20796v1)|null|
+|**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Haonan Zhong et.al.|[link](http://arxiv.org/abs/2601.20791v1)|null|
+|**2026-01-28**|**COMET-SG1: Lightweight Autoregressive Regressor for Edge and Embedded AI**|Shakhyar Gogoi et.al.|[link](http://arxiv.org/abs/2601.20772v1)|null|
+|**2026-01-28**|**Supervised Guidance Training for Infinite-Dimensional Diffusion Models**|Elizabeth L. Baker et.al.|[link](http://arxiv.org/abs/2601.20756v1)|null|
+|**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[link](http://arxiv.org/abs/2601.20755v1)|null|
+|**2026-01-28**|**MedViz: An Agent-based, Visual-guided Research Assistant for Navigating Biomedical Literature**|Huan He et.al.|[link](http://arxiv.org/abs/2601.20709v1)|null|
+|**2026-01-28**|**Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling**|Binglei Lou et.al.|[link](http://arxiv.org/abs/2601.20706v1)|null|
+|**2026-01-28**|**Enterprise Resource Planning Using Multi-type Transformers in Ferro-Titanium Industry**|Samira Yazdanpourmoghadam et.al.|[link](http://arxiv.org/abs/2601.20696v1)|null|
+|**2026-01-28**|**ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code**|Mingqiao Mo et.al.|[link](http://arxiv.org/abs/2601.20679v1)|null|
+|**2026-01-28**|**GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control**|Shuhao Liao et.al.|[link](http://arxiv.org/abs/2601.20668v1)|null|
+|**2026-01-28**|**ProSkill: Segment-Level Skill Assessment in Procedural Videos**|Michele Mazzamuto et.al.|[link](http://arxiv.org/abs/2601.20661v1)|null|
 |**2026-01-27**|**Evaluation of Oncotimia: An LLM based system for supporting tumour boards**|Luis Lorenzo et.al.|[link](http://arxiv.org/abs/2601.19899v1)|null|
 |**2026-01-27**|**Post-LayerNorm Is Back: Stable, ExpressivE, and Deep**|Chen Chen et.al.|[link](http://arxiv.org/abs/2601.19895v1)|null|
 |**2026-01-27**|**SONIC: Spectral Oriented Neural Invariant Convolutions**|Gijs Joppe Moens et.al.|[link](http://arxiv.org/abs/2601.19884v1)|null|
@@ -1610,8 +1630,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-28**|**CLEAR-Mamba:Towards Accurate, Adaptive and Trustworthy Multi-Sequence Ophthalmic Angiography Classification**|Zhuonan Wang et.al.|[link](http://arxiv.org/abs/2601.20601v1)|null|
+|**2026-01-28**|**CCMamba: Selective State-Space Models for Higher-Order Graph Learning on Combinatorial Complexes**|Jiawen Chen et.al.|[link](http://arxiv.org/abs/2601.20518v1)|null|
+|**2026-01-28**|**MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis**|Chengying She et.al.|[link](http://arxiv.org/abs/2601.20347v1)|null|
 |**2026-01-27**|**DSVM-UNet : Enhancing VM-UNet with Dual Self-distillation for Medical Image Segmentation**|Renrong Shao et.al.|[link](http://arxiv.org/abs/2601.19690v1)|null|
 |**2026-01-27**|**Dual-Strategy-Enhanced ConBiMamba for Neural Speaker Diarization**|Zhen Liao et.al.|[link](http://arxiv.org/abs/2601.19472v1)|null|
+|**2026-01-28**|**CLIP-Guided Unsupervised Semantic-Aware Exposure Correction**|Puzhen Wu et.al.|[link](http://arxiv.org/abs/2601.19129v2)|null|
 |**2026-01-27**|**CLIP-Guided Unsupervised Semantic-Aware Exposure Correction**|Puzhen Wu et.al.|[link](http://arxiv.org/abs/2601.19129v1)|null|
 |**2026-01-25**|**RemEdit: Efficient Diffusion Editing with Riemannian Geometry**|Eashan Adhikarla et.al.|[link](http://arxiv.org/abs/2601.17927v1)|null|
 |**2026-01-24**|**Learning with Geometric Priors in U-Net Variants for Polyp Segmentation**|Fabian Vazquez et.al.|[link](http://arxiv.org/abs/2601.17331v1)|null|
@@ -1959,6 +1983,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-01-28**|**PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting**|Olaf Yunus Laitinen Imanov et.al.|[link](http://arxiv.org/abs/2601.20845v1)|null|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[link](http://arxiv.org/abs/2601.20835v1)|null|
+|**2026-01-28**|**Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives**|Tengyue Xu et.al.|[link](http://arxiv.org/abs/2601.20833v1)|null|
+|**2026-01-28**|**GNN Explanations that do not Explain and How to find Them**|Steve Azzolin et.al.|[link](http://arxiv.org/abs/2601.20815v1)|null|
+|**2026-01-28**|**Context-Augmented Code Generation Using Programming Knowledge Graphs**|Shahd Seddik et.al.|[link](http://arxiv.org/abs/2601.20810v1)|null|
+|**2026-01-28**|**A Methodology for Designing Knowledge-Driven Missions for Robots**|Guillermo GP-Lenza et.al.|[link](http://arxiv.org/abs/2601.20797v1)|null|
+|**2026-01-28**|**REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence**|Zishen Wan et.al.|[link](http://arxiv.org/abs/2601.20784v1)|null|
+|**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[link](http://arxiv.org/abs/2601.20755v1)|null|
+|**2026-01-28**|**Completion problem for extension of m- isometric weighted composition operators on directed graphs**|V. Devadas et.al.|[link](http://arxiv.org/abs/2601.20754v1)|null|
+|**2026-01-28**|**GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning**|Zhiheng Jiang et.al.|[link](http://arxiv.org/abs/2601.20753v1)|null|
+|**2026-01-28**|**Distributed Learning over Noisy Communication Networks**|Emrah Akyol et.al.|[link](http://arxiv.org/abs/2601.20723v1)|null|
+|**2026-01-28**|**Fully Dynamic Algorithms for Graph Spanners via Low-Diameter Router Decomposition**|Julia Chuzhoy et.al.|[link](http://arxiv.org/abs/2601.20718v1)|null|
+|**2026-01-28**|**Structurally Human, Semantically Biased: Detecting LLM-Generated References with Embeddings and GNNs**|Melika Mobini et.al.|[link](http://arxiv.org/abs/2601.20704v1)|null|
+|**2026-01-28**|**ProSkill: Segment-Level Skill Assessment in Procedural Videos**|Michele Mazzamuto et.al.|[link](http://arxiv.org/abs/2601.20661v1)|null|
+|**2026-01-28**|**First-Principle-Inspired Reduced-Order Models of Chemical-Kinetics in $\text{H}_2\left(\text{X}^1Σ_g^+\right)$+$\text{H}\left({}^2\text{S}\right)$ System**|Hye Su Jeong et.al.|[link](http://arxiv.org/abs/2601.20660v1)|null|
+|**2026-01-28**|**Integrated Sensing and Communication for Segmented Waveguide-Enabled Pinching Antenna Systems**|Qian Gao et.al.|[link](http://arxiv.org/abs/2601.20658v1)|null|
+|**2026-01-28**|**RL based Beamforming Optimization for 3D Pinching Antenna assisted ISAC Systems**|Qian Gao et.al.|[link](http://arxiv.org/abs/2601.20654v1)|null|
+|**2026-01-28**|**TGSBM: Transformer-Guided Stochastic Block Model for Link Prediction**|Zhejian Yang et.al.|[link](http://arxiv.org/abs/2601.20646v1)|null|
+|**2026-01-28**|**On controllability, observability and stabilizability of the heat equation on discrete graphs**|Florentin Münch et.al.|[link](http://arxiv.org/abs/2601.20594v1)|null|
+|**2026-01-28**|**A bijection between edges of the Turán graph and irreducible elements in the dominance order lattice**|Nathanaël Hassler et.al.|[link](http://arxiv.org/abs/2601.20590v1)|null|
 |**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[link](http://arxiv.org/abs/2601.19887v1)|null|
 |**2026-01-27**|**Large point-line matchings and small Nikodym sets**|Zach Hunter et.al.|[link](http://arxiv.org/abs/2601.19879v1)|null|
 |**2026-01-27**|**RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms**|Yiying Sheng et.al.|[link](http://arxiv.org/abs/2601.19876v1)|null|
@@ -3146,6 +3190,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-01-28**|**PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting**|Olaf Yunus Laitinen Imanov et.al.|[link](http://arxiv.org/abs/2601.20845v1)|null|
+|**2026-01-28**|**CLEAR-Mamba:Towards Accurate, Adaptive and Trustworthy Multi-Sequence Ophthalmic Angiography Classification**|Zhuonan Wang et.al.|[link](http://arxiv.org/abs/2601.20601v1)|null|
+|**2026-01-28**|**Person Re-ID in 2025: Supervised, Self-Supervised, and Language-Aligned. What Works?**|Lakshman Balasubramanian et.al.|[link](http://arxiv.org/abs/2601.20598v1)|null|
+|**2026-01-28**|**RF-MatID: Dataset and Benchmark for Radio Frequency Material Identification**|Xinyan Chen et.al.|[link](http://arxiv.org/abs/2601.20377v1)|null|
+|**2026-01-28**|**Securing AI Agents in Cyber-Physical Systems: A Survey of Environmental Interactions, Deepfake Threats, and Defenses**|Mohsen Hatami et.al.|[link](http://arxiv.org/abs/2601.20184v1)|null|
+|**2026-01-28**|**Causal-Driven Feature Evaluation for Cross-Domain Image Classification**|Chen Cheng et.al.|[link](http://arxiv.org/abs/2601.20176v1)|null|
+|**2026-01-27**|**The Sound of Noise: Leveraging the Inductive Bias of Pre-trained Audio Transformers for Glitch Identification in LIGO**|Suyash Deshmukh et.al.|[link](http://arxiv.org/abs/2601.20034v1)|null|
 |**2026-01-27**|**Cross-Domain Offshore Wind Power Forecasting: Transfer Learning Through Meteorological Clusters**|Dominic Weisser et.al.|[link](http://arxiv.org/abs/2601.19674v1)|null|
 |**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[link](http://arxiv.org/abs/2601.19461v1)|null|
 |**2026-01-27**|**A Multi-View Consistency Framework with Semi-Supervised Domain Adaptation**|Yuting Hong et.al.|[link](http://arxiv.org/abs/2601.19266v1)|null|
