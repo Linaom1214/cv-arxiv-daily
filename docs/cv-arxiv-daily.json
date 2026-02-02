@@ -130,7 +130,7 @@
     "2512.03470v3": "|**2026-01-21**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v3)|null|\n",
     "2601.16434v1": "|**2026-01-23**|**MDAFNet: Multiscale Differential Edge and Adaptive Frequency Guided Network for Infrared Small Target Detection**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16434v1)|null|\n",
     "2601.16428v1": "|**2026-01-23**|**DCCS-Det: Directional Context and Cross-Scale-Aware Detector for Infrared Small Target**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16428v1)|null|\n",
-    "2512.03470v4": "|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|\n"
+    "2512.03470v4": "|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|**[code](https://github.com/greekinRoma/IRSTD_HC_Platform)**|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",

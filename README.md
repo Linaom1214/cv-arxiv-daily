@@ -1,4 +1,4 @@
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 
 ### ISTD
 
@@ -13,7 +13,7 @@
 |**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
-|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|
+|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|**[code](https://github.com/greekinRoma/IRSTD_HC_Platform)**|
 |**2026-01-21**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v3)|null|
 |**2025-12-13**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v2)|null|
 |**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|
