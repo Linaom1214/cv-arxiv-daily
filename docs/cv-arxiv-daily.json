@@ -130,7 +130,7 @@
     "2512.03470v3": "|**2026-01-21**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v3)|null|\n",
     "2601.16434v1": "|**2026-01-23**|**MDAFNet: Multiscale Differential Edge and Adaptive Frequency Guided Network for Infrared Small Target Detection**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16434v1)|null|\n",
     "2601.16428v1": "|**2026-01-23**|**DCCS-Det: Directional Context and Cross-Scale-Aware Detector for Infrared Small Target**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16428v1)|null|\n",
-    "2512.03470v4": "|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|**[code](https://github.com/greekinRoma/IRSTD_HC_Platform)**|\n"
+    "2512.03470v4": "|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",
@@ -1634,7 +1634,27 @@
     "2601.22040v1": "|**2026-01-29**|**A Separable Architecture for Continuous Token Representation in Language Models**|Reza T. Batley et.al.|[link](http://arxiv.org/abs/2601.22040v1)|null|\n",
     "2601.22037v1": "|**2026-01-29**|**Optimizing Agentic Workflows using Meta-tools**|Sami Abuzakuk et.al.|[link](http://arxiv.org/abs/2601.22037v1)|null|\n",
     "2601.22032v1": "|**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[link](http://arxiv.org/abs/2601.22032v1)|null|\n",
-    "2601.22012v1": "|**2026-01-29**|**Putting a Face to Forgetting: Continual Learning meets Mechanistic Interpretability**|Sergi Masip et.al.|[link](http://arxiv.org/abs/2601.22012v1)|null|\n"
+    "2601.22012v1": "|**2026-01-29**|**Putting a Face to Forgetting: Continual Learning meets Mechanistic Interpretability**|Sergi Masip et.al.|[link](http://arxiv.org/abs/2601.22012v1)|null|\n",
+    "2601.23243v1": "|**2026-01-30**|**Complete Hierarchies for the Geometric Measure of Entanglement**|Lisa T. Weinbrenner et.al.|[link](http://arxiv.org/abs/2601.23243v1)|null|\n",
+    "2601.23236v1": "|**2026-01-30**|**YuriiFormer: A Suite of Nesterov-Accelerated Transformers**|Aleksandr Zimin et.al.|[link](http://arxiv.org/abs/2601.23236v1)|null|\n",
+    "2601.23224v1": "|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|Xiangyu Zeng et.al.|[link](http://arxiv.org/abs/2601.23224v1)|null|\n",
+    "2601.23222v1": "|**2026-01-30**|**Region-Normalized DPO for Medical Image Segmentation under Noisy Judges**|Hamza Kalisch et.al.|[link](http://arxiv.org/abs/2601.23222v1)|null|\n",
+    "2601.23215v1": "|**2026-01-30**|**Tackling air quality with SAPIENS**|Marcella Bona et.al.|[link](http://arxiv.org/abs/2601.23215v1)|null|\n",
+    "2601.23213v1": "|**2026-01-30**|**A complete characterisation of conditional entropies**|Roberto Rubboli et.al.|[link](http://arxiv.org/abs/2601.23213v1)|null|\n",
+    "2601.23212v1": "|**2026-01-30**|**Disentangling multispecific antibody function with graph neural networks**|Joshua Southern et.al.|[link](http://arxiv.org/abs/2601.23212v1)|null|\n",
+    "2601.23208v1": "|**2026-01-30**|**A Random Matrix Theory of Masked Self-Supervised Regression**|Arie Wortsman Zurich et.al.|[link](http://arxiv.org/abs/2601.23208v1)|null|\n",
+    "2601.23204v1": "|**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[link](http://arxiv.org/abs/2601.23204v1)|null|\n",
+    "2601.23178v1": "|**2026-01-30**|**Forward and Inverse Mantle Convection with Neural Operators**|Chenxi Kong et.al.|[link](http://arxiv.org/abs/2601.23178v1)|null|\n",
+    "2601.23177v1": "|**2026-01-30**|**MeshGraphNet-Transformer: Scalable Mesh-based Learned Simulation for Solid Mechanics**|Mikel M. Iparraguirre et.al.|[link](http://arxiv.org/abs/2601.23177v1)|null|\n",
+    "2601.23169v1": "|**2026-01-30**|**Names Don't Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning**|\u0130lker I\u015f\u0131k et.al.|[link](http://arxiv.org/abs/2601.23169v1)|null|\n",
+    "2601.23163v1": "|**2026-01-30**|**Probing the Trajectories of Reasoning Traces in Large Language Models**|Marthe Ballon et.al.|[link](http://arxiv.org/abs/2601.23163v1)|null|\n",
+    "2601.23159v1": "|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[link](http://arxiv.org/abs/2601.23159v1)|null|\n",
+    "2601.23156v1": "|**2026-01-30**|**Unsupervised Hierarchical Skill Discovery**|Damion Harvey et.al.|[link](http://arxiv.org/abs/2601.23156v1)|null|\n",
+    "2601.23147v1": "|**2026-01-30**|**Securing Time in Energy IoT: A Clock-Dynamics-Aware Spatio-Temporal Graph Attention Network for Clock Drift Attacks and Y2K38 Failures**|Saeid Jamshidi et.al.|[link](http://arxiv.org/abs/2601.23147v1)|null|\n",
+    "2601.23146v1": "|**2026-01-30**|**Relational de Sitter State Counting with an SU(3) Clock**|Ahmed Farag Ali et.al.|[link](http://arxiv.org/abs/2601.23146v1)|null|\n",
+    "2601.23116v1": "|**2026-01-30**|**Free encoding capacity: A universal unit for quantum resources**|Shampa Mondal et.al.|[link](http://arxiv.org/abs/2601.23116v1)|null|\n",
+    "2601.23109v1": "|**2026-01-30**|**TopoLS: Lattice Surgery Compilation via Topological Program Transformations**|Junyu Zhou et.al.|[link](http://arxiv.org/abs/2601.23109v1)|null|\n",
+    "2601.23103v1": "|**2026-01-30**|**Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation**|Ping Chen et.al.|[link](http://arxiv.org/abs/2601.23103v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -1989,7 +2009,9 @@
     "2601.21648v1": "|**2026-01-29**|**CAF-Mamba: Mamba-Based Cross-Modal Adaptive Attention Fusion for Multimodal Depression Detection**|Bowen Zhou et.al.|[link](http://arxiv.org/abs/2601.21648v1)|null|\n",
     "2601.21376v1": "|**2026-01-29**|**Towards Geometry-Aware and Motion-Guided Video Human Mesh Recovery**|Hongjun Chen et.al.|[link](http://arxiv.org/abs/2601.21376v1)|null|\n",
     "2601.21307v1": "|**2026-01-29**|**Mam-App: A Novel Parameter-Efficient Mamba Model for Apple Leaf Disease Classification**|Md Nadim Mahamood et.al.|[link](http://arxiv.org/abs/2601.21307v1)|null|\n",
-    "2601.21293v1": "|**2026-01-29**|**Physics-Guided Tiny-Mamba Transformer for Reliability-Aware Early Fault Warning**|Changyu Li et.al.|[link](http://arxiv.org/abs/2601.21293v1)|null|\n"
+    "2601.21293v1": "|**2026-01-29**|**Physics-Guided Tiny-Mamba Transformer for Reliability-Aware Early Fault Warning**|Changyu Li et.al.|[link](http://arxiv.org/abs/2601.21293v1)|null|\n",
+    "2601.23103v1": "|**2026-01-30**|**Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation**|Ping Chen et.al.|[link](http://arxiv.org/abs/2601.23103v1)|null|\n",
+    "2601.22729v1": "|**2026-01-30**|**GaussianOcc3D: A Gaussian-Based Adaptive Multi-modal 3D Occupancy Prediction**|A. Enes Doruk et.al.|[link](http://arxiv.org/abs/2601.22729v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -3212,7 +3234,27 @@
     "2601.21964v1": "|**2026-01-29**|**From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation**|Qianwei Yang et.al.|[link](http://arxiv.org/abs/2601.21964v1)|null|\n",
     "2601.21950v1": "|**2026-01-29**|**Embracing Aleatoric Uncertainty in Medical Multimodal Learning with Missing Modalities**|Linxiao Gong et.al.|[link](http://arxiv.org/abs/2601.21950v1)|null|\n",
     "2601.21935v1": "|**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[link](http://arxiv.org/abs/2601.21935v1)|null|\n",
-    "2601.21933v1": "|**2026-01-29**|**Just Noticeable Difference Modeling for Deep Visual Features**|Rui Zhao et.al.|[link](http://arxiv.org/abs/2601.21933v1)|null|\n"
+    "2601.21933v1": "|**2026-01-29**|**Just Noticeable Difference Modeling for Deep Visual Features**|Rui Zhao et.al.|[link](http://arxiv.org/abs/2601.21933v1)|null|\n",
+    "2601.23274v1": "|**2026-01-30**|**On graphs with girth at least five achieving Steffen's edge coloring bound**|Guantao Chen et.al.|[link](http://arxiv.org/abs/2601.23274v1)|null|\n",
+    "2601.23254v1": "|**2026-01-30**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|Baoyi Wang et.al.|[link](http://arxiv.org/abs/2601.23254v1)|null|\n",
+    "2601.23246v1": "|**2026-01-30**|**The Iterated Local Model for tournaments**|Anthony Bonato et.al.|[link](http://arxiv.org/abs/2601.23246v1)|null|\n",
+    "2601.23239v1": "|**2026-01-30**|**Graph Attention Network for Node Regression on Random Geometric Graphs with Erd\u0151s--R\u00e9nyi contamination**|Somak Laha et.al.|[link](http://arxiv.org/abs/2601.23239v1)|null|\n",
+    "2601.23233v1": "|**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[link](http://arxiv.org/abs/2601.23233v1)|null|\n",
+    "2601.23224v1": "|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|Xiangyu Zeng et.al.|[link](http://arxiv.org/abs/2601.23224v1)|**[code](https://github.com/MCG-NJU/Video-o3)**|\n",
+    "2601.23222v1": "|**2026-01-30**|**Region-Normalized DPO for Medical Image Segmentation under Noisy Judges**|Hamza Kalisch et.al.|[link](http://arxiv.org/abs/2601.23222v1)|null|\n",
+    "2601.23212v1": "|**2026-01-30**|**Disentangling multispecific antibody function with graph neural networks**|Joshua Southern et.al.|[link](http://arxiv.org/abs/2601.23212v1)|null|\n",
+    "2601.23207v1": "|**2026-01-30**|**Learning to Execute Graph Algorithms Exactly with Graph Neural Networks**|Muhammad Fetrat Qharabagh et.al.|[link](http://arxiv.org/abs/2601.23207v1)|**[code](https://github.com/watcl-lab/exact_gnn)**|\n",
+    "2601.23198v1": "|**2026-01-30**|**Planar Graph Homomorphisms: A Dichotomy and a Barrier from Quantum Groups**|Jin-Yi Cai et.al.|[link](http://arxiv.org/abs/2601.23198v1)|null|\n",
+    "2601.23177v1": "|**2026-01-30**|**MeshGraphNet-Transformer: Scalable Mesh-based Learned Simulation for Solid Mechanics**|Mikel M. Iparraguirre et.al.|[link](http://arxiv.org/abs/2601.23177v1)|null|\n",
+    "2601.23170v1": "|**2026-01-30**|**The Total Chromatic Quasisymmetric Functions of a Graph**|Laura Colmenarejo et.al.|[link](http://arxiv.org/abs/2601.23170v1)|null|\n",
+    "2601.23163v1": "|**2026-01-30**|**Probing the Trajectories of Reasoning Traces in Large Language Models**|Marthe Ballon et.al.|[link](http://arxiv.org/abs/2601.23163v1)|null|\n",
+    "2601.23159v1": "|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[link](http://arxiv.org/abs/2601.23159v1)|null|\n",
+    "2601.23156v1": "|**2026-01-30**|**Unsupervised Hierarchical Skill Discovery**|Damion Harvey et.al.|[link](http://arxiv.org/abs/2601.23156v1)|null|\n",
+    "2601.23147v1": "|**2026-01-30**|**Securing Time in Energy IoT: A Clock-Dynamics-Aware Spatio-Temporal Graph Attention Network for Clock Drift Attacks and Y2K38 Failures**|Saeid Jamshidi et.al.|[link](http://arxiv.org/abs/2601.23147v1)|null|\n",
+    "2601.23139v1": "|**2026-01-30**|**Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications**|Ruizhen Gu et.al.|[link](http://arxiv.org/abs/2601.23139v1)|null|\n",
+    "2601.23115v1": "|**2026-01-30**|**Nonlinear Schr\u00f6dinger Equation with magnetic potential on metric graphs**|Riccardo Adami et.al.|[link](http://arxiv.org/abs/2601.23115v1)|null|\n",
+    "2601.23104v1": "|**2026-01-30**|**Series-Parallel and Planar Graphs for Efficient Broadcasting**|David Evangelista et.al.|[link](http://arxiv.org/abs/2601.23104v1)|null|\n",
+    "2601.23103v1": "|**2026-01-30**|**Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation**|Ping Chen et.al.|[link](http://arxiv.org/abs/2601.23103v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -3708,6 +3750,19 @@
     "2601.21449v1": "|**2026-01-29**|**Nimbus: A Unified Embodied Synthetic Data Generation Framework**|Zeyu He et.al.|[link](http://arxiv.org/abs/2601.21449v1)|null|\n",
     "2601.21309v1": "|**2026-01-29**|**Transferable Graph Condensation from the Causal Perspective**|Huaming Du et.al.|[link](http://arxiv.org/abs/2601.21309v1)|null|\n",
     "2601.21293v1": "|**2026-01-29**|**Physics-Guided Tiny-Mamba Transformer for Reliability-Aware Early Fault Warning**|Changyu Li et.al.|[link](http://arxiv.org/abs/2601.21293v1)|null|\n",
-    "2601.20176v2": "|**2026-01-29**|**Causal-Driven Feature Evaluation for Cross-Domain Image Classification**|Chen Cheng et.al.|[link](http://arxiv.org/abs/2601.20176v2)|null|\n"
+    "2601.20176v2": "|**2026-01-29**|**Causal-Driven Feature Evaluation for Cross-Domain Image Classification**|Chen Cheng et.al.|[link](http://arxiv.org/abs/2601.20176v2)|null|\n",
+    "2601.23251v1": "|**2026-01-30**|**Structured Over Scale: Learning Spatial Reasoning from Educational Video**|Bishoy Galoaa et.al.|[link](http://arxiv.org/abs/2601.23251v1)|null|\n",
+    "2601.23200v1": "|**2026-01-30**|**Large Language Models for Patent Classification: Strengths, Trade-offs, and the Long Tail Effect**|Lorenzo Emer et.al.|[link](http://arxiv.org/abs/2601.23200v1)|null|\n",
+    "2601.22989v1": "|**2026-01-30**|**Fluid Antenna Systems under Channel Uncertainty and Hardware Impairments: Trends, Challenges, and Future Research Directions**|Saeid Pakravan et.al.|[link](http://arxiv.org/abs/2601.22989v1)|null|\n",
+    "2601.22948v1": "|**2026-01-30**|**Alignment among Language, Vision and Action Representations**|Nicola Milano et.al.|[link](http://arxiv.org/abs/2601.22948v1)|null|\n",
+    "2601.22723v1": "|**2026-01-30**|**A Cross-Domain Graph Learning Protocol for Single-Step Molecular Geometry Refinement**|Chengchun Liu et.al.|[link](http://arxiv.org/abs/2601.22723v1)|null|\n",
+    "2601.22663v1": "|**2026-01-30**|**Unsupervised Synthetic Image Attribution: Alignment and Disentanglement**|Zongfang Liu et.al.|[link](http://arxiv.org/abs/2601.22663v1)|null|\n",
+    "2601.22631v1": "|**2026-01-30**|**PEFT-MuTS: A Multivariate Parameter-Efficient Fine-Tuning Framework for Remaining Useful Life Prediction based on Cross-domain Time Series Representation Model**|En Fu et.al.|[link](http://arxiv.org/abs/2601.22631v1)|null|\n",
+    "2601.22596v1": "|**2026-01-30**|**FOTBCD: A Large-Scale Building Change Detection Benchmark from French Orthophotos and Topographic Data**|Abdelrrahman Moubane et.al.|[link](http://arxiv.org/abs/2601.22596v1)|null|\n",
+    "2601.22581v1": "|**2026-01-30**|**Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model**|Naeem Paeedeh et.al.|[link](http://arxiv.org/abs/2601.22581v1)|null|\n",
+    "2601.22529v1": "|**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[link](http://arxiv.org/abs/2601.22529v1)|null|\n",
+    "2601.22454v1": "|**2026-01-30**|**Temporal Graph Pattern Machine**|Yijun Ma et.al.|[link](http://arxiv.org/abs/2601.22454v1)|null|\n",
+    "2601.22420v1": "|**2026-01-30**|**MetaLead: A Comprehensive Human-Curated Leaderboard Dataset for Transparent Reporting of Machine Learning Experiments**|Roelien C. Timmer et.al.|[link](http://arxiv.org/abs/2601.22420v1)|null|\n",
+    "2601.22389v1": "|**2026-01-29**|**Convergent Discovery of Critical Phenomena Mathematics Across Disciplines: A Cross-Domain Analysis**|Bruce Stephenson et.al.|[link](http://arxiv.org/abs/2601.22389v1)|null|\n"
   }
 }
