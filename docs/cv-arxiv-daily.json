@@ -130,8 +130,9 @@
     "2512.03470v3": "|**2026-01-21**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v3)|null|\n",
     "2601.16434v1": "|**2026-01-23**|**MDAFNet: Multiscale Differential Edge and Adaptive Frequency Guided Network for Infrared Small Target Detection**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16434v1)|null|\n",
     "2601.16428v1": "|**2026-01-23**|**DCCS-Det: Directional Context and Cross-Scale-Aware Detector for Infrared Small Target**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16428v1)|null|\n",
-    "2512.03470v4": "|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|**[code](https://github.com/greekinRoma/IRSTD_HC_Platform)**|\n",
-    "2602.01843v1": "|**2026-02-02**|**SPIRIT: Adapting Vision Foundation Models for Unified Single- and Multi-Frame Infrared Small Target Detection**|Qian Xu et.al.|[link](http://arxiv.org/abs/2602.01843v1)|null|\n"
+    "2512.03470v4": "|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|\n",
+    "2602.01843v1": "|**2026-02-02**|**SPIRIT: Adapting Vision Foundation Models for Unified Single- and Multi-Frame Infrared Small Target Detection**|Qian Xu et.al.|[link](http://arxiv.org/abs/2602.01843v1)|null|\n",
+    "2602.02969v1": "|**2026-02-03**|**Dynamic High-frequency Convolution for Infrared Small Target Detection**|Ruojing Li et.al.|[link](http://arxiv.org/abs/2602.02969v1)|null|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",
@@ -1675,7 +1676,27 @@
     "2602.02268v1": "|**2026-02-02**|**HopFormer: Sparse Graph Transformers with Explicit Receptive Field Control**|Sanggeon Yun et.al.|[link](http://arxiv.org/abs/2602.02268v1)|null|\n",
     "2602.02259v1": "|**2026-02-02**|**Segment to Focus: Guiding Latent Action Models in the Presence of Distractors**|Hamza Adnan et.al.|[link](http://arxiv.org/abs/2602.02259v1)|null|\n",
     "2602.02235v1": "|**2026-02-02**|**Agent-Based Software Artifact Evaluation**|Zhaonan Wu et.al.|[link](http://arxiv.org/abs/2602.02235v1)|null|\n",
-    "2602.02233v1": "|**2026-02-02**|**CHOMP: Multimodal Chewing Side Detection with Earphones**|Jonas Hummel et.al.|[link](http://arxiv.org/abs/2602.02233v1)|null|\n"
+    "2602.02233v1": "|**2026-02-02**|**CHOMP: Multimodal Chewing Side Detection with Earphones**|Jonas Hummel et.al.|[link](http://arxiv.org/abs/2602.02233v1)|null|\n",
+    "2602.03816v1": "|**2026-02-03**|**SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving**|Yesom Park et.al.|[link](http://arxiv.org/abs/2602.03816v1)|null|\n",
+    "2602.03797v1": "|**2026-02-03**|**Manifold Random Features**|Ananya Parashar et.al.|[link](http://arxiv.org/abs/2602.03797v1)|null|\n",
+    "2602.03792v1": "|**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[link](http://arxiv.org/abs/2602.03792v1)|null|\n",
+    "2602.03783v1": "|**2026-02-03**|**Efficient Estimation of Kernel Surrogate Models for Task Attribution**|Zhenshuo Zhang et.al.|[link](http://arxiv.org/abs/2602.03783v1)|null|\n",
+    "2602.03767v1": "|**2026-02-03**|**Decision-oriented benchmarking to transform AI weather forecast access: Application to the Indian monsoon**|Rajat Masiwal et.al.|[link](http://arxiv.org/abs/2602.03767v1)|null|\n",
+    "2602.03749v1": "|**2026-02-03**|**See-through: Single-image Layer Decomposition for Anime Characters**|Jian Lin et.al.|[link](http://arxiv.org/abs/2602.03749v1)|null|\n",
+    "2602.03745v1": "|**2026-02-03**|**Transformation front kinetics in deformable ferromagnets**|Michael Poluektov et.al.|[link](http://arxiv.org/abs/2602.03745v1)|null|\n",
+    "2602.03742v1": "|**2026-02-03**|**Edge-Optimized Vision-Language Models for Underground Infrastructure Assessment**|Johny J. Lopez et.al.|[link](http://arxiv.org/abs/2602.03742v1)|null|\n",
+    "2602.03733v1": "|**2026-02-03**|**RegionReasoner: Region-Grounded Multi-Round Visual Reasoning**|Wenfang Sun et.al.|[link](http://arxiv.org/abs/2602.03733v1)|null|\n",
+    "2602.03728v1": "|**2026-02-03**|**Modern Machine Learning and Particle Physics Phenomenology at the LHC**|Maria Ubiali et.al.|[link](http://arxiv.org/abs/2602.03728v1)|null|\n",
+    "2602.03709v1": "|**2026-02-03**|**No Shortcuts to Culture: Indonesian Multi-hop Question Answering for Complex Cultural Understanding**|Vynska Amalia Permadi et.al.|[link](http://arxiv.org/abs/2602.03709v1)|null|\n",
+    "2602.03690v1": "|**2026-02-03**|**LLM-Inspired Pretrain-Then-Finetune for Small-Data, Large-Scale Optimization**|Zishi Zhang et.al.|[link](http://arxiv.org/abs/2602.03690v1)|null|\n",
+    "2602.03681v1": "|**2026-02-03**|**Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models**|Difan Deng et.al.|[link](http://arxiv.org/abs/2602.03681v1)|null|\n",
+    "2602.03680v1": "|**2026-02-03**|**Instantaneous Spectra Analysis of Pulse Series - Application to Lung Sounds with Abnormalities**|Fumihiko Ishiyama et.al.|[link](http://arxiv.org/abs/2602.03680v1)|null|\n",
+    "2602.03673v1": "|**2026-02-03**|**Referring Industrial Anomaly Segmentation**|Pengfei Yue et.al.|[link](http://arxiv.org/abs/2602.03673v1)|null|\n",
+    "2602.03666v1": "|**2026-02-03**|**Reference-Free EM Validation Flow for Detecting Triggered Hardware Trojans**|Mahsa Tahghigh et.al.|[link](http://arxiv.org/abs/2602.03666v1)|null|\n",
+    "2602.03664v1": "|**2026-02-03**|**Mitigating Conversational Inertia in Multi-Turn Agents**|Yang Wan et.al.|[link](http://arxiv.org/abs/2602.03664v1)|null|\n",
+    "2602.03652v1": "|**2026-02-03**|**RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish**|S\u00fcha Ka\u011fan K\u00f6se et.al.|[link](http://arxiv.org/abs/2602.03652v1)|null|\n",
+    "2602.03641v1": "|**2026-02-03**|**CTTVAE: Latent Space Structuring for Conditional Tabular Data Generation on Imbalanced Datasets**|Milosh Devic et.al.|[link](http://arxiv.org/abs/2602.03641v1)|null|\n",
+    "2602.03625v1": "|**2026-02-03**|**Multi-Objective Optimization for Synthetic-to-Real Style Transfer**|Estelle Chigot et.al.|[link](http://arxiv.org/abs/2602.03625v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -2042,7 +2063,10 @@
     "2602.01352v1": "|**2026-02-01**|**T2M Mamba: Motion Periodicity-Saliency Coupling Approach for Stable Text-Driven Motion Generation**|Xingzu Zhan et.al.|[link](http://arxiv.org/abs/2602.01352v1)|null|\n",
     "2602.00808v1": "|**2026-01-31**|**Physics-informed Diffusion Mamba Transformer for Real-world Driving**|Hang Zhou et.al.|[link](http://arxiv.org/abs/2602.00808v1)|null|\n",
     "2602.00650v1": "|**2026-01-31**|**A Hybrid Mamba-SAM Architecture for Efficient 3D Medical Image Segmentation**|Mohammadreza Gholipour Shahraki et.al.|[link](http://arxiv.org/abs/2602.00650v1)|null|\n",
-    "2602.00149v1": "|**2026-01-29**|**SDCM: Simulated Densifying and Compensatory Modeling Fusion for Radar-Vision 3-D Object Detection in Internet of Vehicles**|Shucong Li et.al.|[link](http://arxiv.org/abs/2602.00149v1)|null|\n"
+    "2602.00149v1": "|**2026-01-29**|**SDCM: Simulated Densifying and Compensatory Modeling Fusion for Radar-Vision 3-D Object Detection in Internet of Vehicles**|Shucong Li et.al.|[link](http://arxiv.org/abs/2602.00149v1)|null|\n",
+    "2602.03269v1": "|**2026-02-03**|**Systematic review of self-supervised foundation models for brain network representation using electroencephalography**|Hannah Portmann et.al.|[link](http://arxiv.org/abs/2602.03269v1)|null|\n",
+    "2602.02918v1": "|**2026-02-02**|**A Multi-scale Linear-time Encoder for Whole-Slide Image Analysis**|Jagan Mohan Reddy Dwarampudi et.al.|[link](http://arxiv.org/abs/2602.02918v1)|null|\n",
+    "2602.02573v1": "|**2026-01-31**|**Product Interaction: An Algebraic Formalism for Deep Learning Architectures**|Haonan Dong et.al.|[link](http://arxiv.org/abs/2602.02573v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -3305,7 +3329,27 @@
     "2602.02235v1": "|**2026-02-02**|**Agent-Based Software Artifact Evaluation**|Zhaonan Wu et.al.|[link](http://arxiv.org/abs/2602.02235v1)|null|\n",
     "2602.02230v1": "|**2026-02-02**|**SEDformer: Event-Synchronous Spiking Transformers for Irregular Telemetry Time Series Forecasting**|Ziyu Zhou et.al.|[link](http://arxiv.org/abs/2602.02230v1)|null|\n",
     "2602.02228v1": "|**2026-02-02**|**Triplet Envelope Functions for increasing machine learning interatomic potential efficiency and stability**|Emil Annevelink et.al.|[link](http://arxiv.org/abs/2602.02228v1)|null|\n",
-    "2602.02226v1": "|**2026-02-02**|**Two faces of Gaia-Sausage-Enceladus: Mining the chemical abundance space with graph attention networks**|Milan Quandt-Rodriguez et.al.|[link](http://arxiv.org/abs/2602.02226v1)|null|\n"
+    "2602.02226v1": "|**2026-02-02**|**Two faces of Gaia-Sausage-Enceladus: Mining the chemical abundance space with graph attention networks**|Milan Quandt-Rodriguez et.al.|[link](http://arxiv.org/abs/2602.02226v1)|null|\n",
+    "2602.03833v1": "|**2026-02-03**|**Excluding an apex-forest or a fan as quickly as possible**|Quentin Claus et.al.|[link](http://arxiv.org/abs/2602.03833v1)|null|\n",
+    "2602.03827v1": "|**2026-02-03**|**Perfect Network Resilience in Polynomial Time**|Matthias Bentert et.al.|[link](http://arxiv.org/abs/2602.03827v1)|null|\n",
+    "2602.03808v1": "|**2026-02-03**|**Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network**|Abdul Joseph Fofanah et.al.|[link](http://arxiv.org/abs/2602.03808v1)|null|\n",
+    "2602.03807v1": "|**2026-02-03**|**Highly symmetric unstable maniplexes**|Isabel Hubard et.al.|[link](http://arxiv.org/abs/2602.03807v1)|null|\n",
+    "2602.03797v1": "|**2026-02-03**|**Manifold Random Features**|Ananya Parashar et.al.|[link](http://arxiv.org/abs/2602.03797v1)|null|\n",
+    "2602.03792v1": "|**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[link](http://arxiv.org/abs/2602.03792v1)|null|\n",
+    "2602.03781v1": "|**2026-02-03**|**A Scene Graph Backed Approach to Open Set Semantic Mapping**|Martin G\u00fcnther et.al.|[link](http://arxiv.org/abs/2602.03781v1)|null|\n",
+    "2602.03774v1": "|**2026-02-03**|**Minimum Number of Monochromatic Subgraphs of a Random Graph**|Yatin Dandi et.al.|[link](http://arxiv.org/abs/2602.03774v1)|null|\n",
+    "2602.03763v1": "|**2026-02-03**|**Optimizing Weighted Hodge Laplacian Flows on Simplicial Complexes**|Mathias Hudoba de Badyn et.al.|[link](http://arxiv.org/abs/2602.03763v1)|null|\n",
+    "2602.03749v1": "|**2026-02-03**|**See-through: Single-image Layer Decomposition for Anime Characters**|Jian Lin et.al.|[link](http://arxiv.org/abs/2602.03749v1)|null|\n",
+    "2602.03742v1": "|**2026-02-03**|**Edge-Optimized Vision-Language Models for Underground Infrastructure Assessment**|Johny J. Lopez et.al.|[link](http://arxiv.org/abs/2602.03742v1)|null|\n",
+    "2602.03733v1": "|**2026-02-03**|**RegionReasoner: Region-Grounded Multi-Round Visual Reasoning**|Wenfang Sun et.al.|[link](http://arxiv.org/abs/2602.03733v1)|null|\n",
+    "2602.03717v1": "|**2026-02-03**|**Curious crossing-critical edges -- variations on an example of \u0160ir\u00e1\u0148**|\u00c9va Czabarka et.al.|[link](http://arxiv.org/abs/2602.03717v1)|null|\n",
+    "2602.03701v1": "|**2026-02-03**|**A Formal Analysis of Capacity Scaling Algorithms for Minimum-Cost Flows**|Mohammad Abdulaziz et.al.|[link](http://arxiv.org/abs/2602.03701v1)|null|\n",
+    "2602.03698v1": "|**2026-02-03**|**Data-Driven Graph Filters via Adaptive Spectral Shaping**|Dylan Sandfelder et.al.|[link](http://arxiv.org/abs/2602.03698v1)|null|\n",
+    "2602.03687v1": "|**2026-02-03**|**Efficient Investment in Multi-Agent Models of Public Transportation**|Martin Bullinger et.al.|[link](http://arxiv.org/abs/2602.03687v1)|null|\n",
+    "2602.03673v1": "|**2026-02-03**|**Referring Industrial Anomaly Segmentation**|Pengfei Yue et.al.|[link](http://arxiv.org/abs/2602.03673v1)|null|\n",
+    "2602.03625v1": "|**2026-02-03**|**Multi-Objective Optimization for Synthetic-to-Real Style Transfer**|Estelle Chigot et.al.|[link](http://arxiv.org/abs/2602.03625v1)|null|\n",
+    "2602.03612v1": "|**2026-02-03**|**Generator-based Graph Generation via Heat Diffusion**|Anthony Stephenson et.al.|[link](http://arxiv.org/abs/2602.03612v1)|null|\n",
+    "2602.03605v1": "|**2026-02-03**|**Lee-Yang tensors and Hamiltonian complexity**|Benjamin Wong et.al.|[link](http://arxiv.org/abs/2602.03605v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -3834,6 +3878,12 @@
     "2602.00977v1": "|**2026-02-01**|**Trust in One Round: Confidence Estimation for Large Language Models via Structural Signals**|Pengyue Yang et.al.|[link](http://arxiv.org/abs/2602.00977v1)|null|\n",
     "2602.00974v1": "|**2026-02-01**|**Forest-Guided Semantic Transport for Label-Supervised Manifold Alignment**|Adrien Aumon et.al.|[link](http://arxiv.org/abs/2602.00974v1)|null|\n",
     "2602.00585v1": "|**2026-01-31**|**Exploring Information Seeking Agent Consolidation**|Guochen Yan et.al.|[link](http://arxiv.org/abs/2602.00585v1)|null|\n",
-    "2602.00522v1": "|**2026-01-31**|**MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval**|Chaoran Xu et.al.|[link](http://arxiv.org/abs/2602.00522v1)|null|\n"
+    "2602.00522v1": "|**2026-01-31**|**MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval**|Chaoran Xu et.al.|[link](http://arxiv.org/abs/2602.00522v1)|null|\n",
+    "2602.03564v1": "|**2026-02-03**|**CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting**|Yaguo Liu et.al.|[link](http://arxiv.org/abs/2602.03564v1)|null|\n",
+    "2602.03279v1": "|**2026-02-03**|**Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis**|Zhengbo Jiao et.al.|[link](http://arxiv.org/abs/2602.03279v1)|null|\n",
+    "2602.03070v1": "|**2026-02-03**|**ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling**|Chao Shen et.al.|[link](http://arxiv.org/abs/2602.03070v1)|null|\n",
+    "2602.03035v1": "|**2026-02-03**|**Generalizable and Interpretable RF Fingerprinting with Shapelet-Enhanced Large Language Models**|Tianya Zhao et.al.|[link](http://arxiv.org/abs/2602.03035v1)|null|\n",
+    "2602.02977v1": "|**2026-02-03**|**Aligning Forest and Trees in Images and Long Captions for Visually Grounded Understanding**|Byeongju Woo et.al.|[link](http://arxiv.org/abs/2602.02977v1)|null|\n",
+    "2602.01757v2": "|**2026-02-03**|**Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings**|Doohyun Kim et.al.|[link](http://arxiv.org/abs/2602.01757v2)|null|\n"
   }
 }
