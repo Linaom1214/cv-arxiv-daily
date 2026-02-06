@@ -1,4 +1,4 @@
-## Updated on 2026.02.05
+## Updated on 2026.02.06
 
 ### ISTD
 
@@ -30,10 +30,10 @@
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
 |**2025-10-02**|**A Mid-Infrared Spectroscopic Study of Young Stellar Objects in the SMC Region NGC 346: JWST Detects Dust, Accretion, Ices and Outflows**|Nolan Habel et.al.|[link](http://arxiv.org/abs/2510.02606v1)|null|
 |**2025-10-01**|**Simulating Spectral Confusion in SPHEREx Photometry and Redshifts**|Zhaoyu Huai et.al.|[link](http://arxiv.org/abs/2510.01410v1)|null|
-|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|null|
+|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|**[code](https://github.com/moured/TY-RIST)**|
 |**2025-09-25**|**DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection**|Jiayi Zuo et.al.|[link](http://arxiv.org/abs/2509.20701v1)|null|
 |**2025-09-24**|**Fast and compact time-resolved spectroscopy enabled by Quantum Walk Combs**|Ina Heckelmann et.al.|[link](http://arxiv.org/abs/2509.20112v1)|null|
-|**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|null|
+|**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|**[code](https://github.com/lartpang/PyIRSTDMetrics)**|
 |**2025-09-12**|**The CHARA Array Polarization Model and Prospects for Spectropolarimetry**|Linling Shuai et.al.|[link](http://arxiv.org/abs/2509.10451v1)|null|
 |**2025-09-10**|**Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2509.08205v1)|null|
 |**2025-09-09**|**Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2509.07654v1)|null|
@@ -287,6 +287,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[link](http://arxiv.org/abs/2602.04883v1)|null|
+|**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Zihang Lai et.al.|[link](http://arxiv.org/abs/2602.04877v1)|null|
+|**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[link](http://arxiv.org/abs/2602.04872v1)|null|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[link](http://arxiv.org/abs/2602.04870v1)|null|
+|**2026-02-04**|**From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures**|Ryan Liu et.al.|[link](http://arxiv.org/abs/2602.04861v1)|null|
+|**2026-02-04**|**The finite Hilbert transform acting on $L^\infty$**|Guillermo P. Curbera et.al.|[link](http://arxiv.org/abs/2602.04844v1)|null|
+|**2026-02-04**|**Vivifying LIME: Visual Interactive Testbed for LIME Analysis**|Jeongmin Rhee et.al.|[link](http://arxiv.org/abs/2602.04841v1)|null|
+|**2026-02-04**|**XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas**|Aqsa Sultana et.al.|[link](http://arxiv.org/abs/2602.04819v1)|null|
+|**2026-02-04**|**From independent patches to coordinated attention: Controlling information flow in vision transformers**|Kieran A. Murphy et.al.|[link](http://arxiv.org/abs/2602.04784v1)|null|
+|**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[link](http://arxiv.org/abs/2602.04776v1)|null|
+|**2026-02-04**|**Billion-Scale Graph Foundation Models**|Maya Bechler-Speicher et.al.|[link](http://arxiv.org/abs/2602.04768v1)|null|
+|**2026-02-04**|**Decomposing Query-Key Feature Interactions Using Contrastive Covariances**|Andrew Lee et.al.|[link](http://arxiv.org/abs/2602.04752v1)|null|
+|**2026-02-04**|**Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation**|Buddhi Wijenayake et.al.|[link](http://arxiv.org/abs/2602.04749v1)|null|
+|**2026-02-04**|**"Be My Cheese?": Cultural Nuance Benchmarking for Machine Translation in Multilingual LLMs**|Madison Van Doren et.al.|[link](http://arxiv.org/abs/2602.04729v1)|null|
+|**2026-02-04**|**Cross-Attention Transformer for Joint Multi-Receiver Uplink Neural Decoding**|Xavier Tardy et.al.|[link](http://arxiv.org/abs/2602.04728v1)|null|
+|**2026-02-04**|**Benchmarking and Enhancing PPG-Based Cuffless Blood Pressure Estimation Methods**|Neville Mathew et.al.|[link](http://arxiv.org/abs/2602.04725v1)|null|
+|**2026-02-04**|**Enabling large-scale digital quantum simulations with superconducting qubits**|Laurin E. Fischer et.al.|[link](http://arxiv.org/abs/2602.04719v1)|null|
+|**2026-02-04**|**Linguistically Informed Evaluation of Multilingual ASR for African Languages**|Fei-Yueh Chen et.al.|[link](http://arxiv.org/abs/2602.04716v1)|null|
+|**2026-02-04**|**Translating auxiliary symmetries between Schottky uniformization and Jacobi parametrization**|Manuel Berger et.al.|[link](http://arxiv.org/abs/2602.04715v1)|null|
+|**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[link](http://arxiv.org/abs/2602.04712v1)|null|
 |**2026-02-03**|**SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving**|Yesom Park et.al.|[link](http://arxiv.org/abs/2602.03816v1)|null|
 |**2026-02-03**|**Manifold Random Features**|Ananya Parashar et.al.|[link](http://arxiv.org/abs/2602.03797v1)|null|
 |**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[link](http://arxiv.org/abs/2602.03792v1)|null|
@@ -1712,6 +1732,11 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-04**|**XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas**|Aqsa Sultana et.al.|[link](http://arxiv.org/abs/2602.04819v1)|null|
+|**2026-02-04**|**Interactive Spatial-Frequency Fusion Mamba for Multi-Modal Image Fusion**|Yixin Zhu et.al.|[link](http://arxiv.org/abs/2602.04405v1)|null|
+|**2026-02-04**|**Partial Ring Scan: Revisiting Scan Order in Vision State Space Models**|Yi-Kuan Hsieh et.al.|[link](http://arxiv.org/abs/2602.04170v1)|null|
+|**2026-02-04**|**DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.|[link](http://arxiv.org/abs/2602.04102v1)|null|
+|**2026-02-03**|**4DPC$^2$hat: Towards Dynamic Point Cloud Understanding with Failure-Aware Bootstrapping**|Xindan Zhang et.al.|[link](http://arxiv.org/abs/2602.03890v1)|null|
 |**2026-02-03**|**Systematic review of self-supervised foundation models for brain network representation using electroencephalography**|Hannah Portmann et.al.|[link](http://arxiv.org/abs/2602.03269v1)|null|
 |**2026-02-02**|**A Multi-scale Linear-time Encoder for Whole-Slide Image Analysis**|Jagan Mohan Reddy Dwarampudi et.al.|[link](http://arxiv.org/abs/2602.02918v1)|null|
 |**2026-01-31**|**Product Interaction: An Algebraic Formalism for Deep Learning Architectures**|Haonan Dong et.al.|[link](http://arxiv.org/abs/2602.02573v1)|null|
@@ -2085,6 +2110,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-04**|**A 910-block explicit construction guaranteeing a triple intersection with every $6$-subset of $[60]$**|Paulo Henrique Cunha Gomes et.al.|[link](http://arxiv.org/abs/2602.04867v1)|null|
+|**2026-02-04**|**A-Graph: A Unified Graph Representation for At-Will Simulation across System Stacks**|Daniel Price et.al.|[link](http://arxiv.org/abs/2602.04847v1)|null|
+|**2026-02-04**|**Vivifying LIME: Visual Interactive Testbed for LIME Analysis**|Jeongmin Rhee et.al.|[link](http://arxiv.org/abs/2602.04841v1)|null|
+|**2026-02-04**|**Continuous eigenvalues of minimal subshifts via S-adic representations**|Valérie Berthé et.al.|[link](http://arxiv.org/abs/2602.04833v1)|null|
+|**2026-02-04**|**Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning**|Joydeep Chandra et.al.|[link](http://arxiv.org/abs/2602.04821v1)|null|
+|**2026-02-04**|**Horizon-LM: A RAM-Centric Architecture for LLM Training**|Zhengqing Yuan et.al.|[link](http://arxiv.org/abs/2602.04816v1)|null|
+|**2026-02-04**|**Billion-Scale Graph Foundation Models**|Maya Bechler-Speicher et.al.|[link](http://arxiv.org/abs/2602.04768v1)|null|
+|**2026-02-04**|**When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?**|Xinyu Zhou et.al.|[link](http://arxiv.org/abs/2602.04755v1)|null|
+|**2026-02-04**|**Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation**|Buddhi Wijenayake et.al.|[link](http://arxiv.org/abs/2602.04749v1)|null|
+|**2026-02-04**|**DMFlow: Disordered Materials Generation by Flow Matching**|Liming Wu et.al.|[link](http://arxiv.org/abs/2602.04734v1)|null|
+|**2026-02-04**|**"Be My Cheese?": Cultural Nuance Benchmarking for Machine Translation in Multilingual LLMs**|Madison Van Doren et.al.|[link](http://arxiv.org/abs/2602.04729v1)|null|
+|**2026-02-04**|**Benchmarking and Enhancing PPG-Based Cuffless Blood Pressure Estimation Methods**|Neville Mathew et.al.|[link](http://arxiv.org/abs/2602.04725v1)|null|
+|**2026-02-04**|**Evolutionary Mapping of Neural Networks to Spatial Accelerators**|Alessandro Pierro et.al.|[link](http://arxiv.org/abs/2602.04717v1)|null|
+|**2026-02-04**|**Linguistically Informed Evaluation of Multilingual ASR for African Languages**|Fei-Yueh Chen et.al.|[link](http://arxiv.org/abs/2602.04716v1)|null|
+|**2026-02-04**|**Towards Understanding and Avoiding Limitations of Convolutions on Graphs**|Andreas Roth et.al.|[link](http://arxiv.org/abs/2602.04709v1)|null|
+|**2026-02-04**|**Quantum Advantage in Decision Trees: A Weighted Graph and $L_1$ Norm Approach**|Sebastian Alberto Grillo et.al.|[link](http://arxiv.org/abs/2602.04700v1)|null|
+|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[link](http://arxiv.org/abs/2602.04699v1)|null|
+|**2026-02-04**|**A TEE-based Approach for Preserving Data Secrecy in Process Mining with Decentralized Sources**|Davide Basile et.al.|[link](http://arxiv.org/abs/2602.04697v1)|null|
+|**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[link](http://arxiv.org/abs/2602.04693v1)|null|
+|**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[link](http://arxiv.org/abs/2602.04680v1)|null|
 |**2026-02-03**|**Excluding an apex-forest or a fan as quickly as possible**|Quentin Claus et.al.|[link](http://arxiv.org/abs/2602.03833v1)|null|
 |**2026-02-03**|**Perfect Network Resilience in Polynomial Time**|Matthias Bentert et.al.|[link](http://arxiv.org/abs/2602.03827v1)|null|
 |**2026-02-03**|**Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network**|Abdul Joseph Fofanah et.al.|[link](http://arxiv.org/abs/2602.03808v1)|null|
@@ -3372,6 +3417,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-04**|**Textual Planning with Explicit Latent Transitions**|Eliezer Shlomi et.al.|[link](http://arxiv.org/abs/2602.04557v1)|null|
+|**2026-02-04**|**Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement**|Chien-Chun Wang et.al.|[link](http://arxiv.org/abs/2602.04307v1)|null|
+|**2026-02-04**|**Pruning for Generalization: A Transfer-Oriented Spatiotemporal Graph Framework**|Zihao Jing et.al.|[link](http://arxiv.org/abs/2602.04153v1)|null|
 |**2026-02-03**|**CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting**|Yaguo Liu et.al.|[link](http://arxiv.org/abs/2602.03564v1)|null|
 |**2026-02-03**|**Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis**|Zhengbo Jiao et.al.|[link](http://arxiv.org/abs/2602.03279v1)|null|
 |**2026-02-03**|**ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling**|Chao Shen et.al.|[link](http://arxiv.org/abs/2602.03070v1)|null|
