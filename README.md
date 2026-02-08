@@ -1,4 +1,4 @@
-## Updated on 2026.02.06
+## Updated on 2026.02.08
 
 ### ISTD
 
@@ -30,10 +30,10 @@
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
 |**2025-10-02**|**A Mid-Infrared Spectroscopic Study of Young Stellar Objects in the SMC Region NGC 346: JWST Detects Dust, Accretion, Ices and Outflows**|Nolan Habel et.al.|[link](http://arxiv.org/abs/2510.02606v1)|null|
 |**2025-10-01**|**Simulating Spectral Confusion in SPHEREx Photometry and Redshifts**|Zhaoyu Huai et.al.|[link](http://arxiv.org/abs/2510.01410v1)|null|
-|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|**[code](https://github.com/moured/TY-RIST)**|
+|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|null|
 |**2025-09-25**|**DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection**|Jiayi Zuo et.al.|[link](http://arxiv.org/abs/2509.20701v1)|null|
 |**2025-09-24**|**Fast and compact time-resolved spectroscopy enabled by Quantum Walk Combs**|Ina Heckelmann et.al.|[link](http://arxiv.org/abs/2509.20112v1)|null|
-|**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|**[code](https://github.com/lartpang/PyIRSTDMetrics)**|
+|**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|null|
 |**2025-09-12**|**The CHARA Array Polarization Model and Prospects for Spectropolarimetry**|Linling Shuai et.al.|[link](http://arxiv.org/abs/2509.10451v1)|null|
 |**2025-09-10**|**Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2509.08205v1)|null|
 |**2025-09-09**|**Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2509.07654v1)|null|
@@ -287,6 +287,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[link](http://arxiv.org/abs/2602.06032v1)|null|
+|**2026-02-05**|**Context Forcing: Consistent Autoregressive Video Generation with Long Context**|Shuo Chen et.al.|[link](http://arxiv.org/abs/2602.06028v1)|null|
+|**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Ruihang Li et.al.|[link](http://arxiv.org/abs/2602.06013v1)|null|
+|**2026-02-05**|**Orthogonal Self-Attention**|Leo Zhang et.al.|[link](http://arxiv.org/abs/2602.05996v1)|null|
+|**2026-02-05**|**Geographically-aware Transformer-based Traffic Forecasting for Urban Motorway Digital Twins**|Krešimir Kušić et.al.|[link](http://arxiv.org/abs/2602.05983v1)|null|
+|**2026-02-05**|**Characterizing Human Semantic Navigation in Concept Production as Trajectories in Embedding Space**|Felipe D. Toro-Hernández et.al.|[link](http://arxiv.org/abs/2602.05971v1)|null|
+|**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[link](http://arxiv.org/abs/2602.05937v1)|null|
+|**2026-02-05**|**Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics**|Saad Yousuf et.al.|[link](http://arxiv.org/abs/2602.05931v1)|null|
+|**2026-02-05**|**Transformers Are Born Biased: Structural Inductive Biases at Random Initialization and Their Practical Consequences**|Siquan Li et.al.|[link](http://arxiv.org/abs/2602.05927v1)|null|
+|**2026-02-05**|**Quantum Reinforcement Learning with Transformers for the Capacitated Vehicle Routing Problem**|Eva Andrés et.al.|[link](http://arxiv.org/abs/2602.05920v1)|null|
+|**2026-02-05**|**Local measurements and the entanglement transition in quantum spin chains**|Sven Bachmann et.al.|[link](http://arxiv.org/abs/2602.05914v1)|null|
+|**2026-02-05**|**Parity, Sensitivity, and Transformers**|Alexander Kozachinskiy et.al.|[link](http://arxiv.org/abs/2602.05896v1)|null|
+|**2026-02-05**|**Neural Implicit 3D Cardiac Shape Reconstruction from Sparse CT Angiography Slices Mimicking 2D Transthoracic Echocardiography Views**|Gino E. Jansen et.al.|[link](http://arxiv.org/abs/2602.05884v1)|null|
+|**2026-02-05**|**Contour Refinement using Discrete Diffusion in Low Data Regime**|Fei Yu Guan et.al.|[link](http://arxiv.org/abs/2602.05880v1)|null|
+|**2026-02-05**|**Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks**|Minyoung Kim et.al.|[link](http://arxiv.org/abs/2602.05873v1)|null|
+|**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|Seyedmasoud Mousavi et.al.|[link](http://arxiv.org/abs/2602.05861v1)|null|
+|**2026-02-05**|**Self-Supervised Learning with a Multi-Task Latent Space Objective**|Pierre-François De Plaen et.al.|[link](http://arxiv.org/abs/2602.05845v1)|null|
+|**2026-02-05**|**Large Data Acquisition and Analytics at Synchrotron Radiation Facilities**|Aashish Panta et.al.|[link](http://arxiv.org/abs/2602.05837v1)|null|
+|**2026-02-05**|**Simulation of Adjoints and Petz Recovery Maps for Unknown Quantum Channels**|Chengkai Zhu et.al.|[link](http://arxiv.org/abs/2602.05828v1)|null|
+|**2026-02-05**|**Bayesian imaging inverse problem with scattering transform**|Sébastien Pierre et.al.|[link](http://arxiv.org/abs/2602.05816v1)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[link](http://arxiv.org/abs/2602.04883v1)|null|
 |**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Zihang Lai et.al.|[link](http://arxiv.org/abs/2602.04877v1)|null|
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|Nicholas Barnfield et.al.|[link](http://arxiv.org/abs/2602.04872v1)|null|
@@ -2110,6 +2130,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[link](http://arxiv.org/abs/2602.06039v1)|null|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[link](http://arxiv.org/abs/2602.06032v1)|null|
+|**2026-02-05**|**The Multicolor Induced Size-Ramsey Number of Long Subdivisions**|Ramin Javadi et.al.|[link](http://arxiv.org/abs/2602.05960v1)|null|
+|**2026-02-05**|**Quantum Approximate Optimization of Integer Graph Problems and Surpassing Semidefinite Programming for Max-k-Cut**|Anuj Apte et.al.|[link](http://arxiv.org/abs/2602.05956v1)|null|
+|**2026-02-05**|**Competitive Analysis of Online Facility Assignment Algorithms on Discrete Grid Graphs: Performance Bounds and Remediation Strategies**|Lamya Alif et.al.|[link](http://arxiv.org/abs/2602.05953v1)|null|
+|**2026-02-05**|**Breaking Symmetry Bottlenecks in GNN Readouts**|Mouad Talhi et.al.|[link](http://arxiv.org/abs/2602.05950v1)|null|
+|**2026-02-05**|**Location-Aware Dispersion on Anonymous Graphs**|Himani et.al.|[link](http://arxiv.org/abs/2602.05948v1)|null|
+|**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[link](http://arxiv.org/abs/2602.05937v1)|null|
+|**2026-02-05**|**Even Faster Geosocial Reachability Queries**|Rick van der Heijden et.al.|[link](http://arxiv.org/abs/2602.05928v1)|null|
+|**2026-02-05**|**Improved SDP-Based Algorithm for Coloring 3-Colorable Graphs**|Nikhil Bansal et.al.|[link](http://arxiv.org/abs/2602.05904v1)|null|
+|**2026-02-05**|**Neural Implicit 3D Cardiac Shape Reconstruction from Sparse CT Angiography Slices Mimicking 2D Transthoracic Echocardiography Views**|Gino E. Jansen et.al.|[link](http://arxiv.org/abs/2602.05884v1)|null|
+|**2026-02-05**|**Contour Refinement using Discrete Diffusion in Low Data Regime**|Fei Yu Guan et.al.|[link](http://arxiv.org/abs/2602.05880v1)|null|
+|**2026-02-05**|**Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy**|Lukas Stappen et.al.|[link](http://arxiv.org/abs/2602.05877v1)|null|
+|**2026-02-05**|**Wedge Sampling: Efficient Tensor Completion with Nearly-Linear Sample Complexity**|Hengrui Luo et.al.|[link](http://arxiv.org/abs/2602.05869v1)|null|
+|**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|Seyedmasoud Mousavi et.al.|[link](http://arxiv.org/abs/2602.05861v1)|null|
+|**2026-02-05**|**Exact Recovery in the Data Block Model**|Amir R. Asadi et.al.|[link](http://arxiv.org/abs/2602.05852v1)|null|
+|**2026-02-05**|**Note on the treewidth of graphs excluding a disjoint union of cycles as a minor**|Gwenaël Joret et.al.|[link](http://arxiv.org/abs/2602.05844v1)|null|
+|**2026-02-05**|**Metric representations by minimal graphs**|Víctor Franco-Sánchez et.al.|[link](http://arxiv.org/abs/2602.05831v1)|null|
+|**2026-02-05**|**ToMigo: Interpretable Design Concept Graphs for Aligning Generative AI with Creative Intent**|Lena Hegemann et.al.|[link](http://arxiv.org/abs/2602.05825v1)|null|
+|**2026-02-05**|**TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning**|Zihao Jiang et.al.|[link](http://arxiv.org/abs/2602.05818v1)|null|
 |**2026-02-04**|**A 910-block explicit construction guaranteeing a triple intersection with every $6$-subset of $[60]$**|Paulo Henrique Cunha Gomes et.al.|[link](http://arxiv.org/abs/2602.04867v1)|null|
 |**2026-02-04**|**A-Graph: A Unified Graph Representation for At-Will Simulation across System Stacks**|Daniel Price et.al.|[link](http://arxiv.org/abs/2602.04847v1)|null|
 |**2026-02-04**|**Vivifying LIME: Visual Interactive Testbed for LIME Analysis**|Jeongmin Rhee et.al.|[link](http://arxiv.org/abs/2602.04841v1)|null|
@@ -3417,11 +3457,22 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[link](http://arxiv.org/abs/2602.05937v1)|null|
+|**2026-02-05**|**ReText: Text Boosts Generalization in Image-Based Person Re-identification**|Timur Mamedov et.al.|[link](http://arxiv.org/abs/2602.05785v1)|null|
+|**2026-02-05**|**Cross-Domain Offline Policy Adaptation via Selective Transition Correction**|Mengbei Yan et.al.|[link](http://arxiv.org/abs/2602.05776v1)|null|
+|**2026-02-05**|**HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection**|Qing Wen et.al.|[link](http://arxiv.org/abs/2602.05670v1)|null|
+|**2026-02-05**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[link](http://arxiv.org/abs/2602.05527v1)|null|
+|**2026-02-05**|**ALIVE: Awakening LLM Reasoning via Adversarial Learning and Instructive Verbal Evaluation**|Yiwen Duan et.al.|[link](http://arxiv.org/abs/2602.05472v1)|null|
+|**2026-02-05**|**Multi-AD: Cross-Domain Unsupervised Anomaly Detection for Medical and Industrial Applications**|Wahyu Rahmaniar et.al.|[link](http://arxiv.org/abs/2602.05426v1)|null|
+|**2026-02-05**|**Boosting SAM for Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification**|Jiahao Nie et.al.|[link](http://arxiv.org/abs/2602.05218v1)|null|
+|**2026-02-05**|**Cross-Domain Few-Shot Segmentation via Multi-view Progressive Adaptation**|Jiahao Nie et.al.|[link](http://arxiv.org/abs/2602.05217v1)|null|
+|**2026-02-02**|**Extracting Recurring Vulnerabilities from Black-Box LLM-Generated Software**|Tomer Kordonsky et.al.|[link](http://arxiv.org/abs/2602.04894v1)|null|
 |**2026-02-04**|**Textual Planning with Explicit Latent Transitions**|Eliezer Shlomi et.al.|[link](http://arxiv.org/abs/2602.04557v1)|null|
 |**2026-02-04**|**Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement**|Chien-Chun Wang et.al.|[link](http://arxiv.org/abs/2602.04307v1)|null|
 |**2026-02-04**|**Pruning for Generalization: A Transfer-Oriented Spatiotemporal Graph Framework**|Zihao Jing et.al.|[link](http://arxiv.org/abs/2602.04153v1)|null|
 |**2026-02-03**|**CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting**|Yaguo Liu et.al.|[link](http://arxiv.org/abs/2602.03564v1)|null|
 |**2026-02-03**|**Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis**|Zhengbo Jiao et.al.|[link](http://arxiv.org/abs/2602.03279v1)|null|
+|**2026-02-05**|**ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling**|Chao Shen et.al.|[link](http://arxiv.org/abs/2602.03070v2)|null|
 |**2026-02-03**|**ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling**|Chao Shen et.al.|[link](http://arxiv.org/abs/2602.03070v1)|null|
 |**2026-02-03**|**Generalizable and Interpretable RF Fingerprinting with Shapelet-Enhanced Large Language Models**|Tianya Zhao et.al.|[link](http://arxiv.org/abs/2602.03035v1)|null|
 |**2026-02-03**|**Aligning Forest and Trees in Images and Long Captions for Visually Grounded Understanding**|Byeongju Woo et.al.|[link](http://arxiv.org/abs/2602.02977v1)|null|
