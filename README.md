@@ -1,4 +1,4 @@
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 
 ### ISTD
 
@@ -287,6 +287,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[link](http://arxiv.org/abs/2602.09024v1)|null|
+|**2026-02-09**|**StretchTime: Adaptive Time Series Forecasting via Symplectic Attention**|Yubin Kim et.al.|[link](http://arxiv.org/abs/2602.08983v1)|null|
+|**2026-02-09**|**Beyond Transcripts: A Renewed Perspective on Audio Chaptering**|Fabian Retkowski et.al.|[link](http://arxiv.org/abs/2602.08979v1)|null|
+|**2026-02-09**|**A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents**|Raghu Arghal et.al.|[link](http://arxiv.org/abs/2602.08964v1)|null|
+|**2026-02-09**|**Two Robust Interstellar Meteor Candidates in the Post-2018 CNEOS Fireball Database**|Richard Cloete et.al.|[link](http://arxiv.org/abs/2602.08956v1)|null|
+|**2026-02-09**|**Robust Sequential Learning in Random Order Networks**|William Guo et.al.|[link](http://arxiv.org/abs/2602.08953v1)|null|
+|**2026-02-09**|**Clique-Based Deletion-Correcting Codes via Penalty-Guided Clique Search**|Aniruddh Pandav et.al.|[link](http://arxiv.org/abs/2602.08952v1)|null|
+|**2026-02-09**|**Diffusion-Inspired Reconfiguration of Transformers for Uncertainty Calibration**|Manh Cuong Dao et.al.|[link](http://arxiv.org/abs/2602.08920v1)|null|
+|**2026-02-09**|**An in vivo validation dataset for dynamic volumetric MRI**|Max H. C. van Riel et.al.|[link](http://arxiv.org/abs/2602.08918v1)|null|
+|**2026-02-09**|**Comparing AI Coding Agents: A Task-Stratified Analysis of Pull Request Acceptance**|Giovanni Pinna et.al.|[link](http://arxiv.org/abs/2602.08915v1)|null|
+|**2026-02-09**|**Dynamics, Ringdown, and Accretion-Driven Multiple Quasi-Periodic Oscillations of Kerr-Bertotti-Robinson Black Holes**|G. Mustafa et.al.|[link](http://arxiv.org/abs/2602.08911v1)|null|
+|**2026-02-09**|**A Mathematical Theory of Redox Biology**|James N. Cobley et.al.|[link](http://arxiv.org/abs/2602.08897v1)|null|
+|**2026-02-09**|**DeepQuali: Initial results of a study on the use of large language models for assessing the quality of user stories**|Adam Trendowicz et.al.|[link](http://arxiv.org/abs/2602.08887v1)|null|
+|**2026-02-09**|**Differentiable Logical Programming for Quantum Circuit Discovery and Optimization**|Antonin Sulc et.al.|[link](http://arxiv.org/abs/2602.08880v1)|null|
+|**2026-02-09**|**AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection**|Junru Zhang et.al.|[link](http://arxiv.org/abs/2602.08868v1)|null|
+|**2026-02-09**|**ArkEval: Benchmarking and Evaluating Automated CodeRepair for ArkTS**|Bang Xie et.al.|[link](http://arxiv.org/abs/2602.08866v1)|null|
+|**2026-02-09**|**Understanding Dynamic Compute Allocation in Recurrent Transformers**|Ibraheem Muhammad Moosa et.al.|[link](http://arxiv.org/abs/2602.08864v1)|null|
+|**2026-02-09**|**FlattenGPT: Depth Compression for Transformer with Layer Flattening**|Ruihan Xu et.al.|[link](http://arxiv.org/abs/2602.08858v1)|null|
+|**2026-02-09**|**Discovering Interpretable Algorithms by Decompiling Transformers to RASP**|Xinting Huang et.al.|[link](http://arxiv.org/abs/2602.08857v1)|null|
+|**2026-02-09**|**Any-to-All MRI Synthesis: A Unified Foundation Model for Nasopharyngeal Carcinoma and Its Downstream Applications**|Yao Pu et.al.|[link](http://arxiv.org/abs/2602.08822v1)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[link](http://arxiv.org/abs/2602.06032v1)|null|
 |**2026-02-05**|**Context Forcing: Consistent Autoregressive Video Generation with Long Context**|Shuo Chen et.al.|[link](http://arxiv.org/abs/2602.06028v1)|null|
 |**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Ruihang Li et.al.|[link](http://arxiv.org/abs/2602.06013v1)|null|
@@ -1752,6 +1772,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-09**|**Input-Adaptive Spectral Feature Compression by Sequence Modeling for Source Separation**|Kohei Saijo et.al.|[link](http://arxiv.org/abs/2602.08671v1)|null|
+|**2026-02-07**|**On Sequence-to-Sequence Models for Automated Log Parsing**|Adam Sorrenti et.al.|[link](http://arxiv.org/abs/2602.07698v1)|null|
+|**2026-02-06**|**AS-Mamba: Asymmetric Self-Guided Mamba Decoupled Iterative Network for Metal Artifact Reduction**|Bowen Ning et.al.|[link](http://arxiv.org/abs/2602.06350v1)|null|
 |**2026-02-04**|**XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas**|Aqsa Sultana et.al.|[link](http://arxiv.org/abs/2602.04819v1)|null|
 |**2026-02-04**|**Interactive Spatial-Frequency Fusion Mamba for Multi-Modal Image Fusion**|Yixin Zhu et.al.|[link](http://arxiv.org/abs/2602.04405v1)|null|
 |**2026-02-04**|**Partial Ring Scan: Revisiting Scan Order in Vision State Space Models**|Yi-Kuan Hsieh et.al.|[link](http://arxiv.org/abs/2602.04170v1)|null|
@@ -2130,6 +2153,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-09**|**Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs**|Lavender Y. Jiang et.al.|[link](http://arxiv.org/abs/2602.08997v1)|null|
+|**2026-02-09**|**When do neural ordinary differential equations generalize on complex networks?**|Moritz Laber et.al.|[link](http://arxiv.org/abs/2602.08980v1)|null|
+|**2026-02-09**|**Beyond Transcripts: A Renewed Perspective on Audio Chaptering**|Fabian Retkowski et.al.|[link](http://arxiv.org/abs/2602.08979v1)|null|
+|**2026-02-09**|**Robust Sequential Learning in Random Order Networks**|William Guo et.al.|[link](http://arxiv.org/abs/2602.08953v1)|null|
+|**2026-02-09**|**Clique-Based Deletion-Correcting Codes via Penalty-Guided Clique Search**|Aniruddh Pandav et.al.|[link](http://arxiv.org/abs/2602.08952v1)|null|
+|**2026-02-09**|**Zero-freeness of a multivariate monomer-dimer-cycle polynomial on bounded-degree graphs**|Gabriel Coutinho et.al.|[link](http://arxiv.org/abs/2602.08919v1)|null|
+|**2026-02-09**|**An in vivo validation dataset for dynamic volumetric MRI**|Max H. C. van Riel et.al.|[link](http://arxiv.org/abs/2602.08918v1)|null|
+|**2026-02-09**|**Rethinking Graph Generalization through the Lens of Sharpness-Aware Minimization**|Yang Qiu et.al.|[link](http://arxiv.org/abs/2602.08855v1)|null|
+|**2026-02-09**|**Any-to-All MRI Synthesis: A Unified Foundation Model for Nasopharyngeal Carcinoma and Its Downstream Applications**|Yao Pu et.al.|[link](http://arxiv.org/abs/2602.08822v1)|null|
+|**2026-02-09**|**Negative-Aware Diffusion Process for Temporal Knowledge Graph Extrapolation**|Yanglei Gan et.al.|[link](http://arxiv.org/abs/2602.08815v1)|null|
+|**2026-02-09**|**CI-groups for ternary structures**|Ted Dobson et.al.|[link](http://arxiv.org/abs/2602.08802v1)|null|
+|**2026-02-09**|**Addressing data annotation scarcity in Brain Tumor Segmentation on 3D MRI scan Using a Semi-Supervised Teacher-Student Framework**|Jiaming Liu et.al.|[link](http://arxiv.org/abs/2602.08797v1)|null|
+|**2026-02-09**|**A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation**|Ofek Amran et.al.|[link](http://arxiv.org/abs/2602.08785v1)|null|
+|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[link](http://arxiv.org/abs/2602.08784v1)|null|
+|**2026-02-09**|**Efficient Brain Extraction of MRI Scans with Mild to Moderate Neuropathology**|Hjalti Thrastarson et.al.|[link](http://arxiv.org/abs/2602.08764v1)|null|
+|**2026-02-09**|**HoGS: Homophily-Oriented Graph Synthesis for Local Differentially Private GNN Training**|Wen Xu et.al.|[link](http://arxiv.org/abs/2602.08762v1)|null|
+|**2026-02-09**|**Total Roman bondage number of a graph**|Fahimeh Khosh-Ahang Ghasr et.al.|[link](http://arxiv.org/abs/2602.08758v1)|null|
+|**2026-02-09**|**On the Expressive Power of GNNs for Boolean Satisfiability**|Saku Peltonen et.al.|[link](http://arxiv.org/abs/2602.08745v1)|null|
+|**2026-02-09**|**Homomorphism counting for immersion-closed classes is not isomorphism**|Andrea Jiménez et.al.|[link](http://arxiv.org/abs/2602.08738v1)|null|
+|**2026-02-09**|**(Claw, C_3)-free digraphs with unbounded dichromatic number**|Guillaume Aubian et.al.|[link](http://arxiv.org/abs/2602.08736v1)|null|
 |**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[link](http://arxiv.org/abs/2602.06039v1)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[link](http://arxiv.org/abs/2602.06032v1)|null|
 |**2026-02-05**|**The Multicolor Induced Size-Ramsey Number of Long Subdivisions**|Ramin Javadi et.al.|[link](http://arxiv.org/abs/2602.05960v1)|null|
@@ -3457,10 +3500,24 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-09**|**MMTS-BENCH: A Comprehensive Benchmark for Time Series Understanding and Reasoning**|Yao Yin et.al.|[link](http://arxiv.org/abs/2602.08588v1)|null|
+|**2026-02-09**|**SemiNFT: Learning to Transfer Presets from Imitation to Appreciation via Hybrid-Sample Reinforcement Learning**|Melany Yang et.al.|[link](http://arxiv.org/abs/2602.08582v1)|null|
+|**2026-02-09**|**Thegra: Graph-based SLAM for Thermal Imagery**|Anastasiia Kornilova et.al.|[link](http://arxiv.org/abs/2602.08531v1)|null|
+|**2026-02-09**|**SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains**|Longkun Li et.al.|[link](http://arxiv.org/abs/2602.08400v1)|null|
+|**2026-02-08**|**DINO-Mix: Distilling Foundational Knowledge with Cross-Domain CutMix for Semi-supervised Class-imbalanced Medical Image Segmentation**|Xinyu Liu et.al.|[link](http://arxiv.org/abs/2602.07819v1)|null|
+|**2026-02-07**|**Unified Biomolecular Trajectory Generation via Pretrained Variational Bridge**|Ziyang Yu et.al.|[link](http://arxiv.org/abs/2602.07588v1)|null|
+|**2026-02-07**|**Human Identification at a Distance: Challenges, Methods and Results on the Competition HID 2025**|Jingzhe Ma et.al.|[link](http://arxiv.org/abs/2602.07565v1)|null|
+|**2026-02-07**|**Revealing the Semantic Selection Gap in DINOv3 through Training-Free Few-Shot Segmentation**|Hussni Mohd Zakir et.al.|[link](http://arxiv.org/abs/2602.07550v1)|null|
+|**2026-02-07**|**GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design**|Isabella A. Stewart et.al.|[link](http://arxiv.org/abs/2602.07491v1)|null|
+|**2026-02-06**|**Understanding Real-World Traffic Safety through RoadSafe365 Benchmark**|Xinyu Liu et.al.|[link](http://arxiv.org/abs/2602.07212v1)|null|
+|**2026-02-09**|**Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts**|Xinyu Zhao et.al.|[link](http://arxiv.org/abs/2602.06859v2)|null|
+|**2026-02-06**|**LAB-Det: Language as a Domain-Invariant Bridge for Training-Free One-Shot Domain Generalization in Object Detection**|Xu Zhang et.al.|[link](http://arxiv.org/abs/2602.06474v1)|null|
+|**2026-02-06**|**VowelPrompt: Hearing Speech Emotions from Text via Vowel-level Prosodic Augmentation**|Yancheng Wang et.al.|[link](http://arxiv.org/abs/2602.06270v1)|null|
 |**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[link](http://arxiv.org/abs/2602.05937v1)|null|
 |**2026-02-05**|**ReText: Text Boosts Generalization in Image-Based Person Re-identification**|Timur Mamedov et.al.|[link](http://arxiv.org/abs/2602.05785v1)|null|
 |**2026-02-05**|**Cross-Domain Offline Policy Adaptation via Selective Transition Correction**|Mengbei Yan et.al.|[link](http://arxiv.org/abs/2602.05776v1)|null|
 |**2026-02-05**|**HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection**|Qing Wen et.al.|[link](http://arxiv.org/abs/2602.05670v1)|null|
+|**2026-02-06**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[link](http://arxiv.org/abs/2602.05527v2)|null|
 |**2026-02-05**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[link](http://arxiv.org/abs/2602.05527v1)|null|
 |**2026-02-05**|**ALIVE: Awakening LLM Reasoning via Adversarial Learning and Instructive Verbal Evaluation**|Yiwen Duan et.al.|[link](http://arxiv.org/abs/2602.05472v1)|null|
 |**2026-02-05**|**Multi-AD: Cross-Domain Unsupervised Anomaly Detection for Medical and Industrial Applications**|Wahyu Rahmaniar et.al.|[link](http://arxiv.org/abs/2602.05426v1)|null|
