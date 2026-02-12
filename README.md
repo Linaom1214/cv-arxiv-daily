@@ -1,4 +1,4 @@
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 
 ### ISTD
 
@@ -287,6 +287,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-10**|**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation**|Mingyang Wu et.al.|[link](http://arxiv.org/abs/2602.10113v1)|null|
+|**2026-02-10**|**Anyon Permutations in Quantum Double Models through Constant-depth Circuits**|Yabo Li et.al.|[link](http://arxiv.org/abs/2602.10110v1)|null|
+|**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[link](http://arxiv.org/abs/2602.10109v1)|null|
+|**2026-02-10**|**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**|Sizhe Yang et.al.|[link](http://arxiv.org/abs/2602.10101v1)|null|
+|**2026-02-10**|**Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders**|Amandeep Kumar et.al.|[link](http://arxiv.org/abs/2602.10099v1)|null|
+|**2026-02-10**|**Step-resolved data attribution for looped transformers**|Georgios Kaissis et.al.|[link](http://arxiv.org/abs/2602.10097v1)|null|
+|**2026-02-10**|**Causality in Video Diffusers is Separable from Denoising**|Xingjian Bai et.al.|[link](http://arxiv.org/abs/2602.10095v1)|null|
+|**2026-02-10**|**4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere**|Yihang Luo et.al.|[link](http://arxiv.org/abs/2602.10094v1)|null|
+|**2026-02-10**|**Tensor states $ΥB_{c}^{\ast -}$ and $J/ψB_{c}^{\ast +}$**|S. S. Agaev et.al.|[link](http://arxiv.org/abs/2602.10075v1)|null|
+|**2026-02-10**|**Evaluating Disentangled Representations for Controllable Music Generation**|Laura Ibáñez-Martínez et.al.|[link](http://arxiv.org/abs/2602.10058v1)|null|
+|**2026-02-10**|**The Architecture of Illusion: Network Opacity and Strategic Escalation**|Raman Ebrahimi et.al.|[link](http://arxiv.org/abs/2602.10053v1)|null|
+|**2026-02-10**|**Spatio-Temporal Attention for Consistent Video Semantic Segmentation in Automated Driving**|Serin Varghese et.al.|[link](http://arxiv.org/abs/2602.10052v1)|null|
+|**2026-02-10**|**Conformal Prediction Sets for Instance Segmentation**|Kerri Lu et.al.|[link](http://arxiv.org/abs/2602.10045v1)|null|
+|**2026-02-10**|**On the generalization of $g$-circulant MDS matrices**|Atif Ahmad Khan et.al.|[link](http://arxiv.org/abs/2602.10028v1)|null|
+|**2026-02-10**|**RoboSubtaskNet: Temporal Sub-task Segmentation for Human-to-Robot Skill Transfer in Real-World Environments**|Dharmendra Sharma et.al.|[link](http://arxiv.org/abs/2602.10015v1)|null|
+|**2026-02-10**|**Towards a topological view of blood pressure regulation**|Arturo Tozzi et.al.|[link](http://arxiv.org/abs/2602.10011v1)|null|
+|**2026-02-10**|**Human-AI Synergy Supports Collective Creative Search**|Chenyi Li et.al.|[link](http://arxiv.org/abs/2602.10001v1)|null|
+|**2026-02-10**|**Virtual double categories of split two-sided 2-fibrations**|Seerp Roald Koudenburg et.al.|[link](http://arxiv.org/abs/2602.10000v1)|null|
+|**2026-02-10**|**A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models**|Xiulin Yang et.al.|[link](http://arxiv.org/abs/2602.09992v1)|null|
+|**2026-02-10**|**Thin-Film-Engineered Self-Assembly of 3D Coaxial Microfluidics with a Tunable Polyimide Membrane for Bioelectronic Power**|Aleksandr I. Egunov et.al.|[link](http://arxiv.org/abs/2602.09981v1)|null|
 |**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[link](http://arxiv.org/abs/2602.09024v1)|null|
 |**2026-02-09**|**StretchTime: Adaptive Time Series Forecasting via Symplectic Attention**|Yubin Kim et.al.|[link](http://arxiv.org/abs/2602.08983v1)|null|
 |**2026-02-09**|**Beyond Transcripts: A Renewed Perspective on Audio Chaptering**|Fabian Retkowski et.al.|[link](http://arxiv.org/abs/2602.08979v1)|null|
@@ -1772,6 +1792,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[link](http://arxiv.org/abs/2602.09872v1)|null|
+|**2026-02-09**|**DMamba: Decomposition-enhanced Mamba for Time Series Forecasting**|Ruxuan Chen et.al.|[link](http://arxiv.org/abs/2602.09081v1)|null|
 |**2026-02-09**|**Input-Adaptive Spectral Feature Compression by Sequence Modeling for Source Separation**|Kohei Saijo et.al.|[link](http://arxiv.org/abs/2602.08671v1)|null|
 |**2026-02-07**|**On Sequence-to-Sequence Models for Automated Log Parsing**|Adam Sorrenti et.al.|[link](http://arxiv.org/abs/2602.07698v1)|null|
 |**2026-02-06**|**AS-Mamba: Asymmetric Self-Guided Mamba Decoupled Iterative Network for Metal Artifact Reduction**|Bowen Ning et.al.|[link](http://arxiv.org/abs/2602.06350v1)|null|
@@ -2153,6 +2175,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-10**|**Step-resolved data attribution for looped transformers**|Georgios Kaissis et.al.|[link](http://arxiv.org/abs/2602.10097v1)|null|
+|**2026-02-10**|**Simplicity of confinement in SU(3) Yang-Mills theory**|Xavier Crean et.al.|[link](http://arxiv.org/abs/2602.10088v1)|null|
+|**2026-02-10**|**CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs**|Richard Bornemann et.al.|[link](http://arxiv.org/abs/2602.10085v1)|null|
+|**2026-02-10**|**Beyond a Single Queue: Multi-Level-Multi-Queue as an Effective Design for SSSP problems on GPUs**|Zhengding Hu et.al.|[link](http://arxiv.org/abs/2602.10080v1)|null|
+|**2026-02-10**|**The weak law of large numbers for the friendship paradox index**|Mingao Yuan et.al.|[link](http://arxiv.org/abs/2602.10055v1)|null|
+|**2026-02-10**|**The Architecture of Illusion: Network Opacity and Strategic Escalation**|Raman Ebrahimi et.al.|[link](http://arxiv.org/abs/2602.10053v1)|null|
+|**2026-02-10**|**Spatio-Temporal Attention for Consistent Video Semantic Segmentation in Automated Driving**|Serin Varghese et.al.|[link](http://arxiv.org/abs/2602.10052v1)|null|
+|**2026-02-10**|**Conformal Prediction Sets for Instance Segmentation**|Kerri Lu et.al.|[link](http://arxiv.org/abs/2602.10045v1)|null|
+|**2026-02-10**|**Automata on Graph Alphabets**|Hugo Bazille et.al.|[link](http://arxiv.org/abs/2602.10036v1)|null|
+|**2026-02-10**|**Position: Message-passing and spectral GNNs are two sides of the same coin**|Antonis Vasileiou et.al.|[link](http://arxiv.org/abs/2602.10031v1)|null|
+|**2026-02-10**|**Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure**|Chuan-Chi Lai et.al.|[link](http://arxiv.org/abs/2602.10029v1)|null|
+|**2026-02-10**|**MEVER: Multi-Modal and Explainable Claim Verification with Graph-based Evidence Retrieval**|Delvin Ce Zhang et.al.|[link](http://arxiv.org/abs/2602.10023v1)|null|
+|**2026-02-10**|**RoboSubtaskNet: Temporal Sub-task Segmentation for Human-to-Robot Skill Transfer in Real-World Environments**|Dharmendra Sharma et.al.|[link](http://arxiv.org/abs/2602.10015v1)|null|
+|**2026-02-10**|**A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula**|Chenruo Liu et.al.|[link](http://arxiv.org/abs/2602.10014v1)|null|
+|**2026-02-10**|**Towards a topological view of blood pressure regulation**|Arturo Tozzi et.al.|[link](http://arxiv.org/abs/2602.10011v1)|null|
+|**2026-02-10**|**A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging**|Bharathkumar Hegde et.al.|[link](http://arxiv.org/abs/2602.10007v1)|null|
+|**2026-02-10**|**Learning to Detect Baked Goods with Limited Supervision**|Thomas H. Schmitt et.al.|[link](http://arxiv.org/abs/2602.09979v1)|null|
+|**2026-02-10**|**The Parameterized Complexity of Geometric 1-Planarity**|Alexander Firbas et.al.|[link](http://arxiv.org/abs/2602.09978v1)|null|
+|**2026-02-10**|**List and total colorings of multiset permutation graphs**|Italo J. Dejter et.al.|[link](http://arxiv.org/abs/2602.09965v1)|null|
+|**2026-02-10**|**Bladder Vessel Segmentation using a Hybrid Attention-Convolution Framework**|Franziska Krauß et.al.|[link](http://arxiv.org/abs/2602.09949v1)|null|
 |**2026-02-09**|**Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs**|Lavender Y. Jiang et.al.|[link](http://arxiv.org/abs/2602.08997v1)|null|
 |**2026-02-09**|**When do neural ordinary differential equations generalize on complex networks?**|Moritz Laber et.al.|[link](http://arxiv.org/abs/2602.08980v1)|null|
 |**2026-02-09**|**Beyond Transcripts: A Renewed Perspective on Audio Chaptering**|Fabian Retkowski et.al.|[link](http://arxiv.org/abs/2602.08979v1)|null|
@@ -3500,6 +3542,12 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-10**|**ESTAR: Early-Stopping Token-Aware Reasoning For Efficient Inference**|Junda Wang et.al.|[link](http://arxiv.org/abs/2602.10004v1)|null|
+|**2026-02-10**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[link](http://arxiv.org/abs/2602.09648v1)|null|
+|**2026-02-10**|**AgentSkiller: Scaling Generalist Agent Intelligence through Semantically Integrated Cross-Domain Data Synthesis**|Zexu Sun et.al.|[link](http://arxiv.org/abs/2602.09372v1)|null|
+|**2026-02-10**|**FM SO.P: A Progressive Task Mixture Framework with Automatic Evaluation for Cross-Domain SOP Understanding**|Siyuan Huang et.al.|[link](http://arxiv.org/abs/2602.09336v1)|null|
+|**2026-02-09**|**Importance inversion transfer identifies shared principles for cross-domain learning**|Daniele Caligiore et.al.|[link](http://arxiv.org/abs/2602.09116v1)|null|
+|**2026-02-06**|**SAS-Net: Scene-Appearance Separation Network for Robust Spatiotemporal Registration in Bidirectional Photoacoustic Microscopy**|Jiahao Qin et.al.|[link](http://arxiv.org/abs/2602.09050v1)|null|
 |**2026-02-09**|**MMTS-BENCH: A Comprehensive Benchmark for Time Series Understanding and Reasoning**|Yao Yin et.al.|[link](http://arxiv.org/abs/2602.08588v1)|null|
 |**2026-02-09**|**SemiNFT: Learning to Transfer Presets from Imitation to Appreciation via Hybrid-Sample Reinforcement Learning**|Melany Yang et.al.|[link](http://arxiv.org/abs/2602.08582v1)|null|
 |**2026-02-09**|**Thegra: Graph-based SLAM for Thermal Imagery**|Anastasiia Kornilova et.al.|[link](http://arxiv.org/abs/2602.08531v1)|null|
