@@ -1,4 +1,4 @@
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 
 ### ISTD
 
@@ -287,6 +287,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-11**|**SCRAPL: Scattering Transform with Random Paths for Machine Learning**|Christopher Mitcheltree et.al.|[link](http://arxiv.org/abs/2602.11145v1)|null|
+|**2026-02-11**|**Divided powers on abelian varieties**|Bruno Kahn et.al.|[link](http://arxiv.org/abs/2602.11135v1)|null|
+|**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[link](http://arxiv.org/abs/2602.11130v1)|null|
+|**2026-02-11**|**Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots**|Animesh Maiti et.al.|[link](http://arxiv.org/abs/2602.11125v1)|null|
+|**2026-02-11**|**Enormous Fluid Antenna Systems (E-FAS) for Multiuser MIMO: Channel Modeling and Analysis**|Farshad Rostami Ghadi et.al.|[link](http://arxiv.org/abs/2602.11099v1)|null|
+|**2026-02-11**|**Future Perspectives on Black Hole Jet Mechanisms: Insights from Next-Generation Observatories and Theoretical Developments**|Andre L. B. Ribeiro et.al.|[link](http://arxiv.org/abs/2602.11094v1)|null|
+|**2026-02-11**|**DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning**|Yicheng Chen et.al.|[link](http://arxiv.org/abs/2602.11089v1)|null|
+|**2026-02-11**|**Constrained Fiducial Inference for Gaussian Models**|Hank Flury et.al.|[link](http://arxiv.org/abs/2602.11080v1)|null|
+|**2026-02-11**|**Conversational Behavior Modeling Foundation Model With Multi-Level Perception**|Dingkun Zhou et.al.|[link](http://arxiv.org/abs/2602.11065v1)|null|
+|**2026-02-11**|**Deep Neural Network-Enhanced Frequency-Constrained Optimal Power Flow with Multi-Governor Dynamics**|Fan Jiang et.al.|[link](http://arxiv.org/abs/2602.11063v1)|null|
+|**2026-02-11**|**MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation**|Jialin Liu et.al.|[link](http://arxiv.org/abs/2602.11062v1)|null|
+|**2026-02-11**|**A Gibbs posterior sampler for inverse problem based on prior diffusion model**|Jean-François Giovannelli et.al.|[link](http://arxiv.org/abs/2602.11059v1)|null|
+|**2026-02-11**|**Learning Page Order in Shuffled WOO Releases**|Efe Kahraman et.al.|[link](http://arxiv.org/abs/2602.11040v1)|null|
+|**2026-02-11**|**Generalized Langevin Models of Linear Agent-Based Systems: Strategic Influence Through Environmental Coupling**|Semra Gunduc et.al.|[link](http://arxiv.org/abs/2602.11037v1)|null|
+|**2026-02-11**|**Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Information Processing**|Emil Grovn et.al.|[link](http://arxiv.org/abs/2602.11033v1)|null|
+|**2026-02-11**|**Bounding the Average Move Structure Query for Faster and Smaller RLBWT Permutations**|Nathaniel K. Brown et.al.|[link](http://arxiv.org/abs/2602.11029v1)|null|
+|**2026-02-11**|**From Buffers to Registers: Unlocking Fine-Grained FlashAttention with Hybrid-Bonded 3D NPU Co-Design**|Jinxin Yu et.al.|[link](http://arxiv.org/abs/2602.11016v1)|null|
+|**2026-02-11**|**LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation**|Lei Yao et.al.|[link](http://arxiv.org/abs/2602.11007v1)|null|
+|**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[link](http://arxiv.org/abs/2602.11005v1)|null|
+|**2026-02-11**|**Interpretable Vision Transformers in Image Classification via SVDA**|Vasileios Arampatzakis et.al.|[link](http://arxiv.org/abs/2602.10994v1)|null|
 |**2026-02-10**|**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation**|Mingyang Wu et.al.|[link](http://arxiv.org/abs/2602.10113v1)|null|
 |**2026-02-10**|**Anyon Permutations in Quantum Double Models through Constant-depth Circuits**|Yabo Li et.al.|[link](http://arxiv.org/abs/2602.10110v1)|null|
 |**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[link](http://arxiv.org/abs/2602.10109v1)|null|
@@ -1792,6 +1812,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-11**|**Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modelling and State Tracking**|Vaisakh Shaj et.al.|[link](http://arxiv.org/abs/2602.10743v1)|null|
 |**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[link](http://arxiv.org/abs/2602.09872v1)|null|
 |**2026-02-09**|**DMamba: Decomposition-enhanced Mamba for Time Series Forecasting**|Ruxuan Chen et.al.|[link](http://arxiv.org/abs/2602.09081v1)|null|
 |**2026-02-09**|**Input-Adaptive Spectral Feature Compression by Sequence Modeling for Source Separation**|Kohei Saijo et.al.|[link](http://arxiv.org/abs/2602.08671v1)|null|
@@ -2175,6 +2196,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-11**|**Information-Theoretic Thresholds for Bipartite Latent-Space Graphs Under Noisy Observations**|Andreas Göbel et.al.|[link](http://arxiv.org/abs/2602.11129v1)|null|
+|**2026-02-11**|**Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots**|Animesh Maiti et.al.|[link](http://arxiv.org/abs/2602.11125v1)|null|
+|**2026-02-11**|**Learning to Compose for Cross-domain Agentic Workflow Generation**|Jialiang Wang et.al.|[link](http://arxiv.org/abs/2602.11114v1)|null|
+|**2026-02-11**|**TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection**|Géraud Faye et.al.|[link](http://arxiv.org/abs/2602.11106v1)|null|
+|**2026-02-11**|**Enormous Fluid Antenna Systems (E-FAS) for Multiuser MIMO: Channel Modeling and Analysis**|Farshad Rostami Ghadi et.al.|[link](http://arxiv.org/abs/2602.11099v1)|null|
+|**2026-02-11**|**Conversational Behavior Modeling Foundation Model With Multi-Level Perception**|Dingkun Zhou et.al.|[link](http://arxiv.org/abs/2602.11065v1)|null|
+|**2026-02-11**|**MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation**|Jialin Liu et.al.|[link](http://arxiv.org/abs/2602.11062v1)|null|
+|**2026-02-11**|**GraphSeek: Next-Generation Graph Analytics with LLMs**|Maciej Besta et.al.|[link](http://arxiv.org/abs/2602.11052v1)|null|
+|**2026-02-11**|**How fast does the range of simple random walk grow?**|Itai Benjamini et.al.|[link](http://arxiv.org/abs/2602.11051v1)|null|
+|**2026-02-11**|**Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces**|Anant Vaishnav et.al.|[link](http://arxiv.org/abs/2602.11050v1)|null|
+|**2026-02-11**|**Adversarial Graph Traversal**|David Banks et.al.|[link](http://arxiv.org/abs/2602.11048v1)|null|
+|**2026-02-11**|**LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation**|Lei Yao et.al.|[link](http://arxiv.org/abs/2602.11007v1)|null|
+|**2026-02-11**|**Implementation of Polynomial NP-Complete Algorithms Based on the NP Verifier Simulation Framework**|Changryeol Lee et.al.|[link](http://arxiv.org/abs/2602.10991v1)|null|
+|**2026-02-11**|**RiemannGL: Riemannian Geometry Changes Graph Deep Learning**|Li Sun et.al.|[link](http://arxiv.org/abs/2602.10982v1)|null|
+|**2026-02-11**|**VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation**|Ruiqi Song et.al.|[link](http://arxiv.org/abs/2602.10978v1)|null|
+|**2026-02-11**|**FeatureBench: Benchmarking Agentic Coding for Complex Feature Development**|Qixing Zhou et.al.|[link](http://arxiv.org/abs/2602.10975v1)|null|
+|**2026-02-11**|**Note on the trace of random walks on pseudorandom graphs**|Yaobin Chen et.al.|[link](http://arxiv.org/abs/2602.10970v1)|null|
+|**2026-02-11**|**Weighting-Based Identification and Estimation in Graphical Models of Missing Data**|Anna Guo et.al.|[link](http://arxiv.org/abs/2602.10969v1)|null|
+|**2026-02-11**|**Parameterized Complexity of Finding a Maximum Common Vertex Subgraph Without Isolated Vertices**|Palash Dey et.al.|[link](http://arxiv.org/abs/2602.10948v1)|null|
+|**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[link](http://arxiv.org/abs/2602.10940v1)|null|
 |**2026-02-10**|**Step-resolved data attribution for looped transformers**|Georgios Kaissis et.al.|[link](http://arxiv.org/abs/2602.10097v1)|null|
 |**2026-02-10**|**Simplicity of confinement in SU(3) Yang-Mills theory**|Xavier Crean et.al.|[link](http://arxiv.org/abs/2602.10088v1)|null|
 |**2026-02-10**|**CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs**|Richard Bornemann et.al.|[link](http://arxiv.org/abs/2602.10085v1)|null|
@@ -3542,10 +3583,14 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-11**|**Learning to Compose for Cross-domain Agentic Workflow Generation**|Jialiang Wang et.al.|[link](http://arxiv.org/abs/2602.11114v1)|null|
+|**2026-02-11**|**Semi-Supervised Cross-Domain Imitation Learning**|Li-Min Chu et.al.|[link](http://arxiv.org/abs/2602.10793v1)|null|
+|**2026-02-09**|**MPA: Multimodal Prototype Augmentation for Few-Shot Learning**|Liwen Wu et.al.|[link](http://arxiv.org/abs/2602.10143v1)|null|
 |**2026-02-10**|**ESTAR: Early-Stopping Token-Aware Reasoning For Efficient Inference**|Junda Wang et.al.|[link](http://arxiv.org/abs/2602.10004v1)|null|
 |**2026-02-10**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[link](http://arxiv.org/abs/2602.09648v1)|null|
 |**2026-02-10**|**AgentSkiller: Scaling Generalist Agent Intelligence through Semantically Integrated Cross-Domain Data Synthesis**|Zexu Sun et.al.|[link](http://arxiv.org/abs/2602.09372v1)|null|
 |**2026-02-10**|**FM SO.P: A Progressive Task Mixture Framework with Automatic Evaluation for Cross-Domain SOP Understanding**|Siyuan Huang et.al.|[link](http://arxiv.org/abs/2602.09336v1)|null|
+|**2026-02-11**|**Importance inversion transfer identifies shared principles for cross-domain learning**|Daniele Caligiore et.al.|[link](http://arxiv.org/abs/2602.09116v2)|null|
 |**2026-02-09**|**Importance inversion transfer identifies shared principles for cross-domain learning**|Daniele Caligiore et.al.|[link](http://arxiv.org/abs/2602.09116v1)|null|
 |**2026-02-06**|**SAS-Net: Scene-Appearance Separation Network for Robust Spatiotemporal Registration in Bidirectional Photoacoustic Microscopy**|Jiahao Qin et.al.|[link](http://arxiv.org/abs/2602.09050v1)|null|
 |**2026-02-09**|**MMTS-BENCH: A Comprehensive Benchmark for Time Series Understanding and Reasoning**|Yao Yin et.al.|[link](http://arxiv.org/abs/2602.08588v1)|null|
