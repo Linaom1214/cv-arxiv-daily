@@ -1,4 +1,4 @@
-## Updated on 2026.02.13
+## Updated on 2026.02.14
 
 ### ISTD
 
@@ -287,6 +287,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-12**|**Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching**|Huai-Hsun Cheng et.al.|[link](http://arxiv.org/abs/2602.12280v1)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[link](http://arxiv.org/abs/2602.12271v1)|null|
+|**2026-02-12**|**Certification of linear optical quantum state preparation**|Riko Schadow et.al.|[link](http://arxiv.org/abs/2602.12269v1)|null|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[link](http://arxiv.org/abs/2602.12267v1)|null|
+|**2026-02-12**|**Vision Transformer for Multi-Domain Phase Retrieval in Coherent Diffraction Imaging**|Jialun Liu et.al.|[link](http://arxiv.org/abs/2602.12255v1)|null|
+|**2026-02-12**|**A technical curriculum on language-oriented artificial intelligence in translation and specialised communication**|Ralph Krüger et.al.|[link](http://arxiv.org/abs/2602.12251v1)|null|
+|**2026-02-12**|**6G Empowering Future Robotics: A Vision for Next-Generation Autonomous Systems**|Mona Ghassemian et.al.|[link](http://arxiv.org/abs/2602.12246v1)|null|
+|**2026-02-12**|**Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications**|Manjunath Kudlur et.al.|[link](http://arxiv.org/abs/2602.12241v1)|null|
+|**2026-02-12**|**LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion**|Jiangran Lyu et.al.|[link](http://arxiv.org/abs/2602.12215v1)|null|
+|**2026-02-12**|**WaveFormer: Wavelet Embedding Transformer for Biomedical Signals**|Habib Irani et.al.|[link](http://arxiv.org/abs/2602.12189v1)|null|
+|**2026-02-12**|**Unknown Attack Detection in IoT Networks using Large Language Models: A Robust, Data-efficient Approach**|Shan Ali et.al.|[link](http://arxiv.org/abs/2602.12183v1)|null|
+|**2026-02-12**|**SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation**|Chengxi Zeng et.al.|[link](http://arxiv.org/abs/2602.12173v1)|null|
+|**2026-02-12**|**Amortized Molecular Optimization via Group Relative Policy Optimization**|Muhammad bin Javaid et.al.|[link](http://arxiv.org/abs/2602.12162v1)|null|
+|**2026-02-12**|**DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**|Xu Guo et.al.|[link](http://arxiv.org/abs/2602.12160v1)|null|
+|**2026-02-12**|**TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation**|Ziteng Lu et.al.|[link](http://arxiv.org/abs/2602.12157v1)|null|
+|**2026-02-12**|**Seq2Seq2Seq: Lossless Data Compression via Discrete Latent Transformers and Reinforcement Learning**|Mahdi Khodabandeh et.al.|[link](http://arxiv.org/abs/2602.12146v1)|null|
+|**2026-02-12**|**Spin networks of quantum channels**|Bartosz Grygielski et.al.|[link](http://arxiv.org/abs/2602.12145v1)|null|
+|**2026-02-12**|**Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions**|Yashas Shende et.al.|[link](http://arxiv.org/abs/2602.12139v1)|null|
+|**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[link](http://arxiv.org/abs/2602.12136v1)|null|
+|**2026-02-12**|**HLA: Hadamard Linear Attention**|Hanno Ackermann et.al.|[link](http://arxiv.org/abs/2602.12128v1)|null|
 |**2026-02-11**|**SCRAPL: Scattering Transform with Random Paths for Machine Learning**|Christopher Mitcheltree et.al.|[link](http://arxiv.org/abs/2602.11145v1)|null|
 |**2026-02-11**|**Divided powers on abelian varieties**|Bruno Kahn et.al.|[link](http://arxiv.org/abs/2602.11135v1)|null|
 |**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[link](http://arxiv.org/abs/2602.11130v1)|null|
@@ -1812,6 +1832,11 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-12**|**Tiny Recursive Reasoning with Mamba-2 Attention Hybrid**|Wenlong Wang et.al.|[link](http://arxiv.org/abs/2602.12078v1)|null|
+|**2026-02-12**|**Improved state mixing in higher-order and block diagonal linear recurrent networks**|Igor Dubinin et.al.|[link](http://arxiv.org/abs/2602.12021v1)|null|
+|**2026-02-12**|**RI-Mamba: Rotation-Invariant Mamba for Robust Text-to-Shape Retrieval**|Khanh Nguyen et.al.|[link](http://arxiv.org/abs/2602.11673v1)|null|
+|**2026-02-12**|**TC-BiMamba: Trans-Chunk bidirectionally within BiMamba for unified streaming and non-streaming ASR**|Qingshun She et.al.|[link](http://arxiv.org/abs/2602.11546v1)|null|
+|**2026-02-12**|**Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models**|Sri Durga Sai Sowmya Kadali et.al.|[link](http://arxiv.org/abs/2602.11495v1)|null|
 |**2026-02-11**|**Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modelling and State Tracking**|Vaisakh Shaj et.al.|[link](http://arxiv.org/abs/2602.10743v1)|null|
 |**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[link](http://arxiv.org/abs/2602.09872v1)|null|
 |**2026-02-09**|**DMamba: Decomposition-enhanced Mamba for Time Series Forecasting**|Ruxuan Chen et.al.|[link](http://arxiv.org/abs/2602.09081v1)|null|
@@ -2196,6 +2221,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-12**|**Community Concealment from Unsupervised Graph Learning-Based Clustering**|Dalyapraz Manatova et.al.|[link](http://arxiv.org/abs/2602.12250v1)|null|
+|**2026-02-12**|**Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks**|Zhihong Liu et.al.|[link](http://arxiv.org/abs/2602.12244v1)|null|
+|**2026-02-12**|**Categorical Flow Maps**|Daan Roos et.al.|[link](http://arxiv.org/abs/2602.12233v1)|null|
+|**2026-02-12**|**Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements**|Maine Christos et.al.|[link](http://arxiv.org/abs/2602.12228v1)|null|
+|**2026-02-12**|**A resistance invariant of special alternating links**|Michal Jablonowski et.al.|[link](http://arxiv.org/abs/2602.12226v1)|null|
+|**2026-02-12**|**Making the complete OpenAIRE citation graph easily accessible through compact data representation**|Joakim Skarding et.al.|[link](http://arxiv.org/abs/2602.12206v1)|null|
+|**2026-02-12**|**Aleksandrov reflection for Geometric Flows in Hyperbolic Spaces**|Theodora Bourni et.al.|[link](http://arxiv.org/abs/2602.12186v1)|null|
+|**2026-02-12**|**SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation**|Chengxi Zeng et.al.|[link](http://arxiv.org/abs/2602.12173v1)|null|
+|**2026-02-12**|**Statistical Parsing for Logical Information Retrieval**|Greg Coppola et.al.|[link](http://arxiv.org/abs/2602.12170v1)|null|
+|**2026-02-12**|**Independence Polynomials of graphs and degree of $h$-polynomials of edge ideals**|Ton That Quoc Tan et.al.|[link](http://arxiv.org/abs/2602.12169v1)|null|
+|**2026-02-12**|**Amortized Molecular Optimization via Group Relative Policy Optimization**|Muhammad bin Javaid et.al.|[link](http://arxiv.org/abs/2602.12162v1)|null|
+|**2026-02-12**|**Towards Personalized Bangla Book Recommendation: A Large-Scale Multi-Entity Book Graph Dataset**|Rahin Arefin Ahmed et.al.|[link](http://arxiv.org/abs/2602.12129v1)|null|
+|**2026-02-12**|**Optimizing Distances for Multi-Broadcast in Temporal Graphs**|Daniele Carnevale et.al.|[link](http://arxiv.org/abs/2602.12126v1)|null|
+|**2026-02-12**|**Multi Graph Search for High-Dimensional Robot Motion Planning**|Itamar Mishani et.al.|[link](http://arxiv.org/abs/2602.12096v1)|null|
+|**2026-02-12**|**PathCRF: Ball-Free Soccer Event Detection via Possession Path Inference from Player Trajectories**|Hyunsung Kim et.al.|[link](http://arxiv.org/abs/2602.12080v1)|null|
+|**2026-02-12**|**Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California**|Maxime Turgeon et.al.|[link](http://arxiv.org/abs/2602.12072v1)|null|
+|**2026-02-12**|**Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning**|Xiang Liu et.al.|[link](http://arxiv.org/abs/2602.12065v1)|null|
+|**2026-02-12**|**ModelWisdom: An Integrated Toolkit for TLA+ Model Visualization, Digest and Repair**|Zhiyong Chen et.al.|[link](http://arxiv.org/abs/2602.12058v1)|null|
+|**2026-02-12**|**Multi UAVs Preflight Planning in a Shared and Dynamic Airspace**|Amath Sow et.al.|[link](http://arxiv.org/abs/2602.12055v1)|null|
+|**2026-02-12**|**Unravelling Abstract Cyclic Proofs into Proofs by Induction**|Lide Grotenhuis et.al.|[link](http://arxiv.org/abs/2602.12054v1)|null|
 |**2026-02-11**|**Information-Theoretic Thresholds for Bipartite Latent-Space Graphs Under Noisy Observations**|Andreas Göbel et.al.|[link](http://arxiv.org/abs/2602.11129v1)|null|
 |**2026-02-11**|**Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots**|Animesh Maiti et.al.|[link](http://arxiv.org/abs/2602.11125v1)|null|
 |**2026-02-11**|**Learning to Compose for Cross-domain Agentic Workflow Generation**|Jialiang Wang et.al.|[link](http://arxiv.org/abs/2602.11114v1)|null|
@@ -3583,6 +3628,16 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-12**|**Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**|Xin Xu et.al.|[link](http://arxiv.org/abs/2602.12036v1)|null|
+|**2026-02-12**|**UPDA: Unsupervised Progressive Domain Adaptation for No-Reference Point Cloud Quality Assessment**|Bingxu Xie et.al.|[link](http://arxiv.org/abs/2602.11969v1)|null|
+|**2026-02-12**|**Towards Fair and Comprehensive Evaluation of Routers in Collaborative LLM Systems**|Wanxing Wu et.al.|[link](http://arxiv.org/abs/2602.11877v1)|null|
+|**2026-02-12**|**Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation**|Xiangyu Wu et.al.|[link](http://arxiv.org/abs/2602.11743v1)|null|
+|**2026-02-12**|**DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity**|Joey Zhong et.al.|[link](http://arxiv.org/abs/2602.11685v1)|null|
+|**2026-02-12**|**Right for the Wrong Reasons: Epistemic Regret Minimization for Causal Rung Collapse in LLMs**|Edward Y. Chang et.al.|[link](http://arxiv.org/abs/2602.11675v1)|null|
+|**2026-02-12**|**GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks**|Dongxiao He et.al.|[link](http://arxiv.org/abs/2602.11629v1)|null|
+|**2026-02-12**|**End-to-End Differentiable Photon Counting CT**|Sen Wang et.al.|[link](http://arxiv.org/abs/2602.11497v1)|null|
+|**2026-02-11**|**MTFM: A Scalable and Alignment-free Foundation Model for Industrial Recommendation in Meituan**|Xin Song et.al.|[link](http://arxiv.org/abs/2602.11235v1)|null|
+|**2026-02-11**|**Charting Empirical Laws for LLM Fine-Tuning in Scientific Multi-Discipline Learning**|Lintao Wang et.al.|[link](http://arxiv.org/abs/2602.11215v1)|null|
 |**2026-02-11**|**Learning to Compose for Cross-domain Agentic Workflow Generation**|Jialiang Wang et.al.|[link](http://arxiv.org/abs/2602.11114v1)|null|
 |**2026-02-11**|**Semi-Supervised Cross-Domain Imitation Learning**|Li-Min Chu et.al.|[link](http://arxiv.org/abs/2602.10793v1)|null|
 |**2026-02-09**|**MPA: Multimodal Prototype Augmentation for Few-Shot Learning**|Liwen Wu et.al.|[link](http://arxiv.org/abs/2602.10143v1)|null|
