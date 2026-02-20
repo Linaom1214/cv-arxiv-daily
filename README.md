@@ -1,4 +1,4 @@
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 
 ### ISTD
 
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[link](http://arxiv.org/abs/2602.16711v1)|null|
+|**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[link](http://arxiv.org/abs/2602.16707v1)|null|
+|**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[link](http://arxiv.org/abs/2602.16704v1)|null|
+|**2026-02-18**|**Understanding the kinetics of static recrystallization in Mg-Zn-Ca alloys using an integrated PRISMS simulation framework**|David Montiel et.al.|[link](http://arxiv.org/abs/2602.16701v1)|null|
+|**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[link](http://arxiv.org/abs/2602.16696v1)|null|
+|**2026-02-18**|**Retrieval-Augmented Foundation Models for Matched Molecular Pair Transformations to Recapitulate Medicinal Chemistry Intuition**|Bo Pan et.al.|[link](http://arxiv.org/abs/2602.16684v1)|null|
+|**2026-02-18**|**Comparison of Pauli projection and supersymetric transformation methods for three-body nuclear structure and reactions**|A. Deltuva et.al.|[link](http://arxiv.org/abs/2602.16674v1)|null|
+|**2026-02-18**|**A.E. Convergence vs Boundedness**|Xinyu Gao et.al.|[link](http://arxiv.org/abs/2602.16654v1)|null|
+|**2026-02-18**|**Active RIS-Assisted MIMO System for Vital Signs Extraction: ISAC Modeling, Deep Learning, and Prototype Measurements**|De-Ming Chian et.al.|[link](http://arxiv.org/abs/2602.16637v1)|null|
+|**2026-02-18**|**A Systematic Evaluation of Sample-Level Tokenization Strategies for MEG Foundation Models**|SungJun Cho et.al.|[link](http://arxiv.org/abs/2602.16626v1)|null|
+|**2026-02-18**|**Measurement of the Saturation Length of the Self-Modulation Instability**|A. Clairembaud et.al.|[link](http://arxiv.org/abs/2602.16624v1)|null|
+|**2026-02-18**|**Causal and Compositional Abstraction**|Robin Lorenz et.al.|[link](http://arxiv.org/abs/2602.16612v1)|null|
+|**2026-02-18**|**Explainable AI: Context-Aware Layer-Wise Integrated Gradients for Explaining Transformer Models**|Melkamu Abay Mersha et.al.|[link](http://arxiv.org/abs/2602.16608v1)|null|
+|**2026-02-18**|**Fast Ewald Summation using Prolate Spheroidal Wave Functions**|Erik Boström et.al.|[link](http://arxiv.org/abs/2602.16591v1)|null|
+|**2026-02-18**|**DataJoint 2.0: A Computational Substrate for Agentic Scientific Workflows**|Dimitri Yatsenko et.al.|[link](http://arxiv.org/abs/2602.16585v1)|null|
+|**2026-02-18**|**The Representational Alignment Hypothesis: Evidence for and Consequences of Invariant Semantic Structure Across Embedding Modalities**|Akhil Ramidi et.al.|[link](http://arxiv.org/abs/2602.16584v1)|null|
+|**2026-02-18**|**Utility-Preserving De-Identification for Math Tutoring: Investigating Numeric Ambiguity in the MathEd-PII Benchmark Dataset**|Zhuqian Zhou et.al.|[link](http://arxiv.org/abs/2602.16571v1)|null|
+|**2026-02-18**|**Steering diffusion models with quadratic rewards: a fine-grained analysis**|Ankur Moitra et.al.|[link](http://arxiv.org/abs/2602.16570v1)|null|
+|**2026-02-18**|**Hidden in Plain Sight: Detecting Illicit Massage Businesses from Mobility Data**|Roya Shomali et.al.|[link](http://arxiv.org/abs/2602.16561v1)|null|
+|**2026-02-18**|**Agentic AI, Medical Morality, and the Transformation of the Patient-Physician Relationship**|Robert Ranisch et.al.|[link](http://arxiv.org/abs/2602.16553v1)|null|
 |**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[link](http://arxiv.org/abs/2602.15830v1)|null|
 |**2026-02-17**|**Avey-B**|Devang Acharya et.al.|[link](http://arxiv.org/abs/2602.15814v1)|null|
 |**2026-02-17**|**Deformed Heisenberg algebra and its Hilbert space representations**|Latévi M. Lawson et.al.|[link](http://arxiv.org/abs/2602.15801v1)|null|
@@ -1873,6 +1893,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[link](http://arxiv.org/abs/2602.15967v1)|null|
+|**2026-02-15**|**A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving**|June Moh Goo et.al.|[link](http://arxiv.org/abs/2602.15904v1)|null|
 |**2026-02-04**|**Combining scEEG and PPG for reliable sleep staging using lightweight wearables**|Jiawei Wang et.al.|[link](http://arxiv.org/abs/2602.15042v1)|null|
 |**2026-02-15**|**Chemical Language Models for Natural Products: A State-Space Model Approach**|Ho-Hsuan Wang et.al.|[link](http://arxiv.org/abs/2602.13958v1)|null|
 |**2026-02-14**|**NeuroMambaLLM: Dynamic Graph Learning of fMRI Functional Connectivity in Autistic Brains Using Mamba and Language Model Reasoning**|Yasaman Torabi et.al.|[link](http://arxiv.org/abs/2602.13770v1)|null|
@@ -2268,6 +2290,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[link](http://arxiv.org/abs/2602.16711v1)|null|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[link](http://arxiv.org/abs/2602.16708v1)|null|
+|**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[link](http://arxiv.org/abs/2602.16707v1)|null|
+|**2026-02-18**|**The Role of Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[link](http://arxiv.org/abs/2602.16700v1)|null|
+|**2026-02-18**|**Disjoint Correspondence Colorings for $K_5$-Minor-free Graphs**|Wouter Cames van Batenburg et.al.|[link](http://arxiv.org/abs/2602.16692v1)|null|
+|**2026-02-18**|**Fast-MCS: A Scalable Open-Source Tool to Find Minimal Cut Sets**|Shakthivelu Janardhanan et.al.|[link](http://arxiv.org/abs/2602.16686v1)|null|
+|**2026-02-18**|**SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation**|Jaid Monwar Chowdhury et.al.|[link](http://arxiv.org/abs/2602.16671v1)|null|
+|**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et.al.|[link](http://arxiv.org/abs/2602.16650v1)|null|
+|**2026-02-18**|**Hierarchical paraproducts**|Oluwadamilola Fasina et.al.|[link](http://arxiv.org/abs/2602.16644v1)|null|
+|**2026-02-18**|**An $n^{2+o(1)}$ Time Algorithm for Single-Source Negative Weight Shortest Paths**|Sanjeev Khanna et.al.|[link](http://arxiv.org/abs/2602.16638v1)|null|
+|**2026-02-18**|**Fast Shortest Path in Graphs With Sparse Signed Tree Models and Applications**|Édouard Bonnet et.al.|[link](http://arxiv.org/abs/2602.16605v1)|null|
+|**2026-02-18**|**ERGMs on block models**|Elena Magnanini et.al.|[link](http://arxiv.org/abs/2602.16604v1)|null|
+|**2026-02-18**|**Predicting The Cop Number Using Machine Learning**|Meagan Mann et.al.|[link](http://arxiv.org/abs/2602.16600v1)|null|
+|**2026-02-18**|**Decentralized and Fully Onboard: Range-Aided Cooperative Localization and Navigation on Micro Aerial Vehicles**|Abhishek Goudar et.al.|[link](http://arxiv.org/abs/2602.16594v1)|null|
+|**2026-02-18**|**Utility-Preserving De-Identification for Math Tutoring: Investigating Numeric Ambiguity in the MathEd-PII Benchmark Dataset**|Zhuqian Zhou et.al.|[link](http://arxiv.org/abs/2602.16571v1)|null|
+|**2026-02-18**|**Hidden in Plain Sight: Detecting Illicit Massage Businesses from Mobility Data**|Roya Shomali et.al.|[link](http://arxiv.org/abs/2602.16561v1)|null|
+|**2026-02-18**|**Spectral Conditions for the Ingleton Inequality**|Rostislav Matveev et.al.|[link](http://arxiv.org/abs/2602.16536v1)|null|
+|**2026-02-18**|**The S-Hamiltonian Cycle Problem**|Antoine Amarilli et.al.|[link](http://arxiv.org/abs/2602.16532v1)|null|
+|**2026-02-18**|**Recursive language models for jailbreak detection: a procedural defense for tool-augmented agents**|Doron Shavit et.al.|[link](http://arxiv.org/abs/2602.16520v1)|null|
+|**2026-02-18**|**Framework of Thoughts: A Foundation Framework for Dynamic and Optimized Reasoning based on Chains, Trees, and Graphs**|Felix Fricke et.al.|[link](http://arxiv.org/abs/2602.16512v1)|null|
 |**2026-02-17**|**Local Node Differential Privacy**|Sofya Raskhodnikova et.al.|[link](http://arxiv.org/abs/2602.15802v1)|null|
 |**2026-02-17**|**Timelike bounce hypersurfaces in charged null dust collapse**|David Bick et.al.|[link](http://arxiv.org/abs/2602.15786v1)|null|
 |**2026-02-17**|**Stability in Distance Preservation Games on Graphs**|Argyrios Deligkas et.al.|[link](http://arxiv.org/abs/2602.15784v1)|null|
@@ -3715,10 +3757,15 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[link](http://arxiv.org/abs/2602.16664v1)|null|
+|**2026-02-18**|**Towards Secure and Interoperable Data Spaces for 6G: The 6G-DALI Approach**|Dimitrios Amaxilatis et.al.|[link](http://arxiv.org/abs/2602.16386v1)|null|
+|**2026-02-17**|**FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation**|Xinrui He et.al.|[link](http://arxiv.org/abs/2602.16034v1)|null|
+|**2026-02-14**|**Detecting Deepfakes with Multivariate Soft Blending and CLIP-based Image-Text Alignment**|Jingwei Li et.al.|[link](http://arxiv.org/abs/2602.15903v1)|null|
 |**2026-02-17**|**Criteria-first, semantics-later: reproducible structure discovery in image-based sciences**|Jan Bumberger et.al.|[link](http://arxiv.org/abs/2602.15712v1)|null|
 |**2026-02-17**|**DependencyAI: Detecting AI Generated Text through Dependency Parsing**|Sara Ahmed et.al.|[link](http://arxiv.org/abs/2602.15514v1)|null|
 |**2026-02-17**|**On the Geometric Coherence of Global Aggregation in Federated GNN**|Chethana Prasad Kabgere et.al.|[link](http://arxiv.org/abs/2602.15510v1)|null|
 |**2026-02-17**|**LEADER: Lightweight End-to-End Attention-Gated Dual Autoencoder for Robust Minutiae Extraction**|Raffaele Cappelli et.al.|[link](http://arxiv.org/abs/2602.15493v1)|null|
+|**2026-02-18**|**High-Fidelity Network Management for Federated AI-as-a-Service: Cross-Domain Orchestration**|Mohaned Chraiti et.al.|[link](http://arxiv.org/abs/2602.15281v2)|null|
 |**2026-02-17**|**High-Fidelity Network Management for Federated AI-as-a-Service: Cross-Domain Orchestration**|Merve Saimler et.al.|[link](http://arxiv.org/abs/2602.15281v1)|null|
 |**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu et.al.|[link](http://arxiv.org/abs/2602.15005v1)|null|
 |**2026-02-16**|**DRAMA: Domain Retrieval using Adaptive Module Allocation**|Pranav Kasela et.al.|[link](http://arxiv.org/abs/2602.14960v1)|null|
