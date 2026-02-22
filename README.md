@@ -1,4 +1,4 @@
-## Updated on 2026.02.20
+## Updated on 2026.02.22
 
 ### ISTD
 
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[link](http://arxiv.org/abs/2602.17655v1)|null|
+|**2026-02-19**|**Non-Trivial Zero-Knowledge Implies One-Way Functions**|Suvradip Chakraborty et.al.|[link](http://arxiv.org/abs/2602.17651v1)|null|
+|**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[link](http://arxiv.org/abs/2602.17645v1)|null|
+|**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[link](http://arxiv.org/abs/2602.17636v1)|null|
+|**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[link](http://arxiv.org/abs/2602.17634v1)|null|
+|**2026-02-19**|**Global Self-Attention with Exact Fourier Propagation for Phase-Only Far-Field Holography**|Dilawer Singh et.al.|[link](http://arxiv.org/abs/2602.17624v1)|null|
+|**2026-02-19**|**Phase-sensitive representation of Majorana stabilizer states**|Tomislav Begušić et.al.|[link](http://arxiv.org/abs/2602.17604v1)|null|
+|**2026-02-19**|**Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.|[link](http://arxiv.org/abs/2602.17586v1)|null|
+|**2026-02-19**|**Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision**|Thea Klaeboe Aarrestad et.al.|[link](http://arxiv.org/abs/2602.17582v1)|null|
+|**2026-02-19**|**Be Wary of Your Time Series Preprocessing**|Sofiane Ennadir et.al.|[link](http://arxiv.org/abs/2602.17568v1)|null|
+|**2026-02-19**|**A Hybrid Federated Learning Based Ensemble Approach for Lung Disease Diagnosis Leveraging Fusion of SWIN Transformer and CNN**|Asif Hasan Chowdhury et.al.|[link](http://arxiv.org/abs/2602.17566v1)|null|
+|**2026-02-19**|**On the Linearization of Flat Multi-Input Systems via Prolongations**|Georg Hartl et.al.|[link](http://arxiv.org/abs/2602.17562v1)|null|
+|**2026-02-19**|**Neural Implicit Representations for 3D Synthetic Aperture Radar Imaging**|Nithin Sugavanam et.al.|[link](http://arxiv.org/abs/2602.17556v1)|null|
+|**2026-02-19**|**Prefactorization algebras for the conformal Laplacian: Central charge and Hilbert Fock space**|Yuto Moriwaki et.al.|[link](http://arxiv.org/abs/2602.17549v1)|null|
+|**2026-02-19**|**Scattering in Instanton Backgrounds**|Roland Bittleston et.al.|[link](http://arxiv.org/abs/2602.17538v1)|null|
+|**2026-02-19**|**IRIS: Learning-Driven Task-Specific Cinema Robot Arm for Visuomotor Motion Control**|Qilong Cheng et.al.|[link](http://arxiv.org/abs/2602.17537v1)|null|
+|**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[link](http://arxiv.org/abs/2602.17535v1)|null|
+|**2026-02-19**|**The Anxiety of Influence: Bloom Filters in Transformer Attention Heads**|Peter Balogh et.al.|[link](http://arxiv.org/abs/2602.17526v1)|null|
+|**2026-02-19**|**A Picture of Agentic Search**|Francesca Pezzuti et.al.|[link](http://arxiv.org/abs/2602.17518v1)|null|
+|**2026-02-19**|**RA-Nav: A Risk-Aware Navigation System Based on Semantic Segmentation for Aerial Robots in Unpredictable Environments**|Ziyi Zong et.al.|[link](http://arxiv.org/abs/2602.17515v1)|null|
 |**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[link](http://arxiv.org/abs/2602.16711v1)|null|
 |**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[link](http://arxiv.org/abs/2602.16707v1)|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[link](http://arxiv.org/abs/2602.16704v1)|null|
@@ -1893,6 +1913,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-19**|**2Mamba2Furious: Linear in Complexity, Competitive in Accuracy**|Gabriel Mongaras et.al.|[link](http://arxiv.org/abs/2602.17363v1)|null|
+|**2026-02-16**|**Is Mamba Reliable for Medical Imaging?**|Banafsheh Saber Latibari et.al.|[link](http://arxiv.org/abs/2602.16723v1)|null|
 |**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[link](http://arxiv.org/abs/2602.15967v1)|null|
 |**2026-02-15**|**A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving**|June Moh Goo et.al.|[link](http://arxiv.org/abs/2602.15904v1)|null|
 |**2026-02-04**|**Combining scEEG and PPG for reliable sleep staging using lightweight wearables**|Jiawei Wang et.al.|[link](http://arxiv.org/abs/2602.15042v1)|null|
@@ -2290,6 +2312,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[link](http://arxiv.org/abs/2602.17663v1)|null|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[link](http://arxiv.org/abs/2602.17655v1)|null|
+|**2026-02-19**|**Pseudo-deterministic Quantum Algorithms**|Hugo Aaronson et.al.|[link](http://arxiv.org/abs/2602.17647v1)|null|
+|**2026-02-19**|**MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models**|Hojung Jung et.al.|[link](http://arxiv.org/abs/2602.17602v1)|null|
+|**2026-02-19**|**Graph Neural Model Predictive Control for High-Dimensional Systems**|Patrick Benito Eberhard et.al.|[link](http://arxiv.org/abs/2602.17601v1)|null|
+|**2026-02-19**|**Canonical labelling of random regular graphs**|Mikhail Isaev et.al.|[link](http://arxiv.org/abs/2602.17567v1)|null|
+|**2026-02-19**|**Probability-Invariant Random Walk Learning on Gyral Folding-Based Cortical Similarity Networks for Alzheimer's and Lewy Body Dementia Diagnosis**|Minheng Chen et.al.|[link](http://arxiv.org/abs/2602.17557v1)|null|
+|**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[link](http://arxiv.org/abs/2602.17555v1)|null|
+|**2026-02-19**|**Informative Trains: A Memory-Efficient Journey to a Self-Stabilizing Leader Election Algorithm in Anonymous Graphs**|Lelia Blin et.al.|[link](http://arxiv.org/abs/2602.17541v1)|null|
+|**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[link](http://arxiv.org/abs/2602.17535v1)|null|
+|**2026-02-19**|**Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation**|Dun Yuan et.al.|[link](http://arxiv.org/abs/2602.17529v1)|null|
+|**2026-02-19**|**A Picture of Agentic Search**|Francesca Pezzuti et.al.|[link](http://arxiv.org/abs/2602.17518v1)|null|
+|**2026-02-19**|**RA-Nav: A Risk-Aware Navigation System Based on Semantic Segmentation for Aerial Robots in Unpredictable Environments**|Ziyi Zong et.al.|[link](http://arxiv.org/abs/2602.17515v1)|null|
+|**2026-02-19**|**Bridging the Domain Divide: Supervised vs. Zero-Shot Clinical Section Segmentation from MIMIC-III to Obstetrics**|Baris Karacan et.al.|[link](http://arxiv.org/abs/2602.17513v1)|null|
+|**2026-02-19**|**An extension to reversible jump Markov chain Monte Carlo for change point problems with heterogeneous temporal dynamics**|Emily Gribbin et.al.|[link](http://arxiv.org/abs/2602.17503v1)|null|
+|**2026-02-19**|**Design of low-energy transfers in cislunar space using sequences of lobe dynamics**|Naoki Hiraiwa et.al.|[link](http://arxiv.org/abs/2602.17444v1)|null|
+|**2026-02-19**|**Renormalization group flow of $O(N)^3$-invariant general sextic tensor model**|Bardy Gaetan et.al.|[link](http://arxiv.org/abs/2602.17422v1)|null|
+|**2026-02-19**|**On problems of Erdős and Baumann-Briggs on minimising the density of $s$-cliques in graphs with forbidden subgraphs**|Levente Bodnár et.al.|[link](http://arxiv.org/abs/2602.17412v1)|null|
+|**2026-02-19**|**Bluetooth Phased-array Aided Inertial Navigation Using Factor Graphs: Experimental Verification**|Glen Hjelmerud Mørkbak Sørensen et.al.|[link](http://arxiv.org/abs/2602.17407v1)|null|
+|**2026-02-19**|**Geometric and topological constraints on oral seal formation during infant breastfeeding**|Arturo Tozzi et.al.|[link](http://arxiv.org/abs/2602.17389v1)|null|
 |**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[link](http://arxiv.org/abs/2602.16711v1)|null|
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[link](http://arxiv.org/abs/2602.16708v1)|null|
 |**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[link](http://arxiv.org/abs/2602.16707v1)|null|
@@ -3757,6 +3799,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-19**|**Toward a Fully Autonomous, AI-Native Particle Accelerator**|Chris Tennant et.al.|[link](http://arxiv.org/abs/2602.17536v1)|null|
+|**2026-02-19**|**Quantifying and Mitigating Socially Desirable Responding in LLMs: A Desirability-Matched Graded Forced-Choice Psychometric Study**|Kensuke Okada et.al.|[link](http://arxiv.org/abs/2602.17262v1)|null|
+|**2026-02-19**|**Physical Human-Robot Interaction for Grasping in Augmented Reality via Rigid-Soft Robot Synergy**|Huishi Huang et.al.|[link](http://arxiv.org/abs/2602.17128v1)|null|
+|**2026-02-18**|**PREFER: An Ontology for the PREcision FERmentation Community**|Txell Amigó et.al.|[link](http://arxiv.org/abs/2602.16755v1)|null|
+|**2026-02-18**|**The Vulnerability of LLM Rankers to Prompt Injection Attacks**|Yu Yin et.al.|[link](http://arxiv.org/abs/2602.16752v1)|null|
 |**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[link](http://arxiv.org/abs/2602.16664v1)|null|
 |**2026-02-18**|**Towards Secure and Interoperable Data Spaces for 6G: The 6G-DALI Approach**|Dimitrios Amaxilatis et.al.|[link](http://arxiv.org/abs/2602.16386v1)|null|
 |**2026-02-17**|**FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation**|Xinrui He et.al.|[link](http://arxiv.org/abs/2602.16034v1)|null|
