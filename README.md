@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 
 ### ISTD
 
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[link](http://arxiv.org/abs/2602.18432v1)|null|
+|**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[link](http://arxiv.org/abs/2602.18422v1)|null|
+|**2026-02-20**|**Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures**|Joshua Nunley et.al.|[link](http://arxiv.org/abs/2602.18417v1)|null|
+|**2026-02-20**|**Reconstruction algorithms for the fractional Laplacian and applications to inverse problems**|Ethan Rinaldo et.al.|[link](http://arxiv.org/abs/2602.18407v1)|null|
+|**2026-02-20**|**Latent Equivariant Operators for Robust Object Recognition: Promise and Challenges**|Minh Dinh et.al.|[link](http://arxiv.org/abs/2602.18406v1)|null|
+|**2026-02-20**|**Exploiting Completeness Perception with Diffusion Transformer for Unified 3D MRI Synthesis**|Junkai Liu et.al.|[link](http://arxiv.org/abs/2602.18400v1)|null|
+|**2026-02-20**|**The coherent-state transformation in quantum electrodynamics coupled cluster theory**|Eric W. Fischer et.al.|[link](http://arxiv.org/abs/2602.18391v1)|null|
+|**2026-02-20**|**Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach**|Markus Gross et.al.|[link](http://arxiv.org/abs/2602.18377v1)|null|
+|**2026-02-20**|**Towards scalable multi-qubit optimal control via interaction decomposition in the diagonal frame**|Bora Baran et.al.|[link](http://arxiv.org/abs/2602.18375v1)|null|
+|**2026-02-20**|**Forecasting the Evolving Composition of Inbound Tourism Demand: A Bayesian Compositional Time Series Approach Using Platform Booking Data**|Harrison Katz et.al.|[link](http://arxiv.org/abs/2602.18358v1)|null|
+|**2026-02-20**|**Vichara: Appellate Judgment Prediction and Explanation for the Indian Judicial System**|Pavithra PM Nair et.al.|[link](http://arxiv.org/abs/2602.18346v1)|null|
+|**2026-02-20**|**On the "Induction Bias" in Sequence Models**|M. Reza Ebrahimi et.al.|[link](http://arxiv.org/abs/2602.18333v1)|null|
+|**2026-02-20**|**Finely Tunable Thermal Expansion of NiTi by Stress-Induced Martensitic Transformation and Thermomechanical Training**|Won Seok Choi et.al.|[link](http://arxiv.org/abs/2602.18315v1)|null|
+|**2026-02-20**|**JPmHC Dynamical Isometry via Orthogonal Hyper-Connections**|Biswa Sengupta et.al.|[link](http://arxiv.org/abs/2602.18308v1)|null|
+|**2026-02-20**|**Quantum stress and torsion distributions in the deuteron**|Wim Cosyn et.al.|[link](http://arxiv.org/abs/2602.18298v1)|null|
+|**2026-02-20**|**On the $q$-integrability of $p$-Wasserstein barycenters**|Camilla Brizzi et.al.|[link](http://arxiv.org/abs/2602.18293v1)|null|
+|**2026-02-20**|**DEIG: Detail-Enhanced Instance Generation with Fine-Grained Semantic Control**|Shiyan Du et.al.|[link](http://arxiv.org/abs/2602.18282v1)|null|
+|**2026-02-20**|**Martensitic laminate geometry controls electronic phase transitions in a Mott insulator**|Ziming Shao et.al.|[link](http://arxiv.org/abs/2602.18268v1)|null|
+|**2026-02-20**|**m^3TrackFormer: Transformer-based mmWave Multi-Target Tracking with Lost Target Re-Acquisition Capability**|Tongkai Li et.al.|[link](http://arxiv.org/abs/2602.18254v1)|null|
+|**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[link](http://arxiv.org/abs/2602.18249v1)|null|
 |**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[link](http://arxiv.org/abs/2602.17655v1)|null|
 |**2026-02-19**|**Non-Trivial Zero-Knowledge Implies One-Way Functions**|Suvradip Chakraborty et.al.|[link](http://arxiv.org/abs/2602.17651v1)|null|
 |**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[link](http://arxiv.org/abs/2602.17645v1)|null|
@@ -1913,6 +1933,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-06**|**Tethered Reasoning: Decoupling Entropy from Hallucination in Quantized LLMs via Manifold Steering**|Craig Atkinson et.al.|[link](http://arxiv.org/abs/2602.17691v1)|null|
 |**2026-02-19**|**2Mamba2Furious: Linear in Complexity, Competitive in Accuracy**|Gabriel Mongaras et.al.|[link](http://arxiv.org/abs/2602.17363v1)|null|
 |**2026-02-16**|**Is Mamba Reliable for Medical Imaging?**|Banafsheh Saber Latibari et.al.|[link](http://arxiv.org/abs/2602.16723v1)|null|
 |**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[link](http://arxiv.org/abs/2602.15967v1)|null|
@@ -1927,6 +1948,7 @@
 |**2026-02-12**|**Improved state mixing in higher-order and block diagonal linear recurrent networks**|Igor Dubinin et.al.|[link](http://arxiv.org/abs/2602.12021v1)|null|
 |**2026-02-12**|**RI-Mamba: Rotation-Invariant Mamba for Robust Text-to-Shape Retrieval**|Khanh Nguyen et.al.|[link](http://arxiv.org/abs/2602.11673v1)|null|
 |**2026-02-12**|**TC-BiMamba: Trans-Chunk bidirectionally within BiMamba for unified streaming and non-streaming ASR**|Qingshun She et.al.|[link](http://arxiv.org/abs/2602.11546v1)|null|
+|**2026-02-20**|**Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models**|Sri Durga Sai Sowmya Kadali et.al.|[link](http://arxiv.org/abs/2602.11495v2)|null|
 |**2026-02-12**|**Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models**|Sri Durga Sai Sowmya Kadali et.al.|[link](http://arxiv.org/abs/2602.11495v1)|null|
 |**2026-02-11**|**Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modelling and State Tracking**|Vaisakh Shaj et.al.|[link](http://arxiv.org/abs/2602.10743v1)|null|
 |**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[link](http://arxiv.org/abs/2602.09872v1)|null|
@@ -2312,6 +2334,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[link](http://arxiv.org/abs/2602.18429v1)|null|
+|**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[link](http://arxiv.org/abs/2602.18419v1)|null|
+|**2026-02-20**|**Unifying approach to uniform expressivity of graph neural networks**|Huan Luo et.al.|[link](http://arxiv.org/abs/2602.18409v1)|null|
+|**2026-02-20**|**Domination and packing in graphs**|Ákos Dúcz et.al.|[link](http://arxiv.org/abs/2602.18402v1)|null|
+|**2026-02-20**|**Generating minimal redundant and maximal irredundant sets in incidence graphs**|Emanuel Castelo et.al.|[link](http://arxiv.org/abs/2602.18362v1)|null|
+|**2026-02-20**|**Quantum relations in the general setting: composition and adjacency operators**|Matthew Daws et.al.|[link](http://arxiv.org/abs/2602.18361v1)|null|
+|**2026-02-20**|**Validating Political Position Predictions of Arguments**|Jordan Robinson et.al.|[link](http://arxiv.org/abs/2602.18351v1)|null|
+|**2026-02-20**|**Explaining AutoClustering: Uncovering Meta-Feature Contribution in AutoML for Clustering**|Matheus Camilo da Silva et.al.|[link](http://arxiv.org/abs/2602.18348v1)|null|
+|**2026-02-20**|**On constructing small subgraphs in the budget-constrained random graph process**|Sylwia Antoniuk et.al.|[link](http://arxiv.org/abs/2602.18325v1)|null|
+|**2026-02-20**|**QPTAS for MWIS and finding large sparse induced subgraphs in graphs with few independent long holes**|Édouard Bonnet et.al.|[link](http://arxiv.org/abs/2602.18317v1)|null|
+|**2026-02-20**|**Clapeyron Neural Networks for Single-Species Vapor-Liquid Equilibria**|Jan Pavšek et.al.|[link](http://arxiv.org/abs/2602.18313v1)|null|
+|**2026-02-20**|**Emergence of generic first-passage time distributions for large Markovian networks**|Julian B. Voits et.al.|[link](http://arxiv.org/abs/2602.18265v1)|null|
+|**2026-02-20**|**Graph Colouring: A Visual Tour**|Rhyd Lewis et.al.|[link](http://arxiv.org/abs/2602.18246v1)|null|
+|**2026-02-20**|**Chromatic Index of Signed Generalized Book Graphs and Signed Complete Graphs**|Deepak Sehrawat et.al.|[link](http://arxiv.org/abs/2602.18244v1)|null|
+|**2026-02-20**|**Complexity lower bounds for succinct binary structures of bounded clique-width with restrictions**|Colin Geniet et.al.|[link](http://arxiv.org/abs/2602.18240v1)|null|
+|**2026-02-20**|**Coloring Questions on Axis-Parallel Rectangles and Arithmetic Progressions**|Gábor Damásdi et.al.|[link](http://arxiv.org/abs/2602.18235v1)|null|
+|**2026-02-20**|**Parameter-Efficient Domain Adaptation of Physics-Informed Self-Attention based GNNs for AC Power Flow Prediction**|Redwanul Karim et.al.|[link](http://arxiv.org/abs/2602.18227v1)|null|
+|**2026-02-20**|**Dyer groups have the falsification by fellow-traveller property**|Megan Howarth et.al.|[link](http://arxiv.org/abs/2602.18220v1)|null|
+|**2026-02-20**|**On the directional growth of the resolvent norm**|Horia Cornean et.al.|[link](http://arxiv.org/abs/2602.18211v1)|null|
+|**2026-02-20**|**A Simple yet Effective Negative Sampling Plugin for Constructing Positive Sample Pairs in Implicit Collaborative Filtering**|Jiayi Wu et.al.|[link](http://arxiv.org/abs/2602.18206v1)|null|
 |**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[link](http://arxiv.org/abs/2602.17663v1)|null|
 |**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[link](http://arxiv.org/abs/2602.17655v1)|null|
 |**2026-02-19**|**Pseudo-deterministic Quantum Algorithms**|Hugo Aaronson et.al.|[link](http://arxiv.org/abs/2602.17647v1)|null|
@@ -3799,6 +3841,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-20**|**Minimax optimal adaptive structured transfer learning through semi-parametric domain-varying coefficient model**|Hanxiao Chen et.al.|[link](http://arxiv.org/abs/2602.17967v1)|null|
 |**2026-02-19**|**Toward a Fully Autonomous, AI-Native Particle Accelerator**|Chris Tennant et.al.|[link](http://arxiv.org/abs/2602.17536v1)|null|
 |**2026-02-19**|**Quantifying and Mitigating Socially Desirable Responding in LLMs: A Desirability-Matched Graded Forced-Choice Psychometric Study**|Kensuke Okada et.al.|[link](http://arxiv.org/abs/2602.17262v1)|null|
 |**2026-02-19**|**Physical Human-Robot Interaction for Grasping in Augmented Reality via Rigid-Soft Robot Synergy**|Huishi Huang et.al.|[link](http://arxiv.org/abs/2602.17128v1)|null|
