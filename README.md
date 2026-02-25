@@ -1,4 +1,4 @@
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 
 ### ISTD
 
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[link](http://arxiv.org/abs/2602.20153v1)|null|
+|**2026-02-23**|**Conformal Risk Control for Non-Monotonic Losses**|Anastasios N. Angelopoulos et.al.|[link](http://arxiv.org/abs/2602.20151v1)|null|
+|**2026-02-23**|**Benchmarking Unlearning for Vision Transformers**|Kairan Zhao et.al.|[link](http://arxiv.org/abs/2602.20114v1)|null|
+|**2026-02-23**|**StyleStream: Real-Time Zero-Shot Voice Style Conversion**|Yisi Liu et.al.|[link](http://arxiv.org/abs/2602.20113v1)|null|
+|**2026-02-23**|**Inverse Quantum Potential Reconstruction via Generalized Bertlmann-Martin Inequalities**|M. Gage Plott et.al.|[link](http://arxiv.org/abs/2602.20112v1)|null|
+|**2026-02-23**|**Machine-Generated, Machine-Checked Proofs for a Verified Compiler (Experience Report)**|Zoe Paraskevopoulou et.al.|[link](http://arxiv.org/abs/2602.20082v1)|null|
+|**2026-02-23**|**The Digital Gorilla: Rebalancing Power in the Age of AI**|M. Alejandra Parra-Orlandoni et.al.|[link](http://arxiv.org/abs/2602.20080v1)|null|
+|**2026-02-23**|**Training-Free Generative Modeling via Kernelized Stochastic Interpolants**|Florentin Coeurdoux et.al.|[link](http://arxiv.org/abs/2602.20070v1)|null|
+|**2026-02-23**|**Input/output coloring and Gröbner basis for dioperads**|Anton Khoroshkin et.al.|[link](http://arxiv.org/abs/2602.20069v1)|null|
+|**2026-02-23**|**AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**|Ge Yuan et.al.|[link](http://arxiv.org/abs/2602.20057v1)|null|
+|**2026-02-23**|**Cosmic strings and domain walls: the impact of CMB $B$-mode data**|Luca Caloni et.al.|[link](http://arxiv.org/abs/2602.20050v1)|null|
+|**2026-02-23**|**EEG-Driven Intention Decoding: Offline Deep Learning Benchmarking on a Robotic Rover**|Ghadah Alosaimi et.al.|[link](http://arxiv.org/abs/2602.20041v1)|null|
+|**2026-02-23**|**The asymptotic charges of Curtright dual graviton and Curtright extensions of BMS algebra**|Federico Manzoni et.al.|[link](http://arxiv.org/abs/2602.20037v1)|null|
+|**2026-02-23**|**QUIETT: Query-Independent Table Transformation for Robust Reasoning**|Gaurav Najpande et.al.|[link](http://arxiv.org/abs/2602.20017v1)|null|
+|**2026-02-23**|**Token-UNet: A New Case for Transformers Integration in Efficient and Interpretable 3D UNets for Brain Imaging Segmentation**|Louis Fabrice Tshimanga et.al.|[link](http://arxiv.org/abs/2602.20008v1)|null|
+|**2026-02-23**|**FairFS: Addressing Deep Feature Selection Biases for Recommender System**|Xianquan Wang et.al.|[link](http://arxiv.org/abs/2602.20001v1)|null|
+|**2026-02-23**|**RADE-Net: Robust Attention Network for Radar-Only Object Detection in Adverse Weather**|Christof Leitgeb et.al.|[link](http://arxiv.org/abs/2602.19994v1)|null|
+|**2026-02-23**|**A Context-Aware Knowledge Graph Platform for Stream Processing in Industrial IoT**|Monica Marconi Sciarroni et.al.|[link](http://arxiv.org/abs/2602.19990v1)|null|
+|**2026-02-23**|**Multivariate time-series forecasting of ASTRI-Horn monitoring data: A Normal Behavior Model**|Federico Incardona et.al.|[link](http://arxiv.org/abs/2602.19984v1)|null|
+|**2026-02-23**|**A Computationally Efficient Multidimensional Vision Transformer**|Alaa El Ichi et.al.|[link](http://arxiv.org/abs/2602.19982v1)|null|
 |**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[link](http://arxiv.org/abs/2602.18432v1)|null|
 |**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[link](http://arxiv.org/abs/2602.18422v1)|null|
 |**2026-02-20**|**Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures**|Joshua Nunley et.al.|[link](http://arxiv.org/abs/2602.18417v1)|null|
@@ -1933,6 +1953,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-23**|**M3S-Net: Multimodal Feature Fusion Network Based on Multi-scale Data for Ultra-short-term PV Power Forecasting**|Penghui Niu et.al.|[link](http://arxiv.org/abs/2602.19832v1)|null|
+|**2026-02-23**|**Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing**|Wall Kim et.al.|[link](http://arxiv.org/abs/2602.19805v1)|null|
+|**2026-02-23**|**Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection**|Zhiwei Ning et.al.|[link](http://arxiv.org/abs/2602.19536v1)|null|
+|**2026-02-21**|**NeXt2Former-CD: Efficient Remote Sensing Change Detection with Modern Vision Architectures**|Yufan Wang et.al.|[link](http://arxiv.org/abs/2602.18717v1)|null|
 |**2026-02-06**|**Tethered Reasoning: Decoupling Entropy from Hallucination in Quantized LLMs via Manifold Steering**|Craig Atkinson et.al.|[link](http://arxiv.org/abs/2602.17691v1)|null|
 |**2026-02-19**|**2Mamba2Furious: Linear in Complexity, Competitive in Accuracy**|Gabriel Mongaras et.al.|[link](http://arxiv.org/abs/2602.17363v1)|null|
 |**2026-02-16**|**Is Mamba Reliable for Medical Imaging?**|Banafsheh Saber Latibari et.al.|[link](http://arxiv.org/abs/2602.16723v1)|null|
@@ -2334,6 +2358,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-23**|**Conformal Risk Control for Non-Monotonic Losses**|Anastasios N. Angelopoulos et.al.|[link](http://arxiv.org/abs/2602.20151v1)|null|
+|**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[link](http://arxiv.org/abs/2602.20140v1)|null|
+|**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[link](http://arxiv.org/abs/2602.20135v1)|null|
+|**2026-02-23**|**ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation**|Kun Yang et.al.|[link](http://arxiv.org/abs/2602.20093v1)|null|
+|**2026-02-23**|**To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation**|Apoorva Vashisth et.al.|[link](http://arxiv.org/abs/2602.20055v1)|null|
+|**2026-02-23**|**SEAL-pose: Enhancing 3D Human Pose Estimation via a Learned Loss for Structural Consistency**|Yeonsung Kim et.al.|[link](http://arxiv.org/abs/2602.20051v1)|null|
+|**2026-02-23**|**Cosmic strings and domain walls: the impact of CMB $B$-mode data**|Luca Caloni et.al.|[link](http://arxiv.org/abs/2602.20050v1)|null|
+|**2026-02-23**|**noDice: Inference for Discrete Probabilistic Programs with Nondeterminism and Conditioning**|Tobias Gürtler et.al.|[link](http://arxiv.org/abs/2602.20049v1)|null|
+|**2026-02-23**|**CodeCompass: Navigating the Navigation Paradox in Agentic Code Intelligence**|Tarakanath Paipuru et.al.|[link](http://arxiv.org/abs/2602.20048v1)|null|
+|**2026-02-23**|**Let There Be Claws: An Early Social Network Analysis of AI Agents on Moltbook**|H. C. W. Price et.al.|[link](http://arxiv.org/abs/2602.20044v1)|null|
+|**2026-02-23**|**Fast and simple multiplication of bounded twin-width matrices**|László Kozma et.al.|[link](http://arxiv.org/abs/2602.20023v1)|null|
+|**2026-02-23**|**Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision**|Yuxing Tian et.al.|[link](http://arxiv.org/abs/2602.20019v1)|null|
+|**2026-02-23**|**Token-UNet: A New Case for Transformers Integration in Efficient and Interpretable 3D UNets for Brain Imaging Segmentation**|Louis Fabrice Tshimanga et.al.|[link](http://arxiv.org/abs/2602.20008v1)|null|
+|**2026-02-23**|**A Secure and Private Distributed Bayesian Federated Learning Design**|Nuocheng Yang et.al.|[link](http://arxiv.org/abs/2602.20003v1)|null|
+|**2026-02-23**|**A Quantum Internet Protocol Suite Beyond Layering**|Angela Sara Cacciapuoti et.al.|[link](http://arxiv.org/abs/2602.19998v1)|null|
+|**2026-02-23**|**A Context-Aware Knowledge Graph Platform for Stream Processing in Industrial IoT**|Monica Marconi Sciarroni et.al.|[link](http://arxiv.org/abs/2602.19990v1)|null|
+|**2026-02-23**|**Instanton Solutions of the Topological A-model Dual to Free Super-Yang-Mills**|Nathan Berkovits et.al.|[link](http://arxiv.org/abs/2602.19985v1)|null|
+|**2026-02-23**|**Multivariate time-series forecasting of ASTRI-Horn monitoring data: A Normal Behavior Model**|Federico Incardona et.al.|[link](http://arxiv.org/abs/2602.19984v1)|null|
+|**2026-02-23**|**A Computationally Efficient Multidimensional Vision Transformer**|Alaa El Ichi et.al.|[link](http://arxiv.org/abs/2602.19982v1)|null|
+|**2026-02-23**|**RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection**|Tianyu Wang et.al.|[link](http://arxiv.org/abs/2602.19974v1)|null|
 |**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[link](http://arxiv.org/abs/2602.18429v1)|null|
 |**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[link](http://arxiv.org/abs/2602.18419v1)|null|
 |**2026-02-20**|**Unifying approach to uniform expressivity of graph neural networks**|Huan Luo et.al.|[link](http://arxiv.org/abs/2602.18409v1)|null|
@@ -3841,6 +3885,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-23**|**HD-TTA: Hypothesis-Driven Test-Time Adaptation for Safer Brain Tumor Segmentation**|Kartik Jhawar et.al.|[link](http://arxiv.org/abs/2602.19454v1)|null|
+|**2026-02-21**|**FOCA: Frequency-Oriented Cross-Domain Forgery Detection, Localization and Explanation via Multi-Modal Large Language Model**|Zhou Liu et.al.|[link](http://arxiv.org/abs/2602.18880v1)|null|
+|**2026-02-21**|**Open-Vocabulary Domain Generalization in Urban-Scene Segmentation**|Dong Zhao et.al.|[link](http://arxiv.org/abs/2602.18853v1)|null|
+|**2026-02-21**|**Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection**|Wanqi Wang et.al.|[link](http://arxiv.org/abs/2602.18811v1)|null|
+|**2026-02-20**|**Fairness-Aware Partial-label Domain Adaptation for Voice Classification of Parkinson's and ALS**|Arianna Francesconi et.al.|[link](http://arxiv.org/abs/2602.18535v1)|null|
 |**2026-02-20**|**Minimax optimal adaptive structured transfer learning through semi-parametric domain-varying coefficient model**|Hanxiao Chen et.al.|[link](http://arxiv.org/abs/2602.17967v1)|null|
 |**2026-02-19**|**Toward a Fully Autonomous, AI-Native Particle Accelerator**|Chris Tennant et.al.|[link](http://arxiv.org/abs/2602.17536v1)|null|
 |**2026-02-19**|**Quantifying and Mitigating Socially Desirable Responding in LLMs: A Desirability-Matched Graded Forced-Choice Psychometric Study**|Kensuke Okada et.al.|[link](http://arxiv.org/abs/2602.17262v1)|null|
