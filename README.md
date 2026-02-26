@@ -1,4 +1,4 @@
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 
 ### ISTD
 
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-24**|**Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking**|Ravi Ghadia et.al.|[link](http://arxiv.org/abs/2602.21196v1)|null|
+|**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[link](http://arxiv.org/abs/2602.21195v1)|null|
+|**2026-02-24**|**The Universe Fan**|Hadleigh Frost et.al.|[link](http://arxiv.org/abs/2602.21194v1)|null|
+|**2026-02-24**|**823-OLT @ BUET DL Sprint 4.0: Context-Aware Windowing for ASR and Fine-Tuned Speaker Diarization in Bengali Long Form Audio**|Ratnajit Dhar et.al.|[link](http://arxiv.org/abs/2602.21183v1)|null|
+|**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[link](http://arxiv.org/abs/2602.21179v1)|null|
+|**2026-02-24**|**Efficient Hierarchical Any-Angle Path Planning on Multi-Resolution 3D Grids**|Victor Reijgwart et.al.|[link](http://arxiv.org/abs/2602.21174v1)|null|
+|**2026-02-24**|**Sequential Counterfactual Inference for Temporal Clinical Data: Addressing the Time Traveler Dilemma**|Jingya Cheng et.al.|[link](http://arxiv.org/abs/2602.21168v1)|null|
+|**2026-02-24**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|Quanxin Shou et.al.|[link](http://arxiv.org/abs/2602.21157v1)|null|
+|**2026-02-24**|**SPRITETOMESH: Automatic Mesh Generation for 2D Skeletal Animation Using Learned Segmentation and Contour-Aware Vertex Placement**|Bastien Gimbert et.al.|[link](http://arxiv.org/abs/2602.21153v1)|null|
+|**2026-02-24**|**Scaling State-Space Models on Multiple GPUs with Tensor Parallelism**|Anurag Dutt et.al.|[link](http://arxiv.org/abs/2602.21144v1)|null|
+|**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[link](http://arxiv.org/abs/2602.21099v1)|null|
+|**2026-02-24**|**Distributed Continuous Aperture Arrays for Multiuser SWIPT**|Muhammad Zeeshan Mumtaz et.al.|[link](http://arxiv.org/abs/2602.21096v1)|null|
+|**2026-02-24**|**Probing Graph Neural Network Activation Patterns Through Graph Topology**|Floriano Tori et.al.|[link](http://arxiv.org/abs/2602.21092v1)|null|
+|**2026-02-24**|**Probing frustrated spin systems with impurities**|Maksymilian Kliczkowski et.al.|[link](http://arxiv.org/abs/2602.21086v1)|null|
+|**2026-02-24**|**Scaling Vision Transformers: Evaluating DeepSpeed for Image-Centric Workloads**|Huy Trinh et.al.|[link](http://arxiv.org/abs/2602.21081v1)|null|
+|**2026-02-24**|**An Expert Schema for Evaluating Large Language Model Errors in Scholarly Question-Answering Systems**|Anna Martin-Boyle et.al.|[link](http://arxiv.org/abs/2602.21059v1)|null|
+|**2026-02-24**|**Self-duality of massless scalar three-point amplitudes**|Oliver Schnetz et.al.|[link](http://arxiv.org/abs/2602.21057v1)|null|
+|**2026-02-24**|**t-Hermitian Forms of Arbitrary Degree, Their Spectral Structure, and Positivity**|Isaac Dobes et.al.|[link](http://arxiv.org/abs/2602.21048v1)|null|
+|**2026-02-24**|**T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation**|Dongik Park et.al.|[link](http://arxiv.org/abs/2602.21043v1)|null|
+|**2026-02-24**|**Duality symmetry and dynamics on finite null boundaries**|Gianfranco De Simone et.al.|[link](http://arxiv.org/abs/2602.21017v1)|null|
 |**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[link](http://arxiv.org/abs/2602.20153v1)|null|
 |**2026-02-23**|**Conformal Risk Control for Non-Monotonic Losses**|Anastasios N. Angelopoulos et.al.|[link](http://arxiv.org/abs/2602.20151v1)|null|
 |**2026-02-23**|**Benchmarking Unlearning for Vision Transformers**|Kairan Zhao et.al.|[link](http://arxiv.org/abs/2602.20114v1)|null|
@@ -1953,6 +1973,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-24**|**Scaling State-Space Models on Multiple GPUs with Tensor Parallelism**|Anurag Dutt et.al.|[link](http://arxiv.org/abs/2602.21144v1)|null|
+|**2026-02-24**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[link](http://arxiv.org/abs/2602.20981v1)|null|
+|**2026-02-24**|**Rethink Efficiency Side of Neural Combinatorial Solver: An Offline and Self-Play Paradigm**|Zhenxing Xu et.al.|[link](http://arxiv.org/abs/2602.20730v1)|null|
 |**2026-02-23**|**M3S-Net: Multimodal Feature Fusion Network Based on Multi-scale Data for Ultra-short-term PV Power Forecasting**|Penghui Niu et.al.|[link](http://arxiv.org/abs/2602.19832v1)|null|
 |**2026-02-23**|**Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing**|Wall Kim et.al.|[link](http://arxiv.org/abs/2602.19805v1)|null|
 |**2026-02-23**|**Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection**|Zhiwei Ning et.al.|[link](http://arxiv.org/abs/2602.19536v1)|null|
@@ -2358,6 +2381,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[link](http://arxiv.org/abs/2602.21195v1)|null|
+|**2026-02-24**|**823-OLT @ BUET DL Sprint 4.0: Context-Aware Windowing for ASR and Fine-Tuned Speaker Diarization in Bengali Long Form Audio**|Ratnajit Dhar et.al.|[link](http://arxiv.org/abs/2602.21183v1)|null|
+|**2026-02-24**|**Circumventing the CAP Theorem with Open Atomic Ethernet**|Paul Borrill et.al.|[link](http://arxiv.org/abs/2602.21182v1)|null|
+|**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[link](http://arxiv.org/abs/2602.21179v1)|null|
+|**2026-02-24**|**Sheaves on Graphs and their Differential Calculi**|Rita Fioresi et.al.|[link](http://arxiv.org/abs/2602.21176v1)|null|
+|**2026-02-24**|**Efficient Hierarchical Any-Angle Path Planning on Multi-Resolution 3D Grids**|Victor Reijgwart et.al.|[link](http://arxiv.org/abs/2602.21174v1)|null|
+|**2026-02-24**|**cyclinbayes: Bayesian Causal Discovery with Linear Non-Gaussian Directed Acyclic and Cyclic Graphical Models**|Robert Lee et.al.|[link](http://arxiv.org/abs/2602.21170v1)|null|
+|**2026-02-24**|**SPRITETOMESH: Automatic Mesh Generation for 2D Skeletal Animation Using Learned Segmentation and Contour-Aware Vertex Placement**|Bastien Gimbert et.al.|[link](http://arxiv.org/abs/2602.21153v1)|null|
+|**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[link](http://arxiv.org/abs/2602.21140v1)|null|
+|**2026-02-24**|**Complexity of Classical Acceleration for $\ell_1$-Regularized PageRank**|Kimon Fountoulakis et.al.|[link](http://arxiv.org/abs/2602.21138v1)|null|
+|**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[link](http://arxiv.org/abs/2602.21099v1)|null|
+|**2026-02-24**|**Probing Graph Neural Network Activation Patterns Through Graph Topology**|Floriano Tori et.al.|[link](http://arxiv.org/abs/2602.21092v1)|null|
+|**2026-02-24**|**Singular Arrange and Traverse Algorithm for Computing Reeb Spaces of Bivariate PL Maps**|Petar Hristov et.al.|[link](http://arxiv.org/abs/2602.21087v1)|null|
+|**2026-02-24**|**Probing frustrated spin systems with impurities**|Maksymilian Kliczkowski et.al.|[link](http://arxiv.org/abs/2602.21086v1)|null|
+|**2026-02-24**|**The Initial Exploration Problem in Knowledge Graph Exploration**|Claire McNamara et.al.|[link](http://arxiv.org/abs/2602.21066v1)|null|
+|**2026-02-24**|**Self-duality of massless scalar three-point amplitudes**|Oliver Schnetz et.al.|[link](http://arxiv.org/abs/2602.21057v1)|null|
+|**2026-02-24**|**Is a LOCAL algorithm computable?**|Antonio Cruciani et.al.|[link](http://arxiv.org/abs/2602.21022v1)|null|
+|**2026-02-24**|**Restriction-Based Certificate of Bipartite Schmidt Rank in Hypergraph States**|C. Fajardo et.al.|[link](http://arxiv.org/abs/2602.21016v1)|null|
+|**2026-02-24**|**Voltage quantum graphs and a Gross-Tucker theorem for quantum graphs**|Björn Schäfer et.al.|[link](http://arxiv.org/abs/2602.20996v1)|null|
+|**2026-02-24**|**Multimodal MRI Report Findings Supervised Brain Lesion Segmentation with Substructures**|Yubin Ge et.al.|[link](http://arxiv.org/abs/2602.20994v1)|null|
 |**2026-02-23**|**Conformal Risk Control for Non-Monotonic Losses**|Anastasios N. Angelopoulos et.al.|[link](http://arxiv.org/abs/2602.20151v1)|null|
 |**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[link](http://arxiv.org/abs/2602.20140v1)|null|
 |**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[link](http://arxiv.org/abs/2602.20135v1)|null|
@@ -3885,6 +3928,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|Zhangjie Xia et.al.|[link](http://arxiv.org/abs/2602.21072v1)|null|
+|**2026-02-24**|**Not Just What's There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning**|Junhao Xiao et.al.|[link](http://arxiv.org/abs/2602.21035v1)|null|
+|**2026-02-24**|**DA-Cal: Towards Cross-Domain Calibration in Semantic Segmentation**|Wangkai Li et.al.|[link](http://arxiv.org/abs/2602.20860v1)|null|
+|**2026-02-24**|**Hybrid Fusion: One-Minute Efficient Training for Zero-Shot Cross-Domain Image Fusion**|Ran Zhang et.al.|[link](http://arxiv.org/abs/2602.20851v1)|null|
+|**2026-02-24**|**SurgAtt-Tracker: Online Surgical Attention Tracking via Temporal Proposal Reranking and Motion-Aware Refinement**|Rulin Zhou et.al.|[link](http://arxiv.org/abs/2602.20636v1)|null|
+|**2026-02-23**|**Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use**|Ruocheng Guo et.al.|[link](http://arxiv.org/abs/2602.20426v1)|null|
+|**2026-02-23**|**The Truthfulness Spectrum Hypothesis**|Zhuofan Josh Ying et.al.|[link](http://arxiv.org/abs/2602.20273v1)|null|
 |**2026-02-23**|**HD-TTA: Hypothesis-Driven Test-Time Adaptation for Safer Brain Tumor Segmentation**|Kartik Jhawar et.al.|[link](http://arxiv.org/abs/2602.19454v1)|null|
 |**2026-02-21**|**FOCA: Frequency-Oriented Cross-Domain Forgery Detection, Localization and Explanation via Multi-Modal Large Language Model**|Zhou Liu et.al.|[link](http://arxiv.org/abs/2602.18880v1)|null|
 |**2026-02-21**|**Open-Vocabulary Domain Generalization in Urban-Scene Segmentation**|Dong Zhao et.al.|[link](http://arxiv.org/abs/2602.18853v1)|null|
