@@ -1,4 +1,4 @@
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 
 ### ISTD
 
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[link](http://arxiv.org/abs/2602.22200v1)|null|
+|**2026-02-25**|**Whistler-Alfvén turbulence in a non-neutral ultrarelativistic pair plasma**|Stanislav Boldyrev et.al.|[link](http://arxiv.org/abs/2602.22165v1)|null|
+|**2026-02-25**|**(Semi-)Invariant Curves from Centers of Triangle Families**|Klara Mundilova et.al.|[link](http://arxiv.org/abs/2602.22164v1)|null|
+|**2026-02-25**|**Giving Meaning to Movements: Challenges and Opportunities in Expanding Communication by Pairing Unaided AAC with Speech Generated Messages**|Imran Kabir et.al.|[link](http://arxiv.org/abs/2602.22131v1)|**[code](https://github.com/Imran2205/AllyAAC)**|
+|**2026-02-25**|**Brain3D: Brain Report Automation via Inflated Vision Transformers in 3D**|Mariano Barone et.al.|[link](http://arxiv.org/abs/2602.22098v1)|null|
+|**2026-02-25**|**WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation**|Wenhua Wu et.al.|[link](http://arxiv.org/abs/2602.22096v1)|null|
+|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[link](http://arxiv.org/abs/2602.22091v1)|null|
+|**2026-02-25**|**Enabling End-to-End APT Emulation in Industrial Environments: Design and Implementation of the SIMPLE-ICS Testbed**|Yogha Restu Pramadi et.al.|[link](http://arxiv.org/abs/2602.22082v1)|null|
+|**2026-02-25**|**Optimal error bounds on the exponential integrator for dispersive equations with highly concentrated potential**|Guillaume Bal et.al.|[link](http://arxiv.org/abs/2602.22068v1)|null|
+|**2026-02-25**|**Physics-Informed Machine Learning for Vessel Shaft Power and Fuel Consumption Prediction: Interpretable KAN-based Approach**|Hamza Haruna Mohammed et.al.|[link](http://arxiv.org/abs/2602.22055v1)|null|
+|**2026-02-25**|**A Diversity Diet for a Healthier Model: A Case Study of French ModernBERT**|Louis Estève et.al.|[link](http://arxiv.org/abs/2602.22014v1)|null|
+|**2026-02-25**|**Are Foundation Models the Route to Full-Stack Transfer in Robotics?**|Freek Stulp et.al.|[link](http://arxiv.org/abs/2602.22001v1)|null|
+|**2026-02-25**|**Enhancing LLM-Based Test Generation by Eliminating Covered Code**|WeiZhe Xu et.al.|[link](http://arxiv.org/abs/2602.21997v1)|null|
+|**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[link](http://arxiv.org/abs/2602.21992v1)|null|
+|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[link](http://arxiv.org/abs/2602.21987v1)|null|
+|**2026-02-25**|**Learning to Collaborate via Structures: Cluster-Guided Item Alignment for Federated Recommendation**|Yuchun Tu et.al.|[link](http://arxiv.org/abs/2602.21957v1)|null|
+|**2026-02-25**|**Spatial Degrees of Freedom in Near Field MIMO: Experimental Validation of Beamspace Perspective**|Ahmed Hussain et.al.|[link](http://arxiv.org/abs/2602.21945v1)|null|
+|**2026-02-25**|**Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading**|Haoran Li et.al.|[link](http://arxiv.org/abs/2602.21944v1)|null|
+|**2026-02-25**|**A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography**|Mahmut S. Gokmen et.al.|[link](http://arxiv.org/abs/2602.21935v1)|null|
+|**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder et.al.|[link](http://arxiv.org/abs/2602.21933v1)|null|
 |**2026-02-24**|**Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking**|Ravi Ghadia et.al.|[link](http://arxiv.org/abs/2602.21196v1)|null|
 |**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[link](http://arxiv.org/abs/2602.21195v1)|null|
 |**2026-02-24**|**The Universe Fan**|Hadleigh Frost et.al.|[link](http://arxiv.org/abs/2602.21194v1)|null|
@@ -1973,7 +1993,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-25**|**Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration**|Chen Wu et.al.|[link](http://arxiv.org/abs/2602.21917v1)|null|
+|**2026-02-25**|**Mamba Meets Scheduling: Learning to Solve Flexible Job Shop Scheduling with Efficient Sequence Modeling**|Zhi Cao et.al.|[link](http://arxiv.org/abs/2602.21546v1)|null|
+|**2026-02-24**|**Benchmarking State Space Models, Transformers, and Recurrent Networks for US Grid Forecasting**|Sunki Hong et.al.|[link](http://arxiv.org/abs/2602.21415v1)|null|
+|**2026-02-24**|**HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models**|Jack Goffinet et.al.|[link](http://arxiv.org/abs/2602.21340v1)|null|
 |**2026-02-24**|**Scaling State-Space Models on Multiple GPUs with Tensor Parallelism**|Anurag Dutt et.al.|[link](http://arxiv.org/abs/2602.21144v1)|null|
+|**2026-02-25**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[link](http://arxiv.org/abs/2602.20981v2)|null|
 |**2026-02-24**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[link](http://arxiv.org/abs/2602.20981v1)|null|
 |**2026-02-24**|**Rethink Efficiency Side of Neural Combinatorial Solver: An Offline and Self-Play Paradigm**|Zhenxing Xu et.al.|[link](http://arxiv.org/abs/2602.20730v1)|null|
 |**2026-02-23**|**M3S-Net: Multimodal Feature Fusion Network Based on Multi-scale Data for Ultra-short-term PV Power Forecasting**|Penghui Niu et.al.|[link](http://arxiv.org/abs/2602.19832v1)|null|
@@ -2381,6 +2406,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[link](http://arxiv.org/abs/2602.22200v1)|null|
+|**2026-02-25**|**LiCQA : A Lightweight Complex Question Answering System**|Sourav Saha et.al.|[link](http://arxiv.org/abs/2602.22182v1)|null|
+|**2026-02-25**|**Around homogeneity**|Peter J. Cameron et.al.|[link](http://arxiv.org/abs/2602.22181v1)|null|
+|**2026-02-25**|**Quadratic Equations over Graph Products and the Exponent of Periodicity**|Volker Diekert et.al.|[link](http://arxiv.org/abs/2602.22123v1)|null|
+|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[link](http://arxiv.org/abs/2602.22091v1)|null|
+|**2026-02-25**|**Linear clique-width and modular decomposition**|Robert Brignall et.al.|[link](http://arxiv.org/abs/2602.22089v1)|null|
+|**2026-02-25**|**Enabling End-to-End APT Emulation in Industrial Environments: Design and Implementation of the SIMPLE-ICS Testbed**|Yogha Restu Pramadi et.al.|[link](http://arxiv.org/abs/2602.22082v1)|null|
+|**2026-02-25**|**AutoSew: A Geometric Approach to Stitching Prediction with Graph Neural Networks**|Pablo Ríos-Navarro et.al.|[link](http://arxiv.org/abs/2602.22052v1)|null|
+|**2026-02-25**|**Maximal Recoverability: A Nexus of Coding Theory**|Joshua Brakensiek et.al.|[link](http://arxiv.org/abs/2602.22042v1)|null|
+|**2026-02-25**|**Discovering new photovoltaics using optimal transport theory**|Matthew A. H. Walker et.al.|[link](http://arxiv.org/abs/2602.22036v1)|null|
+|**2026-02-25**|**Enhancing LLM-Based Test Generation by Eliminating Covered Code**|WeiZhe Xu et.al.|[link](http://arxiv.org/abs/2602.21997v1)|null|
+|**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[link](http://arxiv.org/abs/2602.21992v1)|null|
+|**2026-02-25**|**Euler characteristics of $SL(2,\mathbb{Z})$-orbit graphs of origamis**|Luke Jeffreys et.al.|[link](http://arxiv.org/abs/2602.21984v1)|null|
+|**2026-02-25**|**Estimation of the complexity of a network under a Gaussian graphical model**|Nabaneet Das et.al.|[link](http://arxiv.org/abs/2602.21969v1)|null|
+|**2026-02-25**|**Global-Aware Edge Prioritization for Pose Graph Initialization**|Tong Wei et.al.|[link](http://arxiv.org/abs/2602.21963v1)|null|
+|**2026-02-25**|**Detecting Logic Bugs of Join Optimizations in DBMS**|Xiu Tang et.al.|[link](http://arxiv.org/abs/2602.21955v1)|null|
+|**2026-02-25**|**The Swarm Intelligence Freeway-Urban Trajectories (SWIFTraj) Dataset - Part II: A Graph-Based Approach for Trajectory Connection**|Xinkai Ji et.al.|[link](http://arxiv.org/abs/2602.21954v1)|null|
+|**2026-02-25**|**RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning**|Bo Xue et.al.|[link](http://arxiv.org/abs/2602.21951v1)|null|
+|**2026-02-25**|**Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading**|Haoran Li et.al.|[link](http://arxiv.org/abs/2602.21944v1)|null|
+|**2026-02-25**|**Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading**|Huangwei Chen et.al.|[link](http://arxiv.org/abs/2602.21942v1)|null|
 |**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[link](http://arxiv.org/abs/2602.21195v1)|null|
 |**2026-02-24**|**823-OLT @ BUET DL Sprint 4.0: Context-Aware Windowing for ASR and Fine-Tuned Speaker Diarization in Bengali Long Form Audio**|Ratnajit Dhar et.al.|[link](http://arxiv.org/abs/2602.21183v1)|null|
 |**2026-02-24**|**Circumventing the CAP Theorem with Open Atomic Ethernet**|Paul Borrill et.al.|[link](http://arxiv.org/abs/2602.21182v1)|null|
@@ -3928,6 +3973,8 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-02-25**|**A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography**|Mahmut S. Gokmen et.al.|[link](http://arxiv.org/abs/2602.21935v1)|null|
+|**2026-02-23**|**Cross domain Persistent Monitoring for Hybrid Aerial Underwater Vehicles**|Ricardo B. Grando et.al.|[link](http://arxiv.org/abs/2602.21259v1)|null|
 |**2026-02-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|Zhangjie Xia et.al.|[link](http://arxiv.org/abs/2602.21072v1)|null|
 |**2026-02-24**|**Not Just What's There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning**|Junhao Xiao et.al.|[link](http://arxiv.org/abs/2602.21035v1)|null|
 |**2026-02-24**|**DA-Cal: Towards Cross-Domain Calibration in Semantic Segmentation**|Wangkai Li et.al.|[link](http://arxiv.org/abs/2602.20860v1)|null|

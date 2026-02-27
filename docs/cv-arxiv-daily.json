@@ -1957,7 +1957,27 @@
     "2602.21057v1": "|**2026-02-24**|**Self-duality of massless scalar three-point amplitudes**|Oliver Schnetz et.al.|[link](http://arxiv.org/abs/2602.21057v1)|null|\n",
     "2602.21048v1": "|**2026-02-24**|**t-Hermitian Forms of Arbitrary Degree, Their Spectral Structure, and Positivity**|Isaac Dobes et.al.|[link](http://arxiv.org/abs/2602.21048v1)|null|\n",
     "2602.21043v1": "|**2026-02-24**|**T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation**|Dongik Park et.al.|[link](http://arxiv.org/abs/2602.21043v1)|null|\n",
-    "2602.21017v1": "|**2026-02-24**|**Duality symmetry and dynamics on finite null boundaries**|Gianfranco De Simone et.al.|[link](http://arxiv.org/abs/2602.21017v1)|null|\n"
+    "2602.21017v1": "|**2026-02-24**|**Duality symmetry and dynamics on finite null boundaries**|Gianfranco De Simone et.al.|[link](http://arxiv.org/abs/2602.21017v1)|null|\n",
+    "2602.22200v1": "|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[link](http://arxiv.org/abs/2602.22200v1)|null|\n",
+    "2602.22165v1": "|**2026-02-25**|**Whistler-Alfv\u00e9n turbulence in a non-neutral ultrarelativistic pair plasma**|Stanislav Boldyrev et.al.|[link](http://arxiv.org/abs/2602.22165v1)|null|\n",
+    "2602.22164v1": "|**2026-02-25**|**(Semi-)Invariant Curves from Centers of Triangle Families**|Klara Mundilova et.al.|[link](http://arxiv.org/abs/2602.22164v1)|null|\n",
+    "2602.22131v1": "|**2026-02-25**|**Giving Meaning to Movements: Challenges and Opportunities in Expanding Communication by Pairing Unaided AAC with Speech Generated Messages**|Imran Kabir et.al.|[link](http://arxiv.org/abs/2602.22131v1)|**[code](https://github.com/Imran2205/AllyAAC)**|\n",
+    "2602.22098v1": "|**2026-02-25**|**Brain3D: Brain Report Automation via Inflated Vision Transformers in 3D**|Mariano Barone et.al.|[link](http://arxiv.org/abs/2602.22098v1)|null|\n",
+    "2602.22096v1": "|**2026-02-25**|**WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation**|Wenhua Wu et.al.|[link](http://arxiv.org/abs/2602.22096v1)|null|\n",
+    "2602.22091v1": "|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[link](http://arxiv.org/abs/2602.22091v1)|null|\n",
+    "2602.22082v1": "|**2026-02-25**|**Enabling End-to-End APT Emulation in Industrial Environments: Design and Implementation of the SIMPLE-ICS Testbed**|Yogha Restu Pramadi et.al.|[link](http://arxiv.org/abs/2602.22082v1)|null|\n",
+    "2602.22068v1": "|**2026-02-25**|**Optimal error bounds on the exponential integrator for dispersive equations with highly concentrated potential**|Guillaume Bal et.al.|[link](http://arxiv.org/abs/2602.22068v1)|null|\n",
+    "2602.22055v1": "|**2026-02-25**|**Physics-Informed Machine Learning for Vessel Shaft Power and Fuel Consumption Prediction: Interpretable KAN-based Approach**|Hamza Haruna Mohammed et.al.|[link](http://arxiv.org/abs/2602.22055v1)|null|\n",
+    "2602.22014v1": "|**2026-02-25**|**A Diversity Diet for a Healthier Model: A Case Study of French ModernBERT**|Louis Est\u00e8ve et.al.|[link](http://arxiv.org/abs/2602.22014v1)|null|\n",
+    "2602.22001v1": "|**2026-02-25**|**Are Foundation Models the Route to Full-Stack Transfer in Robotics?**|Freek Stulp et.al.|[link](http://arxiv.org/abs/2602.22001v1)|null|\n",
+    "2602.21997v1": "|**2026-02-25**|**Enhancing LLM-Based Test Generation by Eliminating Covered Code**|WeiZhe Xu et.al.|[link](http://arxiv.org/abs/2602.21997v1)|null|\n",
+    "2602.21992v1": "|**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[link](http://arxiv.org/abs/2602.21992v1)|null|\n",
+    "2602.21987v1": "|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[link](http://arxiv.org/abs/2602.21987v1)|null|\n",
+    "2602.21957v1": "|**2026-02-25**|**Learning to Collaborate via Structures: Cluster-Guided Item Alignment for Federated Recommendation**|Yuchun Tu et.al.|[link](http://arxiv.org/abs/2602.21957v1)|null|\n",
+    "2602.21945v1": "|**2026-02-25**|**Spatial Degrees of Freedom in Near Field MIMO: Experimental Validation of Beamspace Perspective**|Ahmed Hussain et.al.|[link](http://arxiv.org/abs/2602.21945v1)|null|\n",
+    "2602.21944v1": "|**2026-02-25**|**Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading**|Haoran Li et.al.|[link](http://arxiv.org/abs/2602.21944v1)|null|\n",
+    "2602.21935v1": "|**2026-02-25**|**A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography**|Mahmut S. Gokmen et.al.|[link](http://arxiv.org/abs/2602.21935v1)|null|\n",
+    "2602.21933v1": "|**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder et.al.|[link](http://arxiv.org/abs/2602.21933v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -2362,7 +2382,12 @@
     "2602.18717v1": "|**2026-02-21**|**NeXt2Former-CD: Efficient Remote Sensing Change Detection with Modern Vision Architectures**|Yufan Wang et.al.|[link](http://arxiv.org/abs/2602.18717v1)|null|\n",
     "2602.21144v1": "|**2026-02-24**|**Scaling State-Space Models on Multiple GPUs with Tensor Parallelism**|Anurag Dutt et.al.|[link](http://arxiv.org/abs/2602.21144v1)|null|\n",
     "2602.20981v1": "|**2026-02-24**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[link](http://arxiv.org/abs/2602.20981v1)|null|\n",
-    "2602.20730v1": "|**2026-02-24**|**Rethink Efficiency Side of Neural Combinatorial Solver: An Offline and Self-Play Paradigm**|Zhenxing Xu et.al.|[link](http://arxiv.org/abs/2602.20730v1)|null|\n"
+    "2602.20730v1": "|**2026-02-24**|**Rethink Efficiency Side of Neural Combinatorial Solver: An Offline and Self-Play Paradigm**|Zhenxing Xu et.al.|[link](http://arxiv.org/abs/2602.20730v1)|null|\n",
+    "2602.21917v1": "|**2026-02-25**|**Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration**|Chen Wu et.al.|[link](http://arxiv.org/abs/2602.21917v1)|null|\n",
+    "2602.21546v1": "|**2026-02-25**|**Mamba Meets Scheduling: Learning to Solve Flexible Job Shop Scheduling with Efficient Sequence Modeling**|Zhi Cao et.al.|[link](http://arxiv.org/abs/2602.21546v1)|null|\n",
+    "2602.21415v1": "|**2026-02-24**|**Benchmarking State Space Models, Transformers, and Recurrent Networks for US Grid Forecasting**|Sunki Hong et.al.|[link](http://arxiv.org/abs/2602.21415v1)|null|\n",
+    "2602.21340v1": "|**2026-02-24**|**HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models**|Jack Goffinet et.al.|[link](http://arxiv.org/abs/2602.21340v1)|null|\n",
+    "2602.20981v2": "|**2026-02-25**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|Christian Simon et.al.|[link](http://arxiv.org/abs/2602.20981v2)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -3905,7 +3930,27 @@
     "2602.21022v1": "|**2026-02-24**|**Is a LOCAL algorithm computable?**|Antonio Cruciani et.al.|[link](http://arxiv.org/abs/2602.21022v1)|null|\n",
     "2602.21016v1": "|**2026-02-24**|**Restriction-Based Certificate of Bipartite Schmidt Rank in Hypergraph States**|C. Fajardo et.al.|[link](http://arxiv.org/abs/2602.21016v1)|null|\n",
     "2602.20996v1": "|**2026-02-24**|**Voltage quantum graphs and a Gross-Tucker theorem for quantum graphs**|Bj\u00f6rn Sch\u00e4fer et.al.|[link](http://arxiv.org/abs/2602.20996v1)|null|\n",
-    "2602.20994v1": "|**2026-02-24**|**Multimodal MRI Report Findings Supervised Brain Lesion Segmentation with Substructures**|Yubin Ge et.al.|[link](http://arxiv.org/abs/2602.20994v1)|null|\n"
+    "2602.20994v1": "|**2026-02-24**|**Multimodal MRI Report Findings Supervised Brain Lesion Segmentation with Substructures**|Yubin Ge et.al.|[link](http://arxiv.org/abs/2602.20994v1)|null|\n",
+    "2602.22200v1": "|**2026-02-25**|**SumTablets: A Transliteration Dataset of Sumerian Tablets**|Cole Simmons et.al.|[link](http://arxiv.org/abs/2602.22200v1)|null|\n",
+    "2602.22182v1": "|**2026-02-25**|**LiCQA : A Lightweight Complex Question Answering System**|Sourav Saha et.al.|[link](http://arxiv.org/abs/2602.22182v1)|null|\n",
+    "2602.22181v1": "|**2026-02-25**|**Around homogeneity**|Peter J. Cameron et.al.|[link](http://arxiv.org/abs/2602.22181v1)|null|\n",
+    "2602.22123v1": "|**2026-02-25**|**Quadratic Equations over Graph Products and the Exponent of Periodicity**|Volker Diekert et.al.|[link](http://arxiv.org/abs/2602.22123v1)|null|\n",
+    "2602.22091v1": "|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[link](http://arxiv.org/abs/2602.22091v1)|null|\n",
+    "2602.22089v1": "|**2026-02-25**|**Linear clique-width and modular decomposition**|Robert Brignall et.al.|[link](http://arxiv.org/abs/2602.22089v1)|null|\n",
+    "2602.22082v1": "|**2026-02-25**|**Enabling End-to-End APT Emulation in Industrial Environments: Design and Implementation of the SIMPLE-ICS Testbed**|Yogha Restu Pramadi et.al.|[link](http://arxiv.org/abs/2602.22082v1)|null|\n",
+    "2602.22052v1": "|**2026-02-25**|**AutoSew: A Geometric Approach to Stitching Prediction with Graph Neural Networks**|Pablo R\u00edos-Navarro et.al.|[link](http://arxiv.org/abs/2602.22052v1)|null|\n",
+    "2602.22042v1": "|**2026-02-25**|**Maximal Recoverability: A Nexus of Coding Theory**|Joshua Brakensiek et.al.|[link](http://arxiv.org/abs/2602.22042v1)|null|\n",
+    "2602.22036v1": "|**2026-02-25**|**Discovering new photovoltaics using optimal transport theory**|Matthew A. H. Walker et.al.|[link](http://arxiv.org/abs/2602.22036v1)|null|\n",
+    "2602.21997v1": "|**2026-02-25**|**Enhancing LLM-Based Test Generation by Eliminating Covered Code**|WeiZhe Xu et.al.|[link](http://arxiv.org/abs/2602.21997v1)|null|\n",
+    "2602.21992v1": "|**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[link](http://arxiv.org/abs/2602.21992v1)|null|\n",
+    "2602.21984v1": "|**2026-02-25**|**Euler characteristics of $SL(2,\\mathbb{Z})$-orbit graphs of origamis**|Luke Jeffreys et.al.|[link](http://arxiv.org/abs/2602.21984v1)|null|\n",
+    "2602.21969v1": "|**2026-02-25**|**Estimation of the complexity of a network under a Gaussian graphical model**|Nabaneet Das et.al.|[link](http://arxiv.org/abs/2602.21969v1)|null|\n",
+    "2602.21963v1": "|**2026-02-25**|**Global-Aware Edge Prioritization for Pose Graph Initialization**|Tong Wei et.al.|[link](http://arxiv.org/abs/2602.21963v1)|null|\n",
+    "2602.21955v1": "|**2026-02-25**|**Detecting Logic Bugs of Join Optimizations in DBMS**|Xiu Tang et.al.|[link](http://arxiv.org/abs/2602.21955v1)|null|\n",
+    "2602.21954v1": "|**2026-02-25**|**The Swarm Intelligence Freeway-Urban Trajectories (SWIFTraj) Dataset - Part II: A Graph-Based Approach for Trajectory Connection**|Xinkai Ji et.al.|[link](http://arxiv.org/abs/2602.21954v1)|null|\n",
+    "2602.21951v1": "|**2026-02-25**|**RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning**|Bo Xue et.al.|[link](http://arxiv.org/abs/2602.21951v1)|null|\n",
+    "2602.21944v1": "|**2026-02-25**|**Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading**|Haoran Li et.al.|[link](http://arxiv.org/abs/2602.21944v1)|null|\n",
+    "2602.21942v1": "|**2026-02-25**|**Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading**|Huangwei Chen et.al.|[link](http://arxiv.org/abs/2602.21942v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -4530,6 +4575,8 @@
     "2602.20851v1": "|**2026-02-24**|**Hybrid Fusion: One-Minute Efficient Training for Zero-Shot Cross-Domain Image Fusion**|Ran Zhang et.al.|[link](http://arxiv.org/abs/2602.20851v1)|null|\n",
     "2602.20636v1": "|**2026-02-24**|**SurgAtt-Tracker: Online Surgical Attention Tracking via Temporal Proposal Reranking and Motion-Aware Refinement**|Rulin Zhou et.al.|[link](http://arxiv.org/abs/2602.20636v1)|null|\n",
     "2602.20426v1": "|**2026-02-23**|**Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use**|Ruocheng Guo et.al.|[link](http://arxiv.org/abs/2602.20426v1)|null|\n",
-    "2602.20273v1": "|**2026-02-23**|**The Truthfulness Spectrum Hypothesis**|Zhuofan Josh Ying et.al.|[link](http://arxiv.org/abs/2602.20273v1)|null|\n"
+    "2602.20273v1": "|**2026-02-23**|**The Truthfulness Spectrum Hypothesis**|Zhuofan Josh Ying et.al.|[link](http://arxiv.org/abs/2602.20273v1)|null|\n",
+    "2602.21935v1": "|**2026-02-25**|**A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography**|Mahmut S. Gokmen et.al.|[link](http://arxiv.org/abs/2602.21935v1)|null|\n",
+    "2602.21259v1": "|**2026-02-23**|**Cross domain Persistent Monitoring for Hybrid Aerial Underwater Vehicles**|Ricardo B. Grando et.al.|[link](http://arxiv.org/abs/2602.21259v1)|null|\n"
   }
 }
