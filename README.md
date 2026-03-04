@@ -1,4 +1,4 @@
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 
 ### ISTD
 
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-02**|**Interpreting map-based $E$/$B$ spectral properties of CMB foregrounds**|Gilles Weymann-Despres et.al.|[link](http://arxiv.org/abs/2603.02177v1)|null|
+|**2026-03-02**|**Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance**|Yiqi Lin et.al.|[link](http://arxiv.org/abs/2603.02175v1)|null|
+|**2026-03-02**|**GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis**|Srikumar Sastry et.al.|[link](http://arxiv.org/abs/2603.02172v1)|null|
+|**2026-03-02**|**Weighted Norm Inequalities for the Strichartz Fourier transform on the Heisenberg Group**|Aparajita Dasgupta et.al.|[link](http://arxiv.org/abs/2603.02144v1)|null|
+|**2026-03-02**|**Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model**|Fabian Steinbrenner et.al.|[link](http://arxiv.org/abs/2603.02143v1)|null|
+|**2026-03-02**|**Generative AI in Software Testing: Current Trends and Future Directions**|Tanish Singla et.al.|[link](http://arxiv.org/abs/2603.02141v1)|null|
+|**2026-03-02**|**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**|Yiying Yang et.al.|[link](http://arxiv.org/abs/2603.02138v1)|null|
+|**2026-03-02**|**LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation**|Hualiang Wei et.al.|[link](http://arxiv.org/abs/2603.02129v1)|null|
+|**2026-03-02**|**Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch**|David Mercier et.al.|[link](http://arxiv.org/abs/2603.02090v1)|null|
+|**2026-03-02**|**Detection-Gated Glottal Segmentation with Zero-Shot Cross-Dataset Transfer and Clinical Feature Extraction**|Harikrishnan Unnikrishnan et.al.|[link](http://arxiv.org/abs/2603.02087v1)|null|
+|**2026-03-02**|**Cognitive Prosthetic: An AI-Enabled Multimodal System for Episodic Recall in Knowledge Work**|Lawrence Obiuwevwi et.al.|[link](http://arxiv.org/abs/2603.02072v1)|null|
+|**2026-03-02**|**Convergence rate of the diagonal-valued Cauchy-transform for permutation invariant random matrices**|Alexis Imbert et.al.|[link](http://arxiv.org/abs/2603.02068v1)|null|
+|**2026-03-02**|**ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks**|Joël Küchler et.al.|[link](http://arxiv.org/abs/2603.02063v1)|null|
+|**2026-03-02**|**OpenRad: a Curated Repository of Open-access AI models for Radiology**|Konstantinos Vrettos et.al.|[link](http://arxiv.org/abs/2603.02062v1)|null|
+|**2026-03-02**|**Anisotropic two-dimensional magnetoexciton with exact center-of-mass separation**|Dang-Khoa D. Le et.al.|[link](http://arxiv.org/abs/2603.02051v1)|null|
+|**2026-03-02**|**LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers**|Fabian Schmidt et.al.|[link](http://arxiv.org/abs/2603.02035v1)|null|
+|**2026-03-02**|**Latent attention on masked patches for flow reconstruction**|Ben Eze et.al.|[link](http://arxiv.org/abs/2603.02028v1)|null|
+|**2026-03-02**|**$\ell^1$ mapping properties, smoothness and decay for $SU(2)$-valued nonlinear Fourier transform**|Gevorg Mnatsakanyan et.al.|[link](http://arxiv.org/abs/2603.02021v1)|null|
+|**2026-03-02**|**Explicit asymptotics of coupling matrix elements for central potentials in the hyperspherical harmonics expansion method**|Emile Meoto et.al.|[link](http://arxiv.org/abs/2603.02020v1)|null|
+|**2026-03-02**|**Selection as Power: Constrained Reinforcement for Bounded Decision Authority**|Jose Manuel de la Chica Rodriguez et.al.|[link](http://arxiv.org/abs/2603.02019v1)|null|
 |**2026-02-27**|**Mode Seeking meets Mean Seeking for Fast Long Video Generation**|Shengqu Cai et.al.|[link](http://arxiv.org/abs/2602.24289v1)|null|
 |**2026-02-27**|**Memory Caching: RNNs with Growing Memory**|Ali Behrouz et.al.|[link](http://arxiv.org/abs/2602.24281v1)|null|
 |**2026-02-27**|**Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment**|Dake Zhang et.al.|[link](http://arxiv.org/abs/2602.24277v1)|null|
@@ -2033,6 +2053,14 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-02**|**TacMamba: A Tactile History Compression Adapter Bridging Fast Reflexes and Slow VLA Reasoning**|Zhenan Wang et.al.|[link](http://arxiv.org/abs/2603.01700v1)|null|
+|**2026-03-02**|**MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention**|Zilong Zhao et.al.|[link](http://arxiv.org/abs/2603.01361v1)|null|
+|**2026-03-01**|**Efficient Extractive Summarization with MAMBA-Transformer Hybrids for Low-Resource Scenarios**|Nisrine Ait Khayi et.al.|[link](http://arxiv.org/abs/2603.01288v1)|null|
+|**2026-03-01**|**VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|[link](http://arxiv.org/abs/2603.01174v1)|null|
+|**2026-03-01**|**VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba**|Longmi Gao et.al.|[link](http://arxiv.org/abs/2603.00887v1)|null|
+|**2026-03-01**|**PPC-MT: Parallel Point Cloud Completion with Mamba-Transformer Hybrid Architecture**|Jie Li et.al.|[link](http://arxiv.org/abs/2603.00870v1)|null|
+|**2026-02-28**|**Mamba-CAD: State Space Model For 3D Computer-Aided Design Generative Modeling**|Xueyang Li et.al.|[link](http://arxiv.org/abs/2603.00439v1)|null|
+|**2026-02-27**|**Stateful Token Reduction for Long-Video Hybrid VLMs**|Jindong Jiang et.al.|[link](http://arxiv.org/abs/2603.00198v1)|null|
 |**2026-02-27**|**DACESR: Degradation-Aware Conditional Embedding for Real-World Image Super-Resolution**|Xiaoyan Lei et.al.|[link](http://arxiv.org/abs/2602.23890v1)|null|
 |**2026-02-27**|**BiM-GeoAttn-Net: Linear-Time Depth Modeling with Geometry-Aware Attention for 3D Aortic Dissection CTA Segmentation**|Yuan Zhang et.al.|[link](http://arxiv.org/abs/2602.23803v1)|null|
 |**2026-02-26**|**SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation**|Fuhao Zhang et.al.|[link](http://arxiv.org/abs/2602.23103v1)|null|
@@ -2455,6 +2483,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-02**|**Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions**|Amir Asiaee et.al.|[link](http://arxiv.org/abs/2603.02204v1)|null|
+|**2026-03-02**|**Algebraic statistics of Hüsler-Reiss graphical models in multivariate extremes**|Carlos Améndola et.al.|[link](http://arxiv.org/abs/2603.02191v1)|null|
+|**2026-03-02**|**Catapults to the Rescue: Accelerating Vector Search by Exploiting Query Locality**|Sami Abuzakuk et.al.|[link](http://arxiv.org/abs/2603.02164v1)|null|
+|**2026-03-02**|**Degree Sequences vs. Forests in Bipartite Graphs**|Darij Grinberg et.al.|[link](http://arxiv.org/abs/2603.02151v1)|null|
+|**2026-03-02**|**SimRecon: SimReady Compositional Scene Reconstruction from Real Videos**|Chong Xia et.al.|[link](http://arxiv.org/abs/2603.02133v1)|null|
+|**2026-03-02**|**Real-Time Thermal-Inertial Odometry on Embedded Hardware for High-Speed GPS-Denied Flight**|Austin Stone et.al.|[link](http://arxiv.org/abs/2603.02114v1)|null|
+|**2026-03-02**|**Solving Convex Quadratic Optimization with Indicators Over Structured Graphs**|Aaresh Bhathena et.al.|[link](http://arxiv.org/abs/2603.02103v1)|null|
+|**2026-03-02**|**Sampling from the antiferromagnetic Ising model on bipartite, regular expander graphs**|Anna Geisler et.al.|[link](http://arxiv.org/abs/2603.02101v1)|null|
+|**2026-03-02**|**Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch**|David Mercier et.al.|[link](http://arxiv.org/abs/2603.02090v1)|null|
+|**2026-03-02**|**Detection-Gated Glottal Segmentation with Zero-Shot Cross-Dataset Transfer and Clinical Feature Extraction**|Harikrishnan Unnikrishnan et.al.|[link](http://arxiv.org/abs/2603.02087v1)|null|
+|**2026-03-02**|**Convergence rate of the diagonal-valued Cauchy-transform for permutation invariant random matrices**|Alexis Imbert et.al.|[link](http://arxiv.org/abs/2603.02068v1)|null|
+|**2026-03-02**|**ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks**|Joël Küchler et.al.|[link](http://arxiv.org/abs/2603.02063v1)|null|
+|**2026-03-02**|**Hilbert--Schmidt stability for graph products**|Pieter Spaas et.al.|[link](http://arxiv.org/abs/2603.02058v1)|null|
+|**2026-03-02**|**Graph neural network force fields for adiabatic dynamics of lattice Hamiltonians**|Yunhao Fan et.al.|[link](http://arxiv.org/abs/2603.02039v1)|null|
+|**2026-03-02**|**MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge**|Shuai Liang et.al.|[link](http://arxiv.org/abs/2603.02032v1)|null|
+|**2026-03-02**|**Revealing Combinatorial Reasoning of GNNs via Graph Concept Bottleneck Layer**|Yue Niu et.al.|[link](http://arxiv.org/abs/2603.02025v1)|null|
+|**2026-03-02**|**CausalWrap: Model-Agnostic Causal Constraint Wrappers for Tabular Synthetic Data**|Amir Asiaee et.al.|[link](http://arxiv.org/abs/2603.02015v1)|null|
+|**2026-03-02**|**Kruskal-EDS: Edge Dynamic Stratification**|Yves Mercadier et.al.|[link](http://arxiv.org/abs/2603.02006v1)|null|
+|**2026-03-02**|**Mitigating topology biases in Graph Diffusion via Counterfactual Intervention**|Wendi Wang et.al.|[link](http://arxiv.org/abs/2603.02005v1)|null|
+|**2026-03-02**|**On the upper critical dimension of the KPZ universality class: KPZ and related equations on a fully connected graph**|J. M. Marcos et.al.|[link](http://arxiv.org/abs/2603.02000v1)|null|
 |**2026-02-27**|**Mode Seeking meets Mean Seeking for Fast Long Video Generation**|Shengqu Cai et.al.|[link](http://arxiv.org/abs/2602.24289v1)|null|
 |**2026-02-27**|**Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment**|Dake Zhang et.al.|[link](http://arxiv.org/abs/2602.24277v1)|null|
 |**2026-02-27**|**Hierarchical Action Learning for Weakly-Supervised Action Segmentation**|Junxian Huang et.al.|[link](http://arxiv.org/abs/2602.24275v1)|null|
@@ -4062,6 +4110,16 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-02**|**From Secure Agentic AI to Secure Agentic Web: Challenges, Threats, and Future Directions**|Zhihang Deng et.al.|[link](http://arxiv.org/abs/2603.01564v1)|null|
+|**2026-03-02**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|Yuchen Ying et.al.|[link](http://arxiv.org/abs/2603.01410v1)|null|
+|**2026-03-01**|**Extended Empirical Validation of the Explainability Solution Space**|Antoni Mestre et.al.|[link](http://arxiv.org/abs/2603.01235v1)|null|
+|**2026-03-01**|**From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing**|Haoyuan Zhang et.al.|[link](http://arxiv.org/abs/2603.01038v1)|null|
+|**2026-03-01**|**CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning**|Xinyu Zhu et.al.|[link](http://arxiv.org/abs/2603.00889v1)|null|
+|**2026-02-28**|**Neural Latent Arbitrary Lagrangian-Eulerian Grids for Fluid-Solid Interaction**|Shilong Tao et.al.|[link](http://arxiv.org/abs/2603.00792v1)|null|
+|**2026-02-28**|**Closing the Loop: Resource-aware Hybrid NAS Guided by Analytical and Hardware-Calibrated Quantum Cost Modeling**|Muhammad Kashif et.al.|[link](http://arxiv.org/abs/2603.00625v1)|null|
+|**2026-02-28**|**A Blockchain-Based Trust Framework for Resilient Cross-Domain UAV Service Orchestration**|Yao Wu et.al.|[link](http://arxiv.org/abs/2603.00456v1)|null|
+|**2026-02-27**|**Empowering Future Cybersecurity Leaders: Advancing Students through FINDS Education for Digital Forensic Excellence**|Yashas Hariprasad et.al.|[link](http://arxiv.org/abs/2603.00222v1)|null|
+|**2026-02-25**|**DINOv3 Meets YOLO26 for Weed Detection in Vegetable Crops**|Boyang Deng et.al.|[link](http://arxiv.org/abs/2603.00160v1)|null|
 |**2026-02-27**|**EDDA-Coordinata: An Annotated Dataset of Historical Geographic Coordinates**|Ludovic Moncla et.al.|[link](http://arxiv.org/abs/2602.23941v1)|null|
 |**2026-02-27**|**Exploring Robust Intrusion Detection: A Benchmark Study of Feature Transferability in IoT Botnet Attack Detection**|Alejandro Guerra-Manzanares et.al.|[link](http://arxiv.org/abs/2602.23874v1)|null|
 |**2026-02-27**|**See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent**|Tianci Tang et.al.|[link](http://arxiv.org/abs/2602.23806v1)|null|
