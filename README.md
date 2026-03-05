@@ -1,4 +1,4 @@
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 
 ### ISTD
 
@@ -16,7 +16,7 @@
 |**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
-|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|
+|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|**[code](https://github.com/greekinRoma/IRSTD_HC_Platform)**|
 |**2026-01-21**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v3)|null|
 |**2025-12-13**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v2)|null|
 |**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|
@@ -25,13 +25,13 @@
 |**2025-11-22**|**JWST COMPASS: Insights into the Systematic Noise Properties of NIRSpec/G395H From a Uniform Reanalysis of Seven Transmission Spectra**|Tyler A. Gordon et.al.|[link](http://arxiv.org/abs/2511.18196v1)|null|
 |**2025-11-21**|**Far-infrared to centimeter emission of very nearby galaxies with archival data**|L. Correia et.al.|[link](http://arxiv.org/abs/2511.17268v1)|null|
 |**2025-11-17**|**You Only Look Omni Gradient Backpropagation for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2511.13013v1)|null|
-|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|null|
+|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|**[code](https://github.com/IVPLabs/TDCNet)**|
 |**2025-11-11**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v1)|**[code](https://github.com/IVPLaboratory/TDCNet)**|
 |**2025-10-14**|**Ivan-ISTD: Rethinking Cross-domain Heteroscedastic Noise Perturbations in Infrared Small Target Detection**|Yuehui Li et.al.|[link](http://arxiv.org/abs/2510.12241v1)|null|
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
 |**2025-10-02**|**A Mid-Infrared Spectroscopic Study of Young Stellar Objects in the SMC Region NGC 346: JWST Detects Dust, Accretion, Ices and Outflows**|Nolan Habel et.al.|[link](http://arxiv.org/abs/2510.02606v1)|null|
 |**2025-10-01**|**Simulating Spectral Confusion in SPHEREx Photometry and Redshifts**|Zhaoyu Huai et.al.|[link](http://arxiv.org/abs/2510.01410v1)|null|
-|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|null|
+|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|**[code](https://github.com/moured/TY-RIST)**|
 |**2025-09-25**|**DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection**|Jiayi Zuo et.al.|[link](http://arxiv.org/abs/2509.20701v1)|null|
 |**2025-09-24**|**Fast and compact time-resolved spectroscopy enabled by Quantum Walk Combs**|Ina Heckelmann et.al.|[link](http://arxiv.org/abs/2509.20112v1)|null|
 |**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|null|
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[link](http://arxiv.org/abs/2603.03283v1)|null|
+|**2026-03-03**|**Beyond thresholds: reconstructing UV physics from IR expansions**|Hiromasa Takaura et.al.|[link](http://arxiv.org/abs/2603.03277v1)|null|
+|**2026-03-03**|**Policy myopia as a mechanism of gradual disempowerment in Post-AGI governance, Circa 2049**|Subramanyam Sahoo et.al.|[link](http://arxiv.org/abs/2603.03267v1)|null|
+|**2026-03-03**|**Generalised All-Optical Cat Correction**|Ari John Boon et.al.|[link](http://arxiv.org/abs/2603.03263v1)|null|
+|**2026-03-03**|**Spectral gaps and measure decompositions**|March T. Boedihardjo et.al.|[link](http://arxiv.org/abs/2603.03245v1)|null|
+|**2026-03-03**|**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**|Zimo Wen et.al.|[link](http://arxiv.org/abs/2603.03241v1)|null|
+|**2026-03-03**|**COP-GEN: Latent Diffusion Transformer for Copernicus Earth Observation Data -- Generation Stochastic by Design**|Miguel Espinosa et.al.|[link](http://arxiv.org/abs/2603.03239v1)|null|
+|**2026-03-03**|**Deception by Design: A Temporal Dark Patterns Audit of McDonald's Self-Ordering Kiosk Flow**|Aditya Kumar Purohit et.al.|[link](http://arxiv.org/abs/2603.03218v1)|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[link](http://arxiv.org/abs/2603.03195v1)|null|
+|**2026-03-03**|**ProSMA-UNet: Decoder Conditioning for Proximal-Sparse Skip Feature Selection**|Chun-Wun Cheng et.al.|[link](http://arxiv.org/abs/2603.03187v1)|null|
+|**2026-03-03**|**FEAST: Retrieval-Augmented Multi-Hierarchical Food Classification for the FoodEx2 System**|Lorenzo Molfetta et.al.|[link](http://arxiv.org/abs/2603.03176v1)|null|
+|**2026-03-03**|**An Investigation Into Various Approaches For Bengali Long-Form Speech Transcription and Bengali Speaker Diarization**|Epshita Jahan et.al.|[link](http://arxiv.org/abs/2603.03158v1)|null|
+|**2026-03-03**|**Behavior Change as a Signal for Identifying Social Media Manipulation**|Isuru Ariyarathne et.al.|[link](http://arxiv.org/abs/2603.03128v1)|null|
+|**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[link](http://arxiv.org/abs/2603.03125v1)|null|
+|**2026-03-03**|**From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs**|Pengyu Lai et.al.|[link](http://arxiv.org/abs/2603.03112v1)|null|
+|**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[link](http://arxiv.org/abs/2603.03106v1)|null|
+|**2026-03-03**|**Compact Prompting in Instruction-tuned LLMs for Joint Argumentative Component Detection**|Sofiane Elguendouze et.al.|[link](http://arxiv.org/abs/2603.03095v1)|null|
+|**2026-03-03**|**On the Expressive Power of Transformers for Maxout Networks and Continuous Piecewise Linear Functions**|Linyan Gu et.al.|[link](http://arxiv.org/abs/2603.03084v1)|null|
+|**2026-03-03**|**TinyIceNet: Low-Power SAR Sea Ice Segmentation for On-Board FPGA Inference**|Mhd Rashed Al Koutayni et.al.|[link](http://arxiv.org/abs/2603.03075v1)|null|
+|**2026-03-03**|**EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education**|Baoliang Chen et.al.|[link](http://arxiv.org/abs/2603.03066v1)|null|
 |**2026-03-02**|**Interpreting map-based $E$/$B$ spectral properties of CMB foregrounds**|Gilles Weymann-Despres et.al.|[link](http://arxiv.org/abs/2603.02177v1)|null|
 |**2026-03-02**|**Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance**|Yiqi Lin et.al.|[link](http://arxiv.org/abs/2603.02175v1)|null|
 |**2026-03-02**|**GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis**|Srikumar Sastry et.al.|[link](http://arxiv.org/abs/2603.02172v1)|null|
@@ -2053,6 +2073,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-03**|**MaBERT:A Padding Safe Interleaved Transformer Mamba Hybrid Encoder for Efficient Extended Context Masked Language Modeling**|Jinwoong Kim et.al.|[link](http://arxiv.org/abs/2603.03001v1)|null|
+|**2026-03-03**|**Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective**|Kaifang Long et.al.|[link](http://arxiv.org/abs/2603.02629v1)|null|
+|**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[link](http://arxiv.org/abs/2603.02560v1)|null|
 |**2026-03-02**|**TacMamba: A Tactile History Compression Adapter Bridging Fast Reflexes and Slow VLA Reasoning**|Zhenan Wang et.al.|[link](http://arxiv.org/abs/2603.01700v1)|null|
 |**2026-03-02**|**MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention**|Zilong Zhao et.al.|[link](http://arxiv.org/abs/2603.01361v1)|null|
 |**2026-03-01**|**Efficient Extractive Summarization with MAMBA-Transformer Hybrids for Low-Resource Scenarios**|Nisrine Ait Khayi et.al.|[link](http://arxiv.org/abs/2603.01288v1)|null|
@@ -2483,6 +2506,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-03**|**Yeo's Theorem for Locally Colored Graphs: the Path to Sequentialization in Linear Logic**|Rémi Di Guardia et.al.|[link](http://arxiv.org/abs/2603.03262v1)|null|
+|**2026-03-03**|**Supercritical sharpness of percolation**|Sahar Diskin et.al.|[link](http://arxiv.org/abs/2603.03257v1)|null|
+|**2026-03-03**|**I-CAM-UV: Integrating Causal Graphs over Non-Identical Variable Sets Using Causal Additive Models with Unobserved Variables**|Hirofumi Suzuki et.al.|[link](http://arxiv.org/abs/2603.03207v1)|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[link](http://arxiv.org/abs/2603.03195v1)|null|
+|**2026-03-03**|**ProSMA-UNet: Decoder Conditioning for Proximal-Sparse Skip Feature Selection**|Chun-Wun Cheng et.al.|[link](http://arxiv.org/abs/2603.03187v1)|null|
+|**2026-03-03**|**Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling**|Y. Zhong et.al.|[link](http://arxiv.org/abs/2603.03180v1)|null|
+|**2026-03-03**|**An Investigation Into Various Approaches For Bengali Long-Form Speech Transcription and Bengali Speaker Diarization**|Epshita Jahan et.al.|[link](http://arxiv.org/abs/2603.03158v1)|null|
+|**2026-03-03**|**A very robust Ramsey theorem for matchings**|Peter Keevash et.al.|[link](http://arxiv.org/abs/2603.03139v1)|null|
+|**2026-03-03**|**Behavior Change as a Signal for Identifying Social Media Manipulation**|Isuru Ariyarathne et.al.|[link](http://arxiv.org/abs/2603.03128v1)|null|
+|**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[link](http://arxiv.org/abs/2603.03106v1)|null|
+|**2026-03-03**|**Required-edge Cycle Cover Problem: an ASP-Completeness Framework for Graph Problems and Puzzles**|Kosuke Susukita et.al.|[link](http://arxiv.org/abs/2603.03098v1)|null|
+|**2026-03-03**|**Odin: Multi-Signal Graph Intelligence for Autonomous Discovery in Knowledge Graphs**|Muyukani Kizito et.al.|[link](http://arxiv.org/abs/2603.03097v1)|null|
+|**2026-03-03**|**Compact Prompting in Instruction-tuned LLMs for Joint Argumentative Component Detection**|Sofiane Elguendouze et.al.|[link](http://arxiv.org/abs/2603.03095v1)|null|
+|**2026-03-03**|**The Antisymmetric Line Graph**|Hartosh Singh Bal et.al.|[link](http://arxiv.org/abs/2603.03087v1)|null|
+|**2026-03-03**|**Resolving the Kohayakawa-Kreuter Conjecture for Families**|Matthew Yancey et.al.|[link](http://arxiv.org/abs/2603.03086v1)|null|
+|**2026-03-03**|**Concentration of the largest induced tree size of $G_{n,p}$ around the standard expectation threshold**|Jakob Hofstad et.al.|[link](http://arxiv.org/abs/2603.03076v1)|null|
+|**2026-03-03**|**TinyIceNet: Low-Power SAR Sea Ice Segmentation for On-Board FPGA Inference**|Mhd Rashed Al Koutayni et.al.|[link](http://arxiv.org/abs/2603.03075v1)|null|
+|**2026-03-03**|**DLIOS: An LLM-Augmented Real-Time Multi-Modal Interactive Enhancement Overlay System for Douyin Live Streaming**|Shuide Wen et.al.|[link](http://arxiv.org/abs/2603.03060v1)|null|
+|**2026-03-03**|**Incremental Graph Construction Enables Robust Spectral Clustering of Texts**|Marko Pranjić et.al.|[link](http://arxiv.org/abs/2603.03056v1)|null|
+|**2026-03-03**|**SEHFS: Structural Entropy-Guided High-Order Correlation Learning for Multi-View Multi-Label Feature Selection**|Cheng Peng et.al.|[link](http://arxiv.org/abs/2603.03022v1)|null|
 |**2026-03-02**|**Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions**|Amir Asiaee et.al.|[link](http://arxiv.org/abs/2603.02204v1)|null|
 |**2026-03-02**|**Algebraic statistics of Hüsler-Reiss graphical models in multivariate extremes**|Carlos Améndola et.al.|[link](http://arxiv.org/abs/2603.02191v1)|null|
 |**2026-03-02**|**Catapults to the Rescue: Accelerating Vector Search by Exploiting Query Locality**|Sami Abuzakuk et.al.|[link](http://arxiv.org/abs/2603.02164v1)|null|
@@ -4110,6 +4153,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[link](http://arxiv.org/abs/2603.03205v1)|null|
+|**2026-03-03**|**Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling**|Y. Zhong et.al.|[link](http://arxiv.org/abs/2603.03180v1)|null|
+|**2026-03-03**|**Any Resolution Any Geometry: From Multi-View To Multi-Patch**|Wenqing Cui et.al.|[link](http://arxiv.org/abs/2603.03026v1)|null|
+|**2026-03-03**|**SAE as a Crystal Ball: Interpretable Features Predict Cross-domain Transferability of LLMs without Training**|Qi Zhang et.al.|[link](http://arxiv.org/abs/2603.02908v1)|null|
+|**2026-03-03**|**Rethinking Time Series Domain Generalization via Structure-Stratified Calibration**|Jinyang Li et.al.|[link](http://arxiv.org/abs/2603.02756v1)|null|
+|**2026-03-03**|**S2CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation**|Xiaodong Li et.al.|[link](http://arxiv.org/abs/2603.02725v1)|null|
+|**2026-03-03**|**Wukong-Omni: Design, Modeling and Control of a Multi-mode Robot for Air, Land, and Underwater Exploration with All-in-One Propulsion Unit**|Yufan Liu et.al.|[link](http://arxiv.org/abs/2603.02602v1)|null|
 |**2026-03-02**|**From Secure Agentic AI to Secure Agentic Web: Challenges, Threats, and Future Directions**|Zhihang Deng et.al.|[link](http://arxiv.org/abs/2603.01564v1)|null|
 |**2026-03-02**|**GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning**|Yuchen Ying et.al.|[link](http://arxiv.org/abs/2603.01410v1)|null|
 |**2026-03-01**|**Extended Empirical Validation of the Explainability Solution Space**|Antoni Mestre et.al.|[link](http://arxiv.org/abs/2603.01235v1)|null|
