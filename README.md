@@ -1,4 +1,4 @@
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 
 ### ISTD
 
@@ -16,7 +16,7 @@
 |**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
-|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|**[code](https://github.com/greekinRoma/IRSTD_HC_Platform)**|
+|**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|
 |**2026-01-21**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v3)|null|
 |**2025-12-13**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v2)|null|
 |**2025-12-03**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v1)|null|
@@ -25,13 +25,13 @@
 |**2025-11-22**|**JWST COMPASS: Insights into the Systematic Noise Properties of NIRSpec/G395H From a Uniform Reanalysis of Seven Transmission Spectra**|Tyler A. Gordon et.al.|[link](http://arxiv.org/abs/2511.18196v1)|null|
 |**2025-11-21**|**Far-infrared to centimeter emission of very nearby galaxies with archival data**|L. Correia et.al.|[link](http://arxiv.org/abs/2511.17268v1)|null|
 |**2025-11-17**|**You Only Look Omni Gradient Backpropagation for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2511.13013v1)|null|
-|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|**[code](https://github.com/IVPLabs/TDCNet)**|
+|**2025-11-16**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v2)|null|
 |**2025-11-11**|**Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2511.09352v1)|**[code](https://github.com/IVPLaboratory/TDCNet)**|
 |**2025-10-14**|**Ivan-ISTD: Rethinking Cross-domain Heteroscedastic Noise Perturbations in Infrared Small Target Detection**|Yuehui Li et.al.|[link](http://arxiv.org/abs/2510.12241v1)|null|
 |**2025-10-06**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al.|[link](http://arxiv.org/abs/2510.04741v1)|null|
 |**2025-10-02**|**A Mid-Infrared Spectroscopic Study of Young Stellar Objects in the SMC Region NGC 346: JWST Detects Dust, Accretion, Ices and Outflows**|Nolan Habel et.al.|[link](http://arxiv.org/abs/2510.02606v1)|null|
 |**2025-10-01**|**Simulating Spectral Confusion in SPHEREx Photometry and Redshifts**|Zhaoyu Huai et.al.|[link](http://arxiv.org/abs/2510.01410v1)|null|
-|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|**[code](https://github.com/moured/TY-RIST)**|
+|**2025-09-26**|**TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection**|Abdulkarim Atrash et.al.|[link](http://arxiv.org/abs/2509.22909v1)|null|
 |**2025-09-25**|**DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection**|Jiayi Zuo et.al.|[link](http://arxiv.org/abs/2509.20701v1)|null|
 |**2025-09-24**|**Fast and compact time-resolved spectroscopy enabled by Quantum Walk Combs**|Ina Heckelmann et.al.|[link](http://arxiv.org/abs/2509.20112v1)|null|
 |**2025-09-23**|**Rethinking Evaluation of Infrared Small Target Detection**|Youwei Pang et.al.|[link](http://arxiv.org/abs/2509.16888v2)|null|
@@ -288,6 +288,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[link](http://arxiv.org/abs/2603.04399v1)|null|
+|**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[link](http://arxiv.org/abs/2603.04398v1)|null|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[link](http://arxiv.org/abs/2603.04385v1)|null|
+|**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[link](http://arxiv.org/abs/2603.04363v1)|null|
+|**2026-03-04**|**Service Function Chain Routing in LEO Networks Using Shortest-Path Delay Statistical Stability**|Li Zeng et.al.|[link](http://arxiv.org/abs/2603.04361v1)|null|
+|**2026-03-04**|**Robust Unscented Kalman Filtering via Recurrent Meta-Adaptation of Sigma-Point Weights**|Kenan Majewski et.al.|[link](http://arxiv.org/abs/2603.04360v1)|null|
+|**2026-03-04**|**Dissecting Quantization Error: A Concentration-Alignment Perspective**|Marco Federici et.al.|[link](http://arxiv.org/abs/2603.04359v1)|null|
+|**2026-03-04**|**Efficient Refusal Ablation in LLM through Optimal Transport**|Geraldin Nanfack et.al.|[link](http://arxiv.org/abs/2603.04355v1)|null|
+|**2026-03-04**|**Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies for Tendon-Driven Robots**|Valentin Yuryev et.al.|[link](http://arxiv.org/abs/2603.04351v1)|null|
+|**2026-03-04**|**RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation**|Yixin Chen et.al.|[link](http://arxiv.org/abs/2603.04348v1)|null|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[link](http://arxiv.org/abs/2603.04340v1)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[link](http://arxiv.org/abs/2603.04338v1)|null|
+|**2026-03-04**|**Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection**|Dacheng Qi et.al.|[link](http://arxiv.org/abs/2603.04337v1)|null|
+|**2026-03-04**|**Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images**|Damian J. Ruck et.al.|[link](http://arxiv.org/abs/2603.04325v1)|null|
+|**2026-03-04**|**Activation Outliers in Transformer Quantization: Reproduction, Statistical Analysis, and Deployment Tradeoffs**|Pranav Kumar Kaliaperumal et.al.|[link](http://arxiv.org/abs/2603.04308v1)|null|
+|**2026-03-04**|**IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning**|Yihao Qin et.al.|[link](http://arxiv.org/abs/2603.04289v1)|null|
+|**2026-03-04**|**A multi-center analysis of deep learning methods for video polyp detection and segmentation**|Noha Ghatwary et.al.|[link](http://arxiv.org/abs/2603.04288v1)|null|
+|**2026-03-04**|**VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments**|Yifei Chen et.al.|[link](http://arxiv.org/abs/2603.04277v1)|null|
+|**2026-03-04**|**ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos**|Luigi Seminara et.al.|[link](http://arxiv.org/abs/2603.04265v1)|null|
+|**2026-03-04**|**A Hypertoroidal Covering for Perfect Color Equivariance**|Yulong Yang et.al.|[link](http://arxiv.org/abs/2603.04256v1)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[link](http://arxiv.org/abs/2603.03283v1)|null|
 |**2026-03-03**|**Beyond thresholds: reconstructing UV physics from IR expansions**|Hiromasa Takaura et.al.|[link](http://arxiv.org/abs/2603.03277v1)|null|
 |**2026-03-03**|**Policy myopia as a mechanism of gradual disempowerment in Post-AGI governance, Circa 2049**|Subramanyam Sahoo et.al.|[link](http://arxiv.org/abs/2603.03267v1)|null|
@@ -2073,6 +2093,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-04**|**Harnessing Selective State Space Models to Enhance Semianalytical Design of Fabrication-Ready Multilayered Huygens' Metasurfaces: Part II - Generative Inverse Design (MetaMamba)**|Natanel Nissan et.al.|[link](http://arxiv.org/abs/2603.03877v1)|null|
+|**2026-03-04**|**Separators in Enhancing Autoregressive Pretraining for Vision Mamba**|Hanpeng Liu et.al.|[link](http://arxiv.org/abs/2603.03806v1)|null|
+|**2026-03-03**|**mHC-HSI: Clustering-Guided Hyper-Connection Mamba for Hyperspectral Image Classification**|Yimin Zhu et.al.|[link](http://arxiv.org/abs/2603.03418v1)|null|
 |**2026-03-03**|**MaBERT:A Padding Safe Interleaved Transformer Mamba Hybrid Encoder for Efficient Extended Context Masked Language Modeling**|Jinwoong Kim et.al.|[link](http://arxiv.org/abs/2603.03001v1)|null|
 |**2026-03-03**|**Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective**|Kaifang Long et.al.|[link](http://arxiv.org/abs/2603.02629v1)|null|
 |**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[link](http://arxiv.org/abs/2603.02560v1)|null|
@@ -2506,6 +2529,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[link](http://arxiv.org/abs/2603.04390v1)|null|
+|**2026-03-04**|**Super-decomposable pure-injective modules over some Jacobian algebras**|Shantanu Sardar et.al.|[link](http://arxiv.org/abs/2603.04387v1)|null|
+|**2026-03-04**|**The Gaussian Wave for Graphs of Finite Cone Type**|Amir Dembo et.al.|[link](http://arxiv.org/abs/2603.04386v1)|null|
+|**2026-03-04**|**Comparison theorems for the extreme eigenvalues of a random symmetric matrix**|Joel A. Tropp et.al.|[link](http://arxiv.org/abs/2603.04365v1)|null|
+|**2026-03-04**|**Service Function Chain Routing in LEO Networks Using Shortest-Path Delay Statistical Stability**|Li Zeng et.al.|[link](http://arxiv.org/abs/2603.04361v1)|null|
+|**2026-03-04**|**FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering**|Tatiana Zemskova et.al.|[link](http://arxiv.org/abs/2603.04349v1)|null|
+|**2026-03-04**|**All-to-all Routing on Kautz Graphs: Regular Routing Beats Shortest Paths**|Vance Faber et.al.|[link](http://arxiv.org/abs/2603.04344v1)|null|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[link](http://arxiv.org/abs/2603.04340v1)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[link](http://arxiv.org/abs/2603.04338v1)|null|
+|**2026-03-04**|**Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection**|Dacheng Qi et.al.|[link](http://arxiv.org/abs/2603.04337v1)|null|
+|**2026-03-04**|**AILS-NTUA at SemEval-2026 Task 12: Graph-Based Retrieval and Reflective Prompting for Abductive Event Reasoning**|Nikolas Karafyllis et.al.|[link](http://arxiv.org/abs/2603.04319v1)|null|
+|**2026-03-04**|**A Symmetry-Based Classification of Synchrony in Tree Networks**|Nicolas Brito et.al.|[link](http://arxiv.org/abs/2603.04313v1)|null|
+|**2026-03-04**|**Theory Discovery in Social Networks: Automating ERGM Specification with Large Language Models**|Yidan Sun et.al.|[link](http://arxiv.org/abs/2603.04306v1)|null|
+|**2026-03-04**|**A multi-center analysis of deep learning methods for video polyp detection and segmentation**|Noha Ghatwary et.al.|[link](http://arxiv.org/abs/2603.04288v1)|null|
+|**2026-03-04**|**VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments**|Yifei Chen et.al.|[link](http://arxiv.org/abs/2603.04277v1)|null|
+|**2026-03-04**|**Causality Elicitation from Large Language Models**|Takashi Kameyama et.al.|[link](http://arxiv.org/abs/2603.04276v1)|null|
+|**2026-03-04**|**ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos**|Luigi Seminara et.al.|[link](http://arxiv.org/abs/2603.04265v1)|null|
+|**2026-03-04**|**A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces**|Lucas He et.al.|[link](http://arxiv.org/abs/2603.04243v1)|null|
+|**2026-03-04**|**Minimum Weight Decoding in the Colour Code is NP-hard**|Mark Walters et.al.|[link](http://arxiv.org/abs/2603.04234v1)|null|
+|**2026-03-04**|**Continuous Ventricular Volumetric Quantification in Patients with Arrhythmias using Real-Time 3D CMR-MOTUS**|Thomas E. Olausson et.al.|[link](http://arxiv.org/abs/2603.04233v1)|null|
 |**2026-03-03**|**Yeo's Theorem for Locally Colored Graphs: the Path to Sequentialization in Linear Logic**|Rémi Di Guardia et.al.|[link](http://arxiv.org/abs/2603.03262v1)|null|
 |**2026-03-03**|**Supercritical sharpness of percolation**|Sahar Diskin et.al.|[link](http://arxiv.org/abs/2603.03257v1)|null|
 |**2026-03-03**|**I-CAM-UV: Integrating Causal Graphs over Non-Identical Variable Sets Using Causal Additive Models with Unobserved Variables**|Hirofumi Suzuki et.al.|[link](http://arxiv.org/abs/2603.03207v1)|null|
@@ -4153,6 +4196,16 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[link](http://arxiv.org/abs/2603.04380v1)|null|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[link](http://arxiv.org/abs/2603.04340v1)|null|
+|**2026-03-04**|**SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning**|Umid Suleymanov et.al.|[link](http://arxiv.org/abs/2603.04321v1)|null|
+|**2026-03-04**|**FlowW2N: Whispered-to-Normal Speech Conversion via Flow-Matching**|Fabian Ritter-Gutierrez et.al.|[link](http://arxiv.org/abs/2603.04296v1)|null|
+|**2026-03-04**|**OmniPlanner: Universal Exploration and Inspection Path Planning across Robot Morphologies**|Angelos Zacharia et.al.|[link](http://arxiv.org/abs/2603.04284v1)|null|
+|**2026-03-04**|**Low-Altitude Agentic Networks for Optical Wireless Communication and Sensing: An Oceanic Scenario**|Tianqi Mao et.al.|[link](http://arxiv.org/abs/2603.04042v1)|null|
+|**2026-03-04**|**Universal Pansharpening Foundation Model**|Hebaixu Wang et.al.|[link](http://arxiv.org/abs/2603.03831v1)|null|
+|**2026-03-04**|**LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving**|Qihao Sun et.al.|[link](http://arxiv.org/abs/2603.03765v1)|null|
+|**2026-03-04**|**QD-PCQA: Quality-Aware Domain Adaptation for Point Cloud Quality Assessment**|Guohua Zhang et.al.|[link](http://arxiv.org/abs/2603.03726v1)|null|
+|**2026-03-03**|**Multi-Agent Influence Diagrams to Hybrid Threat Modeling**|Maarten C. Vonk et.al.|[link](http://arxiv.org/abs/2603.03526v1)|null|
 |**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[link](http://arxiv.org/abs/2603.03205v1)|null|
 |**2026-03-03**|**Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling**|Y. Zhong et.al.|[link](http://arxiv.org/abs/2603.03180v1)|null|
 |**2026-03-03**|**Any Resolution Any Geometry: From Multi-View To Multi-Patch**|Wenqing Cui et.al.|[link](http://arxiv.org/abs/2603.03026v1)|null|
