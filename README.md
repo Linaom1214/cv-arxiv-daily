@@ -1,9 +1,10 @@
-## Updated on 2026.03.06
+## Updated on 2026.03.07
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-05**|**MI-DETR: A Strong Baseline for Moving Infrared Small Target Detection with Bio-Inspired Motion Integration**|Nian Liu et.al.|[link](http://arxiv.org/abs/2603.05071v1)|null|
 |**2026-02-03**|**Dynamic High-frequency Convolution for Infrared Small Target Detection**|Ruojing Li et.al.|[link](http://arxiv.org/abs/2602.02969v1)|null|
 |**2026-02-02**|**SPIRIT: Adapting Vision Foundation Models for Unified Single- and Multi-Frame Infrared Small Target Detection**|Qian Xu et.al.|[link](http://arxiv.org/abs/2602.01843v1)|null|
 |**2026-02-13**|**MDAFNet: Multiscale Differential Edge and Adaptive Frequency Guided Network for Infrared Small Target Detection**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16434v2)|null|
@@ -288,6 +289,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-05**|**Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups**|Leif Van Holland et.al.|[link](http://arxiv.org/abs/2603.05507v1)|null|
+|**2026-03-05**|**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**|Weijie Lyu et.al.|[link](http://arxiv.org/abs/2603.05506v1)|null|
+|**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[link](http://arxiv.org/abs/2603.05503v1)|null|
+|**2026-03-05**|**POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation**|Zeju Qiu et.al.|[link](http://arxiv.org/abs/2603.05500v1)|null|
+|**2026-03-05**|**The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks**|Shangwen Sun et.al.|[link](http://arxiv.org/abs/2603.05498v1)|null|
+|**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[link](http://arxiv.org/abs/2603.05497v1)|null|
+|**2026-03-05**|**Observing and Controlling Features in Vision-Language-Action Models**|Hugo Buurmeijer et.al.|[link](http://arxiv.org/abs/2603.05487v1)|null|
+|**2026-03-05**|**Heuristics for Shuttling Sequence Optimization for a Linear Segmented Trapped-Ion Quantum Computer**|J. Durandau et.al.|[link](http://arxiv.org/abs/2603.05464v1)|null|
+|**2026-03-05**|**EdgeDAM: Real-time Object Tracking for Mobile Devices**|Syed Muhammad Raza et.al.|[link](http://arxiv.org/abs/2603.05463v1)|null|
+|**2026-03-05**|**NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance**|Abrar Eyasir et.al.|[link](http://arxiv.org/abs/2603.05462v1)|null|
+|**2026-03-05**|**Manipulation of ferromagnetism with a light-driven nonlinear Edelstein-Zeeman field**|Yinchuan Lv et.al.|[link](http://arxiv.org/abs/2603.05456v1)|null|
+|**2026-03-05**|**FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling**|Ted Zadouri et.al.|[link](http://arxiv.org/abs/2603.05451v1)|null|
+|**2026-03-05**|**High-Pressure Inelastic Neutron Spectroscopy: A true test of Machine-Learned Interatomic Potential energy landscapes**|Jeff Armstrong et.al.|[link](http://arxiv.org/abs/2603.05442v1)|null|
+|**2026-03-05**|**MobileFetalCLIP: Selective Repulsive Knowledge Distillation for Mobile Fetal Ultrasound Analysis**|Numan Saeed et.al.|[link](http://arxiv.org/abs/2603.05421v1)|null|
+|**2026-03-05**|**Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals**|Junchi Chen et.al.|[link](http://arxiv.org/abs/2603.05420v1)|null|
+|**2026-03-05**|**The Spatial and Temporal Resolution of Motor Intention in Multi-Target Prediction**|Marie Dominique Schmidt et.al.|[link](http://arxiv.org/abs/2603.05418v1)|null|
+|**2026-03-05**|**All You Need is Amplifier: Spectral Imposters Without Pulse Shaping**|Valeriia Bilokon et.al.|[link](http://arxiv.org/abs/2603.05417v1)|null|
+|**2026-03-05**|**Progressive Residual Warmup for Language Model Pretraining**|Tianhao Chen et.al.|[link](http://arxiv.org/abs/2603.05369v1)|null|
+|**2026-03-05**|**Revisiting Graph Modification via Disk Scaling: From One Radius to Interval-Based Radii**|Thomas Depian et.al.|[link](http://arxiv.org/abs/2603.05358v1)|null|
+|**2026-03-05**|**A Shift-Invariant Deep Learning Framework for Automated Analysis of XPS Spectra**|Issa Saddiq et.al.|[link](http://arxiv.org/abs/2603.05350v1)|null|
 |**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[link](http://arxiv.org/abs/2603.04399v1)|null|
 |**2026-03-04**|**HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing**|Shubdeep Mohapatra et.al.|[link](http://arxiv.org/abs/2603.04398v1)|null|
 |**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[link](http://arxiv.org/abs/2603.04385v1)|null|
@@ -2093,6 +2114,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-05**|**Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement**|Priyanshi Singh et.al.|[link](http://arxiv.org/abs/2603.05468v1)|null|
+|**2026-03-04**|**Mask-aware inference with State-Space Models**|Ignasi Mas et.al.|[link](http://arxiv.org/abs/2603.04568v1)|null|
 |**2026-03-04**|**Harnessing Selective State Space Models to Enhance Semianalytical Design of Fabrication-Ready Multilayered Huygens' Metasurfaces: Part II - Generative Inverse Design (MetaMamba)**|Natanel Nissan et.al.|[link](http://arxiv.org/abs/2603.03877v1)|null|
 |**2026-03-04**|**Separators in Enhancing Autoregressive Pretraining for Vision Mamba**|Hanpeng Liu et.al.|[link](http://arxiv.org/abs/2603.03806v1)|null|
 |**2026-03-03**|**mHC-HSI: Clustering-Guided Hyper-Connection Mamba for Hyperspectral Image Classification**|Yimin Zhu et.al.|[link](http://arxiv.org/abs/2603.03418v1)|null|
@@ -2529,6 +2552,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[link](http://arxiv.org/abs/2603.05497v1)|null|
+|**2026-03-05**|**Chromatic thresholds for linear equations and recurrence**|Hong Liu et.al.|[link](http://arxiv.org/abs/2603.05490v1)|null|
+|**2026-03-05**|**Thresholds for colouring the random Borsuk graph**|Álvaro Acitores Montero et.al.|[link](http://arxiv.org/abs/2603.05467v1)|null|
+|**2026-03-05**|**Heuristics for Shuttling Sequence Optimization for a Linear Segmented Trapped-Ion Quantum Computer**|J. Durandau et.al.|[link](http://arxiv.org/abs/2603.05464v1)|null|
+|**2026-03-05**|**EdgeDAM: Real-time Object Tracking for Mobile Devices**|Syed Muhammad Raza et.al.|[link](http://arxiv.org/abs/2603.05463v1)|**[code](https://github.com/SMRaza1009/EdgeDAM)**|
+|**2026-03-05**|**Homological methods in rigidity theory using graphs of groups**|Joannes Vermant et.al.|[link](http://arxiv.org/abs/2603.05435v1)|null|
+|**2026-03-05**|**The Spatial and Temporal Resolution of Motor Intention in Multi-Target Prediction**|Marie Dominique Schmidt et.al.|[link](http://arxiv.org/abs/2603.05418v1)|null|
+|**2026-03-05**|**Generalized matching decoders for 2D topological translationally-invariant codes**|Shi Jie Samuel Tan et.al.|[link](http://arxiv.org/abs/2603.05402v1)|null|
+|**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[link](http://arxiv.org/abs/2603.05397v1)|null|
+|**2026-03-05**|**On the Necessity of Learnable Sheaf Laplacians**|Ferran Hernandez Caralt et.al.|[link](http://arxiv.org/abs/2603.05395v1)|null|
+|**2026-03-05**|**SpiderCat: Optimal Fault-Tolerant Cat State Preparation**|Andrey Boris Khesin et.al.|[link](http://arxiv.org/abs/2603.05391v1)|null|
+|**2026-03-05**|**Achieving Thresholds via Standalone Belief Propagation on Surface Codes**|Pedro Hack et.al.|[link](http://arxiv.org/abs/2603.05381v1)|null|
+|**2026-03-05**|**Robust Node Affinities via Jaccard-Biased Random Walks and Rank Aggregation**|Bastian Pfeifer et.al.|[link](http://arxiv.org/abs/2603.05375v1)|null|
+|**2026-03-05**|**PACE: A Personalized Adaptive Curriculum Engine for 9-1-1 Call-taker Training**|Zirong Chen et.al.|[link](http://arxiv.org/abs/2603.05361v1)|null|
+|**2026-03-05**|**Revisiting Graph Modification via Disk Scaling: From One Radius to Interval-Based Radii**|Thomas Depian et.al.|[link](http://arxiv.org/abs/2603.05358v1)|null|
+|**2026-03-05**|**Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs**|Haoyu Zhou et.al.|[link](http://arxiv.org/abs/2603.05343v1)|null|
+|**2026-03-05**|**Garment numbers of bi-colored point sets in the plane**|Oswin Aichholzer et.al.|[link](http://arxiv.org/abs/2603.05339v1)|null|
+|**2026-03-05**|**Hitting time for Hamilton cycles in pseudorandom graphs**|Yaobin Chen et.al.|[link](http://arxiv.org/abs/2603.05269v1)|null|
+|**2026-03-05**|**Gauge-string duality, monomial bases and graph determinants**|Garreth Kemp et.al.|[link](http://arxiv.org/abs/2603.05259v1)|null|
+|**2026-03-05**|**Computing Scaled Relative Graphs of Discrete-time LTI Systems from Data**|Talitha Nauta et.al.|[link](http://arxiv.org/abs/2603.05239v1)|null|
 |**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[link](http://arxiv.org/abs/2603.04390v1)|null|
 |**2026-03-04**|**Super-decomposable pure-injective modules over some Jacobian algebras**|Shantanu Sardar et.al.|[link](http://arxiv.org/abs/2603.04387v1)|null|
 |**2026-03-04**|**The Gaussian Wave for Graphs of Finite Cone Type**|Amir Dembo et.al.|[link](http://arxiv.org/abs/2603.04386v1)|null|
@@ -4196,6 +4239,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-05**|**An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs**|Deshan Sumanathilaka et.al.|[link](http://arxiv.org/abs/2603.05400v1)|null|
+|**2026-03-05**|**Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning**|Zhenyu Zhang et.al.|[link](http://arxiv.org/abs/2603.05235v1)|null|
+|**2026-03-05**|**SRasP: Self-Reorientation Adversarial Style Perturbation for Cross-Domain Few-Shot Learning**|Wenqian Li et.al.|[link](http://arxiv.org/abs/2603.05135v1)|null|
+|**2026-03-05**|**UniPAR: A Unified Framework for Pedestrian Attribute Recognition**|Minghe Xu et.al.|[link](http://arxiv.org/abs/2603.05114v1)|null|
+|**2026-03-05**|**Lightweight and Scalable Transfer Learning Framework for Load Disaggregation**|L. E. Garcia-Marrero et.al.|[link](http://arxiv.org/abs/2603.04998v1)|null|
+|**2026-03-05**|**Authorize-on-Demand: Dynamic Authorization with Legality-Aware Intellectual Property Protection for VLMs**|Lianyu Wang et.al.|[link](http://arxiv.org/abs/2603.04896v1)|null|
+|**2026-03-05**|**Breaking Contextual Inertia: Reinforcement Learning with Single-Turn Anchors for Stable Multi-Turn Interaction**|Xingwu Chen et.al.|[link](http://arxiv.org/abs/2603.04783v1)|null|
 |**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[link](http://arxiv.org/abs/2603.04380v1)|null|
 |**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[link](http://arxiv.org/abs/2603.04340v1)|null|
 |**2026-03-04**|**SPRINT: Semi-supervised Prototypical Representation for Few-Shot Class-Incremental Tabular Learning**|Umid Suleymanov et.al.|[link](http://arxiv.org/abs/2603.04321v1)|null|
