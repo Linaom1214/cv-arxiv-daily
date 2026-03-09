@@ -1,4 +1,4 @@
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 
 ### ISTD
 
@@ -289,6 +289,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[link](http://arxiv.org/abs/2603.06512v1)|null|
+|**2026-03-06**|**NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches**|Ethan Smith et.al.|[link](http://arxiv.org/abs/2603.06492v1)|null|
+|**2026-03-06**|**Match4Annotate: Propagating Sparse Video Annotations via Implicit Neural Feature Matching**|Zhuorui Zhang et.al.|[link](http://arxiv.org/abs/2603.06471v1)|null|
+|**2026-03-06**|**Only Segmented Heavy Tails Can Produce a Light-Tailed Minimum**|Sergey Foss et.al.|[link](http://arxiv.org/abs/2603.06452v1)|null|
+|**2026-03-06**|**CLoPA: Continual Low Parameter Adaptation of Interactive Segmentation for Medical Image Annotation**|Parhom Esmaeili et.al.|[link](http://arxiv.org/abs/2603.06426v1)|null|
+|**2026-03-06**|**The DCT Model as a Novel Regression Framework within a Lagrangian Formulation**|Marc Martinez-Gost et.al.|[link](http://arxiv.org/abs/2603.06418v1)|null|
+|**2026-03-06**|**Long-time behaviour of a nonlocal stochastic fractional reaction--diffusion equation arising in tumour dynamics**|Nikos I. Kavallaris et.al.|[link](http://arxiv.org/abs/2603.06414v1)|null|
+|**2026-03-06**|**Exponential stability of the linearized viscous Saint-Venant equations using a quadratic Lyapunov function**|Amaury Hayat et.al.|[link](http://arxiv.org/abs/2603.06411v1)|null|
+|**2026-03-06**|**Locating and Editing Figure-Ground Organization in Vision Transformers**|Stefan Arnold et.al.|[link](http://arxiv.org/abs/2603.06407v1)|null|
+|**2026-03-06**|**Spinor moving frame, type II superparticle quantization, hidden $SU(8)$ symmetry of linearized 10D supergravity, and superamplitudes**|Igor Bandos et.al.|[link](http://arxiv.org/abs/2603.06404v1)|null|
+|**2026-03-06**|**Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation**|Yonghuang Wu et.al.|[link](http://arxiv.org/abs/2603.06384v1)|null|
+|**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[link](http://arxiv.org/abs/2603.06374v1)|null|
+|**2026-03-06**|**One-sided large deviations for the ground-state energy of spin glasses**|Hong-Bin Chen et.al.|[link](http://arxiv.org/abs/2603.06368v1)|null|
+|**2026-03-06**|**CLAIRE: Compressed Latent Autoencoder for Industrial Representation and Evaluation -- A Deep Learning Framework for Smart Manufacturing**|Mohammadhossein Ghahramani et.al.|[link](http://arxiv.org/abs/2603.06361v1)|null|
+|**2026-03-06**|**Dynamic Chunking Diffusion Transformer**|Akash Haridas et.al.|[link](http://arxiv.org/abs/2603.06351v1)|null|
+|**2026-03-06**|**Transparent AI for Mathematics: Transformer-Based Large Language Models for Mathematical Entity Relationship Extraction with XAI**|Tanjim Taharat Aurpa et.al.|[link](http://arxiv.org/abs/2603.06348v1)|null|
+|**2026-03-06**|**Constraints on BMS Transformations via Energy Conditions and implications on black hole geometry**|Nihar Ranjan Ghosh et.al.|[link](http://arxiv.org/abs/2603.06323v1)|null|
+|**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[link](http://arxiv.org/abs/2603.06321v1)|null|
+|**2026-03-06**|**Latent Transfer Attack: Adversarial Examples via Generative Latent Spaces**|Eitan Shaar et.al.|[link](http://arxiv.org/abs/2603.06311v1)|null|
+|**2026-03-06**|**Spin-Orbit Induced Non-Adiabatic Dynamics: An Exact $Ω$-Representation**|Ryan P. Brady et.al.|[link](http://arxiv.org/abs/2603.06306v1)|null|
 |**2026-03-05**|**Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups**|Leif Van Holland et.al.|[link](http://arxiv.org/abs/2603.05507v1)|**[code](https://github.com/vc-bonn/transformer-based-inpainting)**|
 |**2026-03-05**|**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**|Weijie Lyu et.al.|[link](http://arxiv.org/abs/2603.05506v1)|**[code](https://github.com/weijielyu/FaceCam)**|
 |**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[link](http://arxiv.org/abs/2603.05503v1)|null|
@@ -2552,6 +2572,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[link](http://arxiv.org/abs/2603.06512v1)|null|
+|**2026-03-06**|**CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization**|Maximilian Hilger et.al.|[link](http://arxiv.org/abs/2603.06501v1)|null|
+|**2026-03-06**|**Rotation-invariant graph message passing enables acquisition protocol generalisation in learning-based brain microstructure estimation**|Leevi Kerkelä et.al.|[link](http://arxiv.org/abs/2603.06496v1)|null|
+|**2026-03-06**|**Match4Annotate: Propagating Sparse Video Annotations via Implicit Neural Feature Matching**|Zhuorui Zhang et.al.|[link](http://arxiv.org/abs/2603.06471v1)|null|
+|**2026-03-06**|**Only Segmented Heavy Tails Can Produce a Light-Tailed Minimum**|Sergey Foss et.al.|[link](http://arxiv.org/abs/2603.06452v1)|null|
+|**2026-03-06**|**CLoPA: Continual Low Parameter Adaptation of Interactive Segmentation for Medical Image Annotation**|Parhom Esmaeili et.al.|[link](http://arxiv.org/abs/2603.06426v1)|null|
+|**2026-03-06**|**Temporal Network Creation Games: The Impact of Flexible Labels**|Hans Gawendowicz et.al.|[link](http://arxiv.org/abs/2603.06406v1)|null|
+|**2026-03-06**|**Quantum Hamlets: Distributed Compilation of Large Algorithmic Graph States**|Anthony Micciche et.al.|[link](http://arxiv.org/abs/2603.06387v1)|null|
+|**2026-03-06**|**REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[link](http://arxiv.org/abs/2603.06386v1)|null|
+|**2026-03-06**|**Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation**|Yonghuang Wu et.al.|[link](http://arxiv.org/abs/2603.06384v1)|null|
+|**2026-03-06**|**Unifying Graph Measures and Stabilizer Decompositions for the Classical Simulation of Quantum Circuits**|Julien Codsi et.al.|[link](http://arxiv.org/abs/2603.06377v1)|null|
+|**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[link](http://arxiv.org/abs/2603.06374v1)|null|
+|**2026-03-06**|**Recognizing Subgraphs of Regular Tilings**|Eliel Ingervo et.al.|[link](http://arxiv.org/abs/2603.06367v1)|null|
+|**2026-03-06**|**Dynamic Chunking Diffusion Transformer**|Akash Haridas et.al.|[link](http://arxiv.org/abs/2603.06351v1)|null|
+|**2026-03-06**|**Transparent AI for Mathematics: Transformer-Based Large Language Models for Mathematical Entity Relationship Extraction with XAI**|Tanjim Taharat Aurpa et.al.|[link](http://arxiv.org/abs/2603.06348v1)|null|
+|**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[link](http://arxiv.org/abs/2603.06321v1)|null|
+|**2026-03-06**|**Polarized Direct Cross-Attention Message Passing in GNNs for Machinery Fault Diagnosis**|Zongyu Shi et.al.|[link](http://arxiv.org/abs/2603.06303v1)|null|
+|**2026-03-06**|**DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models**|Walid Bousselham et.al.|[link](http://arxiv.org/abs/2603.06302v1)|null|
+|**2026-03-06**|**The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI**|Giovanni Servedio et.al.|[link](http://arxiv.org/abs/2603.06290v1)|null|
+|**2026-03-06**|**A hybrid reduced-order and high-fidelity discontinuous Galerkin Spectral Element framework for large-scale PMUT array simulations**|Paola F. Antonietti et.al.|[link](http://arxiv.org/abs/2603.06267v1)|null|
 |**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[link](http://arxiv.org/abs/2603.05497v1)|null|
 |**2026-03-05**|**Chromatic thresholds for linear equations and recurrence**|Hong Liu et.al.|[link](http://arxiv.org/abs/2603.05490v1)|null|
 |**2026-03-05**|**Thresholds for colouring the random Borsuk graph**|Álvaro Acitores Montero et.al.|[link](http://arxiv.org/abs/2603.05467v1)|null|
@@ -4239,6 +4279,15 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-06**|**An Integrated Failure and Threat Mode and Effect Analysis (FTMEA) Framework with Quantified Cross-Domain Correlation Factors for Automotive Semiconductors**|Antonino Armato et.al.|[link](http://arxiv.org/abs/2603.06299v1)|null|
+|**2026-03-06**|**Cut to the Chase: Training-free Multimodal Summarization via Chain-of-Events**|Xiaoxing You et.al.|[link](http://arxiv.org/abs/2603.06213v1)|null|
+|**2026-03-06**|**A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement**|Ruili Li et.al.|[link](http://arxiv.org/abs/2603.06167v1)|null|
+|**2026-03-06**|**Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR**|Ajinkya Kulkarni et.al.|[link](http://arxiv.org/abs/2603.06164v1)|null|
+|**2026-03-06**|**Towards High-resolution and Disentangled Reference-based Sketch Colorization**|Dingkun Yan et.al.|[link](http://arxiv.org/abs/2603.05971v1)|null|
+|**2026-03-06**|**Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation**|Bowen Chen et.al.|[link](http://arxiv.org/abs/2603.05873v1)|null|
+|**2026-03-06**|**Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery**|Lin Fan et.al.|[link](http://arxiv.org/abs/2603.05860v1)|null|
+|**2026-03-06**|**OpenHEART: Opening Heterogeneous Articulated Objects with a Legged Manipulator**|Seonghyeon Lim et.al.|[link](http://arxiv.org/abs/2603.05830v1)|null|
+|**2026-03-05**|**Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum**|Lauri Lovén et.al.|[link](http://arxiv.org/abs/2603.05614v1)|null|
 |**2026-03-05**|**An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs**|Deshan Sumanathilaka et.al.|[link](http://arxiv.org/abs/2603.05400v1)|null|
 |**2026-03-05**|**Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning**|Zhenyu Zhang et.al.|[link](http://arxiv.org/abs/2603.05235v1)|null|
 |**2026-03-05**|**SRasP: Self-Reorientation Adversarial Style Perturbation for Cross-Domain Few-Shot Learning**|Wenqian Li et.al.|[link](http://arxiv.org/abs/2603.05135v1)|null|
