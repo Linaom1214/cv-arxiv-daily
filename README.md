@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 
 ### ISTD
 
@@ -14,7 +14,7 @@
 |**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|
 |**2026-01-06**|**Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection**|Yuteng Liu et.al.|[link](http://arxiv.org/abs/2601.02837v1)|null|
 |**2025-12-10**|**Gradient-Guided Learning Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2512.09497v1)|null|
-|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
+|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|null|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
 |**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|
@@ -289,6 +289,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-07**|**The role of austenite twins on variant selection during decomposition in low carbon steels**|Ruth M. Birch et.al.|[link](http://arxiv.org/abs/2603.07378v1)|null|
+|**2026-03-07**|**Domain-Specific Quality Estimation for Machine Translation in Low-Resource Scenarios**|Namrata Patil Gurav et.al.|[link](http://arxiv.org/abs/2603.07372v1)|null|
+|**2026-03-07**|**Learning to Reflect: Hierarchical Multi-Agent Reinforcement Learning for CSI-Free mmWave Beam-Focusing**|Hieu Le et.al.|[link](http://arxiv.org/abs/2603.07370v1)|null|
+|**2026-03-07**|**Position: LLMs Must Use Functor-Based and RAG-Driven Bias Mitigation for Fairness**|Ravi Ranjan et.al.|[link](http://arxiv.org/abs/2603.07368v1)|null|
+|**2026-03-07**|**AgrI Challenge: A Data-Centric AI Competition for Cross-Team Validation in Agricultural Vision**|Mohammed Brahimi et.al.|[link](http://arxiv.org/abs/2603.07356v1)|null|
+|**2026-03-07**|**Irrational series I Laplace transform in a neighborhood of $-\infty$**|Olivier Thom et.al.|[link](http://arxiv.org/abs/2603.07347v1)|null|
+|**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[link](http://arxiv.org/abs/2603.07338v1)|null|
+|**2026-03-07**|**Self-Supervised Evolutionary Learning of Neurodynamic Progression and Identity Manifolds from EEG During Safety-Critical Decision Making**|Xiaoshan Zhou et.al.|[link](http://arxiv.org/abs/2603.07334v1)|null|
+|**2026-03-07**|**StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models**|Duy M. H. Nguyen et.al.|[link](http://arxiv.org/abs/2603.07307v1)|null|
+|**2026-03-07**|**Spectral Discovery of Continuous Symmetries via Generalized Fourier Transforms**|Pavan Karjol et.al.|[link](http://arxiv.org/abs/2603.07299v1)|null|
+|**2026-03-07**|**On one class of nowhere non-monotonic functions with fractal properties that contains a subclass of singular functions**|S. O. Klymchuk et.al.|[link](http://arxiv.org/abs/2603.07257v1)|null|
+|**2026-03-07**|**LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture**|Erik Scheurer et.al.|[link](http://arxiv.org/abs/2603.07246v1)|null|
+|**2026-03-07**|**On a noncommutative deformation of holomorphic line bundles on complex tori and the SYZ transform**|Kazushi Kobayashi et.al.|[link](http://arxiv.org/abs/2603.07239v1)|null|
+|**2026-03-07**|**Single Image Super-Resolution via Bivariate `A Trous Wavelet Diffusion**|Heidari Maryam et.al.|[link](http://arxiv.org/abs/2603.07234v1)|null|
+|**2026-03-07**|**Conditional Rank-Rank Regression via Deep Conditional Transformation Models**|Xiaoyi Wang et.al.|[link](http://arxiv.org/abs/2603.07230v1)|null|
+|**2026-03-07**|**LightMedSeg: Lightweight 3D Medical Image Segmentation with Learned Spatial Anchors**|Kavyansh Tyagi et.al.|[link](http://arxiv.org/abs/2603.07228v1)|null|
+|**2026-03-07**|**A Miniature Brain Transformer: Thalamic Gating, Hippocampal Lateralization, Amygdaloid Salience, and Prefrontal Working Memory in Attention-Coupled Latent Memory**|Hong Jeong et.al.|[link](http://arxiv.org/abs/2603.07217v1)|null|
+|**2026-03-07**|**Towards Objective Gastrointestinal Auscultation: Automated Segmentation and Annotation of Bowel Sound Patterns**|Zahra Mansour et.al.|[link](http://arxiv.org/abs/2603.07215v1)|null|
+|**2026-03-07**|**Quantum Tunneling Enables High-Flux Transport in Ion Channels**|Bin Zhou et.al.|[link](http://arxiv.org/abs/2603.07196v1)|null|
+|**2026-03-07**|**Class Visualizations and Activation Atlases for Enhancing Interpretability in Deep Learning-Based Computational Pathology**|Marco Gustav et.al.|[link](http://arxiv.org/abs/2603.07170v1)|null|
 |**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[link](http://arxiv.org/abs/2603.06512v1)|null|
 |**2026-03-06**|**NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches**|Ethan Smith et.al.|[link](http://arxiv.org/abs/2603.06492v1)|null|
 |**2026-03-06**|**Match4Annotate: Propagating Sparse Video Annotations via Implicit Neural Feature Matching**|Zhuorui Zhang et.al.|[link](http://arxiv.org/abs/2603.06471v1)|null|
@@ -2134,6 +2154,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-06**|**Swimba: Switch Mamba Model Scales State Space Models**|Zhixu Du et.al.|[link](http://arxiv.org/abs/2603.06938v1)|null|
+|**2026-03-06**|**DLRMamba: Distilling Low-Rank Mamba for Edge Multispectral Fusion Object Detection**|Qianqian Zhang et.al.|[link](http://arxiv.org/abs/2603.06920v1)|null|
 |**2026-03-05**|**Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement**|Priyanshi Singh et.al.|[link](http://arxiv.org/abs/2603.05468v1)|null|
 |**2026-03-04**|**Mask-aware inference with State-Space Models**|Ignasi Mas et.al.|[link](http://arxiv.org/abs/2603.04568v1)|null|
 |**2026-03-04**|**Harnessing Selective State Space Models to Enhance Semianalytical Design of Fabrication-Ready Multilayered Huygens' Metasurfaces: Part II - Generative Inverse Design (MetaMamba)**|Natanel Nissan et.al.|[link](http://arxiv.org/abs/2603.03877v1)|null|
@@ -2572,6 +2594,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-08**|**Approximating Tensor Network Contraction with Sketches**|Mike Heddes et.al.|[link](http://arxiv.org/abs/2603.07387v1)|null|
+|**2026-03-07**|**Learning Concept Bottleneck Models from Mechanistic Explanations**|Antonio De Santis et.al.|[link](http://arxiv.org/abs/2603.07343v1)|null|
+|**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[link](http://arxiv.org/abs/2603.07338v1)|null|
+|**2026-03-07**|**Self-Supervised Evolutionary Learning of Neurodynamic Progression and Identity Manifolds from EEG During Safety-Critical Decision Making**|Xiaoshan Zhou et.al.|[link](http://arxiv.org/abs/2603.07334v1)|null|
+|**2026-03-07**|**Echo: Graph-Enhanced Retrieval and Execution Feedback for Issue Reproduction Test Generation**|Zhiwei Fei et.al.|[link](http://arxiv.org/abs/2603.07326v1)|null|
+|**2026-03-07**|**StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models**|Duy M. H. Nguyen et.al.|[link](http://arxiv.org/abs/2603.07307v1)|null|
+|**2026-03-07**|**Tursio for Credit Unions: Powering Structured Data Search with Automated Context Graph**|Shivani Tripathi et.al.|[link](http://arxiv.org/abs/2603.07304v1)|null|
+|**2026-03-07**|**Hamiltonian Sets of Polygonal Paths in Assembly Graphs**|A. Guterman et.al.|[link](http://arxiv.org/abs/2603.07296v1)|null|
+|**2026-03-07**|**Sketch-Oriented Databases**|Dominique Duval et.al.|[link](http://arxiv.org/abs/2603.07268v1)|null|
+|**2026-03-07**|**On one class of nowhere non-monotonic functions with fractal properties that contains a subclass of singular functions**|S. O. Klymchuk et.al.|[link](http://arxiv.org/abs/2603.07257v1)|null|
+|**2026-03-07**|**On distance integral and distance Laplacian integral graphs**|S. Pirzada et.al.|[link](http://arxiv.org/abs/2603.07232v1)|null|
+|**2026-03-07**|**LightMedSeg: Lightweight 3D Medical Image Segmentation with Learned Spatial Anchors**|Kavyansh Tyagi et.al.|[link](http://arxiv.org/abs/2603.07228v1)|null|
+|**2026-03-07**|**Towards Objective Gastrointestinal Auscultation: Automated Segmentation and Annotation of Bowel Sound Patterns**|Zahra Mansour et.al.|[link](http://arxiv.org/abs/2603.07215v1)|null|
+|**2026-03-07**|**A Dual-Graph Spatiotemporal GNN Surrogate for Nonlinear Response Prediction of Reinforced Concrete Beams under Four-Point Bending**|Zhaoyang Ren et.al.|[link](http://arxiv.org/abs/2603.07201v1)|null|
+|**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|Haonan Yuan et.al.|[link](http://arxiv.org/abs/2603.07179v1)|null|
+|**2026-03-07**|**Learning to Rank the Initial Branching Order of SAT Solvers**|Arvid Eriksson et.al.|[link](http://arxiv.org/abs/2603.07176v1)|null|
+|**2026-03-07**|**Randomise Alone, Reach as a Team**|Léonard Brice et.al.|[link](http://arxiv.org/abs/2603.07094v1)|null|
+|**2026-03-07**|**On the maximum product of distances of diameter $2$ point sets**|Stijn Cambie et.al.|[link](http://arxiv.org/abs/2603.07088v1)|null|
+|**2026-03-07**|**CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs**|Siyi Li et.al.|[link](http://arxiv.org/abs/2603.07078v1)|null|
+|**2026-03-07**|**GuideTWSI: A Diverse Tactile Walking Surface Indicator Dataset from Synthetic and Real-World Images for Blind and Low-Vision Navigation**|Hochul Hwang et.al.|[link](http://arxiv.org/abs/2603.07060v1)|null|
 |**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[link](http://arxiv.org/abs/2603.06512v1)|null|
 |**2026-03-06**|**CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization**|Maximilian Hilger et.al.|[link](http://arxiv.org/abs/2603.06501v1)|null|
 |**2026-03-06**|**Rotation-invariant graph message passing enables acquisition protocol generalisation in learning-based brain microstructure estimation**|Leevi Kerkelä et.al.|[link](http://arxiv.org/abs/2603.06496v1)|null|
@@ -4279,6 +4321,12 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-07**|**AgrI Challenge: A Data-Centric AI Competition for Cross-Team Validation in Agricultural Vision**|Mohammed Brahimi et.al.|[link](http://arxiv.org/abs/2603.07356v1)|null|
+|**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|Haonan Yuan et.al.|[link](http://arxiv.org/abs/2603.07179v1)|null|
+|**2026-03-07**|**Multi-TAP: Multi-criteria Target Adaptive Persona Modeling for Cross-Domain Recommendation**|Daehee Kang et.al.|[link](http://arxiv.org/abs/2603.07086v1)|null|
+|**2026-03-07**|**Enhancing Web Agents with a Hierarchical Memory Tree**|Yunteng Tan et.al.|[link](http://arxiv.org/abs/2603.07024v1)|null|
+|**2026-03-07**|**Optimizing Multi-Modal Models for Image-Based Shape Retrieval: The Role of Pre-Alignment and Hard Contrastive Learning**|Paul Julius Kühn et.al.|[link](http://arxiv.org/abs/2603.06982v1)|null|
+|**2026-03-07**|**A Systematic Investigation of Document Chunking Strategies and Embedding Sensitivity**|Muhammad Arslan Shaukat et.al.|[link](http://arxiv.org/abs/2603.06976v1)|null|
 |**2026-03-06**|**An Integrated Failure and Threat Mode and Effect Analysis (FTMEA) Framework with Quantified Cross-Domain Correlation Factors for Automotive Semiconductors**|Antonino Armato et.al.|[link](http://arxiv.org/abs/2603.06299v1)|null|
 |**2026-03-06**|**Cut to the Chase: Training-free Multimodal Summarization via Chain-of-Events**|Xiaoxing You et.al.|[link](http://arxiv.org/abs/2603.06213v1)|null|
 |**2026-03-06**|**A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement**|Ruili Li et.al.|[link](http://arxiv.org/abs/2603.06167v1)|null|
