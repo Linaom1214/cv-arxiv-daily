@@ -1,4 +1,4 @@
-## Updated on 2026.03.12
+## Updated on 2026.03.13
 
 ### ISTD
 
@@ -14,7 +14,7 @@
 |**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|
 |**2026-01-06**|**Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection**|Yuteng Liu et.al.|[link](http://arxiv.org/abs/2601.02837v1)|null|
 |**2025-12-10**|**Gradient-Guided Learning Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2512.09497v1)|null|
-|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
+|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|null|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
 |**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|
@@ -289,6 +289,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-12**|**The Geometry of Clifford Algorithms: Bernstein-Vazirani as Classical Computation in a Rotated Basis**|Bartosz Chmura et.al.|[link](http://arxiv.org/abs/2603.12127v1)|null|
+|**2026-03-12**|**Decentralized Cooperative Localization for Multi-Robot Systems with Asynchronous Sensor Fusion**|Nivand Khosravi et.al.|[link](http://arxiv.org/abs/2603.12075v1)|null|
+|**2026-03-12**|**NBAvatar: Neural Billboards Avatars with Realistic Hand-Face Interaction**|David Svitov et.al.|[link](http://arxiv.org/abs/2603.12063v1)|null|
+|**2026-03-12**|**Coarse-Guided Visual Generation via Weighted h-Transform Sampling**|Yanghao Wang et.al.|[link](http://arxiv.org/abs/2603.12057v1)|null|
+|**2026-03-12**|**Translationese as a Rational Response to Translation Task Difficulty**|Maria Kunilovskaya et.al.|[link](http://arxiv.org/abs/2603.12050v1)|null|
+|**2026-03-12**|**Single Pixel Image Classification using an Ultrafast Digital Light Projector**|Aisha Kanwal et.al.|[link](http://arxiv.org/abs/2603.12036v1)|null|
+|**2026-03-12**|**Assessing the robustness of amortized simulation-based inference to transient noise in gravitational-wave ringdowns**|Song-Tao Liu et.al.|[link](http://arxiv.org/abs/2603.12032v1)|null|
+|**2026-03-12**|**Nyxus: A Next Generation Image Feature Extraction Library for the Big Data and AI Era**|Nicholas Schaub et.al.|[link](http://arxiv.org/abs/2603.12016v1)|null|
+|**2026-03-12**|**Pano360: Perspective to Panoramic Vision with Geometric Consistency**|Zhengdong Zhu et.al.|[link](http://arxiv.org/abs/2603.12013v1)|null|
+|**2026-03-12**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Ziqi Ye et.al.|[link](http://arxiv.org/abs/2603.12008v1)|null|
+|**2026-03-12**|**Quantum simulation of Liouville equation in geometrical optics with partial transmission and reflection via Schrödingerization**|Shi Jin et.al.|[link](http://arxiv.org/abs/2603.11998v1)|null|
+|**2026-03-12**|**On the Coalescence Time Distribution in Multi-type Supercritical Branching Processes**|Janique Krasnowska et.al.|[link](http://arxiv.org/abs/2603.11990v1)|null|
+|**2026-03-12**|**ConvScale: Conversational Interviews for Scale-Aligned Measurement**|Peinuan Qin et.al.|[link](http://arxiv.org/abs/2603.11988v1)|null|
+|**2026-03-12**|**Statistical and structural identifiability in representation learning**|Walter Nelson et.al.|[link](http://arxiv.org/abs/2603.11970v1)|null|
+|**2026-03-12**|**Energy Prediction on Sloping Ground for Quadruped Robots**|Mohamed Ounally et.al.|[link](http://arxiv.org/abs/2603.11963v1)|null|
+|**2026-03-12**|**Near-Field Multiuser Beam Training for XL-MIMO: An End-to-End Interference-Aware Approach with Pilot Limitations**|Xinyang Li et.al.|[link](http://arxiv.org/abs/2603.11959v1)|null|
+|**2026-03-12**|**Exhaustive Circuit Mapping of a Single-Cell Foundation Model Reveals Massive Redundancy, Heavy-Tailed Hub Architecture, and Layer-Dependent Differentiation Control**|Ihor Kendiukhov et.al.|[link](http://arxiv.org/abs/2603.11940v1)|null|
+|**2026-03-12**|**CogSearch: A Cognitive-Aligned Multi-Agent Framework for Proactive Decision Support in E-Commerce Search**|Zhouwei Zhai et.al.|[link](http://arxiv.org/abs/2603.11927v1)|null|
+|**2026-03-12**|**PicoSAM3: Real-Time In-Sensor Region-of-Interest Segmentation**|Pietro Bonazzi et.al.|[link](http://arxiv.org/abs/2603.11917v1)|null|
+|**2026-03-12**|**InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model**|InSpatio Team et.al.|[link](http://arxiv.org/abs/2603.11911v1)|null|
 |**2026-03-11**|**Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning**|Victor Forattini Jansen et.al.|[link](http://arxiv.org/abs/2603.10902v1)|null|
 |**2026-03-11**|**LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation**|Jinwoo Ahn et.al.|[link](http://arxiv.org/abs/2603.10899v1)|null|
 |**2026-03-11**|**A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification**|Yichi Zhu et.al.|[link](http://arxiv.org/abs/2603.10891v1)|null|
@@ -2174,6 +2194,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-12**|**Agentic AI for Embodied-enhanced Beam Prediction in Low-Altitude Economy Networks**|Min Hao et.al.|[link](http://arxiv.org/abs/2603.11392v1)|null|
+|**2026-03-11**|**Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild**|Jun Yu et.al.|[link](http://arxiv.org/abs/2603.11306v1)|null|
 |**2026-03-10**|**Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference**|Cosmo Santoni et.al.|[link](http://arxiv.org/abs/2603.09555v1)|null|
 |**2026-03-10**|**Progressive Split Mamba: Effective State Space Modelling for Image Restoration**|Mohammed Hassanin et.al.|[link](http://arxiv.org/abs/2603.09171v1)|null|
 |**2026-03-10**|**Rotation Equivariant Mamba for Vision Tasks**|Zhongchen Zhao et.al.|[link](http://arxiv.org/abs/2603.09138v1)|null|
@@ -2626,6 +2648,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-12**|**Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models**|Jae-Won Chung et.al.|[link](http://arxiv.org/abs/2603.12118v1)|null|
+|**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[link](http://arxiv.org/abs/2603.12064v1)|null|
+|**2026-03-12**|**Pivot based correlation clustering in the presence of good clusters**|David Rasmussen Lolck et.al.|[link](http://arxiv.org/abs/2603.12052v1)|null|
+|**2026-03-12**|**Translationese as a Rational Response to Translation Task Difficulty**|Maria Kunilovskaya et.al.|[link](http://arxiv.org/abs/2603.12050v1)|null|
+|**2026-03-12**|**Assessing the robustness of amortized simulation-based inference to transient noise in gravitational-wave ringdowns**|Song-Tao Liu et.al.|[link](http://arxiv.org/abs/2603.12032v1)|null|
+|**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|Hamed Hamzeh et.al.|[link](http://arxiv.org/abs/2603.12031v1)|null|
+|**2026-03-12**|**Nyxus: A Next Generation Image Feature Extraction Library for the Big Data and AI Era**|Nicholas Schaub et.al.|[link](http://arxiv.org/abs/2603.12016v1)|null|
+|**2026-03-12**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Ziqi Ye et.al.|[link](http://arxiv.org/abs/2603.12008v1)|null|
+|**2026-03-12**|**On the structure of the sandpile identity element on Sierpinski gasket graphs**|Robin Kaiser et.al.|[link](http://arxiv.org/abs/2603.12006v1)|null|
+|**2026-03-12**|**From vacuum amplitudes to qubits**|Germán Rodrigo et.al.|[link](http://arxiv.org/abs/2603.11968v1)|null|
+|**2026-03-12**|**Energy Prediction on Sloping Ground for Quadruped Robots**|Mohamed Ounally et.al.|[link](http://arxiv.org/abs/2603.11963v1)|null|
+|**2026-03-12**|**Broadcasting Agents and Adversary: A new variation on Cops and Robbers**|William K. Moses et.al.|[link](http://arxiv.org/abs/2603.11958v1)|null|
+|**2026-03-12**|**Universal cycle constructions for k-subsets and k-multisets**|Colin Campbell et.al.|[link](http://arxiv.org/abs/2603.11954v1)|null|
+|**2026-03-12**|**Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing**|Bertran Miquel-Oliver et.al.|[link](http://arxiv.org/abs/2603.11944v1)|null|
+|**2026-03-12**|**Chem4DLLM: 4D Multimodal LLMs for Chemical Dynamics Understanding**|Xinyu Li et.al.|[link](http://arxiv.org/abs/2603.11924v1)|null|
+|**2026-03-12**|**PicoSAM3: Real-Time In-Sensor Region-of-Interest Segmentation**|Pietro Bonazzi et.al.|[link](http://arxiv.org/abs/2603.11917v1)|null|
+|**2026-03-12**|**Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models**|Lu Wang et.al.|[link](http://arxiv.org/abs/2603.11896v1)|null|
+|**2026-03-12**|**On the maximum number of tangencies among $1$-intersecting curves**|Eyal Ackerman et.al.|[link](http://arxiv.org/abs/2603.11885v1)|null|
+|**2026-03-12**|**Finiteness of non-decomposable critically 4 and 5-frustrated signed graphs**|Zhiqian Wang et.al.|[link](http://arxiv.org/abs/2603.11883v1)|null|
+|**2026-03-12**|**Fast and exact visibility on digitized shapes and application to saliency-aware normal estimation**|Romain Negro et.al.|[link](http://arxiv.org/abs/2603.11851v1)|null|
 |**2026-03-11**|**Quantum Hypergraph States: A Review**|Davide Poderini et.al.|[link](http://arxiv.org/abs/2603.10917v1)|null|
 |**2026-03-11**|**Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning**|Victor Forattini Jansen et.al.|[link](http://arxiv.org/abs/2603.10902v1)|null|
 |**2026-03-11**|**Random interlacements on transient weighted graphs: 0-1 laws and FKG inequality**|Orphée Collin et.al.|[link](http://arxiv.org/abs/2603.10896v1)|null|
@@ -4373,6 +4415,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-12**|**Cross-Domain Policy Optimization via Bellman Consistency and Hybrid Critics**|Ming-Hong Chen et.al.|[link](http://arxiv.org/abs/2603.12087v1)|null|
+|**2026-03-12**|**HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment**|Krishna Kant Singh et.al.|[link](http://arxiv.org/abs/2603.12044v1)|null|
+|**2026-03-12**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Ziqi Ye et.al.|[link](http://arxiv.org/abs/2603.12008v1)|null|
+|**2026-03-12**|**Learning Transferable Sensor Models via Language-Informed Pretraining**|Yuliang Chen et.al.|[link](http://arxiv.org/abs/2603.11950v1)|null|
+|**2026-03-12**|**Kraken*: Architecting Generative, Semantic, and Goal-Oriented Network Management for 6G Wireless Systems**|Ian F. Akyildiz et.al.|[link](http://arxiv.org/abs/2603.11948v1)|null|
 |**2026-03-11**|**BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation**|Prithwijit Chowdhury et.al.|[link](http://arxiv.org/abs/2603.10828v1)|null|
 |**2026-03-11**|**Need for Speed: Zero-Shot Depth Completion with Single-Step Diffusion**|Jakub Gregorek et.al.|[link](http://arxiv.org/abs/2603.10584v1)|null|
 |**2026-03-11**|**CD-Raft: Reducing the Latency of Distributed Consensus in Cross-Domain Sites**|Yangyang Wang et.al.|[link](http://arxiv.org/abs/2603.10555v1)|null|
