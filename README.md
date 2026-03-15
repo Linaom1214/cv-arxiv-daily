@@ -1,4 +1,4 @@
-## Updated on 2026.03.13
+## Updated on 2026.03.15
 
 ### ISTD
 
@@ -14,7 +14,7 @@
 |**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|
 |**2026-01-06**|**Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection**|Yuteng Liu et.al.|[link](http://arxiv.org/abs/2601.02837v1)|null|
 |**2025-12-10**|**Gradient-Guided Learning Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[link](http://arxiv.org/abs/2512.09497v1)|null|
-|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|null|
+|**2025-12-05**|**Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**|Chuang Yu et.al.|[link](http://arxiv.org/abs/2512.05511v1)|**[code](https://github.com/YuChuang1205/FDEP-Framework)**|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2512.04511v1)|null|
 |**2025-12-03**|**A BTR-Based Approach for Detection of Infrared Small Targets**|Ke-Xin Li et.al.|[link](http://arxiv.org/abs/2512.03752v1)|null|
 |**2026-01-24**|**Difference Decomposition Networks for Infrared Small Target Detection**|Chen Hu et.al.|[link](http://arxiv.org/abs/2512.03470v4)|null|
@@ -289,6 +289,16 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[link](http://arxiv.org/abs/2603.12267v1)|null|
+|**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|Baifeng Shi et.al.|[link](http://arxiv.org/abs/2603.12254v1)|null|
+|**2026-03-12**|**SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning**|Ziyu Chen et.al.|[link](http://arxiv.org/abs/2603.12249v1)|null|
+|**2026-03-12**|**One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers**|Moayed Haji-Ali et.al.|[link](http://arxiv.org/abs/2603.12245v1)|null|
+|**2026-03-12**|**Hidden polar phase in the quantum paraelectric SrTiO3**|Huaiyu Hugo Wang et.al.|[link](http://arxiv.org/abs/2603.12239v1)|null|
+|**2026-03-12**|**HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers**|Andy Li et.al.|[link](http://arxiv.org/abs/2603.12222v1)|null|
+|**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Alexandre Le Mercier et.al.|[link](http://arxiv.org/abs/2603.12206v1)|null|
+|**2026-03-12**|**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**|Jingyang Ke et.al.|[link](http://arxiv.org/abs/2603.12176v1)|null|
+|**2026-03-12**|**Le Roy, Lerch and Legendre chi functions and generalised Borel-Le Roy transform**|Giuseppe Dattoli et.al.|[link](http://arxiv.org/abs/2603.12164v1)|null|
+|**2026-03-12**|**Compactness in Dimension Five and Equivariant Noncompactness for the CR Yamabe Problem**|Claudio Afeltra et.al.|[link](http://arxiv.org/abs/2603.12157v1)|null|
 |**2026-03-12**|**The Geometry of Clifford Algorithms: Bernstein-Vazirani as Classical Computation in a Rotated Basis**|Bartosz Chmura et.al.|[link](http://arxiv.org/abs/2603.12127v1)|null|
 |**2026-03-12**|**Decentralized Cooperative Localization for Multi-Robot Systems with Asynchronous Sensor Fusion**|Nivand Khosravi et.al.|[link](http://arxiv.org/abs/2603.12075v1)|null|
 |**2026-03-12**|**NBAvatar: Neural Billboards Avatars with Realistic Hand-Face Interaction**|David Svitov et.al.|[link](http://arxiv.org/abs/2603.12063v1)|null|
@@ -2194,6 +2204,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Alexandre Le Mercier et.al.|[link](http://arxiv.org/abs/2603.12206v1)|null|
+|**2026-03-12**|**O3N: Omnidirectional Open-Vocabulary Occupancy Prediction**|Mengfei Duan et.al.|[link](http://arxiv.org/abs/2603.12144v1)|null|
 |**2026-03-12**|**Agentic AI for Embodied-enhanced Beam Prediction in Low-Altitude Economy Networks**|Min Hao et.al.|[link](http://arxiv.org/abs/2603.11392v1)|null|
 |**2026-03-11**|**Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild**|Jun Yu et.al.|[link](http://arxiv.org/abs/2603.11306v1)|null|
 |**2026-03-10**|**Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference**|Cosmo Santoni et.al.|[link](http://arxiv.org/abs/2603.09555v1)|null|
@@ -2648,6 +2660,11 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[link](http://arxiv.org/abs/2603.12267v1)|null|
+|**2026-03-12**|**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**|Yiran Guan et.al.|[link](http://arxiv.org/abs/2603.12262v1)|null|
+|**2026-03-12**|**SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning**|Ziyu Chen et.al.|[link](http://arxiv.org/abs/2603.12249v1)|null|
+|**2026-03-12**|**WORKSWORLD: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows**|Taylor Paul et.al.|[link](http://arxiv.org/abs/2603.12214v1)|null|
+|**2026-03-12**|**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**|Jingyang Ke et.al.|[link](http://arxiv.org/abs/2603.12176v1)|null|
 |**2026-03-12**|**Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models**|Jae-Won Chung et.al.|[link](http://arxiv.org/abs/2603.12118v1)|null|
 |**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[link](http://arxiv.org/abs/2603.12064v1)|null|
 |**2026-03-12**|**Pivot based correlation clustering in the presence of good clusters**|David Rasmussen Lolck et.al.|[link](http://arxiv.org/abs/2603.12052v1)|null|
@@ -4415,6 +4432,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-12**|**UniMotion: Self-Supervised Learning for Cross-Domain IMU Motion Recognition**|Prerna Khanna et.al.|[link](http://arxiv.org/abs/2603.12218v1)|null|
 |**2026-03-12**|**Cross-Domain Policy Optimization via Bellman Consistency and Hybrid Critics**|Ming-Hong Chen et.al.|[link](http://arxiv.org/abs/2603.12087v1)|null|
 |**2026-03-12**|**HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment**|Krishna Kant Singh et.al.|[link](http://arxiv.org/abs/2603.12044v1)|null|
 |**2026-03-12**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Ziqi Ye et.al.|[link](http://arxiv.org/abs/2603.12008v1)|null|
