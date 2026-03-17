@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 
 ### ISTD
 
@@ -289,6 +289,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-14**|**Universal method of selective detection of a wide range of pollutants in liquids using conductance quantization**|O. Pospelov et.al.|[link](http://arxiv.org/abs/2603.14140v1)|null|
+|**2026-03-14**|**DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++**|Shahriar Kabir et.al.|[link](http://arxiv.org/abs/2603.14132v1)|null|
+|**2026-03-14**|**The GELATO Dataset for Legislative NER**|Matthew Flynn et.al.|[link](http://arxiv.org/abs/2603.14130v1)|null|
+|**2026-03-14**|**Childhood Deprivation and Health Inequality in Later Life Across Divergent Life-Course Contexts: Evidence from Estonia, Latvia, and Israel**|Nita Handastya et.al.|[link](http://arxiv.org/abs/2603.14118v1)|null|
+|**2026-03-14**|**Rotation Curve of the Milky Way**|Zi Liu et.al.|[link](http://arxiv.org/abs/2603.14114v1)|null|
+|**2026-03-14**|**ST-ResGAT: Explainable Spatio-Temporal Graph Neural Network for Road Condition Prediction and Priority-Driven Maintenance**|Mohsin Mahmud Topu et.al.|[link](http://arxiv.org/abs/2603.14107v1)|null|
+|**2026-03-14**|**On the Hausdorff dimension and singularities of the monopolist's free boundary curve**|Robert J. McCann et.al.|[link](http://arxiv.org/abs/2603.14100v1)|null|
+|**2026-03-14**|**Understanding the Emergence of Seemingly Useless Features in Next-Token Predictors**|Mark Rofin et.al.|[link](http://arxiv.org/abs/2603.14087v1)|null|
+|**2026-03-14**|**Enhancing Mental Health Classification with Layer-Attentive Residuals and Contrastive Feature Learning**|Menna Elgabry et.al.|[link](http://arxiv.org/abs/2603.14075v1)|null|
+|**2026-03-14**|**Induced path and cycles in factor graphs of split graphs**|Victor N. Schvöllner et.al.|[link](http://arxiv.org/abs/2603.14061v1)|null|
+|**2026-03-14**|**NepTam: A Nepali-Tamang Parallel Corpus and Baseline Machine Translation Experiments**|Rupak Raj Ghimire et.al.|[link](http://arxiv.org/abs/2603.14053v1)|null|
+|**2026-03-14**|**Probing neural audio codecs for distinctions among English nuclear tunes**|Juan Pablo Vigneaux et.al.|[link](http://arxiv.org/abs/2603.14035v1)|null|
+|**2026-03-14**|**What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection**|Shree Harsha Bokkahalli Satish et.al.|[link](http://arxiv.org/abs/2603.14033v1)|null|
+|**2026-03-14**|**The Taxonomies, Training, and Applications of Event Stream Modelling for Electronic Health Records**|Mingcheng Zhu et.al.|[link](http://arxiv.org/abs/2603.14003v1)|null|
+|**2026-03-14**|**Location Aware Embedding for Geotargeting in Sponsored Search Advertising**|Jelena Gligorijevic et.al.|[link](http://arxiv.org/abs/2603.13997v1)|null|
+|**2026-03-14**|**Human-like Object Grouping in Self-supervised Vision Transformers**|Hossein Adeli et.al.|[link](http://arxiv.org/abs/2603.13994v1)|null|
+|**2026-03-14**|**NLOS-Aided Joint OTA Synchronization and Off-Grid Imaging for Distributed MIMO Systems**|Xin Tong et.al.|[link](http://arxiv.org/abs/2603.13981v1)|null|
+|**2026-03-14**|**Leveraging a Statistical Shape Model for Efficient Generation of Annotated Training Data: A Case Study on Liver Landmarks Segmentation**|Denis Krnjaca et.al.|[link](http://arxiv.org/abs/2603.13969v1)|null|
+|**2026-03-14**|**USIS-PGM: Photometric Gaussian Mixtures for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[link](http://arxiv.org/abs/2603.13961v1)|null|
+|**2026-03-14**|**DCP-CLIP:A Coarse-to-Fine Framework for Open-Vocabulary Semantic Segmentation with Dual Interaction**|Jing Wang et.al.|[link](http://arxiv.org/abs/2603.13951v1)|null|
 |**2026-03-13**|**PhaseJumps: fast computation of zeros from planar grid samples**|Antti Haimi et.al.|[link](http://arxiv.org/abs/2603.13158v1)|null|
 |**2026-03-13**|**When Your Model Stops Working: Anytime-Valid Calibration Monitoring**|Tristan Farran et.al.|[link](http://arxiv.org/abs/2603.13156v1)|null|
 |**2026-03-13**|**NOIR: Neural Operator mapping for Implicit Representations**|Sidaty El Hadramy et.al.|[link](http://arxiv.org/abs/2603.13118v1)|null|
@@ -2224,6 +2244,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-14**|**FMS$^2$: Unified Flow Matching for Segmentation and Synthesis of Thin Structures**|Babak Asadi et.al.|[link](http://arxiv.org/abs/2603.13659v1)|null|
 |**2026-03-13**|**Team RAS in 10th ABAW Competition: Multimodal Valence and Arousal Estimation Approach**|Elena Ryumina et.al.|[link](http://arxiv.org/abs/2603.13056v1)|null|
 |**2026-03-13**|**Team LEYA in 10th ABAW Competition: Multimodal Ambivalence/Hesitancy Recognition Approach**|Elena Ryumina et.al.|[link](http://arxiv.org/abs/2603.12848v1)|null|
 |**2026-03-13**|**HFP-SAM: Hierarchical Frequency Prompted SAM for Efficient Marine Animal Segmentation**|Pingping Zhang et.al.|[link](http://arxiv.org/abs/2603.12708v1)|null|
@@ -2688,6 +2709,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-14**|**DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++**|Shahriar Kabir et.al.|[link](http://arxiv.org/abs/2603.14132v1)|null|
+|**2026-03-14**|**H-RINS: Hierarchical Tightly-coupled Radar-Inertial Navigation via Smoothing and Mapping**|Ali Alridha Abdulkarim et.al.|[link](http://arxiv.org/abs/2603.14109v1)|null|
+|**2026-03-14**|**ST-ResGAT: Explainable Spatio-Temporal Graph Neural Network for Road Condition Prediction and Priority-Driven Maintenance**|Mohsin Mahmud Topu et.al.|[link](http://arxiv.org/abs/2603.14107v1)|null|
+|**2026-03-14**|**Scorio.jl: A Julia package for ranking stochastic responses**|Mohsen Hariri et.al.|[link](http://arxiv.org/abs/2603.14103v1)|null|
+|**2026-03-14**|**On the Hausdorff dimension and singularities of the monopolist's free boundary curve**|Robert J. McCann et.al.|[link](http://arxiv.org/abs/2603.14100v1)|null|
+|**2026-03-14**|**Gated Graph Attention Networks for Predicting Duration of Large Scale Power Outages Induced by Natural Disasters**|Chenghao Duan et.al.|[link](http://arxiv.org/abs/2603.14069v1)|null|
+|**2026-03-14**|**Induced path and cycles in factor graphs of split graphs**|Victor N. Schvöllner et.al.|[link](http://arxiv.org/abs/2603.14061v1)|null|
+|**2026-03-14**|**On the Seidel energy of uniform hypergraphs due to hyperedge and vertex deletion**|Shib Sankar Saha et.al.|[link](http://arxiv.org/abs/2603.14048v1)|null|
+|**2026-03-14**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarinkia et.al.|[link](http://arxiv.org/abs/2603.14045v1)|null|
+|**2026-03-14**|**On licci squarefree monomial ideals**|Om Prakash Bhardwaj et.al.|[link](http://arxiv.org/abs/2603.14043v1)|null|
+|**2026-03-14**|**Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs**|Hang Gao et.al.|[link](http://arxiv.org/abs/2603.14006v1)|null|
+|**2026-03-14**|**A Systematic Evaluation Protocol of Graph-Derived Signals for Tabular Machine Learning**|Mario Heidrich et.al.|[link](http://arxiv.org/abs/2603.13998v1)|null|
+|**2026-03-14**|**Location Aware Embedding for Geotargeting in Sponsored Search Advertising**|Jelena Gligorijevic et.al.|[link](http://arxiv.org/abs/2603.13997v1)|null|
+|**2026-03-14**|**Human-like Object Grouping in Self-supervised Vision Transformers**|Hossein Adeli et.al.|[link](http://arxiv.org/abs/2603.13994v1)|null|
+|**2026-03-14**|**Leveraging a Statistical Shape Model for Efficient Generation of Annotated Training Data: A Case Study on Liver Landmarks Segmentation**|Denis Krnjaca et.al.|[link](http://arxiv.org/abs/2603.13969v1)|null|
+|**2026-03-14**|**SeqTG: Scalable Combinatorial Test Generation via Sequential Integer Linear Programming**|Sitong Yang et.al.|[link](http://arxiv.org/abs/2603.13963v1)|null|
+|**2026-03-14**|**USIS-PGM: Photometric Gaussian Mixtures for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[link](http://arxiv.org/abs/2603.13961v1)|null|
+|**2026-03-14**|**DCP-CLIP:A Coarse-to-Fine Framework for Open-Vocabulary Semantic Segmentation with Dual Interaction**|Jing Wang et.al.|[link](http://arxiv.org/abs/2603.13951v1)|null|
+|**2026-03-14**|**Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.|[link](http://arxiv.org/abs/2603.13941v1)|null|
+|**2026-03-14**|**GroupGuard: A Framework for Modeling and Defending Collusive Attacks in Multi-Agent Systems**|Yiling Tao et.al.|[link](http://arxiv.org/abs/2603.13940v1)|null|
 |**2026-03-13**|**Universality for the 2D Random Walk Loop Soup**|Yihao Pang et.al.|[link](http://arxiv.org/abs/2603.13161v1)|null|
 |**2026-03-13**|**Clustering without geometry in sparse networks with independent edges**|Alessio Catanzaro et.al.|[link](http://arxiv.org/abs/2603.13159v1)|null|
 |**2026-03-13**|**NOIR: Neural Operator mapping for Implicit Representations**|Sidaty El Hadramy et.al.|[link](http://arxiv.org/abs/2603.13118v1)|null|
@@ -4480,6 +4521,12 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-14**|**CMHL: Contrastive Multi-Head Learning for Emotionally Consistent Text Classification**|Menna Elgabry et.al.|[link](http://arxiv.org/abs/2603.14078v1)|null|
+|**2026-03-14**|**Towards Generalizable Deepfake Detection via Real Distribution Bias Correction**|Ming-Hui Liu et.al.|[link](http://arxiv.org/abs/2603.14005v1)|null|
+|**2026-03-14**|**OpenCOOD-Air: Prompting Heterogeneous Ground-Air Collaborative Perception with Spatial Conversion and Offset Prediction**|Xianke Wu et.al.|[link](http://arxiv.org/abs/2603.13919v1)|null|
+|**2026-03-14**|**ClimateAgents: A Multi-Agent Research Assistant for Social-Climate Dynamics Analysis**|Shan Shan et.al.|[link](http://arxiv.org/abs/2603.13840v1)|null|
+|**2026-03-14**|**FMS$^2$: Unified Flow Matching for Segmentation and Synthesis of Thin Structures**|Babak Asadi et.al.|[link](http://arxiv.org/abs/2603.13659v1)|null|
+|**2026-03-13**|**Modality-free Graph In-context Alignment**|Wei Zhuo et.al.|[link](http://arxiv.org/abs/2603.13434v1)|null|
 |**2026-03-13**|**FedBPrompt: Federated Domain Generalization Person Re-Identification via Body Distribution Aware Visual Prompts**|Xin Xu et.al.|[link](http://arxiv.org/abs/2603.12912v1)|null|
 |**2026-03-13**|**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**|Jing Yang et.al.|[link](http://arxiv.org/abs/2603.12711v1)|null|
 |**2026-03-13**|**VFM-Recon: Unlocking Cross-Domain Scene-Level Neural Reconstruction with Scale-Aligned Foundation Priors**|Yuhang Ming et.al.|[link](http://arxiv.org/abs/2603.12657v1)|null|
