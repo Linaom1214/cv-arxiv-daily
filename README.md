@@ -1,4 +1,4 @@
-## Updated on 2026.03.20
+## Updated on 2026.03.21
 
 ### ISTD
 
@@ -290,6 +290,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[link](http://arxiv.org/abs/2603.19231v1)|**[code](https://github.com/Quest4Science/MonoArt)**|
+|**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[link](http://arxiv.org/abs/2603.19219v1)|**[code](https://github.com/paryi555/DriveTok)**|
+|**2026-03-19**|**Rethinking Vector Field Learning for Generative Segmentation**|Chaoyang Wang et.al.|[link](http://arxiv.org/abs/2603.19218v1)|null|
+|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[link](http://arxiv.org/abs/2603.19209v1)|**[code](https://github.com/raykuo18/vlm-ssm-vision-encoders)**|
+|**2026-03-19**|**The Exponentially Weighted Signature**|Alexandre Bloch et.al.|[link](http://arxiv.org/abs/2603.19198v1)|null|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[link](http://arxiv.org/abs/2603.19193v1)|null|
+|**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|Amandine Brunetto et.al.|[link](http://arxiv.org/abs/2603.19176v1)|null|
+|**2026-03-19**|**ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis**|Zhan Jin et.al.|[link](http://arxiv.org/abs/2603.19169v1)|null|
+|**2026-03-19**|**Mobile Radio Networks and Weather Radars Dualism: Rainfall Measurement Revolution in Densely Populated Areas**|Davide Tornielli Bellini et.al.|[link](http://arxiv.org/abs/2603.19153v1)|null|
+|**2026-03-19**|**VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models**|Chonghan Liu et.al.|[link](http://arxiv.org/abs/2603.19152v1)|null|
+|**2026-03-19**|**UGID: Unified Graph Isomorphism for Debiasing Large Language Models**|Zikang Ding et.al.|[link](http://arxiv.org/abs/2603.19144v1)|null|
+|**2026-03-19**|**Adaptive Regime-Aware Stock Price Prediction Using Autoencoder-Gated Dual Node Transformers with Reinforcement Learning Control**|Mohammad Al Ridhawi et.al.|[link](http://arxiv.org/abs/2603.19136v1)|null|
+|**2026-03-19**|**Exact-Time Safety Recovery using Time-Varying Control Barrier Functions with Optimal Barrier Tracking**|Yingqing Chen et.al.|[link](http://arxiv.org/abs/2603.19119v1)|null|
+|**2026-03-19**|**Well-posedness for the Navier-Stokes equations in Morrey spaces on non-compact manifolds**|Víctor Chaves-Santos et.al.|[link](http://arxiv.org/abs/2603.19102v1)|null|
+|**2026-03-19**|**FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning**|Sheng Liu et.al.|[link](http://arxiv.org/abs/2603.19101v1)|null|
+|**2026-03-19**|**LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling**|Danaé Broustail et.al.|[link](http://arxiv.org/abs/2603.19100v1)|null|
+|**2026-03-19**|**Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification**|Qin Jiang et.al.|[link](http://arxiv.org/abs/2603.19091v1)|null|
+|**2026-03-19**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|Sangwoo Shin et.al.|[link](http://arxiv.org/abs/2603.19078v1)|null|
+|**2026-03-19**|**Mitigating the Bandwidth Wall via Data-Streaming System-Accelerator Co-Design**|Qunyou Liu et.al.|[link](http://arxiv.org/abs/2603.19057v1)|null|
+|**2026-03-19**|**Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding**|Yikai Zheng et.al.|[link](http://arxiv.org/abs/2603.19054v1)|null|
 |**2026-03-19**|**Bridging Crystal Structure and Material Properties via Bond-Centric Descriptors**|Jian-Feng Zhang et.al.|[link](http://arxiv.org/abs/2603.18876v1)|null|
 |**2026-03-19**|**Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs**|Gaoxiang Cao et.al.|[link](http://arxiv.org/abs/2603.18871v1)|null|
 |**2026-03-19**|**A Passive Elastic-Folding Mechanism for Stackable Airdrop Sensors**|Damyon Kim et.al.|[link](http://arxiv.org/abs/2603.18861v1)|null|
@@ -2305,15 +2325,16 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-19**|**LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling**|Danaé Broustail et.al.|[link](http://arxiv.org/abs/2603.19100v1)|null|
 |**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[link](http://arxiv.org/abs/2603.18757v1)|null|
 |**2026-03-19**|**AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba**|Yan Li et.al.|[link](http://arxiv.org/abs/2603.18462v1)|null|
-|**2026-03-18**|**REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning and Physics-Guided Filtering**|Jialong Liu et.al.|[link](http://arxiv.org/abs/2603.17653v1)|null|
+|**2026-03-18**|**REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning and Physics-Guided Filtering**|Jialong Liu et.al.|[link](http://arxiv.org/abs/2603.17653v1)|**[code](https://github.com/JIAlonglong/REAL)**|
 |**2026-03-18**|**DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis**|Aleksander Ogonowski et.al.|[link](http://arxiv.org/abs/2603.17637v1)|null|
 |**2026-03-17**|**PRISM: Demystifying Retention and Interaction in Mid-Training**|Bharat Runwal et.al.|[link](http://arxiv.org/abs/2603.17074v1)|null|
 |**2026-03-17**|**Edge-Efficient Two-Stream Multimodal Architecture for Non-Intrusive Bathroom Fall Detection**|Haitian Wang et.al.|[link](http://arxiv.org/abs/2603.17069v1)|null|
 |**2026-03-17**|**FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data**|Zhenghang Song et.al.|[link](http://arxiv.org/abs/2603.16513v1)|null|
 |**2026-03-17**|**SF-Mamba: Rethinking State Space Model for Vision**|Masakazu Yoshimura et.al.|[link](http://arxiv.org/abs/2603.16423v1)|null|
-|**2026-03-18**|**HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction**|Jing Dai et.al.|[link](http://arxiv.org/abs/2603.16421v2)|null|
+|**2026-03-18**|**HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction**|Jing Dai et.al.|[link](http://arxiv.org/abs/2603.16421v2)|**[code](https://github.com/Daijing-ai/HGP-Mamba)**|
 |**2026-03-17**|**HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction**|Jing Dai et.al.|[link](http://arxiv.org/abs/2603.16421v1)|null|
 |**2026-03-16**|**Mamba-3: Improved Sequence Modeling using State Space Principles**|Aakash Lahoti et.al.|[link](http://arxiv.org/abs/2603.15569v1)|null|
 |**2026-03-16**|**DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages**|Alish Kanani et.al.|[link](http://arxiv.org/abs/2603.15530v1)|null|
@@ -2784,6 +2805,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[link](http://arxiv.org/abs/2603.19219v1)|null|
+|**2026-03-19**|**Rethinking Vector Field Learning for Generative Segmentation**|Chaoyang Wang et.al.|[link](http://arxiv.org/abs/2603.19218v1)|null|
+|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[link](http://arxiv.org/abs/2603.19209v1)|null|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[link](http://arxiv.org/abs/2603.19193v1)|null|
+|**2026-03-19**|**ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis**|Zhan Jin et.al.|[link](http://arxiv.org/abs/2603.19169v1)|null|
+|**2026-03-19**|**VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models**|Chonghan Liu et.al.|[link](http://arxiv.org/abs/2603.19152v1)|null|
+|**2026-03-19**|**UGID: Unified Graph Isomorphism for Debiasing Large Language Models**|Zikang Ding et.al.|[link](http://arxiv.org/abs/2603.19144v1)|null|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yiren Lu et.al.|[link](http://arxiv.org/abs/2603.19137v1)|null|
+|**2026-03-19**|**DaPT: A Dual-Path Framework for Multilingual Multi-hop Question Answering**|Yilin Wang et.al.|[link](http://arxiv.org/abs/2603.19097v1)|null|
+|**2026-03-19**|**Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification**|Qin Jiang et.al.|[link](http://arxiv.org/abs/2603.19091v1)|null|
+|**2026-03-19**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|Sangwoo Shin et.al.|[link](http://arxiv.org/abs/2603.19078v1)|null|
+|**2026-03-19**|**Supercritical Site Percolation on Regular Graphs**|Sahar Diskin et.al.|[link](http://arxiv.org/abs/2603.19038v1)|null|
+|**2026-03-19**|**Linear and group identifying codes in Hamming Graphs**|N. V. Shinde et.al.|[link](http://arxiv.org/abs/2603.19031v1)|null|
+|**2026-03-19**|**Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token**|Anqi Zhang et.al.|[link](http://arxiv.org/abs/2603.19026v1)|null|
+|**2026-03-19**|**Literature Study on Operational Data Analytics Frameworks in Large-scale Computing Infrastructures**|Shekhar Suman et.al.|[link](http://arxiv.org/abs/2603.19016v1)|null|
+|**2026-03-19**|**Uniqueness and locality of the ground state of the disordered Monomer-Dimer models on independently weighted Unimodular Bienaymé-Galton-Watson trees**|Mihyun Kang et.al.|[link](http://arxiv.org/abs/2603.19003v1)|null|
+|**2026-03-19**|**Product Structure and Treewidth of Hyperbolic Uniform Disk Graphs**|Thomas Bläsius et.al.|[link](http://arxiv.org/abs/2603.18997v1)|null|
+|**2026-03-19**|**Finite and infinite frieze patterns from p-angulations and a generalization of Weyl groupoids**|Michael Cuntz et.al.|[link](http://arxiv.org/abs/2603.18975v1)|null|
+|**2026-03-19**|**Optimal Path Planning in Hostile Environments**|Andrzej Kaczmarczyk et.al.|[link](http://arxiv.org/abs/2603.18958v1)|null|
+|**2026-03-19**|**On a maximal anti-Ramsey conjecture of Burr, Erdős, Graham, and Sós**|Matija Bucic et.al.|[link](http://arxiv.org/abs/2603.18952v1)|null|
 |**2026-03-19**|**Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs**|Gaoxiang Cao et.al.|[link](http://arxiv.org/abs/2603.18871v1)|null|
 |**2026-03-19**|**RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models**|Xiao Feng et.al.|[link](http://arxiv.org/abs/2603.18859v1)|null|
 |**2026-03-19**|**Learn for Variation: Variationally Guided AAV Trajectory Learning in Differentiable Environments**|Xiucheng Wang et.al.|[link](http://arxiv.org/abs/2603.18853v1)|null|
@@ -4656,6 +4697,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-19**|**Serendipity by Design: Evaluating the Impact of Cross-domain Mappings on Human and LLM Creativity**|Qiawen Ella Liu et.al.|[link](http://arxiv.org/abs/2603.19087v1)|null|
 |**2026-03-19**|**RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**|Xiucheng Wang et.al.|[link](http://arxiv.org/abs/2603.18865v1)|null|
 |**2026-03-19**|**ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation**|Ying Zheng et.al.|[link](http://arxiv.org/abs/2603.18764v1)|null|
 |**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[link](http://arxiv.org/abs/2603.18757v1)|null|
