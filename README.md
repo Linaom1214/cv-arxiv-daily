@@ -1,4 +1,4 @@
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 
 ### ISTD
 
@@ -290,6 +290,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-20**|**Predictor-Feedback Stabilization of Linear Switched Systems with State-Dependent Switching and Input Delay**|Andreas Katsanikakis et.al.|[link](http://arxiv.org/abs/2603.20027v1)|null|
+|**2026-03-20**|**ODySSeI: An Open-Source End-to-End Framework for Automated Detection, Segmentation, and Severity Estimation of Lesions in Invasive Coronary Angiography Images**|Anand Choudhary et.al.|[link](http://arxiv.org/abs/2603.20021v1)|null|
+|**2026-03-20**|**Goal-Oriented Framework for Optical Flow-based Multi-User Multi-Task Video Transmission**|Yujie Xu et.al.|[link](http://arxiv.org/abs/2603.19995v1)|null|
+|**2026-03-20**|**Channel Prediction-Based Physical Layer Authentication under Consecutive Spoofing Attacks**|Yijia Guo et.al.|[link](http://arxiv.org/abs/2603.19962v1)|null|
+|**2026-03-20**|**On the Ability of Transformers to Verify Plans**|Yash Sarrof et.al.|[link](http://arxiv.org/abs/2603.19954v1)|null|
+|**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[link](http://arxiv.org/abs/2603.19942v1)|null|
+|**2026-03-20**|**Hybrid topic modelling for computational close reading: Mapping narrative themes in Pushkin's Evgenij Onegin**|Angelo Maria Sabatini et.al.|[link](http://arxiv.org/abs/2603.19940v1)|null|
+|**2026-03-20**|**Capacity-Achieving BBT Polar Codes with Interleaver-Assisted BP Decoding**|Xinyuanmeng Yao et.al.|[link](http://arxiv.org/abs/2603.19938v1)|null|
+|**2026-03-20**|**SegVGGT: Joint 3D Reconstruction and Instance Segmentation from Multi-View Images**|Jinyuan Qu et.al.|[link](http://arxiv.org/abs/2603.19926v1)|null|
+|**2026-03-20**|**PanORama: Multiview Consistent Panoptic Segmentation in Operating Rooms**|Tuna Gürbüz et.al.|[link](http://arxiv.org/abs/2603.19920v1)|null|
+|**2026-03-20**|**A Theory of Composable Lingos for Protocol Dialects**|Víctor García et.al.|[link](http://arxiv.org/abs/2603.19908v1)|null|
+|**2026-03-20**|**DSC curve fingerprints directly encode mechanical properties of aluminum alloys**|Lukas Pichlmann et.al.|[link](http://arxiv.org/abs/2603.19905v1)|null|
+|**2026-03-20**|**Bounds on the determinant of an exponential matrix**|Michael S. Floater et.al.|[link](http://arxiv.org/abs/2603.19900v1)|null|
+|**2026-03-20**|**Complex Frequency as Generalized Eigenvalue**|Nikolas Sofos et.al.|[link](http://arxiv.org/abs/2603.19895v1)|null|
+|**2026-03-20**|**SIMPLER: Efficient Foundation Model Adaptation via Similarity-Guided Layer Pruning for Earth Observation**|Víctor Barreiro et.al.|[link](http://arxiv.org/abs/2603.19873v1)|null|
+|**2026-03-20**|**FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts**|You Li et.al.|[link](http://arxiv.org/abs/2603.19857v1)|null|
+|**2026-03-20**|**Unit distance graphs with few crossings per edge**|Panna Gehér et.al.|[link](http://arxiv.org/abs/2603.19848v1)|null|
+|**2026-03-20**|**Transformer Causality Regularization for Dynamic Inverse Problems**|Gesa Sarnighausen et.al.|[link](http://arxiv.org/abs/2603.19847v1)|null|
+|**2026-03-20**|**Supervised Contrastive Learning Framework for Electroencephalography-based Air-writing Recognition**|Anant Jain et.al.|[link](http://arxiv.org/abs/2603.19846v1)|null|
+|**2026-03-20**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[link](http://arxiv.org/abs/2603.19844v1)|null|
 |**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[link](http://arxiv.org/abs/2603.19231v1)|null|
 |**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[link](http://arxiv.org/abs/2603.19219v1)|null|
 |**2026-03-19**|**Rethinking Vector Field Learning for Generative Segmentation**|Chaoyang Wang et.al.|[link](http://arxiv.org/abs/2603.19218v1)|null|
@@ -2325,6 +2345,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-20**|**ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis**|Lubin Gan et.al.|[link](http://arxiv.org/abs/2603.19925v1)|null|
+|**2026-03-20**|**CS-MUNet: A Channel-Spatial Dual-Stream Mamba Network for Multi-Organ Segmentation**|Yuyang Zheng et.al.|[link](http://arxiv.org/abs/2603.19659v1)|null|
+|**2026-03-20**|**Dual-Domain Representation Alignment: Bridging 2D and 3D Vision via Geometry-Aware Architecture Search**|Haoyu Zhang et.al.|[link](http://arxiv.org/abs/2603.19563v1)|null|
 |**2026-03-19**|**LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling**|Danaé Broustail et.al.|[link](http://arxiv.org/abs/2603.19100v1)|null|
 |**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[link](http://arxiv.org/abs/2603.18757v1)|null|
 |**2026-03-19**|**AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba**|Yan Li et.al.|[link](http://arxiv.org/abs/2603.18462v1)|null|
@@ -2332,6 +2355,7 @@
 |**2026-03-18**|**DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis**|Aleksander Ogonowski et.al.|[link](http://arxiv.org/abs/2603.17637v1)|null|
 |**2026-03-17**|**PRISM: Demystifying Retention and Interaction in Mid-Training**|Bharat Runwal et.al.|[link](http://arxiv.org/abs/2603.17074v1)|null|
 |**2026-03-17**|**Edge-Efficient Two-Stream Multimodal Architecture for Non-Intrusive Bathroom Fall Detection**|Haitian Wang et.al.|[link](http://arxiv.org/abs/2603.17069v1)|null|
+|**2026-03-20**|**FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data**|Zhenghang Song et.al.|[link](http://arxiv.org/abs/2603.16513v2)|null|
 |**2026-03-17**|**FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data**|Zhenghang Song et.al.|[link](http://arxiv.org/abs/2603.16513v1)|null|
 |**2026-03-17**|**SF-Mamba: Rethinking State Space Model for Vision**|Masakazu Yoshimura et.al.|[link](http://arxiv.org/abs/2603.16423v1)|null|
 |**2026-03-18**|**HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction**|Jing Dai et.al.|[link](http://arxiv.org/abs/2603.16421v2)|null|
@@ -2805,6 +2829,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-20**|**Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences**|Panagiota Birmpa et.al.|[link](http://arxiv.org/abs/2603.20025v1)|null|
+|**2026-03-20**|**ODySSeI: An Open-Source End-to-End Framework for Automated Detection, Segmentation, and Severity Estimation of Lesions in Invasive Coronary Angiography Images**|Anand Choudhary et.al.|[link](http://arxiv.org/abs/2603.20021v1)|null|
+|**2026-03-20**|**RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering**|Bo Yuan et.al.|[link](http://arxiv.org/abs/2603.20017v1)|null|
+|**2026-03-20**|**Graph2TS: Structure-Controlled Time Series Generation via Quantile-Graph VAEs**|Shaoshuai Du et.al.|[link](http://arxiv.org/abs/2603.19970v1)|null|
+|**2026-03-20**|**Radar-Inertial Odometry with Online Spatio-Temporal Calibration via Continuous-Time IMU Modeling**|Vlaho-Josip Štironja et.al.|[link](http://arxiv.org/abs/2603.19958v1)|null|
+|**2026-03-20**|**Structural Controllability of Large-Scale Hypergraphs**|Joshua Pickard et.al.|[link](http://arxiv.org/abs/2603.19955v1)|null|
+|**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[link](http://arxiv.org/abs/2603.19942v1)|null|
+|**2026-03-20**|**Hybrid topic modelling for computational close reading: Mapping narrative themes in Pushkin's Evgenij Onegin**|Angelo Maria Sabatini et.al.|[link](http://arxiv.org/abs/2603.19940v1)|null|
+|**2026-03-20**|**Timestep-Aware Block Masking for Efficient Diffusion Model Inference**|Haodong He et.al.|[link](http://arxiv.org/abs/2603.19939v1)|null|
+|**2026-03-20**|**Capacity-Achieving BBT Polar Codes with Interleaver-Assisted BP Decoding**|Xinyuanmeng Yao et.al.|[link](http://arxiv.org/abs/2603.19938v1)|null|
+|**2026-03-20**|**SegVGGT: Joint 3D Reconstruction and Instance Segmentation from Multi-View Images**|Jinyuan Qu et.al.|[link](http://arxiv.org/abs/2603.19926v1)|null|
+|**2026-03-20**|**PanORama: Multiview Consistent Panoptic Segmentation in Operating Rooms**|Tuna Gürbüz et.al.|[link](http://arxiv.org/abs/2603.19920v1)|null|
+|**2026-03-20**|**Integrating Meta-Features with Knowledge Graph Embeddings for Meta-Learning**|Antonis Klironomos et.al.|[link](http://arxiv.org/abs/2603.19888v1)|null|
+|**2026-03-20**|**FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts**|You Li et.al.|[link](http://arxiv.org/abs/2603.19857v1)|null|
+|**2026-03-20**|**Unit distance graphs with few crossings per edge**|Panna Gehér et.al.|[link](http://arxiv.org/abs/2603.19848v1)|null|
+|**2026-03-20**|**Supervised Contrastive Learning Framework for Electroencephalography-based Air-writing Recognition**|Anant Jain et.al.|[link](http://arxiv.org/abs/2603.19846v1)|null|
+|**2026-03-20**|**Hyper-Connections for Adaptive Multi-Modal MRI Brain Tumor Segmentation**|Lokendra Kumar et.al.|[link](http://arxiv.org/abs/2603.19844v1)|null|
+|**2026-03-20**|**Overreliance on AI in Information-seeking from Video Content**|Anders Giovanni Møller et.al.|[link](http://arxiv.org/abs/2603.19843v1)|null|
+|**2026-03-20**|**Distribution for nonsymmetric V-monotone position operators**|Adrian Dacko et.al.|[link](http://arxiv.org/abs/2603.19842v1)|null|
+|**2026-03-20**|**Modeling subgrid scale production rates on complex meshes using graph neural networks**|Priyabrat Dash et.al.|[link](http://arxiv.org/abs/2603.19841v1)|null|
 |**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[link](http://arxiv.org/abs/2603.19219v1)|null|
 |**2026-03-19**|**Rethinking Vector Field Learning for Generative Segmentation**|Chaoyang Wang et.al.|[link](http://arxiv.org/abs/2603.19218v1)|null|
 |**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[link](http://arxiv.org/abs/2603.19209v1)|null|
@@ -4697,6 +4741,8 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-20**|**One Model, Two Minds: Task-Conditioned Reasoning for Unified Image Quality and Aesthetic Assessment**|Wen Yin et.al.|[link](http://arxiv.org/abs/2603.19779v1)|null|
+|**2026-03-20**|**FedPDPO: Federated Personalized Direct Preference Optimization for Large Language Model Alignment**|Kewen Zhu et.al.|[link](http://arxiv.org/abs/2603.19741v1)|null|
 |**2026-03-19**|**Serendipity by Design: Evaluating the Impact of Cross-domain Mappings on Human and LLM Creativity**|Qiawen Ella Liu et.al.|[link](http://arxiv.org/abs/2603.19087v1)|null|
 |**2026-03-19**|**RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**|Xiucheng Wang et.al.|[link](http://arxiv.org/abs/2603.18865v1)|null|
 |**2026-03-19**|**ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation**|Ying Zheng et.al.|[link](http://arxiv.org/abs/2603.18764v1)|null|
