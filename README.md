@@ -1,9 +1,10 @@
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-22**|**DSCSNet: A Dynamic Sparse Compression Sensing Network for Closely-Spaced Infrared Small Target Unmixing**|Zhiyang Tang et.al.|[link](http://arxiv.org/abs/2603.21192v1)|null|
 |**2026-03-17**|**Point-to-Mask: From Arbitrary Point Annotations to Mask-Level Infrared Small Target Detection**|Weihua Gao et.al.|[link](http://arxiv.org/abs/2603.16257v1)|null|
 |**2026-03-05**|**MI-DETR: A Strong Baseline for Moving Infrared Small Target Detection with Bio-Inspired Motion Integration**|Nian Liu et.al.|[link](http://arxiv.org/abs/2603.05071v1)|null|
 |**2026-02-03**|**Dynamic High-frequency Convolution for Infrared Small Target Detection**|Ruojing Li et.al.|[link](http://arxiv.org/abs/2602.02969v1)|null|
@@ -290,6 +291,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-24**|**SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense**|Bibek Das et.al.|[link](http://arxiv.org/abs/2603.23178v1)|null|
+|**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[link](http://arxiv.org/abs/2603.23159v1)|null|
+|**2026-03-24**|**VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution**|August Leander Høeg et.al.|[link](http://arxiv.org/abs/2603.23153v1)|null|
+|**2026-03-24**|**Stable Inversion of Discrete-Time Linear Periodically Time-Varying Systems via Cyclic Reformulation**|Hiroshi Okajima et.al.|[link](http://arxiv.org/abs/2603.23147v1)|null|
+|**2026-03-24**|**Can Language Models Pass Software Testing Certification Exams? a case study**|Fitash Ul Haq et.al.|[link](http://arxiv.org/abs/2603.23142v1)|null|
+|**2026-03-24**|**Optimal Control of Switched Systems Governed by Logical Switching Dynamics**|Xiao Zhang et.al.|[link](http://arxiv.org/abs/2603.23131v1)|null|
+|**2026-03-24**|**3rd Place of MeViS-Audio Track of the 5th PVUW: VIRST-Audio**|Jihwan Hong et.al.|[link](http://arxiv.org/abs/2603.23126v1)|null|
+|**2026-03-24**|**From Questions to Trust Reports: A LLM-IR Framework for the TREC 2025 DRAGUN Track**|Ignacy Alwasiak et.al.|[link](http://arxiv.org/abs/2603.23125v1)|null|
+|**2026-03-24**|**Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach**|Miquel Lopez Escoriza et.al.|[link](http://arxiv.org/abs/2603.23116v1)|null|
+|**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[link](http://arxiv.org/abs/2603.23112v1)|null|
+|**2026-03-24**|**NeuroSeg Meets DINOv3: Transferring 2D Self-Supervised Visual Priors to 3D Neuron Segmentation via DINOv3 Initialization**|Yik San Cheng et.al.|[link](http://arxiv.org/abs/2603.23104v1)|null|
+|**2026-03-24**|**Propagation of optical vector vortices of slow light in a coherently prepared tripod configuration**|Dharma P. Permana et.al.|[link](http://arxiv.org/abs/2603.23097v1)|null|
+|**2026-03-24**|**Rigid Motion Estimation using Accelerated Iterative Coordinate Descent (REACT) for MR Imaging**|Kwang Eun Jang et.al.|[link](http://arxiv.org/abs/2603.23096v1)|null|
+|**2026-03-24**|**Formalizing Pick's Theorem, efficiently**|Michael Eisermann et.al.|[link](http://arxiv.org/abs/2603.23095v1)|null|
+|**2026-03-24**|**MsFormer: Enabling Robust Predictive Maintenance Services for Industrial Devices**|Jiahui Zhou et.al.|[link](http://arxiv.org/abs/2603.23076v1)|null|
+|**2026-03-24**|**MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding**|Basit Alawode et.al.|[link](http://arxiv.org/abs/2603.23067v1)|null|
+|**2026-03-24**|**MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates**|Zikang Huang et.al.|[link](http://arxiv.org/abs/2603.23048v1)|null|
+|**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[link](http://arxiv.org/abs/2603.23032v1)|null|
+|**2026-03-24**|**Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation**|ByeongCheol Lee et.al.|[link](http://arxiv.org/abs/2603.23030v1)|null|
+|**2026-03-24**|**Transformation of the Talbot effect in response to phase disorder**|Ilia Mosaki et.al.|[link](http://arxiv.org/abs/2603.23026v1)|null|
 |**2026-03-22**|**CVT-Bench: Counterfactual Viewpoint Transformations Reveal Unstable Spatial Representations in Multimodal LLMs**|Shanmukha Vellamcheti et.al.|[link](http://arxiv.org/abs/2603.21114v1)|null|
 |**2026-03-22**|**Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning**|Shih-Wen Liu et.al.|[link](http://arxiv.org/abs/2603.21111v1)|null|
 |**2026-03-22**|**Learning to Optimize Joint Source and RIS-assisted Channel Encoding for Multi-User Semantic Communication Systems**|Haidong Wang et.al.|[link](http://arxiv.org/abs/2603.21097v1)|null|
@@ -2365,6 +2386,13 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-23**|**Functional Component Ablation Reveals Specialization Patterns in Hybrid Language Model Architectures**|Hector Borobia et.al.|[link](http://arxiv.org/abs/2603.22473v1)|null|
+|**2026-03-22**|**Personalized Federated Sequential Recommender**|Yicheng Di et.al.|[link](http://arxiv.org/abs/2603.22349v1)|null|
+|**2026-03-23**|**Mamba-VMR: Multimodal Query Augmentation via Generated Videos for Precise Temporal Grounding**|Yunzhuo Sun et.al.|[link](http://arxiv.org/abs/2603.22121v1)|null|
+|**2026-03-23**|**SegMaFormer: A Hybrid State-Space and Transformer Model for Efficient Segmentation**|Duy D. Nguyen et.al.|[link](http://arxiv.org/abs/2603.22002v1)|null|
+|**2026-03-23**|**GeoFusion-CAD: Structure-Aware Diffusion with Geometric State Space for Parametric 3D Design**|Xiaolei Zhou et.al.|[link](http://arxiv.org/abs/2603.21978v1)|null|
+|**2026-03-23**|**Multi-View Deformable Convolution Meets Visual Mamba for Coronary Artery Segmentation**|Xiaochan Yuan et.al.|[link](http://arxiv.org/abs/2603.21829v1)|null|
+|**2026-03-22**|**HELIX: Scaling Raw Audio Understanding with Hybrid Mamba-Attention Beyond the Quadratic Limit**|Khushiyant et.al.|[link](http://arxiv.org/abs/2603.21316v1)|null|
 |**2026-03-21**|**Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding**|Jincen Jiang et.al.|[link](http://arxiv.org/abs/2603.20739v1)|null|
 |**2026-03-20**|**MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models**|Puskal Khadka et.al.|[link](http://arxiv.org/abs/2603.20074v1)|null|
 |**2026-03-20**|**ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis**|Lubin Gan et.al.|[link](http://arxiv.org/abs/2603.19925v1)|null|
@@ -2375,6 +2403,7 @@
 |**2026-03-19**|**AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba**|Yan Li et.al.|[link](http://arxiv.org/abs/2603.18462v1)|null|
 |**2026-03-18**|**REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning and Physics-Guided Filtering**|Jialong Liu et.al.|[link](http://arxiv.org/abs/2603.17653v1)|null|
 |**2026-03-18**|**DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis**|Aleksander Ogonowski et.al.|[link](http://arxiv.org/abs/2603.17637v1)|null|
+|**2026-03-24**|**PRISM: Demystifying Retention and Interaction in Mid-Training**|Bharat Runwal et.al.|[link](http://arxiv.org/abs/2603.17074v3)|null|
 |**2026-03-21**|**PRISM: Demystifying Retention and Interaction in Mid-Training**|Bharat Runwal et.al.|[link](http://arxiv.org/abs/2603.17074v2)|null|
 |**2026-03-17**|**PRISM: Demystifying Retention and Interaction in Mid-Training**|Bharat Runwal et.al.|[link](http://arxiv.org/abs/2603.17074v1)|null|
 |**2026-03-17**|**Edge-Efficient Two-Stream Multimodal Architecture for Non-Intrusive Bathroom Fall Detection**|Haitian Wang et.al.|[link](http://arxiv.org/abs/2603.17069v1)|null|
@@ -2852,6 +2881,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-24**|**Shellability of 3-cut complexes of powers of cycle graphs**|Pratiksha Chauhan et.al.|[link](http://arxiv.org/abs/2603.23155v1)|null|
+|**2026-03-24**|**Extending partial edge-colorings of bounded size in Cartesian products of graphs**|Pál Bärnkopf et.al.|[link](http://arxiv.org/abs/2603.23139v1)|null|
+|**2026-03-24**|**HGNet: Scalable Foundation Model for Automated Knowledge Graph Generation from Scientific Literature**|Devvrat Joshi et.al.|[link](http://arxiv.org/abs/2603.23136v1)|null|
+|**2026-03-24**|**3rd Place of MeViS-Audio Track of the 5th PVUW: VIRST-Audio**|Jihwan Hong et.al.|[link](http://arxiv.org/abs/2603.23126v1)|null|
+|**2026-03-24**|**From Questions to Trust Reports: A LLM-IR Framework for the TREC 2025 DRAGUN Track**|Ignacy Alwasiak et.al.|[link](http://arxiv.org/abs/2603.23125v1)|null|
+|**2026-03-24**|**Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach**|Miquel Lopez Escoriza et.al.|[link](http://arxiv.org/abs/2603.23116v1)|null|
+|**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[link](http://arxiv.org/abs/2603.23112v1)|null|
+|**2026-03-24**|**NeuroSeg Meets DINOv3: Transferring 2D Self-Supervised Visual Priors to 3D Neuron Segmentation via DINOv3 Initialization**|Yik San Cheng et.al.|[link](http://arxiv.org/abs/2603.23104v1)|null|
+|**2026-03-24**|**Rigid Motion Estimation using Accelerated Iterative Coordinate Descent (REACT) for MR Imaging**|Kwang Eun Jang et.al.|[link](http://arxiv.org/abs/2603.23096v1)|null|
+|**2026-03-24**|**Construction of graph coverings with prescribed Iwasawa invariants**|Takenori Kataoka et.al.|[link](http://arxiv.org/abs/2603.23088v1)|null|
+|**2026-03-24**|**Wilson network expansion for four-point contact and exchange scalar Feynman diagrams in AdS$_2$**|K. B. Alkalaev et.al.|[link](http://arxiv.org/abs/2603.23080v1)|null|
+|**2026-03-24**|**Knowledge management in House of Graphs**|Gauvain Devillez et.al.|[link](http://arxiv.org/abs/2603.23070v1)|null|
+|**2026-03-24**|**MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding**|Basit Alawode et.al.|[link](http://arxiv.org/abs/2603.23067v1)|null|
+|**2026-03-24**|**Eigenvalue stability of Hermitian and normal matrices**|Adam Parusiński et.al.|[link](http://arxiv.org/abs/2603.23056v1)|null|
+|**2026-03-24**|**Chaos and Superconcentration for Poisson Functionals with Applications in Stochastic Geometry**|Chinmoy Bhattacharjee et.al.|[link](http://arxiv.org/abs/2603.23053v1)|null|
+|**2026-03-24**|**DBAutoDoc: Automated Discovery and Documentation of Undocumented Database Schemas via Statistical Analysis and Iterative LLM Refinement**|Amith Nagarajan et.al.|[link](http://arxiv.org/abs/2603.23050v1)|null|
+|**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[link](http://arxiv.org/abs/2603.23032v1)|null|
+|**2026-03-24**|**Accelerating Maximum Common Subgraph Computation by Exploiting Symmetries**|Buddhi Kothalawala et.al.|[link](http://arxiv.org/abs/2603.23031v1)|null|
+|**2026-03-24**|**Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation**|ByeongCheol Lee et.al.|[link](http://arxiv.org/abs/2603.23030v1)|null|
+|**2026-03-24**|**Concept-based explanations of Segmentation and Detection models in Natural Disaster Management**|Samar Heydari et.al.|[link](http://arxiv.org/abs/2603.23020v1)|null|
 |**2026-03-22**|**CVT-Bench: Counterfactual Viewpoint Transformations Reveal Unstable Spatial Representations in Multimodal LLMs**|Shanmukha Vellamcheti et.al.|[link](http://arxiv.org/abs/2603.21114v1)|null|
 |**2026-03-22**|**DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction**|Long Xu et.al.|[link](http://arxiv.org/abs/2603.21108v1)|null|
 |**2026-03-22**|**CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation**|Bowen Jing et.al.|[link](http://arxiv.org/abs/2603.21104v1)|null|
@@ -4784,6 +4833,14 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-24**|**Why AI-Generated Text Detection Fails: Evidence from Explainable AI Beyond Benchmark Accuracy**|Shushanta Pudasaini et.al.|[link](http://arxiv.org/abs/2603.23146v1)|null|
+|**2026-03-24**|**A Practical Framework for Flaky Failure Triage in Distributed Database Continuous Integration**|Jun-Peng Zhu et.al.|[link](http://arxiv.org/abs/2603.23054v1)|null|
+|**2026-03-24**|**Generalizing Dynamics Modeling More Easily from Representation Perspective**|Yiming Wang et.al.|[link](http://arxiv.org/abs/2603.22655v1)|null|
+|**2026-03-23**|**OpenEarth-Agent: From Tool Calling to Tool Creation for Open-Environment Earth Observation**|Sijie Zhao et.al.|[link](http://arxiv.org/abs/2603.22148v1)|null|
+|**2026-03-23**|**Thermal Topology Collapse: Universal Physical Patch Attacks on Infrared Vision Systems**|Chengyin Hu et.al.|[link](http://arxiv.org/abs/2603.21876v1)|null|
+|**2026-03-23**|**Riemannian Geometry Speaks Louder Than Words: From Graph Foundation Model to Next-Generation Graph Intelligence**|Philip S. Yu et.al.|[link](http://arxiv.org/abs/2603.21601v1)|null|
+|**2026-03-22**|**Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting**|Yuntian Bo et.al.|[link](http://arxiv.org/abs/2603.21287v1)|null|
+|**2026-03-22**|**Does Mechanistic Interpretability Transfer Across Data Modalities? A Cross-Domain Causal Circuit Analysis of Variational Autoencoders**|Dip Roy et.al.|[link](http://arxiv.org/abs/2603.21236v1)|null|
 |**2026-03-21**|**Beyond Expression Similarity: Contrastive Learning Recovers Functional Gene Associations from Protein Interaction Structure**|Jason Dury et.al.|[link](http://arxiv.org/abs/2603.20955v1)|null|
 |**2026-03-21**|**Dodgersort: Uncertainty-Aware VLM-Guided Human-in-the-Loop Pairwise Ranking**|Yujin Park et.al.|[link](http://arxiv.org/abs/2603.20839v1)|null|
 |**2026-03-21**|**Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding**|Jincen Jiang et.al.|[link](http://arxiv.org/abs/2603.20739v1)|null|
