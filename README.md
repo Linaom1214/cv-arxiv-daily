@@ -1,4 +1,4 @@
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 
 ### ISTD
 
@@ -292,6 +292,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[link](http://arxiv.org/abs/2603.27666v1)|null|
+|**2026-03-29**|**Amped: Adaptive Multi-stage Non-edge Pruning for Edge Detection**|Yuhan Gao et.al.|[link](http://arxiv.org/abs/2603.27661v1)|null|
+|**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[link](http://arxiv.org/abs/2603.27650v1)|null|
+|**2026-03-29**|**Factorization method for a simply supported obstacle from point source measurements via far--field transformation**|Isaac Harris et.al.|[link](http://arxiv.org/abs/2603.27647v1)|null|
+|**2026-03-29**|**Sharper upper bounds for $q$-ary $B_2$ codes from Toeplitz SDPs**|Stefano Della Fiore et.al.|[link](http://arxiv.org/abs/2603.27639v1)|null|
+|**2026-03-29**|**Radon Transform over Tensor Fields: Injectivity, Range, and Unique Continuation Principle**|Rohit Kumar Mishra et.al.|[link](http://arxiv.org/abs/2603.27638v1)|null|
+|**2026-03-29**|**OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation**|Sanghyeon Lee et.al.|[link](http://arxiv.org/abs/2603.27637v1)|null|
+|**2026-03-29**|**Clore: Interactive Pathology Image Segmentation with Click-based Local Refinement**|Tiantong Wang et.al.|[link](http://arxiv.org/abs/2603.27625v1)|null|
+|**2026-03-29**|**$\texttt{Exoformer}$: Accelerating Bayesian atmospheric retrievals with transformer neural networks**|L. Pagliaro et.al.|[link](http://arxiv.org/abs/2603.27623v1)|null|
+|**2026-03-29**|**What does a system modify when it modifies itself?**|Florentin Koch et.al.|[link](http://arxiv.org/abs/2603.27611v1)|null|
+|**2026-03-29**|**You Only Erase Once: Erasing Anything without Bringing Unexpected Content**|Yixing Zhu et.al.|[link](http://arxiv.org/abs/2603.27599v1)|null|
+|**2026-03-29**|**SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion**|Minzhang Li et.al.|[link](http://arxiv.org/abs/2603.27573v1)|null|
+|**2026-03-29**|**RAGent: Physics-Aware Agentic Reasoning for Training-Free mmWave Human Activity Recognition**|Mingda Han et.al.|[link](http://arxiv.org/abs/2603.27571v1)|null|
+|**2026-03-29**|**Beating vDSP: A 138 GFLOPS Radix-8 Stockham FFT on Apple Silicon via Two-Tier Register-Threadgroup Memory Decomposition**|Mohamed Amine Bergach et.al.|[link](http://arxiv.org/abs/2603.27569v1)|null|
+|**2026-03-29**|**Homothetic Hodge$-$de Rham Theory and a Geometric Regularization of Elliptic Boundary Value Problems**|Fereidoun Sabetghadam et.al.|[link](http://arxiv.org/abs/2603.27564v1)|null|
+|**2026-03-29**|**Drag or Traction: Understanding How Designers Appropriate Friction in AI Ideation Outputs**|A. Baki Kocaballi et.al.|[link](http://arxiv.org/abs/2603.27550v1)|null|
+|**2026-03-29**|**Fast localization of anomalous patches in spatial data under dependence**|Soham Bonnerjee et.al.|[link](http://arxiv.org/abs/2603.27546v1)|null|
+|**2026-03-29**|**Energy-Efficient Velocity Profile Optimization for Movable Antenna-Enabled Sensing Systems**|Jiannan Wang et.al.|[link](http://arxiv.org/abs/2603.27540v1)|null|
+|**2026-03-29**|**LongCat-Next: Lexicalizing Modalities as Discrete Tokens**|Meituan LongCat Team et.al.|[link](http://arxiv.org/abs/2603.27538v1)|null|
+|**2026-03-29**|**A gentle tutorial and a structured reformulation of Bock's algorithm for minimum directed spanning trees**|Yuxi Wang et.al.|[link](http://arxiv.org/abs/2603.27530v1)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[link](http://arxiv.org/abs/2603.25743v1)|**[code](https://github.com/gudaochangsheng/RefAlign)**|
 |**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[link](http://arxiv.org/abs/2603.25739v1)|null|
 |**2026-03-26**|**Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?**|Abhishek Bhandwaldar et.al.|[link](http://arxiv.org/abs/2603.25719v1)|null|
@@ -2427,6 +2447,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-28**|**TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba**|Ziyue Yang et.al.|[link](http://arxiv.org/abs/2603.27314v1)|null|
+|**2026-03-27**|**WiMamba: Linear-Scale Wireless Foundation Model**|Tomer Raviv et.al.|[link](http://arxiv.org/abs/2603.26367v1)|null|
 |**2026-03-26**|**A Mamba-based Perceptual Loss Function for Learning-based UGC Transcoding**|Zihao Qi et.al.|[link](http://arxiv.org/abs/2603.25566v1)|null|
 |**2026-03-26**|**Vision Hopfield Memory Networks**|Jianfeng Wang et.al.|[link](http://arxiv.org/abs/2603.25157v1)|null|
 |**2026-03-25**|**LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|[link](http://arxiv.org/abs/2603.24045v1)|null|
@@ -2926,6 +2948,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-03-29**|**Operator Norm Bounds for Multi-leg Matrix Tensors and Applications to Random Matrix Theory**|Benoît Collins et.al.|[link](http://arxiv.org/abs/2603.27659v1)|null|
+|**2026-03-29**|**Exact Algorithms for Edge Deletion to Cactus**|Sheikh Shakil Akhtar et.al.|[link](http://arxiv.org/abs/2603.27655v1)|null|
+|**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[link](http://arxiv.org/abs/2603.27650v1)|null|
+|**2026-03-29**|**Clore: Interactive Pathology Image Segmentation with Click-based Local Refinement**|Tiantong Wang et.al.|[link](http://arxiv.org/abs/2603.27625v1)|null|
+|**2026-03-29**|**You Only Erase Once: Erasing Anything without Bringing Unexpected Content**|Yixing Zhu et.al.|[link](http://arxiv.org/abs/2603.27599v1)|null|
+|**2026-03-29**|**Centrality-Based Security Allocation in Networked Control Systems**|Anh Tung Nguyen et.al.|[link](http://arxiv.org/abs/2603.27581v1)|null|
+|**2026-03-29**|**SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion**|Minzhang Li et.al.|[link](http://arxiv.org/abs/2603.27573v1)|null|
+|**2026-03-29**|**RAGent: Physics-Aware Agentic Reasoning for Training-Free mmWave Human Activity Recognition**|Mingda Han et.al.|[link](http://arxiv.org/abs/2603.27571v1)|null|
+|**2026-03-29**|**Lifting and Folding: A Framework for Unstable Graphs and TF-Cousins**|Russell Mizzi et.al.|[link](http://arxiv.org/abs/2603.27559v1)|null|
+|**2026-03-29**|**Fast localization of anomalous patches in spatial data under dependence**|Soham Bonnerjee et.al.|[link](http://arxiv.org/abs/2603.27546v1)|null|
+|**2026-03-29**|**Demo-Pose: Depth-Monocular Modality Fusion For Object Pose Estimation**|Rachit Agarwal et.al.|[link](http://arxiv.org/abs/2603.27533v1)|null|
+|**2026-03-29**|**A gentle tutorial and a structured reformulation of Bock's algorithm for minimum directed spanning trees**|Yuxi Wang et.al.|[link](http://arxiv.org/abs/2603.27530v1)|null|
+|**2026-03-29**|**Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs**|Tanvir Hossain et.al.|[link](http://arxiv.org/abs/2603.27529v1)|null|
+|**2026-03-29**|**Transferring Physical Priors into Remote Sensing Segmentation via Large Language Models**|Yuxi Lu et.al.|[link](http://arxiv.org/abs/2603.27504v1)|null|
+|**2026-03-29**|**An extension of Katsuda-Urakawa's Faber-Krahn inequality**|Wankai He et.al.|[link](http://arxiv.org/abs/2603.27489v1)|null|
+|**2026-03-29**|**Driving Condition-Aware Multi-Agent Integrated Power and Thermal Management for Hybrid Electric Vehicles**|Hanghang Cui et.al.|[link](http://arxiv.org/abs/2603.27471v1)|null|
+|**2026-03-29**|**RSR-core: A High-Performance Engine for Low-Bit Matrix-Vector Multiplication**|Mohsen Dehghankar et.al.|[link](http://arxiv.org/abs/2603.27462v1)|null|
+|**2026-03-29**|**A tree interpretation of arc standard dependency derivation**|Zihao Huang et.al.|[link](http://arxiv.org/abs/2603.27459v1)|null|
+|**2026-03-28**|**Evaluating Large and Lightweight Vision Models for Irregular Component Segmentation in E-Waste Disassembly**|Xinyao Zhang et.al.|[link](http://arxiv.org/abs/2603.27441v1)|null|
+|**2026-03-28**|**Bounds on median eigenvalues of graphs of bounded degree**|Hricha Acharya et.al.|[link](http://arxiv.org/abs/2603.27434v1)|null|
 |**2026-03-26**|**A Graphical Coaction for FRW Wavefunction Coefficients**|Andrew McLeod et.al.|[link](http://arxiv.org/abs/2603.25703v1)|null|
 |**2026-03-26**|**LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation**|Ishaan Gakhar et.al.|[link](http://arxiv.org/abs/2603.25689v1)|null|
 |**2026-03-26**|**On the Formalization of Network Topology Matrices in HOL**|Kubra Aksoy et.al.|[link](http://arxiv.org/abs/2603.25682v1)|null|
@@ -4918,14 +4960,23 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-03-29**|**Towards Domain-Generalized Open-Vocabulary Object Detection: A Progressive Domain-invariant Cross-modal Alignment Method**|Xiaoran Xu et.al.|[link](http://arxiv.org/abs/2603.27556v1)|null|
+|**2026-03-28**|**Human-Centric Perception for Child Sexual Abuse Imagery**|Camila Laranjeira et.al.|[link](http://arxiv.org/abs/2603.27290v1)|null|
+|**2026-03-28**|**RailVQA: A Benchmark and Framework for Efficient Interpretable Visual Cognition in Automatic Train Operation**|Sen Zhang et.al.|[link](http://arxiv.org/abs/2603.27112v1)|null|
+|**2026-03-28**|**Meta-Contrastive Learning for Vision-Language Models via Task-Adaptive CLIP Training**|Merham Fouladvand et.al.|[link](http://arxiv.org/abs/2603.27091v1)|null|
+|**2026-03-27**|**External Benchmarking of Lung Ultrasound Models for Pneumothorax-Related Signs: A Manifest-Based Multi-Source Study**|Takehiro Ishikawa et.al.|[link](http://arxiv.org/abs/2603.26832v1)|null|
+|**2026-03-27**|**Unlabeled Cross-Center Automatic Analysis for TAAD: An Integrated Framework from Segmentation to Clinical Features**|Mengdi Liu et.al.|[link](http://arxiv.org/abs/2603.26019v1)|null|
+|**2026-03-26**|**MemoryCD: Benchmarking Long-Context User Memory of LLM Agents for Lifelong Cross-Domain Personalization**|Weizhi Zhang et.al.|[link](http://arxiv.org/abs/2603.25973v1)|null|
 |**2026-03-26**|**SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding**|Jiwook Han et.al.|[link](http://arxiv.org/abs/2603.25733v1)|null|
-|**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[link](http://arxiv.org/abs/2603.25501v1)|**[code](https://github.com/PietroDellOglio-nlp/Most-Popular-Approaches-to-Fake-News-Detection-Comparison)**|
+|**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[link](http://arxiv.org/abs/2603.25501v1)|null|
 |**2026-03-25**|**OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding**|Xiaoyu Tang et.al.|[link](http://arxiv.org/abs/2603.24876v1)|null|
-|**2026-03-25**|**Synthetic Cardiac MRI Image Generation using Deep Generative Models**|Ishan Kumarasinghe et.al.|[link](http://arxiv.org/abs/2603.24764v1)|**[code](https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models)**|
+|**2026-03-25**|**Synthetic Cardiac MRI Image Generation using Deep Generative Models**|Ishan Kumarasinghe et.al.|[link](http://arxiv.org/abs/2603.24764v1)|null|
 |**2026-03-25**|**Is Geometry Enough? An Evaluation of Landmark-Based Gaze Estimation**|Daniele Agostinelli et.al.|[link](http://arxiv.org/abs/2603.24724v1)|null|
+|**2026-03-29**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[link](http://arxiv.org/abs/2603.24691v2)|null|
 |**2026-03-25**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[link](http://arxiv.org/abs/2603.24691v1)|null|
 |**2026-03-26**|**AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model**|Yunbo Long et.al.|[link](http://arxiv.org/abs/2603.24402v2)|null|
 |**2026-03-25**|**Causal Transfer in Medical Image Analysis**|Mohammed M. Abdelsamea et.al.|[link](http://arxiv.org/abs/2603.24388v1)|null|
+|**2026-03-27**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu et.al.|[link](http://arxiv.org/abs/2603.24226v2)|null|
 |**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu et.al.|[link](http://arxiv.org/abs/2603.24226v1)|null|
 |**2026-03-25**|**Enhanced Mycelium of Thought (EMoT): A Bio-Inspired Hierarchical Reasoning Architecture with Strategic Dormancy and Mnemonic Encoding**|Florian Odi Stummer et.al.|[link](http://arxiv.org/abs/2603.24065v1)|null|
 |**2026-03-25**|**Beyond Semantic Priors: Mitigating Optimization Collapse for Generalizable Visual Forensics**|Jipeng Liu et.al.|[link](http://arxiv.org/abs/2603.24057v1)|null|
