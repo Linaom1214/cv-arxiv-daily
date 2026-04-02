@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 
 ### ISTD
 
@@ -293,6 +293,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-01**|**Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts**|Daniel Miehling et.al.|[link](http://arxiv.org/abs/2604.00994v1)|null|
+|**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[link](http://arxiv.org/abs/2604.00985v1)|null|
+|**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[link](http://arxiv.org/abs/2604.00982v1)|null|
+|**2026-04-01**|**Understanding Transformers and Attention Mechanisms: An Introduction for Applied Mathematicians**|Michel Fabrice Serret et.al.|[link](http://arxiv.org/abs/2604.00965v1)|null|
+|**2026-04-01**|**WARP: Guaranteed Inner-Layer Repair of NLP Transformers**|Hsin-Ling Hsu et.al.|[link](http://arxiv.org/abs/2604.00938v1)|null|
+|**2026-04-01**|**Learning Quantised Structure-Preserving Motion Representations for Dance Fingerprinting**|Arina Kharlamova et.al.|[link](http://arxiv.org/abs/2604.00927v1)|null|
+|**2026-04-01**|**Positional Cognitive Specialization: Where Do LLMs Learn To Comprehend and Speak Your Language?**|Luis Frentzen Salim et.al.|[link](http://arxiv.org/abs/2604.00923v1)|null|
+|**2026-04-01**|**Generalization Bounds for Spectral GNNs via Fourier Domain Analysis**|Vahan A. Martirosyan et.al.|[link](http://arxiv.org/abs/2604.00918v1)|null|
+|**2026-04-01**|**ProCap: Projection-Aware Captioning for Spatial Augmented Reality**|Zimo Cao et.al.|[link](http://arxiv.org/abs/2604.00912v1)|null|
+|**2026-04-01**|**The $\mathbb{Z}_N^{\times 3}$ symmetry protected boundary modes in two-dimensional Potts paramagnets**|Hrant Topchyan et.al.|[link](http://arxiv.org/abs/2604.00910v1)|null|
+|**2026-04-01**|**PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding**|Nan Wang et.al.|[link](http://arxiv.org/abs/2604.00886v1)|null|
+|**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[link](http://arxiv.org/abs/2604.00878v1)|null|
+|**2026-04-01**|**A 4D Representation for Training-Free Agentic Reasoning from Monocular Laparoscopic Video**|Maximilian Fehrentz et.al.|[link](http://arxiv.org/abs/2604.00867v1)|null|
+|**2026-04-01**|**Policy Improvement Reinforcement Learning**|Huaiyang Wang et.al.|[link](http://arxiv.org/abs/2604.00860v1)|null|
+|**2026-04-01**|**MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer**|Samuel Teodoro et.al.|[link](http://arxiv.org/abs/2604.00853v1)|null|
+|**2026-04-01**|**Quantum Simulation of Cranked Zirconium Isotopes: A Fixed-N Approach with a Structured Number-Conserving Ansatz**|Abhishek et.al.|[link](http://arxiv.org/abs/2604.00844v1)|null|
+|**2026-04-01**|**Video Patch Pruning: Efficient Video Instance Segmentation via Early Token Reduction**|Patrick Glandorf et.al.|[link](http://arxiv.org/abs/2604.00827v1)|null|
+|**2026-04-01**|**Multicentric thrombus segmentation using an attention-based recurrent network with gradual modality dropout**|Sofia Vargas-Ibarra et.al.|[link](http://arxiv.org/abs/2604.00817v1)|null|
+|**2026-04-01**|**DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale**|Sicheng Zuo et.al.|[link](http://arxiv.org/abs/2604.00813v1)|null|
+|**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[link](http://arxiv.org/abs/2604.00812v1)|null|
 |**2026-03-31**|**QTAM: QTransform Amplitude Modulation**|Lorenzo Asprea et.al.|[link](http://arxiv.org/abs/2603.29785v1)|null|
 |**2026-03-31**|**Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration**|Fengyang Xiao et.al.|[link](http://arxiv.org/abs/2603.29773v1)|null|
 |**2026-03-31**|**Big2Small: A Unifying Neural Network Framework for Model Compression**|Jing-Xiao Liao et.al.|[link](http://arxiv.org/abs/2603.29768v1)|null|
@@ -2468,6 +2488,11 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-01**|**A Benchmark of State-Space Models vs. Transformers and BiLSTM-based Models for Historical Newspaper OCR**|Merveilles Agbeti-messan et.al.|[link](http://arxiv.org/abs/2604.00725v1)|null|
+|**2026-04-01**|**KG-CMI: Knowledge graph enhanced cross-Mamba interaction for medical visual question answering**|Xianyao Zheng et.al.|[link](http://arxiv.org/abs/2604.00601v1)|null|
+|**2026-04-01**|**MATHENA: Mamba-based Architectural Tooth Hierarchical Estimator and Holistic Evaluation Network for Anatomy**|Kyeonghun Kim et.al.|[link](http://arxiv.org/abs/2604.00537v1)|null|
+|**2026-04-01**|**VADMamba++: Efficient Video Anomaly Detection via Hybrid Modeling in Grayscale Space**|Jihao Lyu et.al.|[link](http://arxiv.org/abs/2604.00360v1)|null|
+|**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[link](http://arxiv.org/abs/2604.00292v1)|null|
 |**2026-03-30**|**On the Mirage of Long-Range Dependency, with an Application to Integer Multiplication**|Zichao Wei et.al.|[link](http://arxiv.org/abs/2603.29069v1)|null|
 |**2026-03-28**|**TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba**|Ziyue Yang et.al.|[link](http://arxiv.org/abs/2603.27314v1)|null|
 |**2026-03-27**|**WiMamba: Linear-Scale Wireless Foundation Model**|Tomer Raviv et.al.|[link](http://arxiv.org/abs/2603.26367v1)|null|
@@ -2970,6 +2995,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-01**|**Tube-Based Safety for Anticipative Tracking in Multi-Agent Systems**|Armel Koulong et.al.|[link](http://arxiv.org/abs/2604.00992v1)|null|
+|**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[link](http://arxiv.org/abs/2604.00985v1)|null|
+|**2026-04-01**|**Properties of multiqubit variational quantum states representing weighted graphs and their computing with quantum programming**|Kh. P. Gnatenko et.al.|[link](http://arxiv.org/abs/2604.00958v1)|null|
+|**2026-04-01**|**Generalization Bounds for Spectral GNNs via Fourier Domain Analysis**|Vahan A. Martirosyan et.al.|[link](http://arxiv.org/abs/2604.00918v1)|null|
+|**2026-04-01**|**ProCap: Projection-Aware Captioning for Spatial Augmented Reality**|Zimo Cao et.al.|[link](http://arxiv.org/abs/2604.00912v1)|null|
+|**2026-04-01**|**The $\mathbb{Z}_N^{\times 3}$ symmetry protected boundary modes in two-dimensional Potts paramagnets**|Hrant Topchyan et.al.|[link](http://arxiv.org/abs/2604.00910v1)|null|
+|**2026-04-01**|**Quantum walk on a random comb**|François David et.al.|[link](http://arxiv.org/abs/2604.00908v1)|null|
+|**2026-04-01**|**Hamiltonicity of inhomogeneous random graphs**|Frederik Garbe et.al.|[link](http://arxiv.org/abs/2604.00899v1)|null|
+|**2026-04-01**|**Enumerating Two-Orbit Graphs**|David Seka et.al.|[link](http://arxiv.org/abs/2604.00898v1)|null|
+|**2026-04-01**|**A Framework for Parameterized Subexponential-Subcubic-Time Algorithms for Weighted Problems in Planar Graphs**|Matthias Bentert et.al.|[link](http://arxiv.org/abs/2604.00891v1)|null|
+|**2026-04-01**|**Detecting Call Graph Unsoundness without Ground Truth**|Fangtian Zhong et.al.|[link](http://arxiv.org/abs/2604.00885v1)|null|
+|**2026-04-01**|**A 4D Representation for Training-Free Agentic Reasoning from Monocular Laparoscopic Video**|Maximilian Fehrentz et.al.|[link](http://arxiv.org/abs/2604.00867v1)|null|
+|**2026-04-01**|**Quantum Simulation of Cranked Zirconium Isotopes: A Fixed-N Approach with a Structured Number-Conserving Ansatz**|Abhishek et.al.|[link](http://arxiv.org/abs/2604.00844v1)|null|
+|**2026-04-01**|**Near-Optimal Four-Cycle Counting in Graph Streams**|Sebastian Lüderssen et.al.|[link](http://arxiv.org/abs/2604.00828v1)|null|
+|**2026-04-01**|**Video Patch Pruning: Efficient Video Instance Segmentation via Early Token Reduction**|Patrick Glandorf et.al.|[link](http://arxiv.org/abs/2604.00827v1)|null|
+|**2026-04-01**|**Multicentric thrombus segmentation using an attention-based recurrent network with gradual modality dropout**|Sofia Vargas-Ibarra et.al.|[link](http://arxiv.org/abs/2604.00817v1)|null|
+|**2026-04-01**|**From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks**|Ayan Datta et.al.|[link](http://arxiv.org/abs/2604.00778v1)|null|
+|**2026-04-01**|**Description and Discussion on DCASE 2026 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes**|Masahiro Yasuda et.al.|[link](http://arxiv.org/abs/2604.00776v1)|null|
+|**2026-04-01**|**Learning Laplacian Forms for Graph Signal Processing via the Deformed Laplacian**|Stefania Sardellitti et.al.|[link](http://arxiv.org/abs/2604.00728v1)|null|
+|**2026-04-01**|**A column generation algorithm for finding co-3-plexes in chordal graphs**|Alexandre Dupont-Bouillard et.al.|[link](http://arxiv.org/abs/2604.00721v1)|null|
 |**2026-03-31**|**From Orientations to $\ell$-adic Period Vectors**|Leonardo Colò et.al.|[link](http://arxiv.org/abs/2603.29789v1)|null|
 |**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[link](http://arxiv.org/abs/2603.29784v1)|null|
 |**2026-03-31**|**Big2Small: A Unifying Neural Network Framework for Model Compression**|Jing-Xiao Liao et.al.|[link](http://arxiv.org/abs/2603.29768v1)|null|
@@ -5002,6 +5047,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-01**|**Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications**|Yi Cao et.al.|[link](http://arxiv.org/abs/2604.00987v1)|null|
+|**2026-04-01**|**PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition**|Samar Ansari et.al.|[link](http://arxiv.org/abs/2604.00761v1)|null|
+|**2026-04-01**|**FreqPhys: Repurposing Implicit Physiological Frequency Prior for Robust Remote Photoplethysmography**|Wei Qian et.al.|[link](http://arxiv.org/abs/2604.00534v1)|null|
+|**2026-03-31**|**The Data Hydration Gap: A Formal Model of Underinvestment in General-Purpose Data Products Under Decentralized Governance**|Gaston Besanson et.al.|[link](http://arxiv.org/abs/2604.00218v1)|null|
+|**2026-03-31**|**ENEIDE: A High Quality Silver Standard Dataset for Named Entity Recognition and Linking in Historical Italian**|Cristian Santini et.al.|[link](http://arxiv.org/abs/2603.29801v1)|null|
 |**2026-03-31**|**CoRe-DA: Contrastive Regression for Unsupervised Domain Adaptation in Surgical Skill Assessment**|Dimitrios Anastasiou et.al.|[link](http://arxiv.org/abs/2603.29666v1)|null|
 |**2026-03-31**|**FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration**|Qiyao Wang et.al.|[link](http://arxiv.org/abs/2603.29557v1)|null|
 |**2026-03-31**|**APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay**|Pratyay Banerjee et.al.|[link](http://arxiv.org/abs/2603.29093v1)|null|
