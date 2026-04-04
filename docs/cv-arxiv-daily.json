@@ -138,7 +138,8 @@
     "2603.16257v1": "|**2026-03-17**|**Point-to-Mask: From Arbitrary Point Annotations to Mask-Level Infrared Small Target Detection**|Weihua Gao et.al.|[link](http://arxiv.org/abs/2603.16257v1)|null|\n",
     "2603.21192v1": "|**2026-03-22**|**DSCSNet: A Dynamic Sparse Compression Sensing Network for Closely-Spaced Infrared Small Target Unmixing**|Zhiyang Tang et.al.|[link](http://arxiv.org/abs/2603.21192v1)|null|\n",
     "2603.25389v1": "|**2026-03-26**|**FSGNet: A Frequency-Aware and Semantic Guidance Network for Infrared Small Target Detection**|Yingmei Zhang et.al.|[link](http://arxiv.org/abs/2603.25389v1)|null|\n",
-    "2603.29228v1": "|**2026-03-31**|**CCDNet: Learning to Detect Camouflage against Distractors in Infrared Small Target Detection**|Zikai Liao et.al.|[link](http://arxiv.org/abs/2603.29228v1)|null|\n"
+    "2603.29228v1": "|**2026-03-31**|**CCDNet: Learning to Detect Camouflage against Distractors in Infrared Small Target Detection**|Zikai Liao et.al.|[link](http://arxiv.org/abs/2603.29228v1)|null|\n",
+    "2604.01934v1": "|**2026-04-02**|**Rethinking Representations for Cross-Domain Infrared Small Target Detection: A Generalizable Perspective from the Frequency Domain**|Yimin Fu et.al.|[link](http://arxiv.org/abs/2604.01934v1)|null|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",
@@ -2472,7 +2473,27 @@
     "2604.00827v1": "|**2026-04-01**|**Video Patch Pruning: Efficient Video Instance Segmentation via Early Token Reduction**|Patrick Glandorf et.al.|[link](http://arxiv.org/abs/2604.00827v1)|null|\n",
     "2604.00817v1": "|**2026-04-01**|**Multicentric thrombus segmentation using an attention-based recurrent network with gradual modality dropout**|Sofia Vargas-Ibarra et.al.|[link](http://arxiv.org/abs/2604.00817v1)|null|\n",
     "2604.00813v1": "|**2026-04-01**|**DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale**|Sicheng Zuo et.al.|[link](http://arxiv.org/abs/2604.00813v1)|null|\n",
-    "2604.00812v1": "|**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[link](http://arxiv.org/abs/2604.00812v1)|null|\n"
+    "2604.00812v1": "|**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[link](http://arxiv.org/abs/2604.00812v1)|null|\n",
+    "2604.02332v1": "|**2026-04-02**|**Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI**|M\u00e5ns Holmberg et.al.|[link](http://arxiv.org/abs/2604.02332v1)|null|\n",
+    "2604.02328v1": "|**2026-04-02**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al.|[link](http://arxiv.org/abs/2604.02328v1)|null|\n",
+    "2604.02327v1": "|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[link](http://arxiv.org/abs/2604.02327v1)|null|\n",
+    "2604.02316v1": "|**2026-04-02**|**A construction of 2-arc-transitive non-solvable covers of complete graphs**|Jiyong Chen et.al.|[link](http://arxiv.org/abs/2604.02316v1)|null|\n",
+    "2604.02313v1": "|**2026-04-02**|**Topological Effects in Neural Network Field Theory**|Christian Ferko et.al.|[link](http://arxiv.org/abs/2604.02313v1)|null|\n",
+    "2604.02303v1": "|**2026-04-02**|**Trapping and commutative Boolean networks**|Maximilien Gadouleau et.al.|[link](http://arxiv.org/abs/2604.02303v1)|null|\n",
+    "2604.02300v1": "|**2026-04-02**|**Revealing the neutrino mass through persistent homology of the cosmic web**|Jiaqi Wang et.al.|[link](http://arxiv.org/abs/2604.02300v1)|null|\n",
+    "2604.02294v1": "|**2026-04-02**|**Recursive relations from diffeomorphism in the Randall-Sundrum model**|Haiying Cai et.al.|[link](http://arxiv.org/abs/2604.02294v1)|null|\n",
+    "2604.02292v1": "|**2026-04-02**|**Taming the Exponential: A Fast Softmax Surrogate for Integer-Native Edge Inference**|Dimitrios Danopoulos et.al.|[link](http://arxiv.org/abs/2604.02292v1)|null|\n",
+    "2604.02286v1": "|**2026-04-02**|**Bayesian covariance regression for differential network analysis of zero-inflated microbiome data**|Zichun Xu et.al.|[link](http://arxiv.org/abs/2604.02286v1)|null|\n",
+    "2604.02270v1": "|**2026-04-02**|**Crystalite: A Lightweight Transformer for Efficient Crystal Modeling**|Tin Had\u017ei Veljkovi\u0107 et.al.|[link](http://arxiv.org/abs/2604.02270v1)|null|\n",
+    "2604.02256v1": "|**2026-04-02**|**A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots**|Weiting Feng et.al.|[link](http://arxiv.org/abs/2604.02256v1)|null|\n",
+    "2604.02252v1": "|**2026-04-02**|**SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**|Naomi Kombol et.al.|[link](http://arxiv.org/abs/2604.02252v1)|null|\n",
+    "2604.02228v1": "|**2026-04-02**|**Gravitational null rays: Covariant Quantization and the Dressing Time**|Laurent Freidel et.al.|[link](http://arxiv.org/abs/2604.02228v1)|null|\n",
+    "2604.02217v1": "|**2026-04-02**|**VISTA: Visualization of Token Attribution via Efficient Analysis**|Syed Ahmed et.al.|[link](http://arxiv.org/abs/2604.02217v1)|null|\n",
+    "2604.02212v1": "|**2026-04-02**|**Phase estimation with autoregressive padding (PEAP): addressing inaccuracies and biases in EEG analysis**|Miriam Kirchhoff et.al.|[link](http://arxiv.org/abs/2604.02212v1)|null|\n",
+    "2604.02203v1": "|**2026-04-02**|**QuantumXCT: Learning Interaction-Induced State Transformation in Cell-Cell Communication via Quantum Entanglement and Generative Modeling**|Selim Romero et.al.|[link](http://arxiv.org/abs/2604.02203v1)|null|\n",
+    "2604.02201v1": "|**2026-04-02**|**On the Role of Depth in the Expressivity of RNNs**|Maude Lizaire et.al.|[link](http://arxiv.org/abs/2604.02201v1)|null|\n",
+    "2604.02198v1": "|**2026-04-02**|**From High-Dimensional Spaces to Verifiable ODD Coverage for Safety-Critical AI-based Systems**|Thomas Stefani et.al.|[link](http://arxiv.org/abs/2604.02198v1)|null|\n",
+    "2604.02190v1": "|**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Yongkang Li et.al.|[link](http://arxiv.org/abs/2604.02190v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -2976,7 +2997,12 @@
     "2604.00601v1": "|**2026-04-01**|**KG-CMI: Knowledge graph enhanced cross-Mamba interaction for medical visual question answering**|Xianyao Zheng et.al.|[link](http://arxiv.org/abs/2604.00601v1)|null|\n",
     "2604.00537v1": "|**2026-04-01**|**MATHENA: Mamba-based Architectural Tooth Hierarchical Estimator and Holistic Evaluation Network for Anatomy**|Kyeonghun Kim et.al.|[link](http://arxiv.org/abs/2604.00537v1)|null|\n",
     "2604.00360v1": "|**2026-04-01**|**VADMamba++: Efficient Video Anomaly Detection via Hybrid Modeling in Grayscale Space**|Jihao Lyu et.al.|[link](http://arxiv.org/abs/2604.00360v1)|null|\n",
-    "2604.00292v1": "|**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[link](http://arxiv.org/abs/2604.00292v1)|null|\n"
+    "2604.00292v1": "|**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[link](http://arxiv.org/abs/2604.00292v1)|null|\n",
+    "2604.02273v1": "|**2026-04-02**|**Selective State-Space Models for Koopman-based Data-driven Distribution System State Estimation**|Bader Alabdulrazzaq et.al.|[link](http://arxiv.org/abs/2604.02273v1)|null|\n",
+    "2604.02149v1": "|**2026-04-02**|**AEGIS: Adversarial Entropy-Guided Immune System -- Thermodynamic State Space Models for Zero-Day Network Evasion Detection**|Vickson Ferrel et.al.|[link](http://arxiv.org/abs/2604.02149v1)|null|\n",
+    "2604.01763v1": "|**2026-04-02**|**Cosine-Normalized Attention for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[link](http://arxiv.org/abs/2604.01763v1)|null|\n",
+    "2604.01421v1": "|**2026-04-01**|**EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation**|Abhishek Saroha et.al.|[link](http://arxiv.org/abs/2604.01421v1)|null|\n",
+    "2604.01168v1": "|**2026-04-01**|**S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models**|Jack Young et.al.|[link](http://arxiv.org/abs/2604.01168v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -5024,7 +5050,27 @@
     "2604.00778v1": "|**2026-04-01**|**From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks**|Ayan Datta et.al.|[link](http://arxiv.org/abs/2604.00778v1)|null|\n",
     "2604.00776v1": "|**2026-04-01**|**Description and Discussion on DCASE 2026 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes**|Masahiro Yasuda et.al.|[link](http://arxiv.org/abs/2604.00776v1)|null|\n",
     "2604.00728v1": "|**2026-04-01**|**Learning Laplacian Forms for Graph Signal Processing via the Deformed Laplacian**|Stefania Sardellitti et.al.|[link](http://arxiv.org/abs/2604.00728v1)|null|\n",
-    "2604.00721v1": "|**2026-04-01**|**A column generation algorithm for finding co-3-plexes in chordal graphs**|Alexandre Dupont-Bouillard et.al.|[link](http://arxiv.org/abs/2604.00721v1)|null|\n"
+    "2604.00721v1": "|**2026-04-01**|**A column generation algorithm for finding co-3-plexes in chordal graphs**|Alexandre Dupont-Bouillard et.al.|[link](http://arxiv.org/abs/2604.00721v1)|null|\n",
+    "2604.02328v1": "|**2026-04-02**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al.|[link](http://arxiv.org/abs/2604.02328v1)|null|\n",
+    "2604.02327v1": "|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[link](http://arxiv.org/abs/2604.02327v1)|null|\n",
+    "2604.02316v1": "|**2026-04-02**|**A construction of 2-arc-transitive non-solvable covers of complete graphs**|Jiyong Chen et.al.|[link](http://arxiv.org/abs/2604.02316v1)|null|\n",
+    "2604.02303v1": "|**2026-04-02**|**Trapping and commutative Boolean networks**|Maximilien Gadouleau et.al.|[link](http://arxiv.org/abs/2604.02303v1)|null|\n",
+    "2604.02300v1": "|**2026-04-02**|**Revealing the neutrino mass through persistent homology of the cosmic web**|Jiaqi Wang et.al.|[link](http://arxiv.org/abs/2604.02300v1)|null|\n",
+    "2604.02270v1": "|**2026-04-02**|**Crystalite: A Lightweight Transformer for Efficient Crystal Modeling**|Tin Had\u017ei Veljkovi\u0107 et.al.|[link](http://arxiv.org/abs/2604.02270v1)|null|\n",
+    "2604.02269v1": "|**2026-04-02**|**Tensor invariants for multipartite entanglement classification**|Sylvain Carrozza et.al.|[link](http://arxiv.org/abs/2604.02269v1)|null|\n",
+    "2604.02267v1": "|**2026-04-02**|**S-packing chromatic critical paths and cycles**|G\u00fclnaz Boruzanl\u0131 Ekinci et.al.|[link](http://arxiv.org/abs/2604.02267v1)|null|\n",
+    "2604.02264v1": "|**2026-04-02**|**Random Tur\u00e1n Problems for Graphs with a Vertex Complete to One Part**|Sean Longbrake et.al.|[link](http://arxiv.org/abs/2604.02264v1)|null|\n",
+    "2604.02256v1": "|**2026-04-02**|**A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots**|Weiting Feng et.al.|[link](http://arxiv.org/abs/2604.02256v1)|null|\n",
+    "2604.02254v1": "|**2026-04-02**|**Sufficient conditions for Hamiltonianity in terms of the Zeroth-order General Randi\u0107 Index**|Shuai Wang et.al.|[link](http://arxiv.org/abs/2604.02254v1)|null|\n",
+    "2604.02252v1": "|**2026-04-02**|**SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**|Naomi Kombol et.al.|[link](http://arxiv.org/abs/2604.02252v1)|null|\n",
+    "2604.02250v1": "|**2026-04-02**|**Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives**|Hao Zhu et.al.|[link](http://arxiv.org/abs/2604.02250v1)|null|\n",
+    "2604.02235v1": "|**2026-04-02**|**Subquadratic Counting via Perfect Marginal Sampling**|Xiaoyu Chen et.al.|[link](http://arxiv.org/abs/2604.02235v1)|null|\n",
+    "2604.02228v1": "|**2026-04-02**|**Gravitational null rays: Covariant Quantization and the Dressing Time**|Laurent Freidel et.al.|[link](http://arxiv.org/abs/2604.02228v1)|null|\n",
+    "2604.02215v1": "|**2026-04-02**|**Universal Hypernetworks for Arbitrary Models**|Xuanfeng Zhou et.al.|[link](http://arxiv.org/abs/2604.02215v1)|null|\n",
+    "2604.02212v1": "|**2026-04-02**|**Phase estimation with autoregressive padding (PEAP): addressing inaccuracies and biases in EEG analysis**|Miriam Kirchhoff et.al.|[link](http://arxiv.org/abs/2604.02212v1)|null|\n",
+    "2604.02206v1": "|**2026-04-02**|**LEO: Graph Attention Network based Hybrid Multi Sensor Extended Object Fusion and Tracking for Autonomous Driving Applications**|Mayank Mayank et.al.|[link](http://arxiv.org/abs/2604.02206v1)|null|\n",
+    "2604.02192v1": "|**2026-04-02**|**What can be computed in average anonymous networks?**|Joel Rybicki et.al.|[link](http://arxiv.org/abs/2604.02192v1)|null|\n",
+    "2604.02188v1": "|**2026-04-02**|**Lightweight Spatiotemporal Highway Lane Detection via 3D-ResNet and PINet with ROI-Aware Attention**|Sorna Shanmuga Raja et.al.|[link](http://arxiv.org/abs/2604.02188v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -5845,6 +5891,15 @@
     "2604.00761v1": "|**2026-04-01**|**PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition**|Samar Ansari et.al.|[link](http://arxiv.org/abs/2604.00761v1)|null|\n",
     "2604.00534v1": "|**2026-04-01**|**FreqPhys: Repurposing Implicit Physiological Frequency Prior for Robust Remote Photoplethysmography**|Wei Qian et.al.|[link](http://arxiv.org/abs/2604.00534v1)|null|\n",
     "2604.00218v1": "|**2026-03-31**|**The Data Hydration Gap: A Formal Model of Underinvestment in General-Purpose Data Products Under Decentralized Governance**|Gaston Besanson et.al.|[link](http://arxiv.org/abs/2604.00218v1)|null|\n",
-    "2603.29801v1": "|**2026-03-31**|**ENEIDE: A High Quality Silver Standard Dataset for Named Entity Recognition and Linking in Historical Italian**|Cristian Santini et.al.|[link](http://arxiv.org/abs/2603.29801v1)|null|\n"
+    "2603.29801v1": "|**2026-03-31**|**ENEIDE: A High Quality Silver Standard Dataset for Named Entity Recognition and Linking in Historical Italian**|Cristian Santini et.al.|[link](http://arxiv.org/abs/2603.29801v1)|null|\n",
+    "2604.01934v1": "|**2026-04-02**|**Rethinking Representations for Cross-Domain Infrared Small Target Detection: A Generalizable Perspective from the Frequency Domain**|Yimin Fu et.al.|[link](http://arxiv.org/abs/2604.01934v1)|null|\n",
+    "2604.01834v1": "|**2026-04-02**|**Ranking-Guided Semi-Supervised Domain Adaptation for Severity Classification**|Shota Harada et.al.|[link](http://arxiv.org/abs/2604.01834v1)|null|\n",
+    "2604.01833v1": "|**2026-04-02**|**Language-Pretraining-Induced Bias: A Strong Foundation for General Vision Tasks**|Yaxin Luo et.al.|[link](http://arxiv.org/abs/2604.01833v1)|null|\n",
+    "2604.01770v1": "|**2026-04-02**|**Domain-constrained knowledge representation: A modal framework**|Chao Li et.al.|[link](http://arxiv.org/abs/2604.01770v1)|null|\n",
+    "2604.01553v1": "|**2026-04-02**|**Cross-Domain Vessel Segmentation via Latent Similarity Mining and Iterative Co-Optimization**|Zhanqiang Guo et.al.|[link](http://arxiv.org/abs/2604.01553v1)|null|\n",
+    "2604.01487v1": "|**2026-04-01**|**AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks**|Prince Zizhuang Wang et.al.|[link](http://arxiv.org/abs/2604.01487v1)|null|\n",
+    "2604.01168v1": "|**2026-04-01**|**S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models**|Jack Young et.al.|[link](http://arxiv.org/abs/2604.01168v1)|**[code](https://github.com/JackYoung27/s0-tuning)**|\n",
+    "2604.01152v1": "|**2026-04-01**|**Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning**|Mohammad R. Abu Ayyash et.al.|[link](http://arxiv.org/abs/2604.01152v1)|null|\n",
+    "2604.01044v1": "|**2026-04-01**|**A global dataset of continuous urban dashcam driving**|Md Shadab Alam et.al.|[link](http://arxiv.org/abs/2604.01044v1)|null|\n"
   }
 }
