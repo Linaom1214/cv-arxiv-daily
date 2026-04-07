@@ -1,4 +1,4 @@
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 
 ### ISTD
 
@@ -294,6 +294,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-05**|**Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification**|Ashwat Rajbhandari et.al.|[link](http://arxiv.org/abs/2604.04183v1)|null|
+|**2026-04-05**|**Laplace measure transitions and ghosts for meromorphic functions**|João Fontinha et.al.|[link](http://arxiv.org/abs/2604.04162v1)|null|
+|**2026-04-05**|**AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis**|Tianhua Qi et.al.|[link](http://arxiv.org/abs/2604.04160v1)|null|
+|**2026-04-05**|**Rethinking Exposure Correction for Spatially Non-uniform Degradation**|Ao Li et.al.|[link](http://arxiv.org/abs/2604.04136v1)|null|
+|**2026-04-05**|**Learning Robust Visual Features in Computed Tomography Enables Efficient Transfer Learning for Clinical Tasks**|Rubén Moreno-Aguado et.al.|[link](http://arxiv.org/abs/2604.04133v1)|null|
+|**2026-04-05**|**Measuring Robustness of Speech Recognition from MEG Signals Under Distribution Shift**|Sheng-You Chien et.al.|[link](http://arxiv.org/abs/2604.04129v1)|null|
+|**2026-04-05**|**SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Robust SAR Ship Detection**|Fenghao Song et.al.|[link](http://arxiv.org/abs/2604.04127v1)|null|
+|**2026-04-05**|**Mechanism and Communication Co-Design for Differentially Private Energy Sharing**|Yingshuo Gu et.al.|[link](http://arxiv.org/abs/2604.04125v1)|null|
+|**2026-04-05**|**InsTraj: Instructing Diffusion Models with Travel Intentions to Generate Real-world Trajectories**|Yuanshao Zhu et.al.|[link](http://arxiv.org/abs/2604.04106v1)|null|
+|**2026-04-05**|**LAA-X: Unified Localized Artifact Attention for Quality-Agnostic and Generalizable Face Forgery Detection**|Dat Nguyen et.al.|[link](http://arxiv.org/abs/2604.04086v1)|null|
+|**2026-04-05**|**BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**|Taiping Qu et.al.|[link](http://arxiv.org/abs/2604.04078v1)|null|
+|**2026-04-05**|**Extracting and Steering Emotion Representations in Small Language Models: A Methodological Comparison**|Jihoon Jeong et.al.|[link](http://arxiv.org/abs/2604.04064v1)|null|
+|**2026-04-05**|**CTD-Diff: Cooperative Time-Division Diffusion for Multi-User Semantic Communication Systems**|Chengyang Liang et.al.|[link](http://arxiv.org/abs/2604.04057v1)|null|
+|**2026-04-05**|**TORA: Topological Representation Alignment for 3D Shape Assembly**|Nahyuk Lee et.al.|[link](http://arxiv.org/abs/2604.04050v1)|null|
+|**2026-04-05**|**ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity**|Hang Wang et.al.|[link](http://arxiv.org/abs/2604.04029v1)|null|
+|**2026-04-05**|**Element-based Formation Control: a Unified Perspective from Continuum Mechanics**|Kun Cao et.al.|[link](http://arxiv.org/abs/2604.04027v1)|null|
+|**2026-04-05**|**Unmasking Hallucinations: A Causal Graph-Attention Perspective on Factual Reliability in Large Language Models**|Sailesh kiran kurra et.al.|[link](http://arxiv.org/abs/2604.04020v1)|null|
+|**2026-04-05**|**RUQuant: Towards Refining Uniform Quantization for Large Language Models**|Han Liu et.al.|[link](http://arxiv.org/abs/2604.04013v1)|null|
+|**2026-04-05**|**Separator for $c$-Packed Segments and Curves**|Sariel Har-Peled et.al.|[link](http://arxiv.org/abs/2604.04011v1)|null|
+|**2026-04-05**|**Tits Alternative in groups with proper product actions on proper Gromov-hyperbolic spaces**|Jiaqi Cui et.al.|[link](http://arxiv.org/abs/2604.04007v1)|null|
 |**2026-04-03**|**HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis**|Fengbei Liu et.al.|[link](http://arxiv.org/abs/2604.03224v1)|null|
 |**2026-04-03**|**Directional Dependence of Extreme Events**|Matthieu Garcin et.al.|[link](http://arxiv.org/abs/2604.03215v1)|null|
 |**2026-04-03**|**ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow**|Jiekai Wu et.al.|[link](http://arxiv.org/abs/2604.03212v1)|null|
@@ -2529,12 +2549,17 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-04**|**Mambalaya: Einsum-Based Fusion Optimizations on State-Space Models**|Toluwanimi O. Odemuyiwa et.al.|[link](http://arxiv.org/abs/2604.03829v1)|null|
+|**2026-04-04**|**CAGMamba: Context-Aware Gated Cross-Modal Mamba Network for Multimodal Sentiment Analysis**|Minghai Jiao et.al.|[link](http://arxiv.org/abs/2604.03650v1)|null|
+|**2026-04-03**|**The limits of bio-molecular modeling with large language models : a cross-scale evaluation**|Yaxin Xu et.al.|[link](http://arxiv.org/abs/2604.03361v1)|null|
+|**2026-04-02**|**CoLoRSMamba: Conditional LoRA-Steered Mamba for Supervised Multimodal Violence Detection**|Damith Chamalke Senadeera et.al.|[link](http://arxiv.org/abs/2604.03329v1)|null|
 |**2026-04-03**|**Learning the Signature of Memorization in Autoregressive Language Models**|David Ilić et.al.|[link](http://arxiv.org/abs/2604.03199v1)|null|
 |**2026-04-03**|**RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection**|Cheng Lu et.al.|[link](http://arxiv.org/abs/2604.02903v1)|null|
 |**2026-04-02**|**Selective State-Space Models for Koopman-based Data-driven Distribution System State Estimation**|Bader Alabdulrazzaq et.al.|[link](http://arxiv.org/abs/2604.02273v1)|null|
 |**2026-04-02**|**AEGIS: Adversarial Entropy-Guided Immune System -- Thermodynamic State Space Models for Zero-Day Network Evasion Detection**|Vickson Ferrel et.al.|[link](http://arxiv.org/abs/2604.02149v1)|null|
 |**2026-04-02**|**Cosine-Normalized Attention for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[link](http://arxiv.org/abs/2604.01763v1)|null|
 |**2026-04-01**|**EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation**|Abhishek Saroha et.al.|[link](http://arxiv.org/abs/2604.01421v1)|null|
+|**2026-04-03**|**S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models**|Jack Young et.al.|[link](http://arxiv.org/abs/2604.01168v2)|null|
 |**2026-04-01**|**S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models**|Jack Young et.al.|[link](http://arxiv.org/abs/2604.01168v1)|null|
 |**2026-04-01**|**A Benchmark of State-Space Models vs. Transformers and BiLSTM-based Models for Historical Newspaper OCR**|Merveilles Agbeti-messan et.al.|[link](http://arxiv.org/abs/2604.00725v1)|null|
 |**2026-04-01**|**KG-CMI: Knowledge graph enhanced cross-Mamba interaction for medical visual question answering**|Xianyao Zheng et.al.|[link](http://arxiv.org/abs/2604.00601v1)|null|
@@ -3043,6 +3068,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[link](http://arxiv.org/abs/2604.04190v1)|null|
+|**2026-04-05**|**Expanders Meet Reed--Muller: Easy Instances of Noisy k-XOR**|Jarosław Błasiok et.al.|[link](http://arxiv.org/abs/2604.04188v1)|null|
+|**2026-04-05**|**DAG Covers: The Steiner Point Effect**|Sujoy Bhore et.al.|[link](http://arxiv.org/abs/2604.04186v1)|null|
+|**2026-04-05**|**AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis**|Tianhua Qi et.al.|[link](http://arxiv.org/abs/2604.04160v1)|null|
+|**2026-04-05**|**Online Graph Balancing and the Power of Two Choices**|Nikhil Bansal et.al.|[link](http://arxiv.org/abs/2604.04159v1)|null|
+|**2026-04-05**|**Solar-VLM: Multimodal Vision-Language Models for Augmented Solar Power Forecasting**|Hang Fan et.al.|[link](http://arxiv.org/abs/2604.04145v1)|null|
+|**2026-04-05**|**Learning Robust Visual Features in Computed Tomography Enables Efficient Transfer Learning for Clinical Tasks**|Rubén Moreno-Aguado et.al.|[link](http://arxiv.org/abs/2604.04133v1)|null|
+|**2026-04-05**|**Extensions of the Carlitz-McConnel and Blokhuis-Sziklai theorems for unions of cyclotomic classes**|Maosheng Xiong et.al.|[link](http://arxiv.org/abs/2604.04126v1)|null|
+|**2026-04-05**|**Heavy Tailed Homogeneous Structural Causal Models**|Vishal Routh et.al.|[link](http://arxiv.org/abs/2604.04118v1)|null|
+|**2026-04-05**|**Gallai 3-colourings of random graphs**|Fabrício S. Benevides et.al.|[link](http://arxiv.org/abs/2604.04115v1)|null|
+|**2026-04-05**|**The Limited Augmented Zarankiewicz Number**|Liqun Qi et.al.|[link](http://arxiv.org/abs/2604.04111v1)|null|
+|**2026-04-05**|**Hypothesis Graph Refinement: Hypothesis-Driven Exploration with Cascade Error Correction for Embodied Navigation**|Peixin Chen et.al.|[link](http://arxiv.org/abs/2604.04108v1)|null|
+|**2026-04-05**|**Compliance-by-Construction Argument Graphs: Using Generative AI to Produce Evidence-Linked Formal Arguments for Certification-Grade Accountability**|Mahyar T. Moghaddam et.al.|[link](http://arxiv.org/abs/2604.04103v1)|null|
+|**2026-04-05**|**BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**|Taiping Qu et.al.|[link](http://arxiv.org/abs/2604.04078v1)|null|
+|**2026-04-05**|**FactReview: Evidence-Grounded Reviews with Literature Positioning and Execution-Based Claim Verification**|Hang Xu et.al.|[link](http://arxiv.org/abs/2604.04074v1)|null|
+|**2026-04-05**|**Causality Laundering: Denial-Feedback Leakage in Tool-Calling LLM Agents**|Mohammad Hossein Chinaei et.al.|[link](http://arxiv.org/abs/2604.04035v1)|null|
+|**2026-04-05**|**Topological Sensitivity in Connectome-Constrained Neural Networks**|Nalin Dhiman et.al.|[link](http://arxiv.org/abs/2604.04033v1)|null|
+|**2026-04-05**|**Element-based Formation Control: a Unified Perspective from Continuum Mechanics**|Kun Cao et.al.|[link](http://arxiv.org/abs/2604.04027v1)|null|
+|**2026-04-05**|**Unmasking Hallucinations: A Causal Graph-Attention Perspective on Factual Reliability in Large Language Models**|Sailesh kiran kurra et.al.|[link](http://arxiv.org/abs/2604.04020v1)|null|
+|**2026-04-05**|**Separator for $c$-Packed Segments and Curves**|Sariel Har-Peled et.al.|[link](http://arxiv.org/abs/2604.04011v1)|null|
 |**2026-04-03**|**Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits**|Siddhant Midha et.al.|[link](http://arxiv.org/abs/2604.03228v1)|null|
 |**2026-04-03**|**ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow**|Jiekai Wu et.al.|[link](http://arxiv.org/abs/2604.03212v1)|null|
 |**2026-04-03**|**PRISM: LLM-Guided Semantic Clustering for High-Precision Topics**|Connor Douglas et.al.|[link](http://arxiv.org/abs/2604.03180v1)|null|
@@ -5135,6 +5180,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[link](http://arxiv.org/abs/2604.04174v1)|null|
+|**2026-04-05**|**Symbolic-Vector Attention Fusion for Collective Intelligence**|Hongwei Xu et.al.|[link](http://arxiv.org/abs/2604.03955v1)|null|
+|**2026-04-04**|**Safety and Liveness of Cross-Domain State Preservation under Byzantine Faults: A Mechanized Proof in Isabelle/HOL**|Jinwook Kim et.al.|[link](http://arxiv.org/abs/2604.03844v1)|null|
+|**2026-04-04**|**ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos**|Peijun Bao et.al.|[link](http://arxiv.org/abs/2604.03819v1)|null|
+|**2026-04-04**|**Automated Conjecture Resolution with Formal Verification**|Haocheng Ju et.al.|[link](http://arxiv.org/abs/2604.03789v1)|null|
+|**2026-04-04**|**XSeg: A Large-scale X-ray Contraband Segmentation Benchmark For Real-World Security Screening**|Hongxia Gao et.al.|[link](http://arxiv.org/abs/2604.03706v1)|null|
+|**2026-04-04**|**KappaFormer: Physics-aware Transformer for lattice thermal conductivity via cross-domain transfer learning**|Mengfan Wu et.al.|[link](http://arxiv.org/abs/2604.03547v1)|null|
 |**2026-04-03**|**DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation**|Yingxu Wang et.al.|[link](http://arxiv.org/abs/2604.03154v1)|null|
 |**2026-04-03**|**SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation**|Meihua Li et.al.|[link](http://arxiv.org/abs/2604.03134v1)|null|
 |**2026-04-03**|**Gram-MMD: A Texture-Aware Metric for Image Realism Assessment**|Joé Napolitano et.al.|[link](http://arxiv.org/abs/2604.03064v1)|null|
@@ -5146,6 +5198,7 @@
 |**2026-04-02**|**Domain-constrained knowledge representation: A modal framework**|Chao Li et.al.|[link](http://arxiv.org/abs/2604.01770v1)|null|
 |**2026-04-02**|**Cross-Domain Vessel Segmentation via Latent Similarity Mining and Iterative Co-Optimization**|Zhanqiang Guo et.al.|[link](http://arxiv.org/abs/2604.01553v1)|null|
 |**2026-04-01**|**AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks**|Prince Zizhuang Wang et.al.|[link](http://arxiv.org/abs/2604.01487v1)|null|
+|**2026-04-03**|**S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models**|Jack Young et.al.|[link](http://arxiv.org/abs/2604.01168v2)|null|
 |**2026-04-01**|**S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models**|Jack Young et.al.|[link](http://arxiv.org/abs/2604.01168v1)|null|
 |**2026-04-01**|**Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning**|Mohammad R. Abu Ayyash et.al.|[link](http://arxiv.org/abs/2604.01152v1)|null|
 |**2026-04-01**|**A global dataset of continuous urban dashcam driving**|Md Shadab Alam et.al.|[link](http://arxiv.org/abs/2604.01044v1)|null|
