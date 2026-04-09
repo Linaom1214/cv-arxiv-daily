@@ -1,4 +1,4 @@
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 
 ### ISTD
 
@@ -16,6 +16,7 @@
 |**2026-02-13**|**MDAFNet: Multiscale Differential Edge and Adaptive Frequency Guided Network for Infrared Small Target Detection**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16434v2)|null|
 |**2026-01-23**|**MDAFNet: Multiscale Differential Edge and Adaptive Frequency Guided Network for Infrared Small Target Detection**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16434v1)|null|
 |**2026-01-23**|**DCCS-Det: Directional Context and Cross-Scale-Aware Detector for Infrared Small Target**|Shuying Li et.al.|[link](http://arxiv.org/abs/2601.16428v1)|null|
+|**2026-04-07**|**FeedbackSTS-Det: Sparse Frames-Based Spatio-Temporal Semantic Feedback Network for Moving Infrared Small Target Detection**|Yian Huang et.al.|[link](http://arxiv.org/abs/2601.14690v2)|null|
 |**2026-01-21**|**FeedbackSTS-Det: Sparse Frames-Based Spatio-Temporal Semantic Feedback Network for Infrared Small Target Detection**|Yian Huang et.al.|[link](http://arxiv.org/abs/2601.14690v1)|null|
 |**2026-01-09**|**TAPM-Net: Trajectory-Aware Perturbation Modeling for Infrared Small Target Detection**|Hongyang Xie et.al.|[link](http://arxiv.org/abs/2601.05446v1)|null|
 |**2026-01-06**|**Breaking Self-Attention Failure: Rethinking Query Initialization for Infrared Small Target Detection**|Yuteng Liu et.al.|[link](http://arxiv.org/abs/2601.02837v1)|null|
@@ -295,6 +296,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-08**|**Nuclear giant resonances from first principles**|Sonia Bacca et.al.|[link](http://arxiv.org/abs/2604.07229v1)|null|
+|**2026-04-08**|**Transition probabilities of step-reinforced random walks**|Yuval Peres et.al.|[link](http://arxiv.org/abs/2604.07227v1)|null|
+|**2026-04-08**|**Quantum Gibbs sampling through the detectability lemma**|Di Fang et.al.|[link](http://arxiv.org/abs/2604.07214v1)|null|
+|**2026-04-08**|**Beyond the Mean: Modelling Annotation Distributions in Continuous Affect Prediction**|Kosmas Pinitas et.al.|[link](http://arxiv.org/abs/2604.07198v1)|null|
+|**2026-04-08**|**LaScA: Language-Conditioned Scalable Modelling of Affective Dynamics**|Kosmas Pinitas et.al.|[link](http://arxiv.org/abs/2604.07193v1)|null|
+|**2026-04-08**|**Energy-based Tissue Manifolds for Longitudinal Multiparametric MRI Analysis**|Kartikay Tehlan et.al.|[link](http://arxiv.org/abs/2604.07180v1)|null|
+|**2026-04-08**|**Multiple Domain Generalization Using Category Information Independent of Domain Differences**|Reiji Saito et.al.|[link](http://arxiv.org/abs/2604.07175v1)|null|
+|**2026-04-08**|**A spectral method for the rapid evaluation of hyperbolic potentials in two dimensions using windowed Fourier projection**|Nour G. Al Hassanieh et.al.|[link](http://arxiv.org/abs/2604.07170v1)|null|
+|**2026-04-08**|**Overlapped groupings for quantum energy estimation: Maximal variance reduction and deterministic algorithms for reducing variance**|Jeremiah Rowland et.al.|[link](http://arxiv.org/abs/2604.07156v1)|null|
+|**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[link](http://arxiv.org/abs/2604.07151v1)|null|
+|**2026-04-08**|**Autopoiesis: A Self-Evolving System Paradigm for LLM Serving Under Runtime Dynamics**|Youhe Jiang et.al.|[link](http://arxiv.org/abs/2604.07144v1)|null|
+|**2026-04-08**|**Lumbermark: Resistant Clustering by Chopping Up Mutual Reachability Minimum Spanning Trees**|Marek Gagolewski et.al.|[link](http://arxiv.org/abs/2604.07143v1)|null|
+|**2026-04-08**|**USCNet: Transformer-Based Multimodal Fusion with Segmentation Guidance for Urolithiasis Classification**|Changmiao Wang et.al.|[link](http://arxiv.org/abs/2604.07141v1)|null|
+|**2026-04-08**|**Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction**|Diyi Liu et.al.|[link](http://arxiv.org/abs/2604.07126v1)|null|
+|**2026-04-08**|**Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator**|Takahiro Mano et.al.|[link](http://arxiv.org/abs/2604.07122v1)|null|
+|**2026-04-08**|**Assessing the Added Value of Onboard Earth Observation Processing with the IRIDE HEO Service Segment**|Parampuneet Kaur Thind et.al.|[link](http://arxiv.org/abs/2604.07120v1)|null|
+|**2026-04-08**|**Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data**|Mojgan Madadikhaljan et.al.|[link](http://arxiv.org/abs/2604.07092v1)|null|
+|**2026-04-08**|**Controller Design for Structured State-space Models via Contraction Theory**|Muhammad Zakwan et.al.|[link](http://arxiv.org/abs/2604.07069v1)|null|
+|**2026-04-08**|**Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English**|Iza Škrjanec et.al.|[link](http://arxiv.org/abs/2604.07067v1)|null|
+|**2026-04-08**|**Production-Ready Automated ECU Calibration using Residual Reinforcement Learning**|Andreas Kampmeier et.al.|[link](http://arxiv.org/abs/2604.07059v1)|null|
 |**2026-04-07**|**Selective Aggregation of Attention Maps Improves Diffusion-Based Visual Interpretation**|Jungwon Park et.al.|[link](http://arxiv.org/abs/2604.05906v1)|null|
 |**2026-04-07**|**Asymptotic expansions of integrals and Nielsen's polylogarithms**|Markus Kuba et.al.|[link](http://arxiv.org/abs/2604.05895v1)|null|
 |**2026-04-07**|**Hybrid Quantum-Classical Algorithm for Hamiltonian Simulation**|Nhat A. Nghiem et.al.|[link](http://arxiv.org/abs/2604.05881v1)|null|
@@ -2570,6 +2591,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-08**|**CloudMamba: An Uncertainty-Guided Dual-Scale Mamba Network for Cloud Detection in Remote Sensing Imagery**|Jiajun Yang et.al.|[link](http://arxiv.org/abs/2604.06844v1)|null|
+|**2026-04-08**|**Balancing Efficiency and Restoration: Lightweight Mamba-Based Model for CT Metal Artifact Reduction**|Weikai Qu et.al.|[link](http://arxiv.org/abs/2604.06622v1)|null|
+|**2026-04-08**|**PD-SOVNet: A Physics-Driven Second-Order Vibration Operator Network for Estimating Wheel Polygonal Roughness from Axle-Box Vibrations**|Xiancheng Wang et.al.|[link](http://arxiv.org/abs/2604.06620v1)|null|
 |**2026-04-07**|**The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model**|Hongxu Zhou et.al.|[link](http://arxiv.org/abs/2604.05923v1)|null|
 |**2026-04-07**|**Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection**|Luqi Gong et.al.|[link](http://arxiv.org/abs/2604.05562v1)|null|
 |**2026-04-04**|**Mambalaya: Einsum-Based Fusion Optimizations on State-Space Models**|Toluwanimi O. Odemuyiwa et.al.|[link](http://arxiv.org/abs/2604.03829v1)|null|
@@ -3092,6 +3116,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-08**|**Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning**|Vincent Abbott et.al.|[link](http://arxiv.org/abs/2604.07242v1)|null|
+|**2026-04-08**|**$k$-server-bench: Automating Potential Discovery for the $k$-Server Conjecture**|Kirill Brilliantov et.al.|[link](http://arxiv.org/abs/2604.07240v1)|null|
+|**2026-04-08**|**Transition probabilities of step-reinforced random walks**|Yuval Peres et.al.|[link](http://arxiv.org/abs/2604.07227v1)|null|
+|**2026-04-08**|**Diffusion Processes on Implicit Manifolds**|Victor Kawasaki-Borruat et.al.|[link](http://arxiv.org/abs/2604.07213v1)|null|
+|**2026-04-08**|**Energy-based Tissue Manifolds for Longitudinal Multiparametric MRI Analysis**|Kartikay Tehlan et.al.|[link](http://arxiv.org/abs/2604.07180v1)|null|
+|**2026-04-08**|**Multiple Domain Generalization Using Category Information Independent of Domain Differences**|Reiji Saito et.al.|[link](http://arxiv.org/abs/2604.07175v1)|null|
+|**2026-04-08**|**Lumbermark: Resistant Clustering by Chopping Up Mutual Reachability Minimum Spanning Trees**|Marek Gagolewski et.al.|[link](http://arxiv.org/abs/2604.07143v1)|null|
+|**2026-04-08**|**USCNet: Transformer-Based Multimodal Fusion with Segmentation Guidance for Urolithiasis Classification**|Changmiao Wang et.al.|[link](http://arxiv.org/abs/2604.07141v1)|null|
+|**2026-04-08**|**CSA-Graphs: A Privacy-Preserving Structural Dataset for Child Sexual Abuse Research**|Carlos Caetano et.al.|[link](http://arxiv.org/abs/2604.07132v1)|null|
+|**2026-04-08**|**A solver-in-the-loop framework for end-to-end differentiable coastal hydrodynamics**|Elsa Cardoso-Bihlo et.al.|[link](http://arxiv.org/abs/2604.07129v1)|null|
+|**2026-04-08**|**Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction**|Diyi Liu et.al.|[link](http://arxiv.org/abs/2604.07126v1)|null|
+|**2026-04-08**|**Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator**|Takahiro Mano et.al.|[link](http://arxiv.org/abs/2604.07122v1)|null|
+|**2026-04-08**|**Assessing the Added Value of Onboard Earth Observation Processing with the IRIDE HEO Service Segment**|Parampuneet Kaur Thind et.al.|[link](http://arxiv.org/abs/2604.07120v1)|null|
+|**2026-04-08**|**Smooth Graphs**|Boštjan Brešar et.al.|[link](http://arxiv.org/abs/2604.07115v1)|null|
+|**2026-04-08**|**Asymptotically optimal lower bounds on weak saturation numbers for hypergraphs**|Nikolai Terekhov et.al.|[link](http://arxiv.org/abs/2604.07104v1)|null|
+|**2026-04-08**|**Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data**|Mojgan Madadikhaljan et.al.|[link](http://arxiv.org/abs/2604.07092v1)|null|
+|**2026-04-08**|**ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation**|Qingze He et.al.|[link](http://arxiv.org/abs/2604.07021v1)|null|
+|**2026-04-08**|**Time Series Gaussian Chain Graph Models**|Qin Fang et.al.|[link](http://arxiv.org/abs/2604.07018v1)|null|
+|**2026-04-08**|**Vertex-critical graphs in subfamilies of $(P_4+\ell P_1)$-free graphs**|Iain Beaton et.al.|[link](http://arxiv.org/abs/2604.06999v1)|null|
+|**2026-04-08**|**The RFD property for graph $C^*$-algebras**|Guillaume Bellier et.al.|[link](http://arxiv.org/abs/2604.06993v1)|null|
 |**2026-04-07**|**Simplicity of random hypergraphs**|Yanna J. Kraakman et.al.|[link](http://arxiv.org/abs/2604.05921v1)|null|
 |**2026-04-07**|**Machine-State Embeddings as an Operational Coordinate System for Accelerator Operation**|Chris Tennant et.al.|[link](http://arxiv.org/abs/2604.05914v1)|null|
 |**2026-04-07**|**Selective Aggregation of Attention Maps Improves Diffusion-Based Visual Interpretation**|Jungwon Park et.al.|[link](http://arxiv.org/abs/2604.05906v1)|null|
@@ -5224,6 +5268,14 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-08**|**Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance**|Hanzhang Tang et.al.|[link](http://arxiv.org/abs/2604.07192v1)|null|
+|**2026-04-08**|**SurFITR: A Dataset for Surveillance Image Forgery Detection and Localisation**|Qizhou Wang et.al.|[link](http://arxiv.org/abs/2604.07101v1)|null|
+|**2026-04-08**|**Are LLMs Ready for Computer Science Education? A Cross-Domain, Cross-Lingual and Cognitive-Level Evaluation Using Professional Certification Exams**|Chen Gao et.al.|[link](http://arxiv.org/abs/2604.06898v1)|null|
+|**2026-04-08**|**Bi-level Heterogeneous Learning for Time Series Foundation Models: A Federated Learning Approach**|Shengchao Chen et.al.|[link](http://arxiv.org/abs/2604.06727v1)|null|
+|**2026-04-08**|**RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection**|Hui Li et.al.|[link](http://arxiv.org/abs/2604.06687v1)|null|
+|**2026-04-08**|**Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability**|Qihan Ren et.al.|[link](http://arxiv.org/abs/2604.06628v1)|null|
+|**2026-04-07**|**Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning**|Navan Preet Singh et.al.|[link](http://arxiv.org/abs/2604.06385v1)|null|
+|**2026-04-07**|**LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces**|Olexander Mazurets et.al.|[link](http://arxiv.org/abs/2604.06086v1)|null|
 |**2026-04-07**|**SVC 2026: the Second Multimodal Deception Detection Challenge and the First Domain Generalized Remote Physiological Measurement Challenge**|Dongliang Zhu et.al.|[link](http://arxiv.org/abs/2604.05748v1)|null|
 |**2026-04-07**|**YoNER: A New Yorùbá Multi-domain Named Entity Recognition Dataset**|Peace Busola Falola et.al.|[link](http://arxiv.org/abs/2604.05624v1)|null|
 |**2026-04-07**|**BPC-Net: Annotation-Free Skin Lesion Segmentation via Boundary Probability Calibration**|Yujie Yao et.al.|[link](http://arxiv.org/abs/2604.05594v1)|null|
@@ -5235,6 +5287,7 @@
 |**2026-04-07**|**From Clues to Generation: Language-Guided Conditional Diffusion for Cross-Domain Recommendation**|Ziang Lu et.al.|[link](http://arxiv.org/abs/2604.05365v1)|null|
 |**2026-04-06**|**Latent Profiles of AI Risk Perception and Their Differential Association with Community Driving Safety Concerns: A Person-Centered Analysis**|Amir Rafe et.al.|[link](http://arxiv.org/abs/2604.04849v1)|null|
 |**2026-04-06**|**Benchmarking Multilingual Speech Models on Pashto: Zero-Shot ASR, Script Failure, and Cross-Domain Evaluation**|Hanif Rahman et.al.|[link](http://arxiv.org/abs/2604.04598v1)|null|
+|**2026-04-07**|**DRL-Based Phase Optimization for O-RIS in Dual-Hop Hard-Switching FSO/RIS-aided RF and UWOC Systems**|Aboozar Heydaribeni et.al.|[link](http://arxiv.org/abs/2604.04531v2)|null|
 |**2026-04-06**|**DRL-Based Phase Optimization for O-RIS in Dual-Hop Hard-Switching FSO/RIS-aided RF and UWOC Systems**|Aboozar Heydaribeni et.al.|[link](http://arxiv.org/abs/2604.04531v1)|null|
 |**2026-04-06**|**Discrete Prototypical Memories for Federated Time Series Foundation Models**|Liwei Deng et.al.|[link](http://arxiv.org/abs/2604.04475v1)|null|
 |**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[link](http://arxiv.org/abs/2604.04198v1)|null|
