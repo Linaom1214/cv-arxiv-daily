@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 
 ### ISTD
 
@@ -296,6 +296,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-09**|**Discrete symmetries of Feynman integrals**|Claude Duhr et.al.|[link](http://arxiv.org/abs/2604.08332v1)|null|
+|**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[link](http://arxiv.org/abs/2604.08324v1)|null|
+|**2026-04-09**|**Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow**|Richard Petersen et.al.|[link](http://arxiv.org/abs/2604.08313v1)|null|
+|**2026-04-09**|**HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology**|Aasim Bin Saleem et.al.|[link](http://arxiv.org/abs/2604.08305v1)|null|
+|**2026-04-09**|**GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis**|Yishen Liu et.al.|[link](http://arxiv.org/abs/2604.08301v1)|null|
+|**2026-04-09**|**Error analysis of quantization combined with Hadamard transforms**|Matvei Kotov et.al.|[link](http://arxiv.org/abs/2604.08289v1)|null|
+|**2026-04-09**|**Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models**|Yating Wang et.al.|[link](http://arxiv.org/abs/2604.08284v1)|null|
+|**2026-04-09**|**Kohn--Nirenberg quantization of the affine group and related examples**|Pierre Bieliavsky et.al.|[link](http://arxiv.org/abs/2604.08274v1)|null|
+|**2026-04-09**|**Five-Structures Preserving Algorithm for charge dynamics model**|Haoran Sun et.al.|[link](http://arxiv.org/abs/2604.08228v1)|null|
+|**2026-04-09**|**Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**|Seyed Amir Ahmad Safavi-Naini et.al.|[link](http://arxiv.org/abs/2604.08226v1)|null|
+|**2026-04-09**|**Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering**|Chenyu Zhou et.al.|[link](http://arxiv.org/abs/2604.08224v1)|null|
+|**2026-04-09**|**MemCoT: Test-Time Scaling through Memory-Driven Chain-of-Thought**|Haodong Lei et.al.|[link](http://arxiv.org/abs/2604.08216v1)|null|
+|**2026-04-09**|**Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment**|Blessing Agyei Kyem et.al.|[link](http://arxiv.org/abs/2604.08212v1)|null|
+|**2026-04-09**|**Inside-Out: Measuring Generalization in Vision Transformers Through Inner Workings**|Yunxiang Peng et.al.|[link](http://arxiv.org/abs/2604.08192v1)|null|
+|**2026-04-09**|**Long-Term Embeddings for Balanced Personalization**|Andrii Dzhoha et.al.|[link](http://arxiv.org/abs/2604.08181v1)|null|
+|**2026-04-09**|**Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security**|Hui Gong et.al.|[link](http://arxiv.org/abs/2604.08180v1)|null|
+|**2026-04-09**|**Exploration of Pareto-preserving Search Space Transformations in Multi-objective Test Functions**|Diedeerick Vermetten et.al.|[link](http://arxiv.org/abs/2604.08173v1)|null|
+|**2026-04-09**|**OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.|[link](http://arxiv.org/abs/2604.08171v1)|null|
+|**2026-04-09**|**T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation**|Pranjal Khadka et.al.|[link](http://arxiv.org/abs/2604.08167v1)|null|
+|**2026-04-09**|**Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials**|Cheuk Hin Ho et.al.|[link](http://arxiv.org/abs/2604.08143v1)|null|
 |**2026-04-08**|**Nuclear giant resonances from first principles**|Sonia Bacca et.al.|[link](http://arxiv.org/abs/2604.07229v1)|null|
 |**2026-04-08**|**Transition probabilities of step-reinforced random walks**|Yuval Peres et.al.|[link](http://arxiv.org/abs/2604.07227v1)|null|
 |**2026-04-08**|**Quantum Gibbs sampling through the detectability lemma**|Di Fang et.al.|[link](http://arxiv.org/abs/2604.07214v1)|null|
@@ -2591,6 +2611,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-09**|**ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning**|Daichi Yashima et.al.|[link](http://arxiv.org/abs/2604.08050v1)|null|
+|**2026-04-09**|**Beyond Mamba: Enhancing State-space Models with Deformable Dilated Convolutions for Multi-scale Traffic Object Detection**|Jun Li et.al.|[link](http://arxiv.org/abs/2604.08038v1)|null|
+|**2026-04-09**|**The Hyperscale Lottery: How State-Space Models Have Sacrificed Edge Efficiency**|Robin Geens et.al.|[link](http://arxiv.org/abs/2604.07935v1)|null|
+|**2026-04-09**|**Stochastic Thermodynamics for Autoregressive Generative Models: A Non-Markovian Perspective**|Takahiro Sagawa et.al.|[link](http://arxiv.org/abs/2604.07867v1)|null|
+|**2026-04-09**|**WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects**|Junxiong Liang et.al.|[link](http://arxiv.org/abs/2604.07759v1)|null|
+|**2026-04-08**|**Optimal Decay Spectra for Linear Recurrences**|Yang Cao et.al.|[link](http://arxiv.org/abs/2604.07658v1)|null|
 |**2026-04-08**|**CloudMamba: An Uncertainty-Guided Dual-Scale Mamba Network for Cloud Detection in Remote Sensing Imagery**|Jiajun Yang et.al.|[link](http://arxiv.org/abs/2604.06844v1)|null|
 |**2026-04-08**|**Balancing Efficiency and Restoration: Lightweight Mamba-Based Model for CT Metal Artifact Reduction**|Weikai Qu et.al.|[link](http://arxiv.org/abs/2604.06622v1)|null|
 |**2026-04-08**|**PD-SOVNet: A Physics-Driven Second-Order Vibration Operator Network for Estimating Wheel Polygonal Roughness from Axle-Box Vibrations**|Xiancheng Wang et.al.|[link](http://arxiv.org/abs/2604.06620v1)|null|
@@ -3116,6 +3142,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-09**|**Discrete symmetries of Feynman integrals**|Claude Duhr et.al.|[link](http://arxiv.org/abs/2604.08332v1)|null|
+|**2026-04-09**|**Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow**|Richard Petersen et.al.|[link](http://arxiv.org/abs/2604.08313v1)|null|
+|**2026-04-09**|**Temporal Graph Neural Network for ISAC Target Detection and Tracking**|Saiedeh Maboud Sanaie et.al.|[link](http://arxiv.org/abs/2604.08306v1)|null|
+|**2026-04-09**|**GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis**|Yishen Liu et.al.|[link](http://arxiv.org/abs/2604.08301v1)|null|
+|**2026-04-09**|**U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations**|Angeliki Dimitriou et.al.|[link](http://arxiv.org/abs/2604.08295v1)|null|
+|**2026-04-09**|**VCAO: Verifier-Centered Agentic Orchestration for Strategic OS Vulnerability Discovery**|Suyash Mishra et.al.|[link](http://arxiv.org/abs/2604.08291v1)|null|
+|**2026-04-09**|**Counting HyperGraphlets via Color Coding: a Quadratic Barrier and How to Break It**|Marco Bressan et.al.|[link](http://arxiv.org/abs/2604.08278v1)|null|
+|**2026-04-09**|**Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling**|Danial Hooshyar et.al.|[link](http://arxiv.org/abs/2604.08263v1)|null|
+|**2026-04-09**|**HyperMem: Hypergraph Memory for Long-Term Conversations**|Juwei Yue et.al.|[link](http://arxiv.org/abs/2604.08256v1)|null|
+|**2026-04-09**|**On the Capacity of Sequences of Coloring Channels**|Wenjun Yu et.al.|[link](http://arxiv.org/abs/2604.08234v1)|null|
+|**2026-04-09**|**WaST: a formalisation of the Wave model with associated statistical inference and applications**|Grégoire Clarté et.al.|[link](http://arxiv.org/abs/2604.08220v1)|null|
+|**2026-04-09**|**Stochastic Momentum Tracking Push-Pull for Decentralized Optimization over Directed Graphs**|Wenqi Fan et.al.|[link](http://arxiv.org/abs/2604.08219v1)|null|
+|**2026-04-09**|**Ramsey numbers for regular induced subgraphs**|Paul W. Dyson et.al.|[link](http://arxiv.org/abs/2604.08215v1)|null|
+|**2026-04-09**|**Equivariant Efficient Joint Discrete and Continuous MeanFlow for Molecular Graph Generation**|Rongjian Xu et.al.|[link](http://arxiv.org/abs/2604.08189v1)|null|
+|**2026-04-09**|**State and Trajectory Estimation of Tensegrity Robots via Factor Graphs and Chebyshev Polynomials**|Edgar Granados et.al.|[link](http://arxiv.org/abs/2604.08185v1)|null|
+|**2026-04-09**|**OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.|[link](http://arxiv.org/abs/2604.08171v1)|null|
+|**2026-04-09**|**T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation**|Pranjal Khadka et.al.|[link](http://arxiv.org/abs/2604.08167v1)|null|
+|**2026-04-09**|**Clickbait detection: quick inference with maximum impact**|Soveatin Kuntur et.al.|[link](http://arxiv.org/abs/2604.08148v1)|null|
+|**2026-04-09**|**An Efficient Entropy Flow on Weighted Graphs: Theory and Applications**|Juan Zhao et.al.|[link](http://arxiv.org/abs/2604.08144v1)|null|
+|**2026-04-09**|**Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials**|Cheuk Hin Ho et.al.|[link](http://arxiv.org/abs/2604.08143v1)|null|
 |**2026-04-08**|**Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning**|Vincent Abbott et.al.|[link](http://arxiv.org/abs/2604.07242v1)|null|
 |**2026-04-08**|**$k$-server-bench: Automating Potential Discovery for the $k$-Server Conjecture**|Kirill Brilliantov et.al.|[link](http://arxiv.org/abs/2604.07240v1)|null|
 |**2026-04-08**|**Transition probabilities of step-reinforced random walks**|Yuval Peres et.al.|[link](http://arxiv.org/abs/2604.07227v1)|null|
@@ -5268,6 +5314,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-09**|**Generalization Under Scrutiny: Cross-Domain Detection Progresses, Pitfalls, and Persistent Challenges**|Saniya M. Deshmukh et.al.|[link](http://arxiv.org/abs/2604.08230v1)|null|
+|**2026-04-09**|**Equivariant Efficient Joint Discrete and Continuous MeanFlow for Molecular Graph Generation**|Rongjian Xu et.al.|[link](http://arxiv.org/abs/2604.08189v1)|null|
+|**2026-04-09**|**T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation**|Pranjal Khadka et.al.|[link](http://arxiv.org/abs/2604.08167v1)|null|
+|**2026-04-09**|**Context-Aware Disentanglement for Cross-Domain Sequential Recommendation: A Causal View**|Xingzi Wang et.al.|[link](http://arxiv.org/abs/2604.07992v1)|null|
+|**2026-04-09**|**Linear Representations of Hierarchical Concepts in Language Models**|Masaki Sakata et.al.|[link](http://arxiv.org/abs/2604.07886v1)|null|
 |**2026-04-08**|**Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance**|Hanzhang Tang et.al.|[link](http://arxiv.org/abs/2604.07192v1)|null|
 |**2026-04-08**|**SurFITR: A Dataset for Surveillance Image Forgery Detection and Localisation**|Qizhou Wang et.al.|[link](http://arxiv.org/abs/2604.07101v1)|null|
 |**2026-04-08**|**Are LLMs Ready for Computer Science Education? A Cross-Domain, Cross-Lingual and Cognitive-Level Evaluation Using Professional Certification Exams**|Chen Gao et.al.|[link](http://arxiv.org/abs/2604.06898v1)|null|
@@ -5275,6 +5326,7 @@
 |**2026-04-08**|**RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection**|Hui Li et.al.|[link](http://arxiv.org/abs/2604.06687v1)|null|
 |**2026-04-08**|**Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability**|Qihan Ren et.al.|[link](http://arxiv.org/abs/2604.06628v1)|null|
 |**2026-04-07**|**Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning**|Navan Preet Singh et.al.|[link](http://arxiv.org/abs/2604.06385v1)|null|
+|**2026-04-09**|**Blockchain and AI: Securing Intelligent Networks for the Future**|Joy Dutta et.al.|[link](http://arxiv.org/abs/2604.06323v2)|null|
 |**2026-04-07**|**LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces**|Olexander Mazurets et.al.|[link](http://arxiv.org/abs/2604.06086v1)|null|
 |**2026-04-07**|**SVC 2026: the Second Multimodal Deception Detection Challenge and the First Domain Generalized Remote Physiological Measurement Challenge**|Dongliang Zhu et.al.|[link](http://arxiv.org/abs/2604.05748v1)|null|
 |**2026-04-07**|**YoNER: A New Yorùbá Multi-domain Named Entity Recognition Dataset**|Peace Busola Falola et.al.|[link](http://arxiv.org/abs/2604.05624v1)|null|
