@@ -1,4 +1,4 @@
-## Updated on 2026.04.10
+## Updated on 2026.04.11
 
 ### ISTD
 
@@ -296,6 +296,22 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-09**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[link](http://arxiv.org/abs/2604.08544v1)|null|
+|**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[link](http://arxiv.org/abs/2604.08529v1)|null|
+|**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[link](http://arxiv.org/abs/2604.08526v1)|null|
+|**2026-04-09**|**MolmoWeb: Open Visual Web Agent and Open Data for the Open Web**|Tanmay Gupta et.al.|[link](http://arxiv.org/abs/2604.08516v1)|null|
+|**2026-04-09**|**What do Language Models Learn and When? The Implicit Curriculum Hypothesis**|Emmy Liu et.al.|[link](http://arxiv.org/abs/2604.08510v1)|null|
+|**2026-04-09**|**Visually-grounded Humanoid Agents**|Hang Ye et.al.|[link](http://arxiv.org/abs/2604.08509v1)|null|
+|**2026-04-09**|**What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metric**|Mohamed Amine Kerkouri et.al.|[link](http://arxiv.org/abs/2604.08494v1)|null|
+|**2026-04-09**|**Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery**|Yifang Wang et.al.|[link](http://arxiv.org/abs/2604.08491v1)|null|
+|**2026-04-09**|**Post-Quantum Cryptographic Analysis of Message Transformations Across the Network Stack**|Ashish Kundu et.al.|[link](http://arxiv.org/abs/2604.08480v1)|null|
+|**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[link](http://arxiv.org/abs/2604.08475v1)|null|
+|**2026-04-09**|**TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis**|Sikai Bai et.al.|[link](http://arxiv.org/abs/2604.08468v1)|null|
+|**2026-04-09**|**OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance**|Haoxi Zeng et.al.|[link](http://arxiv.org/abs/2604.08461v1)|null|
+|**2026-04-09**|**Deck transformations of developable complexes of groups**|Alexander Nath et.al.|[link](http://arxiv.org/abs/2604.08436v1)|null|
+|**2026-04-09**|**What a Comfortable World: Ergonomic Principles Guided Apartment Layout Generation**|Piotr Nieciecki et.al.|[link](http://arxiv.org/abs/2604.08411v1)|null|
+|**2026-04-09**|**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**|Fan Yang et.al.|[link](http://arxiv.org/abs/2604.08410v1)|null|
+|**2026-04-09**|**A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations**|Zi-Qi Yang et.al.|[link](http://arxiv.org/abs/2604.08341v1)|null|
 |**2026-04-09**|**Discrete symmetries of Feynman integrals**|Claude Duhr et.al.|[link](http://arxiv.org/abs/2604.08332v1)|null|
 |**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[link](http://arxiv.org/abs/2604.08324v1)|null|
 |**2026-04-09**|**Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow**|Richard Petersen et.al.|[link](http://arxiv.org/abs/2604.08313v1)|null|
@@ -2611,6 +2627,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-09**|**HST-HGN: Heterogeneous Spatial-Temporal Hypergraph Networks with Bidirectional State Space Models for Global Fatigue Assessment**|Changdao Chen et.al.|[link](http://arxiv.org/abs/2604.08435v1)|null|
 |**2026-04-09**|**ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning**|Daichi Yashima et.al.|[link](http://arxiv.org/abs/2604.08050v1)|null|
 |**2026-04-09**|**Beyond Mamba: Enhancing State-space Models with Deformable Dilated Convolutions for Multi-scale Traffic Object Detection**|Jun Li et.al.|[link](http://arxiv.org/abs/2604.08038v1)|null|
 |**2026-04-09**|**The Hyperscale Lottery: How State-Space Models Have Sacrificed Edge Efficiency**|Robin Geens et.al.|[link](http://arxiv.org/abs/2604.07935v1)|null|
@@ -3142,6 +3159,19 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-09**|**Johnson-Schwartzman Gap Labelling for Metric and Discrete Decorated Graphs**|Ram Band et.al.|[link](http://arxiv.org/abs/2604.08496v1)|null|
+|**2026-04-09**|**The Impact of Dimensionality on the Stability of Node Embeddings**|Tobias Schumacher et.al.|[link](http://arxiv.org/abs/2604.08492v1)|null|
+|**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[link](http://arxiv.org/abs/2604.08469v1)|null|
+|**2026-04-09**|**OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance**|Haoxi Zeng et.al.|[link](http://arxiv.org/abs/2604.08461v1)|null|
+|**2026-04-09**|**ML for the hKLM at the 2nd Detector**|Rowan Kelleher et.al.|[link](http://arxiv.org/abs/2604.08447v1)|null|
+|**2026-04-09**|**HST-HGN: Heterogeneous Spatial-Temporal Hypergraph Networks with Bidirectional State Space Models for Global Fatigue Assessment**|Changdao Chen et.al.|[link](http://arxiv.org/abs/2604.08435v1)|null|
+|**2026-04-09**|**Adversarial Label Invariant Graph Data Augmentations for Out-of-Distribution Generalization**|Simon Zhang et.al.|[link](http://arxiv.org/abs/2604.08404v1)|null|
+|**2026-04-09**|**4-cycle-free induced subgraphs of grid graphs**|Taiki Aiba et.al.|[link](http://arxiv.org/abs/2604.08397v1)|null|
+|**2026-04-09**|**City-Scale Visibility Graph Analysis via GPU-Accelerated HyperBall**|Alex Hodge et.al.|[link](http://arxiv.org/abs/2604.08374v1)|null|
+|**2026-04-09**|**Per-Shot Evaluation of QAOA on Max-Cut: A Black-Box Implementation Comparison with Goemans-Williamson**|Evgenii Dolzhkov et.al.|[link](http://arxiv.org/abs/2604.08367v1)|null|
+|**2026-04-09**|**Equivalences of promise compactness principles**|Bertalan Bodor et.al.|[link](http://arxiv.org/abs/2604.08365v1)|null|
+|**2026-04-09**|**Leveraging Complementary Embeddings for Replay Selection in Continual Learning with Small Buffers**|Danit Yanowsky et.al.|[link](http://arxiv.org/abs/2604.08336v1)|null|
+|**2026-04-09**|**Dead Weights, Live Signals: Feedforward Graphs of Frozen Language Models**|Marcus Armstrong et.al.|[link](http://arxiv.org/abs/2604.08335v1)|null|
 |**2026-04-09**|**Discrete symmetries of Feynman integrals**|Claude Duhr et.al.|[link](http://arxiv.org/abs/2604.08332v1)|null|
 |**2026-04-09**|**Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow**|Richard Petersen et.al.|[link](http://arxiv.org/abs/2604.08313v1)|null|
 |**2026-04-09**|**Temporal Graph Neural Network for ISAC Target Detection and Tracking**|Saiedeh Maboud Sanaie et.al.|[link](http://arxiv.org/abs/2604.08306v1)|null|
@@ -5314,6 +5344,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-09**|**DeepFense: A Unified, Modular, and Extensible Framework for Robust Deepfake Audio Detection**|Yassine El Kheir et.al.|[link](http://arxiv.org/abs/2604.08450v1)|null|
 |**2026-04-09**|**Generalization Under Scrutiny: Cross-Domain Detection Progresses, Pitfalls, and Persistent Challenges**|Saniya M. Deshmukh et.al.|[link](http://arxiv.org/abs/2604.08230v1)|null|
 |**2026-04-09**|**Equivariant Efficient Joint Discrete and Continuous MeanFlow for Molecular Graph Generation**|Rongjian Xu et.al.|[link](http://arxiv.org/abs/2604.08189v1)|null|
 |**2026-04-09**|**T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation**|Pranjal Khadka et.al.|[link](http://arxiv.org/abs/2604.08167v1)|null|
