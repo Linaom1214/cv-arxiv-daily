@@ -1,4 +1,4 @@
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 
 ### ISTD
 
@@ -297,6 +297,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-14**|**Detecting and refurbishing ground truth errors during training of deep learning-based echocardiography segmentation models**|Iman Islam et.al.|[link](http://arxiv.org/abs/2604.12832v1)|null|
+|**2026-04-14**|**Causal Graphs for Conditional Parallel Trends**|Michael C. Knaus et.al.|[link](http://arxiv.org/abs/2604.12818v1)|null|
+|**2026-04-14**|**Understanding and Improving Continuous Adversarial Training for LLMs via In-context Learning Theory**|Shaopeng Fu et.al.|[link](http://arxiv.org/abs/2604.12817v1)|null|
+|**2026-04-14**|**Image-to-Image Translation Framework Embedded with Rotation Symmetry Priors**|Feiyu Tan et.al.|[link](http://arxiv.org/abs/2604.12805v1)|null|
+|**2026-04-14**|**Stable Fine-Time-Step Long-Horizon Turbulence Prediction with a Multi-Stepsize Mixture-of-Experts Neural Operator**|Guanyu Pan et.al.|[link](http://arxiv.org/abs/2604.12794v1)|null|
+|**2026-04-14**|**Efficient Adversarial Training via Criticality-Aware Fine-Tuning**|Wenyun Li et.al.|[link](http://arxiv.org/abs/2604.12780v1)|null|
+|**2026-04-14**|**EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution**|Shiyu He et.al.|[link](http://arxiv.org/abs/2604.12776v1)|null|
+|**2026-04-14**|**Pressure-Robust Fortin-Soulie Elements of the Stokes Equation on Curved Domains**|Wei Chen et.al.|[link](http://arxiv.org/abs/2604.12769v1)|null|
+|**2026-04-14**|**CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models**|Yunkai Dang et.al.|[link](http://arxiv.org/abs/2604.12767v1)|null|
+|**2026-04-14**|**NaviRAG: Towards Active Knowledge Navigation for Retrieval-Augmented Generation**|Jihao Dai et.al.|[link](http://arxiv.org/abs/2604.12766v1)|null|
+|**2026-04-14**|**Scaling In-Context Segmentation with Hierarchical Supervision**|T. Camaret Ndir et.al.|[link](http://arxiv.org/abs/2604.12752v1)|null|
+|**2026-04-14**|**Short Version of VERIFAI2026 Paper -- Learning Infused Formal Reasoning: Contract Synthesis, Artefact Reuse and Semantic Foundations**|Arshad Beg et.al.|[link](http://arxiv.org/abs/2604.12747v1)|null|
+|**2026-04-14**|**Can AI Tools Transform Low-Demand Math Tasks? An Evaluation of Task Modification Capabilities**|Danielle S. Fox et.al.|[link](http://arxiv.org/abs/2604.12743v1)|null|
+|**2026-04-14**|**Transformer Based Machine Fault Detection From Audio Input**|Kiran Voderhobli Holla et.al.|[link](http://arxiv.org/abs/2604.12733v1)|null|
+|**2026-04-14**|**Topographic patterning in perovskite oxide membranes for local control of strain, nanomechanics and electronic structure**|Marti Ramis et.al.|[link](http://arxiv.org/abs/2604.12728v1)|null|
+|**2026-04-14**|**Monte Carlo Stochastic Depth for Uncertainty Estimation in Deep Learning**|Adam T. Müller et.al.|[link](http://arxiv.org/abs/2604.12719v1)|null|
+|**2026-04-14**|**Risk-Calibrated Learning: Minimizing Fatal Errors in Medical AI**|Abolfazl Mohammadi-Seif et.al.|[link](http://arxiv.org/abs/2604.12693v1)|null|
+|**2026-04-14**|**Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining**|Junfeng Xia et.al.|[link](http://arxiv.org/abs/2604.12683v1)|null|
+|**2026-04-14**|**Multilingual Multi-Label Emotion Classification at Scale with Synthetic Data**|Vadim Borisov et.al.|[link](http://arxiv.org/abs/2604.12633v1)|null|
+|**2026-04-14**|**Efficient Semantic Image Communication for Traffic Monitoring at the Edge**|Damir Assylbek et.al.|[link](http://arxiv.org/abs/2604.12622v1)|null|
 |**2026-04-12**|**PepBenchmark: A Standardized Benchmark for Peptide Machine Learning**|Jiahui Zhang et.al.|[link](http://arxiv.org/abs/2604.10531v1)|null|
 |**2026-04-12**|**BareBones: Benchmarking Zero-Shot Geometric Comprehension in VLMs**|Aaditya Baranwal et.al.|[link](http://arxiv.org/abs/2604.10528v1)|null|
 |**2026-04-12**|**FGML-DG: Feynman-Inspired Cognitive Science Paradigm for Cross-Domain Medical Image Segmentation**|Yucheng Song et.al.|[link](http://arxiv.org/abs/2604.10524v1)|null|
@@ -2648,6 +2668,13 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-14**|**A Hybrid Architecture for Benign-Malignant Classification of Mammography ROIs**|Mohammed Asad et.al.|[link](http://arxiv.org/abs/2604.12437v1)|null|
+|**2026-04-14**|**Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[link](http://arxiv.org/abs/2604.12374v1)|null|
+|**2026-04-14**|**RSGMamba: Reliability-Aware Self-Gated State Space Model for Multimodal Semantic Segmentation**|Guoan Xu et.al.|[link](http://arxiv.org/abs/2604.12319v1)|null|
+|**2026-04-14**|**TokenSE: a Mamba-based discrete token speech enhancement framework for cochlear implants**|Hsin-Tien Chiang et.al.|[link](http://arxiv.org/abs/2604.12246v1)|null|
+|**2026-04-13**|**A Mamba-Based Multimodal Network for Multiscale Blast-Induced Rapid Structural Damage Assessment**|Wanli Ma et.al.|[link](http://arxiv.org/abs/2604.11709v1)|null|
+|**2026-04-14**|**Architecture-Agnostic Modality-Isolated Gated Fusion for Robust Multi-Modal Prostate MRI Segmentation**|Yongbo Shu et.al.|[link](http://arxiv.org/abs/2604.10702v2)|null|
+|**2026-04-12**|**COREY: A Prototype Study of Entropy-Guided Operator Fusion with Hadamard Reparameterization for Selective State Space Models**|Bo Ma et.al.|[link](http://arxiv.org/abs/2604.10597v1)|null|
 |**2026-04-11**|**SatReg: Regression-based Neural Architecture Search for Lightweight Satellite Image Segmentation**|Edward Humes et.al.|[link](http://arxiv.org/abs/2604.10306v1)|null|
 |**2026-04-10**|**Unmixing-Guided Spatial-Spectral Mamba with Clustering Tokens for Hyperspectral Image Classification**|Yimin Zhu et.al.|[link](http://arxiv.org/abs/2604.09948v1)|null|
 |**2026-04-09**|**HST-HGN: Heterogeneous Spatial-Temporal Hypergraph Networks with Bidirectional State Space Models for Global Fatigue Assessment**|Changdao Chen et.al.|[link](http://arxiv.org/abs/2604.08435v1)|null|
@@ -3182,6 +3209,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-14**|**Detecting and refurbishing ground truth errors during training of deep learning-based echocardiography segmentation models**|Iman Islam et.al.|[link](http://arxiv.org/abs/2604.12832v1)|null|
+|**2026-04-14**|**Causal Graphs for Conditional Parallel Trends**|Michael C. Knaus et.al.|[link](http://arxiv.org/abs/2604.12818v1)|null|
+|**2026-04-14**|**Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling**|Xiaoxiao Liang et.al.|[link](http://arxiv.org/abs/2604.12806v1)|null|
+|**2026-04-14**|**NaviRAG: Towards Active Knowledge Navigation for Retrieval-Augmented Generation**|Jihao Dai et.al.|[link](http://arxiv.org/abs/2604.12766v1)|null|
+|**2026-04-14**|**ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search**|Myungchul Kim et.al.|[link](http://arxiv.org/abs/2604.12762v1)|null|
+|**2026-04-14**|**Localization and Flat Bands in Edge-Inflated Lattices**|Richard Berkovits et.al.|[link](http://arxiv.org/abs/2604.12759v1)|null|
+|**2026-04-14**|**Scaling In-Context Segmentation with Hierarchical Supervision**|T. Camaret Ndir et.al.|[link](http://arxiv.org/abs/2604.12752v1)|null|
+|**2026-04-14**|**Short Version of VERIFAI2026 Paper -- Learning Infused Formal Reasoning: Contract Synthesis, Artefact Reuse and Semantic Foundations**|Arshad Beg et.al.|[link](http://arxiv.org/abs/2604.12747v1)|null|
+|**2026-04-14**|**InsightFlow: LLM-Driven Synthesis of Patient Narratives for Mental Health into Causal Models**|Shreya Gupta et.al.|[link](http://arxiv.org/abs/2604.12721v1)|null|
+|**2026-04-14**|**Monte Carlo Stochastic Depth for Uncertainty Estimation in Deep Learning**|Adam T. Müller et.al.|[link](http://arxiv.org/abs/2604.12719v1)|null|
+|**2026-04-14**|**An Introduction to Quantum Graphs and Current Applications**|Gregory Berkolaiko et.al.|[link](http://arxiv.org/abs/2604.12690v1)|null|
+|**2026-04-14**|**Sorting under Partial Information with Optimal Preprocessing Time via Unified Bound Heaps**|Daniel Rutschmann et.al.|[link](http://arxiv.org/abs/2604.12653v1)|null|
+|**2026-04-14**|**Learning Chain Of Thoughts Prompts for Predicting Entities, Relations, and even Literals on Knowledge Graphs**|Alkid Baci et.al.|[link](http://arxiv.org/abs/2604.12651v1)|null|
+|**2026-04-14**|**The Impact of Qubit Connectivity on Quantum Advantage in Noisy IQP Circuits**|Leonardo Placidi et.al.|[link](http://arxiv.org/abs/2604.12635v1)|null|
+|**2026-04-14**|**GraphTide: Augmenting Knowledge-Intensive Text with Progressive Nested Graph**|Xin Qian et.al.|[link](http://arxiv.org/abs/2604.12624v1)|null|
+|**2026-04-14**|**Efficient Semantic Image Communication for Traffic Monitoring at the Edge**|Damir Assylbek et.al.|[link](http://arxiv.org/abs/2604.12622v1)|null|
+|**2026-04-14**|**A recursive construction of an acyclic matching on the independence complex of a graph with a simplicial vertex**|Sucharita Barik et.al.|[link](http://arxiv.org/abs/2604.12606v1)|null|
+|**2026-04-14**|**Doubly Nonlinear Diffusion Equations on Metric Graphs**|J. M. Mazón et.al.|[link](http://arxiv.org/abs/2604.12589v1)|null|
+|**2026-04-14**|**Robust Graph Isomorphism, Quadratic Assignment and VC Dimension**|Anatole Dahan et.al.|[link](http://arxiv.org/abs/2604.12584v1)|null|
+|**2026-04-14**|**Cross-Attentive Multiview Fusion of Vision-Language Embeddings**|Tomas Berriel Martins et.al.|[link](http://arxiv.org/abs/2604.12551v1)|null|
 |**2026-04-12**|**Topology-Aware PAC-Bayesian Generalization Analysis for Graph Neural Networks**|Xinping Yi et.al.|[link](http://arxiv.org/abs/2604.10553v1)|null|
 |**2026-04-12**|**BareBones: Benchmarking Zero-Shot Geometric Comprehension in VLMs**|Aaditya Baranwal et.al.|[link](http://arxiv.org/abs/2604.10528v1)|null|
 |**2026-04-12**|**Edge-Tilting Field Dynamics: Rapid Mixing at the Uniqueness Threshold and Optimal Mixing for Swendsen-Wang Dynamics**|Xiaoyu Chen et.al.|[link](http://arxiv.org/abs/2604.10525v1)|null|
@@ -5387,6 +5434,23 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-14**|**From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation**|Chuang Peng et.al.|[link](http://arxiv.org/abs/2604.12666v1)|null|
+|**2026-04-14**|**Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting**|Ziyuan Xia et.al.|[link](http://arxiv.org/abs/2604.12626v1)|null|
+|**2026-04-14**|**VeriX-Anon: A Multi-Layered Framework for Mathematically Verifiable Outsourced Target-Driven Data Anonymization**|Miit Daga et.al.|[link](http://arxiv.org/abs/2604.12431v1)|null|
+|**2026-04-14**|**ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance**|Daniil Gurgurov et.al.|[link](http://arxiv.org/abs/2604.12378v1)|null|
+|**2026-04-14**|**Cross-Domain Transfer with Particle Physics Foundation Models: From Jets to Neutrino Interactions**|Gregor Krzmanc et.al.|[link](http://arxiv.org/abs/2604.12364v1)|null|
+|**2026-04-14**|**Fundus Image-based Glaucoma Screening via Retinal Knowledge-Oriented Dynamic Multi-Level Feature Integration**|Yuzhuo Zhou et.al.|[link](http://arxiv.org/abs/2604.12351v1)|null|
+|**2026-04-14**|**Clustering-Enhanced Domain Adaptation for Cross-Domain Intrusion Detection in Industrial Control Systems**|Luyao Wang et.al.|[link](http://arxiv.org/abs/2604.12183v1)|null|
+|**2026-04-13**|**The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results**|Xingyu Qiu et.al.|[link](http://arxiv.org/abs/2604.11998v1)|null|
+|**2026-04-13**|**The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break**|Xinyu Jessica Wang et.al.|[link](http://arxiv.org/abs/2604.11978v1)|null|
+|**2026-04-14**|**Context Kubernetes: Declarative Orchestration of Enterprise Knowledge for Agentic AI Systems**|Charafeddine Mouzouni et.al.|[link](http://arxiv.org/abs/2604.11623v2)|null|
+|**2026-04-13**|**EagleVision: A Multi-Task Benchmark for Cross-Domain Perception in High-Speed Autonomous Racing**|Zakhar Yagudin et.al.|[link](http://arxiv.org/abs/2604.11400v1)|null|
+|**2026-04-13**|**BRIDGE and TCH-Net: Heterogeneous Benchmark and Multi-Branch Baseline for Cross-Domain IoT Botnet Detection**|Ammar Bhilwarawala et.al.|[link](http://arxiv.org/abs/2604.11324v1)|null|
+|**2026-04-13**|**Towards Adaptive Open-Set Object Detection via Category-Level Collaboration Knowledge Mining**|Yuqi Ji et.al.|[link](http://arxiv.org/abs/2604.11195v1)|null|
+|**2026-04-13**|**WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark**|Peng Yuan et.al.|[link](http://arxiv.org/abs/2604.10988v1)|null|
+|**2026-04-13**|**Unsupervised Equivalent Contrastive Learning for Radio Signal Recognition**|Shilian Zheng et.al.|[link](http://arxiv.org/abs/2604.10906v1)|null|
+|**2026-04-13**|**LRD-Net: A Lightweight Real-Centered Detection Network for Cross-Domain Face Forgery Detection**|Xuecen Zhang et.al.|[link](http://arxiv.org/abs/2604.10862v1)|null|
+|**2026-04-12**|**Critical-CoT: A Robust Defense Framework against Reasoning-Level Backdoor Attacks in Large Language Models**|Vu Tuan Truong et.al.|[link](http://arxiv.org/abs/2604.10681v1)|null|
 |**2026-04-12**|**FGML-DG: Feynman-Inspired Cognitive Science Paradigm for Cross-Domain Medical Image Segmentation**|Yucheng Song et.al.|[link](http://arxiv.org/abs/2604.10524v1)|null|
 |**2026-04-11**|**ReaLiTy and LADS: A Unified Framework and Dataset Suite for LiDAR Adaptation Across Sensors and Adverse Weather Conditions**|Vivek Anand et.al.|[link](http://arxiv.org/abs/2604.10213v1)|null|
 |**2026-04-11**|**MOSAIC: Multi-Domain Orthogonal Session Adaptive Intent Capture for Prescient Recommendations**|Abderaouf Bahi et.al.|[link](http://arxiv.org/abs/2604.10147v1)|null|
