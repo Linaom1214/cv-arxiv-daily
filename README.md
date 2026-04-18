@@ -1,4 +1,4 @@
-## Updated on 2026.04.17
+## Updated on 2026.04.18
 
 ### ISTD
 
@@ -297,6 +297,21 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-16**|**Bandwidth Cost of Locally Repairable Convertible Codes in the Global Merge Regime**|Saransh Chopra et.al.|[link](http://arxiv.org/abs/2604.15282v1)|null|
+|**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Zhengdong Hong et.al.|[link](http://arxiv.org/abs/2604.15281v1)|null|
+|**2026-04-16**|**Generation of Schrödinger cat-like states via degenerate dual pump spontaneous four-wave mixing in a $χ^{(3)}$ microring resonator**|Ranjit Singh et.al.|[link](http://arxiv.org/abs/2604.15275v1)|null|
+|**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[link](http://arxiv.org/abs/2604.15271v1)|null|
+|**2026-04-16**|**Detecting Regime Transitions in Dynamical Systems via the Mixup Euler Characteristic Profile**|Sushovan Majhi et.al.|[link](http://arxiv.org/abs/2604.15262v1)|null|
+|**2026-04-16**|**Stability and Generalization in Looped Transformers**|Asher Labovich et.al.|[link](http://arxiv.org/abs/2604.15259v1)|null|
+|**2026-04-16**|**Kontorovich-Lebedev-Fourier Space for de Sitter Correlators**|Nathan Belrhali et.al.|[link](http://arxiv.org/abs/2604.15251v1)|null|
+|**2026-04-16**|**TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens**|Jiawei Ren et.al.|[link](http://arxiv.org/abs/2604.15239v1)|null|
+|**2026-04-16**|**StreamCacheVGGT: Streaming Visual Geometry Transformers with Robust Scoring and Hybrid Cache Compression**|Xuanyi Liu et.al.|[link](http://arxiv.org/abs/2604.15237v1)|null|
+|**2026-04-16**|**Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications**|Moin Aminnaseri et.al.|[link](http://arxiv.org/abs/2604.15233v1)|null|
+|**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[link](http://arxiv.org/abs/2604.15225v1)|null|
+|**2026-04-16**|**3D Finite Element-Based Multiphysics Simulation of a Shape Memory Alloy Hybrid Composite Module**|Lukas Handl et.al.|[link](http://arxiv.org/abs/2604.15211v1)|null|
+|**2026-04-16**|**On the m-point convexity**|Wenzhi Liu et.al.|[link](http://arxiv.org/abs/2604.15205v1)|null|
+|**2026-04-16**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al.|[link](http://arxiv.org/abs/2604.15196v1)|null|
+|**2026-04-16**|**AdaSplash-2: Faster Differentiable Sparse Attention**|Nuno Gonçalves et.al.|[link](http://arxiv.org/abs/2604.15180v1)|null|
 |**2026-04-16**|**Boundary-Centric Active Learning for Temporal Action Segmentation**|Halil Ismail Helvaci et.al.|[link](http://arxiv.org/abs/2604.15173v1)|null|
 |**2026-04-16**|**Class Unlearning via Depth-Aware Removal of Forget-Specific Directions**|Arman Hatami et.al.|[link](http://arxiv.org/abs/2604.15166v1)|null|
 |**2026-04-16**|**How ill-conditioned can submatrices of the Fourier matrix be?**|Rikhav Shah et.al.|[link](http://arxiv.org/abs/2604.15135v1)|null|
@@ -3240,6 +3255,20 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-16**|**Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes**|Kenta Kasai et.al.|[link](http://arxiv.org/abs/2604.15307v1)|null|
+|**2026-04-16**|**Generalization of Pearl's Front-Door Criterion**|Carol Wu et.al.|[link](http://arxiv.org/abs/2604.15288v1)|null|
+|**2026-04-16**|**The Parameterized Complexity of Coloring Mixed Graphs**|Antonio Lauerbach et.al.|[link](http://arxiv.org/abs/2604.15274v1)|null|
+|**2026-04-16**|**How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations**|Nouhaila Innan et.al.|[link](http://arxiv.org/abs/2604.15273v1)|null|
+|**2026-04-16**|**Prism: Symbolic Superoptimization of Tensor Programs**|Mengdi Wu et.al.|[link](http://arxiv.org/abs/2604.15272v1)|null|
+|**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[link](http://arxiv.org/abs/2604.15271v1)|null|
+|**2026-04-16**|**Motif-based filtrations for persistent homology: A framework for graph isomorphism and property prediction**|Meritxell Vila-Miñana et.al.|[link](http://arxiv.org/abs/2604.15265v1)|null|
+|**2026-04-16**|**Detecting Regime Transitions in Dynamical Systems via the Mixup Euler Characteristic Profile**|Sushovan Majhi et.al.|[link](http://arxiv.org/abs/2604.15262v1)|null|
+|**2026-04-16**|**Expanding into Reality: Random Graphs for Datacenter Networks**|Giacomo Bernardi et.al.|[link](http://arxiv.org/abs/2604.15261v1)|null|
+|**2026-04-16**|**A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning**|Anand Gokhale et.al.|[link](http://arxiv.org/abs/2604.15238v1)|null|
+|**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[link](http://arxiv.org/abs/2604.15225v1)|null|
+|**2026-04-16**|**On the m-point convexity**|Wenzhi Liu et.al.|[link](http://arxiv.org/abs/2604.15205v1)|null|
+|**2026-04-16**|**Benchmarking Classical Coverage Path Planning Heuristics on Irregular Hexagonal Grids for Maritime Coverage Scenarios**|Carlos S. Sepúlveda et.al.|[link](http://arxiv.org/abs/2604.15202v1)|null|
+|**2026-04-16**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al.|[link](http://arxiv.org/abs/2604.15196v1)|null|
 |**2026-04-16**|**Boundary-Centric Active Learning for Temporal Action Segmentation**|Halil Ismail Helvaci et.al.|[link](http://arxiv.org/abs/2604.15173v1)|null|
 |**2026-04-16**|**Dual Pose-Graph Semantic Localization for Vision-Based Autonomous Drone Racing**|David Perez-Saura et.al.|[link](http://arxiv.org/abs/2604.15168v1)|null|
 |**2026-04-16**|**The 1-2-3 conjecture for polygonal tilings**|Alison Charlesworth et.al.|[link](http://arxiv.org/abs/2604.15138v1)|null|
