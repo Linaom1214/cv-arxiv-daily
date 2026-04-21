@@ -1,4 +1,4 @@
-## Updated on 2026.04.18
+## Updated on 2026.04.21
 
 ### ISTD
 
@@ -297,6 +297,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-19**|**Breaking Euston: Recovering Private Inputs from Secure Inference by Exploiting Subspace Leakage**|Jiaqi Zhao et.al.|[link](http://arxiv.org/abs/2604.17238v1)|null|
+|**2026-04-19**|**Fringe Projection Based Vision Pipeline for Autonomous Hard Drive Disassembly**|Badrinath Balasubramaniam et.al.|[link](http://arxiv.org/abs/2604.17231v1)|null|
+|**2026-04-19**|**Region-Affinity Attention for Whole-Slide Breast Cancer Classification in Deep Ultraviolet Imaging**|Nagur Shareef Shaik et.al.|[link](http://arxiv.org/abs/2604.17222v1)|null|
+|**2026-04-19**|**Symplectic Inductive Bias for Data-Driven Target Reachability in Hamiltonian Systems**|Zhuo Ouyang et.al.|[link](http://arxiv.org/abs/2604.17213v1)|null|
+|**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[link](http://arxiv.org/abs/2604.17211v1)|null|
+|**2026-04-19**|**Decomposing the Depth Profile of Fine-Tuning**|Jayadev Billa et.al.|[link](http://arxiv.org/abs/2604.17177v1)|null|
+|**2026-04-18**|**Lightweight Cybersickness Detection based on User-Specific Eye and Head Tracking Data in Virtual Reality**|Yijun Wang et.al.|[link](http://arxiv.org/abs/2604.17158v1)|null|
+|**2026-04-18**|**Instant Colorization of Gaussian Splats**|Daniel Lieber et.al.|[link](http://arxiv.org/abs/2604.17155v1)|null|
+|**2026-04-18**|**From Legal Text to Executable Decision Models: Evaluating Structured Representations for Legal Decision Model Generation**|David Graus et.al.|[link](http://arxiv.org/abs/2604.17153v1)|null|
+|**2026-04-18**|**The Topological Trouble With Transformers**|Michael C. Mozer et.al.|[link](http://arxiv.org/abs/2604.17121v1)|null|
+|**2026-04-18**|**A Two-Stage Deep Learning Framework for Segmentation of Ten Gastrointestinal Organs from Coronal MR Enterography**|Ashiqur Rahman et.al.|[link](http://arxiv.org/abs/2604.17118v1)|null|
+|**2026-04-18**|**Inference-Time Temporal Probability Smoothing for Stable Video Segmentation with SAM2 under Weak Prompts**|Dawar Jyoti Deka et.al.|[link](http://arxiv.org/abs/2604.17115v1)|null|
+|**2026-04-18**|**Beyond Word Boundaries: A Hebrew Coreference Benchmark and an Evaluation Protocol for Morphologically Complex Text**|Refael Shaked Greenfeld et.al.|[link](http://arxiv.org/abs/2604.17108v1)|null|
+|**2026-04-18**|**EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling**|Jiafei Song et.al.|[link](http://arxiv.org/abs/2604.17087v1)|null|
+|**2026-04-18**|**NTIRE 2026 Rip Current Detection and Segmentation (RipDetSeg) Challenge Report**|Andrei Dumitriu et.al.|[link](http://arxiv.org/abs/2604.17070v1)|null|
+|**2026-04-18**|**Causality from Projection and Hardy-Space Analyticity of Non-Markovian Memory Kernels**|Kejun Liu et.al.|[link](http://arxiv.org/abs/2604.17058v1)|null|
+|**2026-04-18**|**A Hybrid STFT-Based Machine Learning Framework for Physically Interpretable Arc Stability Classification in Electric Arc Welding Systems**|Tahir Cetin Akinci et.al.|[link](http://arxiv.org/abs/2604.17034v1)|null|
+|**2026-04-18**|**The Quaternion Boostlet Transform: Definition, Properties and Uncertainty Principles**|Owais Ahmad et.al.|[link](http://arxiv.org/abs/2604.17029v1)|null|
+|**2026-04-18**|**CAM3DNet: Comprehensively mining the multi-scale features for 3D Object Detection with Multi-View Cameras**|Mingxi Pang et.al.|[link](http://arxiv.org/abs/2604.17024v1)|null|
+|**2026-04-18**|**LIVE: Leveraging Image Manipulation Priors for Instruction-based Video Editing**|Weicheng Wang et.al.|[link](http://arxiv.org/abs/2604.17021v1)|null|
 |**2026-04-16**|**Bandwidth Cost of Locally Repairable Convertible Codes in the Global Merge Regime**|Saransh Chopra et.al.|[link](http://arxiv.org/abs/2604.15282v1)|null|
 |**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Zhengdong Hong et.al.|[link](http://arxiv.org/abs/2604.15281v1)|null|
 |**2026-04-16**|**Generation of Schrödinger cat-like states via degenerate dual pump spontaneous four-wave mixing in a $χ^{(3)}$ microring resonator**|Ranjit Singh et.al.|[link](http://arxiv.org/abs/2604.15275v1)|null|
@@ -2703,9 +2723,20 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-19**|**Bilinear Input Modulation for Mamba: Koopman Bilinear Forms for Memory Retention and Multiplicative Computation**|Hiroki Fujii et.al.|[link](http://arxiv.org/abs/2604.17221v1)|null|
+|**2026-04-18**|**TSM-Pose: Topology-Aware Learning with Semantic Mamba for Category-Level Object Pose Estimation**|Jinshuo Liu et.al.|[link](http://arxiv.org/abs/2604.16954v1)|null|
+|**2026-04-18**|**GAMMA-Net: Adaptive Long-Horizon Traffic Spatio-Temporal Forecasting Model based on Interleaved Graph Attention and Multi-Axis Mamba**|Dongyi He et.al.|[link](http://arxiv.org/abs/2604.16859v1)|null|
+|**2026-04-17**|**TriTS: Time Series Forecasting from a Multimodal Perspective**|Xiang Ao et.al.|[link](http://arxiv.org/abs/2604.16748v1)|null|
+|**2026-04-17**|**MambaKick: Early Penalty Direction Prediction from HAR Embeddings**|Henry O. Velesaca et.al.|[link](http://arxiv.org/abs/2604.16588v1)|null|
+|**2026-04-17**|**PA-TCNet: Pathology-Aware Temporal Calibration with Physiology-Guided Target Refinement for Cross-Subject Motor Imagery EEG Decoding in Stroke Patients**|Xiangkai Wang et.al.|[link](http://arxiv.org/abs/2604.16554v1)|null|
+|**2026-04-17**|**Hero-Mamba: Mamba-based Dual Domain Learning for Underwater Image Enhancement**|Tejeswar Pokuri et.al.|[link](http://arxiv.org/abs/2604.16266v1)|null|
+|**2026-04-17**|**MambaBack: Bridging Local Features and Global Contexts in Whole Slide Image Analysis**|Sicheng Chen et.al.|[link](http://arxiv.org/abs/2604.15729v1)|null|
+|**2026-04-17**|**SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification**|Enhui Chai et.al.|[link](http://arxiv.org/abs/2604.15711v1)|null|
+|**2026-04-17**|**CLIMB: Controllable Longitudinal Brain Image Generation using Mamba-based Latent Diffusion Model and Gaussian-aligned Autoencoder**|Duy-Phuong Dao et.al.|[link](http://arxiv.org/abs/2604.15611v1)|null|
 |**2026-04-16**|**MambaSL: Exploring Single-Layer Mamba for Time Series Classification**|Yoo-Min Jung et.al.|[link](http://arxiv.org/abs/2604.15174v1)|null|
 |**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[link](http://arxiv.org/abs/2604.15009v1)|null|
 |**2026-04-16**|**FreqTrack: Frequency Learning based Vision Transformer for RGB-Event Object Tracking**|Jinlin You et.al.|[link](http://arxiv.org/abs/2604.14526v1)|null|
+|**2026-04-17**|**Mamba-SSM with LLM Reasoning for Feature Selection: Faithfulness-Aware Biomarker Discovery**|Pushpa Kumar Balan et.al.|[link](http://arxiv.org/abs/2604.14334v2)|null|
 |**2026-04-15**|**Mamba-SSM with LLM Reasoning for Biomarker Discovery: Causal Feature Refinement via Chain-of-Thought Gene Evaluation**|Pushpa Kumar Balan et.al.|[link](http://arxiv.org/abs/2604.14334v1)|null|
 |**2026-04-15**|**Mamba Sequence Modeling meets Model Predictive Control**|Michiel Cevaal et.al.|[link](http://arxiv.org/abs/2604.13857v1)|null|
 |**2026-04-15**|**Dynamic Heartbeat Modeling with Recurrent Neural Networks and Inverse Gaussian Point Process Modeling**|Runwei Lin et.al.|[link](http://arxiv.org/abs/2604.13815v1)|null|
@@ -3255,6 +3286,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-19**|**Generalized spectral Turán problems for disjoint cliques**|Yi Xu et.al.|[link](http://arxiv.org/abs/2604.17242v1)|null|
+|**2026-04-19**|**Fringe Projection Based Vision Pipeline for Autonomous Hard Drive Disassembly**|Badrinath Balasubramaniam et.al.|[link](http://arxiv.org/abs/2604.17231v1)|null|
+|**2026-04-19**|**Separating Matchings in Cubic Graphs**|Juan Gutiérrez et.al.|[link](http://arxiv.org/abs/2604.17226v1)|null|
+|**2026-04-19**|**Symplectic Inductive Bias for Data-Driven Target Reachability in Hamiltonian Systems**|Zhuo Ouyang et.al.|[link](http://arxiv.org/abs/2604.17213v1)|null|
+|**2026-04-19**|**Do LLM-derived graph priors improve multi-agent coordination?**|Nikunj Gupta et.al.|[link](http://arxiv.org/abs/2604.17191v1)|null|
+|**2026-04-19**|**LookasideVLN: Direction-Aware Aerial Vision-and-Language Navigation**|Yuwei Ning et.al.|[link](http://arxiv.org/abs/2604.17190v1)|null|
+|**2026-04-18**|**A topological characterization of end space of infinite graphs via games, subspaces and products**|Leandro Aurichi et.al.|[link](http://arxiv.org/abs/2604.17164v1)|null|
+|**2026-04-18**|**Lightweight Cybersickness Detection based on User-Specific Eye and Head Tracking Data in Virtual Reality**|Yijun Wang et.al.|[link](http://arxiv.org/abs/2604.17158v1)|null|
+|**2026-04-18**|**Instant Colorization of Gaussian Splats**|Daniel Lieber et.al.|[link](http://arxiv.org/abs/2604.17155v1)|null|
+|**2026-04-18**|**From Legal Text to Executable Decision Models: Evaluating Structured Representations for Legal Decision Model Generation**|David Graus et.al.|[link](http://arxiv.org/abs/2604.17153v1)|null|
+|**2026-04-18**|**Graph-of-Agents: A Graph-based Framework for Multi-Agent LLM Collaboration**|Sukwon Yun et.al.|[link](http://arxiv.org/abs/2604.17148v1)|null|
+|**2026-04-18**|**Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models**|Oliver E. Richardson et.al.|[link](http://arxiv.org/abs/2604.17140v1)|null|
+|**2026-04-18**|**A Two-Stage Deep Learning Framework for Segmentation of Ten Gastrointestinal Organs from Coronal MR Enterography**|Ashiqur Rahman et.al.|[link](http://arxiv.org/abs/2604.17118v1)|null|
+|**2026-04-18**|**Inference-Time Temporal Probability Smoothing for Stable Video Segmentation with SAM2 under Weak Prompts**|Dawar Jyoti Deka et.al.|[link](http://arxiv.org/abs/2604.17115v1)|null|
+|**2026-04-18**|**The Provenance Gap in Clinical AI: Evidence-Traceable Temporal Knowledge Graphs for Rare Disease Reasoning**|Md Shamim Ahmed et.al.|[link](http://arxiv.org/abs/2604.17114v1)|null|
+|**2026-04-18**|**Beyond Word Boundaries: A Hebrew Coreference Benchmark and an Evaluation Protocol for Morphologically Complex Text**|Refael Shaked Greenfeld et.al.|[link](http://arxiv.org/abs/2604.17108v1)|null|
+|**2026-04-18**|**Regularity of Squarefree Powers of Edge Ideals of Whiskered Cycles**|Sanjoy Das et.al.|[link](http://arxiv.org/abs/2604.17100v1)|null|
+|**2026-04-18**|**Comparing Human and Large Language Model Interpretation of Implicit Information**|Antonio De Santis et.al.|[link](http://arxiv.org/abs/2604.17085v1)|null|
+|**2026-04-18**|**Comparison Drives Preference: Reference-Aware Modeling for AI-Generated Video Quality Assessment**|Minghao Zou et.al.|[link](http://arxiv.org/abs/2604.17074v1)|null|
+|**2026-04-18**|**NTIRE 2026 Rip Current Detection and Segmentation (RipDetSeg) Challenge Report**|Andrei Dumitriu et.al.|[link](http://arxiv.org/abs/2604.17070v1)|null|
 |**2026-04-16**|**Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes**|Kenta Kasai et.al.|[link](http://arxiv.org/abs/2604.15307v1)|null|
 |**2026-04-16**|**Generalization of Pearl's Front-Door Criterion**|Carol Wu et.al.|[link](http://arxiv.org/abs/2604.15288v1)|null|
 |**2026-04-16**|**The Parameterized Complexity of Coloring Mixed Graphs**|Antonio Lauerbach et.al.|[link](http://arxiv.org/abs/2604.15274v1)|null|
@@ -5514,6 +5565,21 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-18**|**RoIt-XMASA: Multi-Domain Multilingual Sentiment Analysis Dataset for Romanian and Italian**|Andrei-Marius Avram et.al.|[link](http://arxiv.org/abs/2604.17134v1)|null|
+|**2026-04-18**|**Improving Radio Interferometry Imaging by Explicitly Modeling Cross-Domain Consistency in Reconstruction**|Kai Cheng et.al.|[link](http://arxiv.org/abs/2604.16794v1)|null|
+|**2026-04-18**|**Federation over Text: Insight Sharing for Multi-Agent Reasoning**|Dixi Yao et.al.|[link](http://arxiv.org/abs/2604.16778v1)|null|
+|**2026-04-17**|**C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion**|Yuval Haitman et.al.|[link](http://arxiv.org/abs/2604.16680v1)|null|
+|**2026-04-17**|**See Through the Noise: Improving Domain Generalization in Gaze Estimation**|Yanming Peng et.al.|[link](http://arxiv.org/abs/2604.16562v1)|null|
+|**2026-04-17**|**Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models**|Reham Alharbi et.al.|[link](http://arxiv.org/abs/2604.16258v1)|null|
+|**2026-04-17**|**OT on the Map: Quantifying Domain Shifts in Geographic Space**|Haoran Zhang et.al.|[link](http://arxiv.org/abs/2604.16220v1)|null|
+|**2026-04-17**|**Beyond Surface Statistics: Robust Conformal Prediction for LLMs via Internal Representations**|Yanli Wang et.al.|[link](http://arxiv.org/abs/2604.16217v1)|null|
+|**2026-04-17**|**MOMENTA: Mixture-of-Experts Over Multimodal Embeddings with Neural Temporal Aggregation for Misinformation Detection**|Yeganeh Abdollahinejad et.al.|[link](http://arxiv.org/abs/2604.16172v1)|null|
+|**2026-04-17**|**Watching Movies Like a Human: Egocentric Emotion Understanding for Embodied Companions**|Ze Dong et.al.|[link](http://arxiv.org/abs/2604.15823v1)|null|
+|**2026-04-17**|**Towards Robust Endogenous Reasoning: Unifying Drift Adaptation in Non-Stationary Tuning**|Xiaoyu Yang et.al.|[link](http://arxiv.org/abs/2604.15705v1)|null|
+|**2026-04-17**|**The Metacognitive Monitoring Battery: A Cross-Domain Benchmark for LLM Self-Monitoring**|Jon-Paul Cacioli et.al.|[link](http://arxiv.org/abs/2604.15702v1)|null|
+|**2026-04-17**|**HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning**|Eunju Lee et.al.|[link](http://arxiv.org/abs/2604.15678v1)|null|
+|**2026-04-17**|**DALM: A Domain-Algebraic Language Model via Three-Phase Structured Generation**|Chao Li et.al.|[link](http://arxiv.org/abs/2604.15593v1)|null|
+|**2026-04-16**|**Transfer Learning from Foundational Optimization Embeddings to Unsupervised SAT Representations**|Koyena Pal et.al.|[link](http://arxiv.org/abs/2604.15448v1)|null|
 |**2026-04-16**|**HRDexDB: A Large-Scale Dataset of Dexterous Human and Robotic Hand Grasps**|Jongbin Lim et.al.|[link](http://arxiv.org/abs/2604.14944v1)|null|
 |**2026-04-16**|**FSDETR: Frequency-Spatial Feature Enhancement for Small Object Detection**|Jianchao Huang et.al.|[link](http://arxiv.org/abs/2604.14884v1)|null|
 |**2026-04-16**|**Federated User Behavior Modeling for Privacy-Preserving LLM Recommendation**|Lei Guo et.al.|[link](http://arxiv.org/abs/2604.14833v1)|null|
