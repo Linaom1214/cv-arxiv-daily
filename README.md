@@ -1,4 +1,4 @@
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 
 ### ISTD
 
@@ -297,6 +297,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-23**|**Modeling High Entropy Alloys' Mechanical Property through Natural Language-Derived Descriptors**|Li-Cheng Hsiao et.al.|[link](http://arxiv.org/abs/2604.21807v1)|null|
+|**2026-04-23**|**Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI**|Wonyong Chung et.al.|[link](http://arxiv.org/abs/2604.21804v1)|null|
+|**2026-04-23**|**Partial oracles quantum algorithm framework -- Part I: Analysis of in-place operations**|Fintan M. Bolton et.al.|[link](http://arxiv.org/abs/2604.21788v1)|null|
+|**2026-04-23**|**Reshoot-Anything: A Self-Supervised Model for In-the-Wild Video Reshooting**|Avinash Paliwal et.al.|[link](http://arxiv.org/abs/2604.21776v1)|null|
+|**2026-04-23**|**Misinformation Span Detection in Videos via Audio Transcripts**|Breno Matos et.al.|[link](http://arxiv.org/abs/2604.21767v1)|null|
+|**2026-04-23**|**Segment convergence for super-linear stochastic functional differential equations by the truncated Euler-Maruyama method**|Shounian Deng et.al.|[link](http://arxiv.org/abs/2604.21704v1)|null|
+|**2026-04-23**|**Lusztig constants and endoscopy**|Wille Liu et.al.|[link](http://arxiv.org/abs/2604.21703v1)|null|
+|**2026-04-23**|**Evaluating Post-hoc Explanations of the Transformer-based Genome Language Model DNABERT-2**|Isabel Kurth et.al.|[link](http://arxiv.org/abs/2604.21690v1)|null|
+|**2026-04-23**|**Sapiens2**|Rawal Khirodkar et.al.|[link](http://arxiv.org/abs/2604.21681v1)|null|
+|**2026-04-23**|**Optimal e-variables under constraints**|Aytijhya Saha et.al.|[link](http://arxiv.org/abs/2604.21680v1)|null|
+|**2026-04-23**|**Geometric Monomial (GEM): a family of rational 2N-differentiable activation functions**|Eylon E. Krause et.al.|[link](http://arxiv.org/abs/2604.21677v1)|null|
+|**2026-04-23**|**Agentic Artificial Intelligence in Finance: A Comprehensive Survey**|Irene Aldridge et.al.|[link](http://arxiv.org/abs/2604.21672v1)|null|
+|**2026-04-23**|**Conformal anomaly transport induced by dark photon**|Marek Rogatko et.al.|[link](http://arxiv.org/abs/2604.21664v1)|null|
+|**2026-04-23**|**Speed-oriented quantum circuit backend**|Sören Wilkening et.al.|[link](http://arxiv.org/abs/2604.21656v1)|null|
+|**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|Qizhuo Xie et.al.|[link](http://arxiv.org/abs/2604.21649v1)|null|
+|**2026-04-23**|**To See the Unseen: on the Generalization Ability of Transformers in Symbolic Reasoning**|Nevena Lazić et.al.|[link](http://arxiv.org/abs/2604.21632v1)|null|
+|**2026-04-23**|**Promoting Simple Agents: Ensemble Methods for Event-Log Prediction**|Benedikt Bollig et.al.|[link](http://arxiv.org/abs/2604.21629v1)|null|
+|**2026-04-23**|**A-THENA: Early Intrusion Detection for IoT with Time-Aware Hybrid Encoding and Network-Specific Augmentation**|Ioannis Panopoulos et.al.|[link](http://arxiv.org/abs/2604.21623v1)|null|
+|**2026-04-23**|**Emergence of a non-bulk hexagonal Fe$_2$S$_2$ single layer via phase transformation**|Affan Safeer et.al.|[link](http://arxiv.org/abs/2604.21613v1)|null|
+|**2026-04-23**|**Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers**|Minghao Yin et.al.|[link](http://arxiv.org/abs/2604.21592v1)|null|
 |**2026-04-22**|**Variance Is Not Importance: Structural Analysis of Transformer Compressibility Across Model Scales**|Samuel Salfati et.al.|[link](http://arxiv.org/abs/2604.20682v1)|null|
 |**2026-04-22**|**Tri-Hybrid Beamforming Design for ISAC Systems with Reconfigurable Antennas**|Jiangong Chen et.al.|[link](http://arxiv.org/abs/2604.20676v1)|null|
 |**2026-04-22**|**Short-time, Wavelet-inspired Mouse Submovement Detection**|Auejin Ham et.al.|[link](http://arxiv.org/abs/2604.20673v1)|null|
@@ -2763,6 +2783,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-22**|**Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences**|Neehal Tumma et.al.|[link](http://arxiv.org/abs/2604.21100v1)|null|
 |**2026-04-22**|**Beyond ZOH: Advanced Discretization Strategies for Vision Mamba**|Fady Ibrahim et.al.|[link](http://arxiv.org/abs/2604.20606v1)|null|
 |**2026-04-22**|**LayerTracer: A Joint Task-Particle and Vulnerable-Layer Analysis framework for Arbitrary Large Language Model Architectures**|Yuhang Wu et.al.|[link](http://arxiv.org/abs/2604.20556v1)|null|
 |**2026-04-22**|**Efficient INT8 Single-Image Super-Resolution via Deployment-Aware Quantization and Teacher-Guided Training**|Pham Phuong Nam Nguyen et.al.|[link](http://arxiv.org/abs/2604.20291v1)|null|
@@ -3338,6 +3359,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-23**|**Anti-Ramsey numbers for cancellative configurations in p-graphs**|Cheng Chi et.al.|[link](http://arxiv.org/abs/2604.21834v1)|null|
+|**2026-04-23**|**Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks**|Gewei Zhang et.al.|[link](http://arxiv.org/abs/2604.21819v1)|null|
+|**2026-04-23**|**Projective Chromatic Numbers**|Adrian Rettich et.al.|[link](http://arxiv.org/abs/2604.21813v1)|null|
+|**2026-04-23**|**Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI**|Wonyong Chung et.al.|[link](http://arxiv.org/abs/2604.21804v1)|null|
+|**2026-04-23**|**Misinformation Span Detection in Videos via Audio Transcripts**|Breno Matos et.al.|[link](http://arxiv.org/abs/2604.21767v1)|null|
+|**2026-04-23**|**StructMem: Structured Memory for Long-Horizon Behavior in LLMs**|Buqiang Xu et.al.|[link](http://arxiv.org/abs/2604.21748v1)|null|
+|**2026-04-23**|**Segment convergence for super-linear stochastic functional differential equations by the truncated Euler-Maruyama method**|Shounian Deng et.al.|[link](http://arxiv.org/abs/2604.21704v1)|null|
+|**2026-04-23**|**Sapiens2**|Rawal Khirodkar et.al.|[link](http://arxiv.org/abs/2604.21681v1)|null|
+|**2026-04-23**|**Spectral Perspectives on FAT Graph Colorings**|Lies Beers et.al.|[link](http://arxiv.org/abs/2604.21665v1)|null|
+|**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|Qizhuo Xie et.al.|[link](http://arxiv.org/abs/2604.21649v1)|null|
+|**2026-04-23**|**Causal Discovery in Multivariate Extremes via Tail Asymmetry**|Mengran Li et.al.|[link](http://arxiv.org/abs/2604.21620v1)|null|
+|**2026-04-23**|**Event-Triggered Distributed Target Tracking via PRIMEX**|Yuxuan Xia et.al.|[link](http://arxiv.org/abs/2604.21618v1)|null|
+|**2026-04-23**|**ADMM-Based Distributed Kalman-like Observer with Applications to Cooperative Localization**|Nicola De Carli et.al.|[link](http://arxiv.org/abs/2604.21608v1)|null|
+|**2026-04-23**|**On the hamiltonicity problem of bicirculants: a reduction to cyclic Haar graphs**|Simona Bonvicini et.al.|[link](http://arxiv.org/abs/2604.21607v1)|null|
+|**2026-04-23**|**Extremal 1-planar graphs without k-cliques**|Licheng Zhang et.al.|[link](http://arxiv.org/abs/2604.21589v1)|null|
+|**2026-04-23**|**Piercing all maximum cliques in hypergraphs**|Andreas Holmsen et.al.|[link](http://arxiv.org/abs/2604.21588v1)|null|
+|**2026-04-23**|**Scalable Multimodal Beam Alignment in V2X: An Anti-Imbalance Graph Learning Approach**|Jiahui Liang et.al.|[link](http://arxiv.org/abs/2604.21585v1)|null|
+|**2026-04-23**|**Tight constructions for reconfigurations of independent transversals**|Ronen Wdowinski et.al.|[link](http://arxiv.org/abs/2604.21576v1)|null|
+|**2026-04-23**|**Deep kernel video approximation for unsupervised action segmentation**|Silvia L. Pintea et.al.|[link](http://arxiv.org/abs/2604.21572v1)|null|
+|**2026-04-23**|**SpecSyn: LLM-based Synthesis and Refinement of Formal Specifications for Real-world Program Verification**|Lezhi Ma et.al.|[link](http://arxiv.org/abs/2604.21570v1)|null|
 |**2026-04-22**|**Uniqueness and Mixing in the Low-Temperature Random-Cluster Model on Trees and Random Graphs**|Antonio Blanca et.al.|[link](http://arxiv.org/abs/2604.20693v1)|null|
 |**2026-04-22**|**Storm Surge Modeling, Bias Correction, Graph Neural Networks, Graph Convolution Networks**|Noujoud Nader et.al.|[link](http://arxiv.org/abs/2604.20688v1)|null|
 |**2026-04-22**|**CRITERIA: A network decomposition and elementary flux mode translation-based tool for computing equilibria of biochemical systems**|Exequiel Jun V. Villejo et.al.|[link](http://arxiv.org/abs/2604.20683v1)|null|
@@ -5657,6 +5698,21 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-23**|**SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery**|Safouane El Ghazouali et.al.|[link](http://arxiv.org/abs/2604.21801v1)|null|
+|**2026-04-23**|**Causal Disentanglement for Full-Reference Image Quality Assessment**|Zhen Zhang et.al.|[link](http://arxiv.org/abs/2604.21654v1)|null|
+|**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li et.al.|[link](http://arxiv.org/abs/2604.21525v1)|null|
+|**2026-04-23**|**VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[link](http://arxiv.org/abs/2604.21502v1)|null|
+|**2026-04-23**|**Generalizing Numerical Reasoning in Table Data through Operation Sketches and Self-Supervised Learning**|Hanjun Cho et.al.|[link](http://arxiv.org/abs/2604.21495v1)|null|
+|**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[link](http://arxiv.org/abs/2604.21478v1)|null|
+|**2026-04-23**|**Cross-Domain Data Selection and Augmentation for Automatic Compliance Detection**|Fariz Ikhwantri et.al.|[link](http://arxiv.org/abs/2604.21469v1)|null|
+|**2026-04-23**|**Prototype-Based Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[link](http://arxiv.org/abs/2604.21360v1)|null|
+|**2026-04-23**|**Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning**|Wadii Boulila et.al.|[link](http://arxiv.org/abs/2604.21349v1)|null|
+|**2026-04-23**|**Evaluating AI Meeting Summaries with a Reusable Cross-Domain Pipeline**|Philip Zhong et.al.|[link](http://arxiv.org/abs/2604.21345v1)|null|
+|**2026-04-22**|**Jet Quenching Identification via Supervised Learning in Simulated Heavy-Ion Collisions**|Leonardo Lima da Silva et.al.|[link](http://arxiv.org/abs/2604.21088v1)|null|
+|**2026-04-22**|**Domain-Aware Hierarchical Contrastive Learning for Semi-Supervised Generalization Fault Diagnosis**|Junyu Ren et.al.|[link](http://arxiv.org/abs/2604.20928v1)|null|
+|**2026-04-22**|**An Analysis of Attack Vectors Against FIDO2 Authentication**|Alexander Berladskyy et.al.|[link](http://arxiv.org/abs/2604.20826v1)|null|
+|**2026-04-22**|**CVEs With a CVSS Score Greater Than or Equal to 9**|Lena Sinterhauf et.al.|[link](http://arxiv.org/abs/2604.20765v1)|null|
+|**2026-04-22**|**ALAS: Adaptive Long-Horizon Action Synthesis via Async-pathway Stream Disentanglement**|Yutong Shen et.al.|[link](http://arxiv.org/abs/2604.20721v1)|null|
 |**2026-04-22**|**From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents**|Jiahao Liu et.al.|[link](http://arxiv.org/abs/2604.20065v1)|null|
 |**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[link](http://arxiv.org/abs/2604.19675v1)|null|
 |**2026-04-22**|**Structure-Semantic Decoupled Modulation of Global Geospatial Embeddings for High-Resolution Remote Sensing Mapping**|Jienan Lyu et.al.|[link](http://arxiv.org/abs/2604.19591v2)|null|
