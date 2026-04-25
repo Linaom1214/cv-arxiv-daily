@@ -1,4 +1,4 @@
-## Updated on 2026.04.24
+## Updated on 2026.04.25
 
 ### ISTD
 
@@ -297,6 +297,17 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[link](http://arxiv.org/abs/2604.21915v1)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[link](http://arxiv.org/abs/2604.21903v1)|null|
+|**2026-04-23**|**Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors**|Sherly Alfonso-Sánchez et.al.|[link](http://arxiv.org/abs/2604.21893v1)|null|
+|**2026-04-23**|**A Multi-Stage Warm-Start Deep Learning Framework for Unit Commitment**|Muhy Eddin Za'ter et.al.|[link](http://arxiv.org/abs/2604.21891v1)|null|
+|**2026-04-23**|**Gradual Voluntary Participation: A Framework for Participatory AI Governance in Journalism**|Matilde Barbini et.al.|[link](http://arxiv.org/abs/2604.21878v1)|null|
+|**2026-04-23**|**Loss-biased fault-tolerant quantum error correction**|Laura Pecorari et.al.|[link](http://arxiv.org/abs/2604.21876v1)|null|
+|**2026-04-23**|**Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning**|Kaitlin Gili et.al.|[link](http://arxiv.org/abs/2604.21870v1)|null|
+|**2026-04-23**|**Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs**|Mahadev Sunil Kumar et.al.|[link](http://arxiv.org/abs/2604.21861v1)|null|
+|**2026-04-23**|**Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation**|Natan Levy et.al.|[link](http://arxiv.org/abs/2604.21854v1)|null|
+|**2026-04-23**|**OptiMat Alloys: A FAIR End-to-End Agent with Living Database for Computational Multi-Principal Alloy Exploration**|Yang Hu et.al.|[link](http://arxiv.org/abs/2604.21850v1)|null|
+|**2026-04-23**|**A Hidden Markov Framework for Physically Interpretable Arc Stability Dynamics in Welding Systems**|Hidir Selcuk Nogay et.al.|[link](http://arxiv.org/abs/2604.21839v1)|null|
 |**2026-04-23**|**Modeling High Entropy Alloys' Mechanical Property through Natural Language-Derived Descriptors**|Li-Cheng Hsiao et.al.|[link](http://arxiv.org/abs/2604.21807v1)|null|
 |**2026-04-23**|**Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI**|Wonyong Chung et.al.|[link](http://arxiv.org/abs/2604.21804v1)|null|
 |**2026-04-23**|**Partial oracles quantum algorithm framework -- Part I: Analysis of in-place operations**|Fintan M. Bolton et.al.|[link](http://arxiv.org/abs/2604.21788v1)|null|
@@ -3359,6 +3370,13 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[link](http://arxiv.org/abs/2604.21915v1)|null|
+|**2026-04-23**|**Kneser Graphs of Triangulations are Hamiltonian**|Anton Molnar et.al.|[link](http://arxiv.org/abs/2604.21888v1)|null|
+|**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[link](http://arxiv.org/abs/2604.21885v1)|null|
+|**2026-04-23**|**Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning**|Kaitlin Gili et.al.|[link](http://arxiv.org/abs/2604.21870v1)|null|
+|**2026-04-23**|**One-dimensional non-Hausdorff manifolds and CW complexes**|Igor Vlasenko et.al.|[link](http://arxiv.org/abs/2604.21868v1)|null|
+|**2026-04-23**|**Sampling from the Hardcore Model on Random Regular Bipartite Graphs above the Uniqueness Threshold**|Nicholas Kocurek et.al.|[link](http://arxiv.org/abs/2604.21847v1)|null|
+|**2026-04-23**|**Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**|Li Chen et.al.|[link](http://arxiv.org/abs/2604.21843v1)|null|
 |**2026-04-23**|**Anti-Ramsey numbers for cancellative configurations in p-graphs**|Cheng Chi et.al.|[link](http://arxiv.org/abs/2604.21834v1)|null|
 |**2026-04-23**|**Iterative Receiver Processing at Relays in PNC-Enabled Multi-Hop Underwater Acoustic Networks**|Gewei Zhang et.al.|[link](http://arxiv.org/abs/2604.21819v1)|null|
 |**2026-04-23**|**Projective Chromatic Numbers**|Adrian Rettich et.al.|[link](http://arxiv.org/abs/2604.21813v1)|null|
