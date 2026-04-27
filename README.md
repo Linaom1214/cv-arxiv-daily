@@ -1,4 +1,4 @@
-## Updated on 2026.04.25
+## Updated on 2026.04.27
 
 ### ISTD
 
@@ -297,6 +297,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-24**|**Radiation outer boundary conditions and near-to-far field signal transformations for the Bardeen-Press equation**|Som Dev Bishoyi et.al.|[link](http://arxiv.org/abs/2604.22734v1)|null|
+|**2026-04-24**|**Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data**|Hillary Mutisya et.al.|[link](http://arxiv.org/abs/2604.22730v1)|null|
+|**2026-04-24**|**Ab initio short-range nuclear matrix elements for neutrinoless double-beta decay**|A. Todd et.al.|[link](http://arxiv.org/abs/2604.22727v1)|null|
+|**2026-04-24**|**Gauge-independent approach to inflation in quadratic gravity**|Adrian Palomares et.al.|[link](http://arxiv.org/abs/2604.22725v1)|null|
+|**2026-04-24**|**Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering**|Hillary Mutisya et.al.|[link](http://arxiv.org/abs/2604.22723v1)|null|
+|**2026-04-24**|**Spectral-Domain Local Statistics with Missing-Data Support for Cartesian and Polar Grids**|Jairo M. Valdivia-Prado et.al.|[link](http://arxiv.org/abs/2604.22721v1)|null|
+|**2026-04-24**|**What are the functions of primary visual cortex (V1)?**|Li Zhaoping et.al.|[link](http://arxiv.org/abs/2604.22716v1)|null|
+|**2026-04-24**|**ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**|Jiajun Yu et.al.|[link](http://arxiv.org/abs/2604.22715v1)|null|
+|**2026-04-24**|**When AI Meets Terahertz: A Survey on the Symbiosis of Artificial Intelligence and Terahertz Networks**|Chong Han et.al.|[link](http://arxiv.org/abs/2604.22706v1)|null|
+|**2026-04-24**|**Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model**|Nivetha Jayakumar et.al.|[link](http://arxiv.org/abs/2604.22700v1)|null|
+|**2026-04-24**|**Alterations in Conformations of Poly(3-hexylthiophene) on Au(111) Induced by Annealing**|Anmol Arya et.al.|[link](http://arxiv.org/abs/2604.22687v1)|null|
+|**2026-04-24**|**Penalised and constrained geodesics in geometric control theory**|Rufus Lawrence et.al.|[link](http://arxiv.org/abs/2604.22668v1)|null|
+|**2026-04-24**|**Adversarial Malware Generation in Linux ELF Binaries via Semantic-Preserving Transformations**|Lukáš Hrdonka et.al.|[link](http://arxiv.org/abs/2604.22639v1)|null|
+|**2026-04-24**|**Poisson Hyperbolic Staircase in Discrete Time**|Naohiro Yoshida et.al.|[link](http://arxiv.org/abs/2604.22637v1)|null|
+|**2026-04-24**|**How GenAI is Helping Reimagine Antenatal Care in A Low-Resource Setting: From Provider Enablement to Patient Empowerment**|Maryam Mustafa et.al.|[link](http://arxiv.org/abs/2604.22610v1)|null|
+|**2026-04-24**|**Vibe coding for clinicians: democratising bespoke software development for digital health innovation**|Ariel Yuhan Ong et.al.|[link](http://arxiv.org/abs/2604.22604v1)|null|
+|**2026-04-24**|**Strong solutions and stability for a thin-film equation of shear-thinning fluids with contact line in partial wetting**|Manuel V. Gnann et.al.|[link](http://arxiv.org/abs/2604.22590v1)|null|
+|**2026-04-24**|**Adaptive Head Budgeting for Efficient Multi-Head Attention**|Bilal Faye et.al.|[link](http://arxiv.org/abs/2604.22583v1)|null|
+|**2026-04-24**|**SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference**|Yuqi Pan et.al.|[link](http://arxiv.org/abs/2604.22575v1)|null|
+|**2026-04-24**|**Relational Archetypes: A Comparative Analysis of AV-Human and Agent-Human Interactions**|Antoni Lorente et.al.|[link](http://arxiv.org/abs/2604.22564v1)|null|
 |**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[link](http://arxiv.org/abs/2604.21915v1)|null|
 |**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[link](http://arxiv.org/abs/2604.21903v1)|null|
 |**2026-04-23**|**Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors**|Sherly Alfonso-Sánchez et.al.|[link](http://arxiv.org/abs/2604.21893v1)|null|
@@ -2794,6 +2814,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-24**|**Where Should LoRA Go? Component-Type Placement in Hybrid Language Models**|Hector Borobia et.al.|[link](http://arxiv.org/abs/2604.22127v1)|null|
+|**2026-04-23**|**MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction**|Aladin Djuhera et.al.|[link](http://arxiv.org/abs/2604.21957v1)|null|
 |**2026-04-22**|**Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences**|Neehal Tumma et.al.|[link](http://arxiv.org/abs/2604.21100v1)|null|
 |**2026-04-22**|**Beyond ZOH: Advanced Discretization Strategies for Vision Mamba**|Fady Ibrahim et.al.|[link](http://arxiv.org/abs/2604.20606v1)|null|
 |**2026-04-22**|**LayerTracer: A Joint Task-Particle and Vulnerable-Layer Analysis framework for Arbitrary Large Language Model Architectures**|Yuhang Wu et.al.|[link](http://arxiv.org/abs/2604.20556v1)|null|
@@ -3370,6 +3392,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-24**|**Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering**|Hillary Mutisya et.al.|[link](http://arxiv.org/abs/2604.22723v1)|null|
+|**2026-04-24**|**Approximation algorithms and ratios for multiple domination in graphs**|Lukas Dijkstra et.al.|[link](http://arxiv.org/abs/2604.22720v1)|null|
+|**2026-04-24**|**ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**|Jiajun Yu et.al.|[link](http://arxiv.org/abs/2604.22715v1)|null|
+|**2026-04-24**|**Planar 1-ended graphs can be periodically coloured**|Luke Waite et.al.|[link](http://arxiv.org/abs/2604.22705v1)|null|
+|**2026-04-24**|**Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model**|Nivetha Jayakumar et.al.|[link](http://arxiv.org/abs/2604.22700v1)|null|
+|**2026-04-24**|**Alterations in Conformations of Poly(3-hexylthiophene) on Au(111) Induced by Annealing**|Anmol Arya et.al.|[link](http://arxiv.org/abs/2604.22687v1)|null|
+|**2026-04-24**|**Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe**|Yuchen Xiong et.al.|[link](http://arxiv.org/abs/2604.22676v1)|null|
+|**2026-04-24**|**Cuts and Gauges for Submodular Width**|Matthias Lanzinger et.al.|[link](http://arxiv.org/abs/2604.22663v1)|null|
+|**2026-04-24**|**Upper bounds on the running time of bootstrap percolation**|Weichan Liu et.al.|[link](http://arxiv.org/abs/2604.22630v1)|null|
+|**2026-04-24**|**Compositional Online Learning for Multi-Objective System Co-Design**|Meshal Alharbi et.al.|[link](http://arxiv.org/abs/2604.22624v1)|null|
+|**2026-04-24**|**Cross-Stage Coherence in Hierarchical Driving VQA: Explicit Baselines and Learned Gated Context Projectors**|Gautam Kumar Jain et.al.|[link](http://arxiv.org/abs/2604.22560v1)|null|
+|**2026-04-24**|**ASPIRE: Make Spectral Graph Collaborative Filtering Great Again via Adaptive Filter Learning**|Yunhang He et.al.|[link](http://arxiv.org/abs/2604.22549v1)|null|
+|**2026-04-24**|**Multi-output Extreme Spatial Model for Complex Aircraft Production Systems**|Cheolhei Lee et.al.|[link](http://arxiv.org/abs/2604.22548v1)|null|
+|**2026-04-24**|**ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation**|Amir Hosseini et.al.|[link](http://arxiv.org/abs/2604.22546v1)|null|
+|**2026-04-24**|**Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain**|Annika Bätz et.al.|[link](http://arxiv.org/abs/2604.22507v1)|null|
+|**2026-04-24**|**Cyclically $5$-edge-connected snarks with resistance $2$ and flow resistance $n$**|Davide Mattiolo et.al.|[link](http://arxiv.org/abs/2604.22501v1)|null|
+|**2026-04-24**|**On first-order model checking parameterized by the number of variables**|Jan Jedelský et.al.|[link](http://arxiv.org/abs/2604.22493v1)|null|
+|**2026-04-24**|**All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams**|Marco Pegoraro et.al.|[link](http://arxiv.org/abs/2604.22476v1)|null|
+|**2026-04-24**|**DM-ASR: Diarization-aware Multi-speaker ASR with Large Language Models**|Li Li et.al.|[link](http://arxiv.org/abs/2604.22467v1)|null|
+|**2026-04-24**|**From Local to Cluster: A Unified Framework for Causal Discovery with Latent Variables**|Zongyu Li et.al.|[link](http://arxiv.org/abs/2604.22416v1)|null|
 |**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[link](http://arxiv.org/abs/2604.21915v1)|null|
 |**2026-04-23**|**Kneser Graphs of Triangulations are Hamiltonian**|Anton Molnar et.al.|[link](http://arxiv.org/abs/2604.21888v1)|null|
 |**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[link](http://arxiv.org/abs/2604.21885v1)|null|
@@ -5716,6 +5758,10 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-24**|**SS3D: End2End Self-Supervised 3D from Web Videos**|Marwane Hariat et.al.|[link](http://arxiv.org/abs/2604.22686v1)|null|
+|**2026-04-24**|**Are Natural-Domain Foundation Models Effective for Accelerated Cardiac MRI Reconstruction?**|Anam Hashmi et.al.|[link](http://arxiv.org/abs/2604.22557v1)|null|
+|**2026-04-24**|**From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company**|Zhengxu Yu et.al.|[link](http://arxiv.org/abs/2604.22446v1)|null|
+|**2026-04-24**|**Introducing the Cyber-Physical Data Flow Diagram to Improve Threat Modelling of Internet of Things Devices**|Simon Liebl et.al.|[link](http://arxiv.org/abs/2604.22307v1)|null|
 |**2026-04-23**|**SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery**|Safouane El Ghazouali et.al.|[link](http://arxiv.org/abs/2604.21801v1)|null|
 |**2026-04-23**|**Causal Disentanglement for Full-Reference Image Quality Assessment**|Zhen Zhang et.al.|[link](http://arxiv.org/abs/2604.21654v1)|null|
 |**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li et.al.|[link](http://arxiv.org/abs/2604.21525v1)|null|
