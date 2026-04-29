@@ -1,11 +1,11 @@
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2026-04-11**|**Revisiting the Scale Loss Function and Gaussian-Shape Convolution for Infrared Small Target Detection**|Hao Li et.al.|[link](http://arxiv.org/abs/2604.09991v1)|null|
-|**2026-04-07**|**Rethinking IRSTD: Single-Point Supervision Guided Encoder-only Framework is Enough for Infrared Small Target Detection**|Rixiang Ni et.al.|[link](http://arxiv.org/abs/2604.05363v1)|null|
+|**2026-04-07**|**Rethinking IRSTD: Single-Point Supervision Guided Encoder-only Framework is Enough for Infrared Small Target Detection**|Rixiang Ni et.al.|[link](http://arxiv.org/abs/2604.05363v1)|**[code](https://github.com/NIRIXIANG/SPIRE-IRSTD)**|
 |**2026-04-02**|**Rethinking Representations for Cross-Domain Infrared Small Target Detection: A Generalizable Perspective from the Frequency Domain**|Yimin Fu et.al.|[link](http://arxiv.org/abs/2604.01934v1)|null|
 |**2026-03-31**|**CCDNet: Learning to Detect Camouflage against Distractors in Infrared Small Target Detection**|Zikai Liao et.al.|[link](http://arxiv.org/abs/2603.29228v1)|null|
 |**2026-03-26**|**FSGNet: A Frequency-Aware and Semantic Guidance Network for Infrared Small Target Detection**|Yingmei Zhang et.al.|[link](http://arxiv.org/abs/2603.25389v1)|null|
@@ -297,6 +297,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-28**|**Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models**|Ajmain Inqiad Alam et.al.|[link](http://arxiv.org/abs/2604.25903v1)|null|
+|**2026-04-28**|**Toward a Functional Geometric Algebra for Natural Language Semantics**|James Pustejovsky et.al.|[link](http://arxiv.org/abs/2604.25902v1)|null|
+|**2026-04-28**|**TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning**|Dominik Żurek et.al.|[link](http://arxiv.org/abs/2604.25898v1)|null|
+|**2026-04-28**|**MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding**|Pengcheng Fang et.al.|[link](http://arxiv.org/abs/2604.25886v1)|null|
+|**2026-04-28**|**Explainable AI for Jet Tagging: A Comparative Study of GNNExplainer, GNNShap, and GradCAM for Jet Tagging in the Lund Jet Plane**|Pahal D. Patel et.al.|[link](http://arxiv.org/abs/2604.25885v1)|null|
+|**2026-04-28**|**Excluded volume and molecular field in the Lennard-Jones fluid: a modified first-order perturbation theory**|A. Trokhymchuk et.al.|[link](http://arxiv.org/abs/2604.25882v1)|null|
+|**2026-04-28**|**MCMit: Mid-Circuit Measurement Error Mitigation**|Emmanouil Giortamis et.al.|[link](http://arxiv.org/abs/2604.25863v1)|null|
+|**2026-04-28**|**Investigation into In-Context Learning Capabilities of Transformers**|Rushil Chandrupatla et.al.|[link](http://arxiv.org/abs/2604.25858v1)|null|
+|**2026-04-28**|**Slice Agent: Identifying and Isolating Slices in Shared Open Radio Unit**|Felipe Arnholda et.al.|[link](http://arxiv.org/abs/2604.25857v1)|null|
+|**2026-04-28**|**ADEMA: A Knowledge-State Orchestration Architecture for Long-Horizon Knowledge Synthesis with LLMAgents**|Zhou Hanlin et.al.|[link](http://arxiv.org/abs/2604.25849v1)|null|
+|**2026-04-28**|**Restoration of Ensemble Equivalence by Quantum Fluctuations**|Alessandro Campa et.al.|[link](http://arxiv.org/abs/2604.25837v1)|null|
+|**2026-04-28**|**Action-Aware Generative Sequence Modeling for Short Video Recommendation**|Wenhao Li et.al.|[link](http://arxiv.org/abs/2604.25834v1)|null|
+|**2026-04-28**|**Four-Loop Gluon Anomalous Dimension of General Lorentz Spin: Transcendental Part**|B. A. Kniehl et.al.|[link](http://arxiv.org/abs/2604.25833v1)|null|
+|**2026-04-28**|**A Quantum Spectral Framework for Solving PDEs**|Chih-Kang Huang et.al.|[link](http://arxiv.org/abs/2604.25825v1)|null|
+|**2026-04-28**|**Barriers to Universal Reasoning With Transformers (And How to Overcome Them)**|Oliver Kraus et.al.|[link](http://arxiv.org/abs/2604.25800v1)|null|
+|**2026-04-28**|**StratFormer: Adaptive Opponent Modeling and Exploitation in Imperfect-Information Games**|Andy Caen et.al.|[link](http://arxiv.org/abs/2604.25796v1)|null|
+|**2026-04-28**|**Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation**|Yu Liu et.al.|[link](http://arxiv.org/abs/2604.25787v1)|null|
+|**2026-04-28**|**Homogeneous Stellar Parameters from Heterogeneous Spectra with Deep Learning**|Jeff Shen et.al.|[link](http://arxiv.org/abs/2604.25786v1)|null|
+|**2026-04-28**|**SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?**|Noam Tarshish et.al.|[link](http://arxiv.org/abs/2604.25737v1)|null|
+|**2026-04-28**|**Verification of Neural Networks (Lecture Notes)**|Benedikt Bollig et.al.|[link](http://arxiv.org/abs/2604.25733v1)|null|
 |**2026-04-27**|**Workplace Demands and Emotional Expression Among Early Childhood Educators: A Computational Analysis of Professional Online Discourse**|Hailong Jiang et.al.|[link](http://arxiv.org/abs/2604.24643v1)|null|
 |**2026-04-27**|**Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks**|Kevin McKee et.al.|[link](http://arxiv.org/abs/2604.24637v1)|null|
 |**2026-04-27**|**Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application**|William Oliveira et.al.|[link](http://arxiv.org/abs/2604.24636v1)|null|
@@ -2834,6 +2854,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-28**|**Vision SmolMamba: Spike-Guided Token Pruning for Energy-Efficient Spiking State-Space Vision Models**|Dewei Bai et.al.|[link](http://arxiv.org/abs/2604.25570v1)|null|
 |**2026-04-26**|**On the Generalization Properties of Selective State-Space Models for Filtering Tasks for Unknown Systems**|Alex Tang et.al.|[link](http://arxiv.org/abs/2604.23818v1)|null|
 |**2026-04-26**|**BVI-Mamba: Video Enhancement Using a Visual State-Space Model for Low-Light and Underwater Environments**|Guoxi Huang et.al.|[link](http://arxiv.org/abs/2604.23655v1)|null|
 |**2026-04-25**|**Breaking the Resource Wall: Geometry-Guided Sequence Modeling for Efficient Semantic Segmentation**|Sheng-Wei Chan et.al.|[link](http://arxiv.org/abs/2604.23399v1)|null|
@@ -3417,6 +3438,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-28**|**MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding**|Pengcheng Fang et.al.|[link](http://arxiv.org/abs/2604.25886v1)|null|
+|**2026-04-28**|**Explainable AI for Jet Tagging: A Comparative Study of GNNExplainer, GNNShap, and GradCAM for Jet Tagging in the Lund Jet Plane**|Pahal D. Patel et.al.|[link](http://arxiv.org/abs/2604.25885v1)|null|
+|**2026-04-28**|**Arboretum.hs: Symbolic manipulation for algebras of graphs**|Eugen Bronasco et.al.|[link](http://arxiv.org/abs/2604.25879v1)|null|
+|**2026-04-28**|**Slice Agent: Identifying and Isolating Slices in Shared Open Radio Unit**|Felipe Arnholda et.al.|[link](http://arxiv.org/abs/2604.25857v1)|null|
+|**2026-04-28**|**G-Loss: Graph-Guided Fine-Tuning of Language Models**|Sharma Aditya et.al.|[link](http://arxiv.org/abs/2604.25853v1)|null|
+|**2026-04-28**|**ADEMA: A Knowledge-State Orchestration Architecture for Long-Horizon Knowledge Synthesis with LLMAgents**|Zhou Hanlin et.al.|[link](http://arxiv.org/abs/2604.25849v1)|null|
+|**2026-04-28**|**Semi-Markov Reinforcement Learning for City-Scale EV Ride-Hailing with Feasibility-Guaranteed Actions**|An Nguyen et.al.|[link](http://arxiv.org/abs/2604.25848v1)|null|
+|**2026-04-28**|**Tight Bounds for some W[1]-hard Problems Parameterized by Multi-clique-width**|Benjamin Bergougnoux et.al.|[link](http://arxiv.org/abs/2604.25841v1)|null|
+|**2026-04-28**|**Action-Aware Generative Sequence Modeling for Short Video Recommendation**|Wenhao Li et.al.|[link](http://arxiv.org/abs/2604.25834v1)|null|
+|**2026-04-28**|**Induced planar Turán numbers**|Ervin Győri et.al.|[link](http://arxiv.org/abs/2604.25829v1)|null|
+|**2026-04-28**|**Toward Scalable Terminal Task Synthesis via Skill Graphs**|Zhiyuan Fan et.al.|[link](http://arxiv.org/abs/2604.25727v1)|null|
+|**2026-04-28**|**What is The Probability That A Random Graph With A Given Degree Sequence is Connected?**|Louigi Addario-Berry et.al.|[link](http://arxiv.org/abs/2604.25725v1)|null|
+|**2026-04-28**|**RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion**|Guanglin Niu et.al.|[link](http://arxiv.org/abs/2604.25693v1)|null|
+|**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[link](http://arxiv.org/abs/2604.25685v1)|null|
+|**2026-04-28**|**SimdQuickHeap: The QuickHeap Reconsidered**|Johannes Breitling et.al.|[link](http://arxiv.org/abs/2604.25681v1)|null|
+|**2026-04-28**|**Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case with Ariel OS**|Bipin Thapa et.al.|[link](http://arxiv.org/abs/2604.25679v1)|null|
+|**2026-04-28**|**Impact of segmented deformable mirrors on high-contrast testbeds for exoplanet imaging with future large space telescopes: contrast stability assessment on the HiCAT bench**|Benjamin Buralli et.al.|[link](http://arxiv.org/abs/2604.25675v1)|null|
+|**2026-04-28**|**Arithmetical Structures on Ladder Graphs**|Namita Behera et.al.|[link](http://arxiv.org/abs/2604.25671v1)|null|
+|**2026-04-28**|**Efficient Complex-Valued State Preparation on Bucket Brigade QRAM**|Alessandro Berti et.al.|[link](http://arxiv.org/abs/2604.25644v1)|null|
+|**2026-04-28**|**Positional Properties in Temporal Logic**|Jessica Newman et.al.|[link](http://arxiv.org/abs/2604.25628v1)|null|
 |**2026-04-27**|**The Last Human-Written Paper: Agent-Native Research Artifacts**|Jiachen Liu et.al.|[link](http://arxiv.org/abs/2604.24658v1)|null|
 |**2026-04-27**|**DiffQEC: A versatile diffusion model for quantum error correction**|Tianyi Xu et.al.|[link](http://arxiv.org/abs/2604.24640v1)|null|
 |**2026-04-27**|**$k$-step nilpotent symplectic Lie algebras associated with graphs**|Josefina Barrionuevo et.al.|[link](http://arxiv.org/abs/2604.24638v1)|null|
@@ -5803,6 +5844,10 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-28**|**Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users**|Xiaodong Li et.al.|[link](http://arxiv.org/abs/2604.25732v1)|null|
+|**2026-04-28**|**Medoid Prototype Alignment for Cross-Plant Unknown Attack Detection in Industrial Control Systems**|Luyao Wang et.al.|[link](http://arxiv.org/abs/2604.25544v1)|null|
+|**2026-04-28**|**Generalizable 3D Gaussian Splatting enabled Semantic Coding for Real-Time Immersive Video Communications**|Dingxi Yang et.al.|[link](http://arxiv.org/abs/2604.25330v1)|null|
+|**2026-04-28**|**MARD: A Multi-Agent Framework for Robust Android Malware Detection**|Xueying Zeng et.al.|[link](http://arxiv.org/abs/2604.25264v1)|null|
 |**2026-04-27**|**Diffusion Model as a Generalist Segmentation Learner**|Haoxiao Wang et.al.|[link](http://arxiv.org/abs/2604.24575v1)|null|
 |**2026-04-27**|**Learning Evidence of Depression Symptoms via Prompt Induction**|Eliseo Bao et.al.|[link](http://arxiv.org/abs/2604.24376v1)|null|
 |**2026-04-26**|**FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment**|Sophie Chiang et.al.|[link](http://arxiv.org/abs/2604.23786v1)|null|
