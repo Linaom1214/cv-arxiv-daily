@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 
 ### ISTD
 
@@ -297,6 +297,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[link](http://arxiv.org/abs/2604.28193v1)|null|
+|**2026-04-30**|**Enhancement of superconducting stiffness in hybrid superconducting-metallic bilayers**|J. E. Ebot et.al.|[link](http://arxiv.org/abs/2604.28187v1)|null|
+|**2026-04-30**|**LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**|Lincan Li et.al.|[link](http://arxiv.org/abs/2604.28178v1)|null|
+|**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[link](http://arxiv.org/abs/2604.28173v1)|null|
+|**2026-04-30**|**Continuous-tone Simple Points: An $\ell_0$-Norm of Cyclic Gradient for Topology-Preserving Data-Driven Image Segmentation**|Wenxiao Li et.al.|[link](http://arxiv.org/abs/2604.28159v1)|null|
+|**2026-04-30**|**Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models**|Matthias Hertel et.al.|[link](http://arxiv.org/abs/2604.28149v1)|null|
+|**2026-04-30**|**On the Proper Treatment of Units in Surprisal Theory**|Samuel Kiegeland et.al.|[link](http://arxiv.org/abs/2604.28147v1)|null|
+|**2026-04-30**|**Unveiling the potential of NdPO4 magnetocaloric phases in cryogenic refrigeration**|M. Balli et.al.|[link](http://arxiv.org/abs/2604.28128v1)|null|
+|**2026-04-30**|**Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces**|Andrew Bond et.al.|[link](http://arxiv.org/abs/2604.28122v1)|null|
+|**2026-04-30**|**DEFault++: Automated Fault Detection, Categorization, and Diagnosis for Transformer Architectures**|Sigma Jahan et.al.|[link](http://arxiv.org/abs/2604.28118v1)|null|
+|**2026-04-30**|**Auto-FlexSwitch: Efficient Dynamic Model Merging via Learnable Task Vector Compression**|Junqi Gao et.al.|[link](http://arxiv.org/abs/2604.28109v1)|null|
+|**2026-04-30**|**FiLMMeD: Feature-wise Linear Modulation for Cross-Problem Multi-Depot Vehicle Routing**|Arthur Corrêa et.al.|[link](http://arxiv.org/abs/2604.28102v1)|null|
+|**2026-04-30**|**New gravitational-wave templates for metastable cosmic strings: Loop breaking versus network collapse**|Doa Hashemi Asl et.al.|[link](http://arxiv.org/abs/2604.28097v1)|null|
+|**2026-04-30**|**UHR-Net: An Uncertainty-Aware Hypergraph Refinement Network for Medical Image Segmentation**|Shuokun Cheng et.al.|[link](http://arxiv.org/abs/2604.28095v1)|null|
+|**2026-04-30**|**PROMISE-AD: Progression-aware Multi-horizon Survival Estimation for Alzheimer's Disease Progression and Dynamic Tracking**|Qing Lyu et.al.|[link](http://arxiv.org/abs/2604.28055v1)|null|
+|**2026-04-30**|**Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents**|Rahul Ramachandran et.al.|[link](http://arxiv.org/abs/2604.28043v1)|null|
+|**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[link](http://arxiv.org/abs/2604.28014v1)|null|
+|**2026-04-30**|**ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting**|Pourya Zamanvaziri et.al.|[link](http://arxiv.org/abs/2604.27981v1)|null|
+|**2026-04-30**|**TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions**|Ce Chen et.al.|[link](http://arxiv.org/abs/2604.27975v1)|null|
+|**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[link](http://arxiv.org/abs/2604.27958v1)|null|
 |**2026-04-29**|**Schwinger-Keldysh Path Integral for Gauge theories**|Greg Kaplanek et.al.|[link](http://arxiv.org/abs/2604.26941v1)|null|
 |**2026-04-29**|**Stochastic Scaling Limits and Synchronization by Noise in Deep Transformer Models**|Andrea Agazzi et.al.|[link](http://arxiv.org/abs/2604.26898v1)|null|
 |**2026-04-29**|**Graph-based Semantic Calibration Network for Unaligned UAV RGBT Image Semantic Segmentation and A Large-scale Benchmark**|Fangqiang Fan et.al.|[link](http://arxiv.org/abs/2604.26893v1)|null|
@@ -2874,6 +2894,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-30**|**MSR:Hybrid Field Modeling for CT-MRI Rigid-Deformable Registration of the Cervical Spine with an Annotated Dataset**|Bohai Zhang et.al.|[link](http://arxiv.org/abs/2604.27654v1)|null|
 |**2026-04-28**|**PPG-Based Affect Recognition with Long-Range Deep Models: A Measurement-Driven Comparison of CNN, Transformer, and Mamba Architectures**|Karim Alghoul et.al.|[link](http://arxiv.org/abs/2604.26078v1)|null|
 |**2026-04-28**|**Vision SmolMamba: Spike-Guided Token Pruning for Energy-Efficient Spiking State-Space Vision Models**|Dewei Bai et.al.|[link](http://arxiv.org/abs/2604.25570v1)|null|
 |**2026-04-26**|**On the Generalization Properties of Selective State-Space Models for Filtering Tasks for Unknown Systems**|Alex Tang et.al.|[link](http://arxiv.org/abs/2604.23818v1)|null|
@@ -3459,6 +3480,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[link](http://arxiv.org/abs/2604.28193v1)|null|
+|**2026-04-30**|**LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**|Lincan Li et.al.|[link](http://arxiv.org/abs/2604.28178v1)|null|
+|**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[link](http://arxiv.org/abs/2604.28173v1)|null|
+|**2026-04-30**|**Heegaard Floer homology and maximal twisting numbers**|Alberto Cavallo et.al.|[link](http://arxiv.org/abs/2604.28162v1)|null|
+|**2026-04-30**|**RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects**|Tim Missal et.al.|[link](http://arxiv.org/abs/2604.28161v1)|null|
+|**2026-04-30**|**Continuous-tone Simple Points: An $\ell_0$-Norm of Cyclic Gradient for Topology-Preserving Data-Driven Image Segmentation**|Wenxiao Li et.al.|[link](http://arxiv.org/abs/2604.28159v1)|null|
+|**2026-04-30**|**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**|Yujun Wu et.al.|[link](http://arxiv.org/abs/2604.28158v1)|null|
+|**2026-04-30**|**Supercriticality of the SIRS on random networks**|Phuc Lam et.al.|[link](http://arxiv.org/abs/2604.28150v1)|null|
+|**2026-04-30**|**On the Proper Treatment of Units in Surprisal Theory**|Samuel Kiegeland et.al.|[link](http://arxiv.org/abs/2604.28147v1)|null|
+|**2026-04-30**|**Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing**|Silvio Martinico et.al.|[link](http://arxiv.org/abs/2604.28142v1)|null|
+|**2026-04-30**|**MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons**|Kehong Gong et.al.|[link](http://arxiv.org/abs/2604.28130v1)|null|
+|**2026-04-30**|**DEFault++: Automated Fault Detection, Categorization, and Diagnosis for Transformer Architectures**|Sigma Jahan et.al.|[link](http://arxiv.org/abs/2604.28118v1)|null|
+|**2026-04-30**|**Bounded, Commuting, Discrete-trace Preserving Projections**|Alexandre Ern et.al.|[link](http://arxiv.org/abs/2604.28103v1)|null|
+|**2026-04-30**|**New gravitational-wave templates for metastable cosmic strings: Loop breaking versus network collapse**|Doa Hashemi Asl et.al.|[link](http://arxiv.org/abs/2604.28097v1)|null|
+|**2026-04-30**|**Succinct Graph Representations and Algorithmic Applications**|Ahammed Ullah et.al.|[link](http://arxiv.org/abs/2604.28096v1)|null|
+|**2026-04-30**|**UHR-Net: An Uncertainty-Aware Hypergraph Refinement Network for Medical Image Segmentation**|Shuokun Cheng et.al.|[link](http://arxiv.org/abs/2604.28095v1)|null|
+|**2026-04-30**|**A Unified Framework of Hyperbolic Graph Representation Learning Methods**|Sofía Pérez Casulo et.al.|[link](http://arxiv.org/abs/2604.28070v1)|null|
+|**2026-04-30**|**Turán-Type Extremal Results for Distance-$k$ Graphs**|Zhen He et.al.|[link](http://arxiv.org/abs/2604.28060v1)|null|
+|**2026-04-30**|**Hypergraph independence bounds: from maximum degree to average degree**|Jing Yu et.al.|[link](http://arxiv.org/abs/2604.28046v1)|null|
+|**2026-04-30**|**Extremal graphs for average size of maximal matchings in bicyclic graphs**|Kai Zhang et.al.|[link](http://arxiv.org/abs/2604.28033v1)|null|
 |**2026-04-29**|**Graph-based Semantic Calibration Network for Unaligned UAV RGBT Image Semantic Segmentation and A Large-scale Benchmark**|Fangqiang Fan et.al.|[link](http://arxiv.org/abs/2604.26893v1)|null|
 |**2026-04-29**|**Revealing NVIDIA Closed-Source Driver Command Streams for CPU-GPU Runtime Behavior Insight**|Yuang Yan et.al.|[link](http://arxiv.org/abs/2604.26889v1)|null|
 |**2026-04-29**|**KAYRA: A Microservice Architecture for AI-Assisted Karyotyping with Cloud and On-Premise Deployment**|Attila Pintér et.al.|[link](http://arxiv.org/abs/2604.26869v1)|null|
@@ -5885,6 +5926,10 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-04-30**|**Synthetic Biological Intelligence: System-Level Abstractions and Adaptive Bio-Digital Interaction**|Martin Schottlender et.al.|[link](http://arxiv.org/abs/2604.27933v1)|null|
+|**2026-04-30**|**Frequency-Aware Semantic Fusion with Gated Injection for AI-generated Image Detection**|Shuchang Zhou et.al.|[link](http://arxiv.org/abs/2604.27875v1)|null|
+|**2026-04-30**|**Reasoning over Object Descriptions Improves Coreference Resolution in Task-Based Dialogue Systems**|Oier Ijurco et.al.|[link](http://arxiv.org/abs/2604.27850v1)|null|
+|**2026-04-30**|**Unified 5G-IoT Framework with CAMARA Gateways and SDN Federation**|Zihan Jia et.al.|[link](http://arxiv.org/abs/2604.27589v1)|null|
 |**2026-04-29**|**ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation**|Yeheng Chen et.al.|[link](http://arxiv.org/abs/2604.26923v1)|null|
 |**2026-04-29**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al.|[link](http://arxiv.org/abs/2604.26633v1)|null|
 |**2026-04-29**|**Cross-Domain Transfer of Hyperspectral Foundation Models**|Nick Theisen et.al.|[link](http://arxiv.org/abs/2604.26478v1)|null|
