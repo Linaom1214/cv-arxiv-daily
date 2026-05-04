@@ -1,9 +1,10 @@
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-05-01**|**Exploring the Limits of End-to-End Feature-Affinity Propagation for Single-Point Supervised Infrared Small Target Detection**|Qiancheng Zhou et.al.|[link](http://arxiv.org/abs/2605.00722v1)|null|
 |**2026-04-11**|**Revisiting the Scale Loss Function and Gaussian-Shape Convolution for Infrared Small Target Detection**|Hao Li et.al.|[link](http://arxiv.org/abs/2604.09991v1)|null|
 |**2026-04-07**|**Rethinking IRSTD: Single-Point Supervision Guided Encoder-only Framework is Enough for Infrared Small Target Detection**|Rixiang Ni et.al.|[link](http://arxiv.org/abs/2604.05363v1)|**[code](https://github.com/NIRIXIANG/SPIRE-IRSTD)**|
 |**2026-04-02**|**Rethinking Representations for Cross-Domain Infrared Small Target Detection: A Generalizable Perspective from the Frequency Domain**|Yimin Fu et.al.|[link](http://arxiv.org/abs/2604.01934v1)|null|
@@ -297,6 +298,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-05-01**|**Conjectural duality for iterated $q$-integrals on $\mathbb{P}^{1}$ minus four generic points**|Minoru Hirose et.al.|[link](http://arxiv.org/abs/2605.00811v1)|null|
+|**2026-05-01**|**Let ViT Speak: Generative Language-Image Pre-training**|Yan Fang et.al.|[link](http://arxiv.org/abs/2605.00809v1)|null|
+|**2026-05-01**|**Prop-Chromeleon: Adaptive Haptic Props in Mixed Reality through Generative Artificial Intelligence**|Haoyu Wang et.al.|[link](http://arxiv.org/abs/2605.00804v1)|null|
+|**2026-05-01**|**GMGaze: MoE-Based Context-Aware Gaze Estimation with CLIP and Multiscale Transformer**|Xinyuan Zhao et.al.|[link](http://arxiv.org/abs/2605.00799v1)|null|
+|**2026-05-01**|**Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks**|Jingxi Pu et.al.|[link](http://arxiv.org/abs/2605.00793v1)|null|
+|**2026-05-01**|**Map2World: Segment Map Conditioned Text to 3D World Generation**|Jaeyoung Chung et.al.|[link](http://arxiv.org/abs/2605.00781v1)|null|
+|**2026-05-01**|**Directed Social Regard: Surfacing Targeted Advocacy, Opposition, Aid, Harms, and Victimization in Online Media**|Scott Friedman et.al.|[link](http://arxiv.org/abs/2605.00776v1)|null|
+|**2026-05-01**|**Characterizing the Expressivity of Local Attention in Transformers**|Jiaoda Li et.al.|[link](http://arxiv.org/abs/2605.00768v1)|null|
+|**2026-05-01**|**Combined spatially and temporally multiplexed photonic reservoir computer with a diffractively coupled VCSEL-array**|Joshua Robertson et.al.|[link](http://arxiv.org/abs/2605.00753v1)|null|
+|**2026-05-01**|**Deep Kernel Learning for Stratifying Glaucoma Trajectories**|Bruce Rushing et.al.|[link](http://arxiv.org/abs/2605.00708v1)|null|
+|**2026-05-01**|**Foundation AI Models for Aerosol Optical Depth Estimation from PACE Satellite Data**|Zahid Hassan Tushar et.al.|[link](http://arxiv.org/abs/2605.00678v1)|null|
+|**2026-05-01**|**Living Databases: A Unified Model for Continuous Schema Evolution, Versioning, and Transformations**|Amol Deshpande et.al.|[link](http://arxiv.org/abs/2605.00676v1)|null|
+|**2026-05-01**|**Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion**|Yuan Li et.al.|[link](http://arxiv.org/abs/2605.00670v1)|null|
+|**2026-05-01**|**Affordance Agent Harness: Verification-Gated Skill Orchestration**|Haojian Huang et.al.|[link](http://arxiv.org/abs/2605.00663v1)|null|
+|**2026-05-01**|**Spiking Sequence Machines and Transformers**|Joy Bose et.al.|[link](http://arxiv.org/abs/2605.00662v1)|null|
+|**2026-05-01**|**D-SHIFT: Transferring High Spatial Information from GRACE Monthly TWSA Mascon to Daily Products Using Generative Adversarial Networks**|Andreas Dombos et.al.|[link](http://arxiv.org/abs/2605.00652v1)|null|
+|**2026-05-01**|**Born-Qualified: An Autonomous Framework for Deploying Advanced Energy and Electronic Materials**|Steven R. Spurgeon et.al.|[link](http://arxiv.org/abs/2605.00639v1)|null|
+|**2026-05-01**|**H-RAG at SemEval-2026 Task 8: Hierarchical Parent-Child Retrieval for Multi-Turn RAG Conversations**|Passant Elchafei et.al.|[link](http://arxiv.org/abs/2605.00631v1)|null|
+|**2026-05-01**|**CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection**|Hang Wang et.al.|[link](http://arxiv.org/abs/2605.00630v1)|null|
+|**2026-05-01**|**Defense against Poisoning Attacks under Shuffle-DP**|Siyi Wang et.al.|[link](http://arxiv.org/abs/2605.00625v1)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[link](http://arxiv.org/abs/2604.28193v1)|null|
 |**2026-04-30**|**Enhancement of superconducting stiffness in hybrid superconducting-metallic bilayers**|J. E. Ebot et.al.|[link](http://arxiv.org/abs/2604.28187v1)|null|
 |**2026-04-30**|**LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**|Lincan Li et.al.|[link](http://arxiv.org/abs/2604.28178v1)|null|
@@ -2894,6 +2915,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-04-30**|**Caracal: Causal Architecture via Spectral Mixing**|Bingzheng Gan et.al.|[link](http://arxiv.org/abs/2605.00292v1)|null|
+|**2026-04-30**|**Lost in State Space: Probing Frozen Mamba Representations**|Bhagyashree Wagh et.al.|[link](http://arxiv.org/abs/2605.00253v1)|null|
 |**2026-04-30**|**MSR:Hybrid Field Modeling for CT-MRI Rigid-Deformable Registration of the Cervical Spine with an Annotated Dataset**|Bohai Zhang et.al.|[link](http://arxiv.org/abs/2604.27654v1)|null|
 |**2026-04-28**|**PPG-Based Affect Recognition with Long-Range Deep Models: A Measurement-Driven Comparison of CNN, Transformer, and Mamba Architectures**|Karim Alghoul et.al.|[link](http://arxiv.org/abs/2604.26078v1)|null|
 |**2026-04-28**|**Vision SmolMamba: Spike-Guided Token Pruning for Energy-Efficient Spiking State-Space Vision Models**|Dewei Bai et.al.|[link](http://arxiv.org/abs/2604.25570v1)|null|
@@ -3480,6 +3503,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-05-01**|**Statistical mechanics for Scrabble predicts strategy, entropy and language**|Olivier Witteveen et.al.|[link](http://arxiv.org/abs/2605.00813v1)|null|
+|**2026-05-01**|**High-Dimensional Multivariate VAR Estimation with Spatio-Temporal Structure**|Peiliang Bai et.al.|[link](http://arxiv.org/abs/2605.00806v1)|null|
+|**2026-05-01**|**A Faster Deterministic Algorithm for Fully Dynamic Maximal Matching**|Julia Chuzhoy et.al.|[link](http://arxiv.org/abs/2605.00797v1)|null|
+|**2026-05-01**|**Map2World: Segment Map Conditioned Text to 3D World Generation**|Jaeyoung Chung et.al.|[link](http://arxiv.org/abs/2605.00781v1)|null|
+|**2026-05-01**|**Entanglement capacity of complex networks from quantum walks**|Pravy Prerana et.al.|[link](http://arxiv.org/abs/2605.00772v1)|null|
+|**2026-05-01**|**NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search**|Sizhe Tang et.al.|[link](http://arxiv.org/abs/2605.00751v1)|null|
+|**2026-05-01**|**Empowering Heterogeneous Graph Foundation Models via Decoupled Relation Alignment**|Ziyu Zheng et.al.|[link](http://arxiv.org/abs/2605.00731v1)|null|
+|**2026-05-01**|**Intermittency induced by long memory under stochastic regime switching**|Mauricio Herrera-Marín et.al.|[link](http://arxiv.org/abs/2605.00729v1)|null|
+|**2026-05-01**|**Weisfeiler Lehman Test on Combinatorial Complexes: Generalized Expressive Power of Topological Neural Networks**|Jiawen Chen et.al.|[link](http://arxiv.org/abs/2605.00725v1)|null|
+|**2026-05-01**|**Aitchison Embeddings for Learning Compositional Graph Representations**|Nikolaos Nakis et.al.|[link](http://arxiv.org/abs/2605.00716v1)|null|
+|**2026-05-01**|**A Near-Linear-Time Algorithm for Finding a Well-Spread Perfect Matching in Bridgeless Cubic Graphs**|Babak Ghanbari et.al.|[link](http://arxiv.org/abs/2605.00710v1)|null|
+|**2026-05-01**|**Cohomological properties of the Vietoris--Rips Complex of a Hypercube Graph**|Martin Bendersky et.al.|[link](http://arxiv.org/abs/2605.00705v1)|null|
+|**2026-05-01**|**Static and Dynamic Graph Alignment Network for Temporal Video Grounding**|Zhanjie Hu et.al.|[link](http://arxiv.org/abs/2605.00684v1)|null|
+|**2026-05-01**|**Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion**|Yuan Li et.al.|[link](http://arxiv.org/abs/2605.00670v1)|null|
+|**2026-05-01**|**Affordance Agent Harness: Verification-Gated Skill Orchestration**|Haojian Huang et.al.|[link](http://arxiv.org/abs/2605.00663v1)|null|
+|**2026-05-01**|**UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors**|Houyuan Chen et.al.|[link](http://arxiv.org/abs/2605.00658v1)|null|
+|**2026-05-01**|**Bridging Graph Drawing and Dimensionality Reduction with Stochastic Stress Optimization**|Daniel Hangan et.al.|[link](http://arxiv.org/abs/2605.00641v1)|null|
+|**2026-05-01**|**H-RAG at SemEval-2026 Task 8: Hierarchical Parent-Child Retrieval for Multi-Turn RAG Conversations**|Passant Elchafei et.al.|[link](http://arxiv.org/abs/2605.00631v1)|null|
+|**2026-05-01**|**A lower bound of toughness of regular graphs: in terms of second largest eigenvalue**|Wenqian Zhang et.al.|[link](http://arxiv.org/abs/2605.00627v1)|null|
+|**2026-05-01**|**Sizes of witnesses in Covtree**|Jette Gutzeit et.al.|[link](http://arxiv.org/abs/2605.00622v1)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[link](http://arxiv.org/abs/2604.28193v1)|null|
 |**2026-04-30**|**LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**|Lincan Li et.al.|[link](http://arxiv.org/abs/2604.28178v1)|null|
 |**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[link](http://arxiv.org/abs/2604.28173v1)|null|
@@ -5926,6 +5969,10 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-05-01**|**GMGaze: MoE-Based Context-Aware Gaze Estimation with CLIP and Multiscale Transformer**|Xinyuan Zhao et.al.|[link](http://arxiv.org/abs/2605.00799v1)|null|
+|**2026-05-01**|**Empowering Heterogeneous Graph Foundation Models via Decoupled Relation Alignment**|Ziyu Zheng et.al.|[link](http://arxiv.org/abs/2605.00731v1)|null|
+|**2026-04-30**|**ViLegalNLI: Natural Language Inference for Vietnamese Legal Texts**|Nhung Thi-Hong Duong et.al.|[link](http://arxiv.org/abs/2605.00116v1)|null|
+|**2026-04-30**|**UniBCI: Towards a Unified Pretrained Model for Invasive Brain-Computer Interfaces**|Binjie Hong et.al.|[link](http://arxiv.org/abs/2605.00061v1)|null|
 |**2026-04-30**|**Synthetic Biological Intelligence: System-Level Abstractions and Adaptive Bio-Digital Interaction**|Martin Schottlender et.al.|[link](http://arxiv.org/abs/2604.27933v1)|null|
 |**2026-04-30**|**Frequency-Aware Semantic Fusion with Gated Injection for AI-generated Image Detection**|Shuchang Zhou et.al.|[link](http://arxiv.org/abs/2604.27875v1)|null|
 |**2026-04-30**|**Reasoning over Object Descriptions Improves Coreference Resolution in Task-Based Dialogue Systems**|Oier Ijurco et.al.|[link](http://arxiv.org/abs/2604.27850v1)|null|
