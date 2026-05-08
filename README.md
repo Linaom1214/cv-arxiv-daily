@@ -1,9 +1,10 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.08
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-05-07**|**Na-IRSTD: Enhancing Infrared Small Target Detection via Native-Resolution Feature Selection and Fusion**|Qian Xu et.al.|[link](http://arxiv.org/abs/2605.05804v1)|null|
 |**2026-04-27**|**Selective Attention-Based Network for Robust Infrared Small Target Detection**|Yingming Zhang et.al.|[link](http://arxiv.org/abs/2605.00886v1)|null|
 |**2026-05-01**|**Exploring the Limits of End-to-End Feature-Affinity Propagation for Single-Point Supervised Infrared Small Target Detection**|Qiancheng Zhou et.al.|[link](http://arxiv.org/abs/2605.00722v1)|null|
 |**2026-04-11**|**Revisiting the Scale Loss Function and Gaussian-Shape Convolution for Infrared Small Target Detection**|Hao Li et.al.|[link](http://arxiv.org/abs/2604.09991v1)|null|
@@ -299,6 +300,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[link](http://arxiv.org/abs/2605.06665v1)|null|
+|**2026-05-07**|**A preliminary exploration of the effects of baseline length for the LIFE space mission**|Jonah T. Hansen et.al.|[link](http://arxiv.org/abs/2605.06648v1)|null|
+|**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[link](http://arxiv.org/abs/2605.06644v1)|null|
+|**2026-05-07**|**LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.|[link](http://arxiv.org/abs/2605.06628v1)|null|
+|**2026-05-07**|**SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders**|Jakub Stępień et.al.|[link](http://arxiv.org/abs/2605.06610v1)|null|
+|**2026-05-07**|**Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent**|Chenyang Zhang et.al.|[link](http://arxiv.org/abs/2605.06609v1)|null|
+|**2026-05-07**|**Weight-Decay Turns Transformer Loss Landscapes Villani: Functional-Analytic Foundations for Optimization and Generalization**|Abhijit Das et.al.|[link](http://arxiv.org/abs/2605.06599v1)|null|
+|**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[link](http://arxiv.org/abs/2605.06591v1)|null|
+|**2026-05-07**|**Solving Minimal Problems Without Matrix Inversion Using FFT-Based Interpolation**|Haidong Wu et.al.|[link](http://arxiv.org/abs/2605.06572v1)|null|
+|**2026-05-07**|**A Unified SU(2) Framework for Vector Beam Transformations and Complex Beam Shaping**|Gayathri G T et.al.|[link](http://arxiv.org/abs/2605.06566v1)|null|
+|**2026-05-07**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[link](http://arxiv.org/abs/2605.06558v1)|null|
+|**2026-05-07**|**Long Context Pre-Training with Lighthouse Attention**|Bowen Peng et.al.|[link](http://arxiv.org/abs/2605.06554v1)|null|
+|**2026-05-07**|**MedHorizon: Towards Long-context Medical Video Understanding in the Wild**|Bodong Du et.al.|[link](http://arxiv.org/abs/2605.06537v1)|null|
+|**2026-05-07**|**An algebraic model for rational ultracommutative rings**|William Balderrama et.al.|[link](http://arxiv.org/abs/2605.06515v1)|null|
+|**2026-05-07**|**Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models**|Amir Rezaei Balef et.al.|[link](http://arxiv.org/abs/2605.06510v1)|null|
+|**2026-05-07**|**Cubit: Token Mixer with Kernel Ridge Regression**|Chuanyang Zheng et.al.|[link](http://arxiv.org/abs/2605.06501v1)|null|
+|**2026-05-07**|**Operator-Guided Invariance Learning for Continuous Reinforcement Learning**|Zuyuan Zhang et.al.|[link](http://arxiv.org/abs/2605.06500v1)|null|
+|**2026-05-07**|**From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features**|Ruben Fernandez-Boullon et.al.|[link](http://arxiv.org/abs/2605.06494v1)|null|
+|**2026-05-07**|**Continuous-state branching processes with Lévy-Khintchine drift-interaction: Laplace duality and Fellerian extensions**|Clément Foucart et.al.|[link](http://arxiv.org/abs/2605.06488v1)|null|
+|**2026-05-07**|**3D MRI Image Pretraining via Controllable 2D Slice Navigation Task**|Yu Wang et.al.|[link](http://arxiv.org/abs/2605.06487v1)|null|
 |**2026-05-05**|**UniCorrn: Unified Correspondence Transformer Across 2D and 3D**|Prajnan Goswami et.al.|[link](http://arxiv.org/abs/2605.04044v1)|null|
 |**2026-05-05**|**Can Transformers predict system collapse in dynamical systems?**|Zheng-Meng Zhai et.al.|[link](http://arxiv.org/abs/2605.04024v1)|null|
 |**2026-05-05**|**Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours**|Raja Sekhar Rao Dheekonda et.al.|[link](http://arxiv.org/abs/2605.04019v1)|null|
@@ -2936,6 +2957,13 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-05-07**|**Normalized Architectures are Natively 4-Bit**|Maxim Fishman et.al.|[link](http://arxiv.org/abs/2605.06067v1)|null|
+|**2026-05-07**|**HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning**|Haoyun Tang et.al.|[link](http://arxiv.org/abs/2605.05951v1)|null|
+|**2026-05-07**|**Wisteria: A Unified Multi-Scale Feature Learning Framework for DNA Language Model**|Weihua Wang et.al.|[link](http://arxiv.org/abs/2605.05913v1)|null|
+|**2026-05-07**|**$\mathcal{B}^{3}$-Net: Controlled Posterior Bridge Learning for Multi-Task Dense Prediction**|Meihua Zhou et.al.|[link](http://arxiv.org/abs/2605.05722v1)|null|
+|**2026-05-07**|**A Novel Graph-Regulated Disentangling Mamba Model with Sparse Tokens for Enhanced Tree Species Classification from MODIS Time Series**|Motasem Alkayid et.al.|[link](http://arxiv.org/abs/2605.05549v1)|null|
+|**2026-05-06**|**Bilinear Mamba-Koopman Neural MPC for Varying Dynamics**|Matan Pagi et.al.|[link](http://arxiv.org/abs/2605.04793v1)|null|
+|**2026-05-06**|**SAMIC: A Lightweight Semantic-Aware Mamba for Efficient Perceptual Image Compression**|Jiaqian Zhang et.al.|[link](http://arxiv.org/abs/2605.04560v1)|null|
 |**2026-05-05**|**Mantis: Mamba-native Tuning is Efficient for 3D Point Cloud Foundation Models**|Zihao Guo et.al.|[link](http://arxiv.org/abs/2605.03438v1)|null|
 |**2026-05-04**|**Edge-Efficient Image Restoration: Transformer Distillation into State-Space Models**|Srinivas Soumitri Miriyala et.al.|[link](http://arxiv.org/abs/2605.02794v1)|null|
 |**2026-05-03**|**ViM-Q: Scalable Algorithm-Hardware Co-Design for Vision Mamba Model Inference on FPGA**|Shengzhe Lyu et.al.|[link](http://arxiv.org/abs/2605.01935v1)|null|
@@ -2943,6 +2971,7 @@
 |**2026-05-02**|**Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI**|Ruthwik Reddy Doodipala et.al.|[link](http://arxiv.org/abs/2605.01240v1)|null|
 |**2026-05-01**|**Component-Aware Self-Speculative Decoding in Hybrid Language Models**|Hector Borobia et.al.|[link](http://arxiv.org/abs/2605.01106v1)|null|
 |**2026-04-29**|**SAMamba3D: adapting Segment Anything for generalizable 3D segmentation of multiphase pore-scale images**|Rui Zhang et.al.|[link](http://arxiv.org/abs/2605.00916v1)|null|
+|**2026-05-07**|**Caracal: Causal Architecture via Spectral Mixing**|Bingzheng Gan et.al.|[link](http://arxiv.org/abs/2605.00292v2)|null|
 |**2026-04-30**|**Caracal: Causal Architecture via Spectral Mixing**|Bingzheng Gan et.al.|[link](http://arxiv.org/abs/2605.00292v1)|null|
 |**2026-04-30**|**Lost in State Space: Probing Frozen Mamba Representations**|Bhagyashree Wagh et.al.|[link](http://arxiv.org/abs/2605.00253v1)|null|
 |**2026-04-30**|**MSR:Hybrid Field Modeling for CT-MRI Rigid-Deformable Registration of the Cervical Spine with an Annotated Dataset**|Bohai Zhang et.al.|[link](http://arxiv.org/abs/2604.27654v1)|null|
@@ -3532,6 +3561,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-05-07**|**Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction**|Yuchen Xiong et.al.|[link](http://arxiv.org/abs/2605.06644v1)|null|
+|**2026-05-07**|**Adjacency labelling for proper minor-closed graph classes**|Vida Dujmović et.al.|[link](http://arxiv.org/abs/2605.06616v1)|null|
+|**2026-05-07**|**Master equations with an individual noise on finite state graphs**|Wilfrid Gangbo et.al.|[link](http://arxiv.org/abs/2605.06589v1)|null|
+|**2026-05-07**|**Towards Metric-Faithful Neural Graph Matching**|Jyotirmaya Shivottam et.al.|[link](http://arxiv.org/abs/2605.06588v1)|null|
+|**2026-05-07**|**On the Safety of Graph Representation Learning**|Xiaoguang Guo et.al.|[link](http://arxiv.org/abs/2605.06576v1)|null|
+|**2026-05-07**|**Fast decremental tree sums in forests**|Benjamin Aram Berendsohn et.al.|[link](http://arxiv.org/abs/2605.06555v1)|null|
+|**2026-05-07**|**de Sitter Wavefunction from Quadrangular Polylogarithms: Chain Graphs**|Livia Ferro et.al.|[link](http://arxiv.org/abs/2605.06542v1)|null|
+|**2026-05-07**|**MedHorizon: Towards Long-context Medical Video Understanding in the Wild**|Bodong Du et.al.|[link](http://arxiv.org/abs/2605.06537v1)|null|
+|**2026-05-07**|**Logarithmic Mixing of Random Walks on Dynamical Random Cluster Models**|Andreas Galanis et.al.|[link](http://arxiv.org/abs/2605.06511v1)|null|
+|**2026-05-07**|**From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features**|Ruben Fernandez-Boullon et.al.|[link](http://arxiv.org/abs/2605.06494v1)|null|
+|**2026-05-07**|**Estimate Level Adjustment For Inference With Proxies Under Random Distribution Shifts**|Steven Wilkins-Reeves et.al.|[link](http://arxiv.org/abs/2605.06484v1)|null|
+|**2026-05-07**|**Patch-Effect Graph Kernels for LLM Interpretability**|Ruben Fernandez-Boullon et.al.|[link](http://arxiv.org/abs/2605.06480v1)|null|
+|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[link](http://arxiv.org/abs/2605.06478v1)|null|
+|**2026-05-07**|**Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies**|Magnus Victor Boock et.al.|[link](http://arxiv.org/abs/2605.06470v1)|null|
+|**2026-05-07**|**No Triangulation Without Representation: Generalization in Topological Deep Learning**|Johannes S. Schmidt et.al.|[link](http://arxiv.org/abs/2605.06467v1)|null|
+|**2026-05-07**|**Diversity Curves for Graph Representation Learning**|Katharina Limbeck et.al.|[link](http://arxiv.org/abs/2605.06466v1)|null|
+|**2026-05-07**|**Invariant-Based Diagnostics for Graph Benchmarks**|Richard von Moos et.al.|[link](http://arxiv.org/abs/2605.06462v1)|null|
+|**2026-05-07**|**Knowledge Graphs, the Missing Link in Agentic AI-based Formal Verification**|Vaisakh Naduvodi Viswambharan et.al.|[link](http://arxiv.org/abs/2605.06434v1)|null|
+|**2026-05-07**|**Federated Cross-Client Subgraph Pattern Detection**|Selin Ceydeli et.al.|[link](http://arxiv.org/abs/2605.06433v1)|null|
+|**2026-05-07**|**Comparative Study of Potts Machine Dynamics and Performance for Max-k-Cut**|Bjarke Almer Frederiksen et.al.|[link](http://arxiv.org/abs/2605.06425v1)|null|
 |**2026-05-05**|**A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification**|Sushovan Majhi et.al.|[link](http://arxiv.org/abs/2605.04046v1)|null|
 |**2026-05-05**|**OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories**|Yuwen Du et.al.|[link](http://arxiv.org/abs/2605.04036v1)|null|
 |**2026-05-05**|**Coloring graphs with independence number two and no odd clique immersions**|Henry Echeverría et.al.|[link](http://arxiv.org/abs/2605.04022v1)|null|
@@ -6018,6 +6067,17 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[link](http://arxiv.org/abs/2605.06643v1)|null|
+|**2026-05-07**|**Scene-Adaptive Continual Learning for CSI-based Human Activity Recognition with Mixture of Experts**|Wenhan Zheng et.al.|[link](http://arxiv.org/abs/2605.06447v1)|null|
+|**2026-05-07**|**Lightweight Stylistic Consistency Profiling: Robust Detection of LLM-Generated Textual Content for Multimedia Moderation**|Siyuan Li et.al.|[link](http://arxiv.org/abs/2605.05950v1)|null|
+|**2026-05-07**|**Decodable but Not Corrected by Fixed Residual-Stream Linear Steering: Evidence from Medical LLM Failure Regimes**|Ming Liu et.al.|[link](http://arxiv.org/abs/2605.05715v1)|null|
+|**2026-05-07**|**Locality-aware Private Class Identification for Domain Adaptation with Extreme Label Shift**|Chuan-Xian Ren et.al.|[link](http://arxiv.org/abs/2605.05567v1)|null|
+|**2026-05-06**|**egenioussBench: A New Dataset for Geospatial Visual Localisation**|Phillipp Fanta-Jende et.al.|[link](http://arxiv.org/abs/2605.05351v1)|null|
+|**2026-05-06**|**PARNESS: A Paper Harness for End-to-End Automated Scientific Research with Dynamic Workflows, Full-Text Indexing, and Cross-Run Knowledge Accumulation**|Yuchen Wang et.al.|[link](http://arxiv.org/abs/2605.05258v1)|null|
+|**2026-05-06**|**Prompt-Anchored Vision-Text Distillation for Lifelong Person Re-identification**|Wen Wen et.al.|[link](http://arxiv.org/abs/2605.05027v1)|null|
+|**2026-05-06**|**Low-Rank Adaptation of Geospatial Foundation Models for Wildfire Mapping Using Sentinel-2 Data**|Ali Shibli et.al.|[link](http://arxiv.org/abs/2605.04989v1)|null|
+|**2026-05-06**|**FairEnc: A Fair Vision-Language Model with Fair Vision and Text Encoders for Glaucoma Detection**|Mohamed Elhabebe et.al.|[link](http://arxiv.org/abs/2605.04882v1)|null|
+|**2026-05-06**|**YOTOnet: Zero-Shot Cross-Domain Fault Diagnosis via Domain-Conditioned Mixture of Experts**|Zesen Wang et.al.|[link](http://arxiv.org/abs/2605.04528v1)|null|
 |**2026-05-05**|**Reservoir property image slices from the Groningen gas field for image translation and segmentation**|Abdulrahman Al-Fakih et.al.|[link](http://arxiv.org/abs/2605.03942v1)|null|
 |**2026-05-05**|**TRACE: A Metrologically-Grounded Engineering Framework for Trustworthy Agentic AI Systems in Operationally Critical Domains**|Serhii Zabolotnii et.al.|[link](http://arxiv.org/abs/2605.03838v1)|null|
 |**2026-05-05**|**Enhancing Visual Question Answering with Multimodal LLMs via Chain-of-Question Guided Retrieval-Augmented Generation**|Quanxing Xu et.al.|[link](http://arxiv.org/abs/2605.03790v1)|null|
@@ -6026,6 +6086,7 @@
 |**2026-05-05**|**Jiao: Bridging Isolation and Customization in Mixed Criticality Robotics**|James Yen et.al.|[link](http://arxiv.org/abs/2605.03641v1)|null|
 |**2026-05-05**|**Dante: An Open Source Model Pre-Training and Fine-Tuning Tool for the Dafne Federated Framework for Medical Image Segmentation**|Giuseppe Timpano et.al.|[link](http://arxiv.org/abs/2605.03602v1)|null|
 |**2026-05-05**|**DACP: A Scientific Data Access and Collaboration Protocol**|Zhihong Shen et.al.|[link](http://arxiv.org/abs/2605.03411v1)|null|
+|**2026-05-06**|**Geometry over Density: Few-Shot Cross-Domain OOD Detection**|Shawn Li et.al.|[link](http://arxiv.org/abs/2605.03410v2)|null|
 |**2026-05-05**|**Geometry over Density: Few-Shot Cross-Domain OOD Detection**|Shawn Li et.al.|[link](http://arxiv.org/abs/2605.03410v1)|null|
 |**2026-05-04**|**Renewables Power the Orbit? Achieving Sustainable Space Edge Computing via QoS-Aware Offloading**|Xiaoyi Fan et.al.|[link](http://arxiv.org/abs/2605.03232v1)|null|
 |**2026-05-04**|**One Sequence to Segment Them All: Efficient Data Augmentation for CT and MRI Cross-Domain 3D Spine Segmentation**|Nathan Molinier et.al.|[link](http://arxiv.org/abs/2605.03098v1)|null|
