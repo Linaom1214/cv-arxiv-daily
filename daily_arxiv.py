@@ -74,7 +74,12 @@ def get_daily_papers(topic, query="slam", max_results=2):
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    if hasattr(search_engine, "results"):
+        search_results = search_engine.results()
+    else:
+        search_results = arxiv.Client().results(search_engine)
+
+    for result in search_results:
         paper_id = result.get_short_id()
         paper_title = result.title
         paper_url = arxiv_url + 'abs/' + paper_id
