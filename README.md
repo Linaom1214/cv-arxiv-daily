@@ -1,4 +1,4 @@
-## Updated on 2026.07.22
+## Updated on 2026.07.26
 
 ### ISTD
 
@@ -11,7 +11,7 @@
 |**2026-07-02**|**Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement**|Handong Zeng et.al.|[link](http://arxiv.org/abs/2607.01555v1)|null|
 |**2026-06-26**|**Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2606.27655v1)|null|
 |**2026-06-27**|**Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2606.21956v2)|null|
-|**2026-06-17**|**SCR-Guided Difficulty-Aware Optimization for Infrared Small Target Detection**|Yunus Sevim et.al.|[link](http://arxiv.org/abs/2606.18783v1)|null|
+|**2026-06-17**|**SCR-Guided Difficulty-Aware Optimization for Infrared Small Target Detection**|Yunus Sevim et.al.|[link](http://arxiv.org/abs/2606.18783v1)|**[code](https://github.com/yall-in-one/Reemm)**|
 |**2026-06-13**|**Decoupled Motion Representation Learning for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2606.15286v1)|null|
 |**2026-06-01**|**RPCASSM: Robust PCA State Space Model For Infrared Small Target Detection**|Pingping Liu et.al.|[link](http://arxiv.org/abs/2606.01689v1)|null|
 |**2026-05-20**|**Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection**|Zhu Liu et.al.|[link](http://arxiv.org/abs/2605.20766v1)|null|
@@ -313,6 +313,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[link](http://arxiv.org/abs/2607.21594v1)|null|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[link](http://arxiv.org/abs/2607.21592v1)|null|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[link](http://arxiv.org/abs/2607.21588v1)|null|
+|**2026-07-23**|**The Stability Landscape in Wave-Packet Scattering: Geometric Rigidity and Sharp Sobolev Thresholds**|Max Getter et.al.|[link](http://arxiv.org/abs/2607.21578v1)|null|
+|**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[link](http://arxiv.org/abs/2607.21577v1)|null|
+|**2026-07-23**|**Self-Supervised Learning of Structured Dynamics from Videos**|Lukas Knobel et.al.|[link](http://arxiv.org/abs/2607.21576v1)|null|
+|**2026-07-23**|**MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education**|Qian Wu et.al.|[link](http://arxiv.org/abs/2607.21570v1)|null|
+|**2026-07-23**|**Where You Tap Matters: A Probe-and-Model Benchmark for Open-Set RF Fingerprinting**|Gabriele Oligeri et.al.|[link](http://arxiv.org/abs/2607.21564v1)|null|
+|**2026-07-23**|**SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation**|Junsong Chen et.al.|[link](http://arxiv.org/abs/2607.21553v1)|null|
+|**2026-07-23**|**UnDA: Unpaired Domain Alignment for Cross-Modal Knowledge Transfer in Medical Imaging**|Rafsan Jany et.al.|[link](http://arxiv.org/abs/2607.21546v1)|null|
+|**2026-07-23**|**The Faber-Krahn position of convex bodies and Gaussian measure inequalities**|Dmitry Faifman et.al.|[link](http://arxiv.org/abs/2607.21539v1)|null|
+|**2026-07-23**|**Optimal feedback control under stepwise equilibration and partial observation**|Francesco Mottes et.al.|[link](http://arxiv.org/abs/2607.21523v1)|null|
+|**2026-07-23**|**Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation**|Linjun Li et.al.|[link](http://arxiv.org/abs/2607.21518v1)|null|
+|**2026-07-23**|**Revealing the conformal symmetry of the discrete series scalars in dS${}_2$**|Lukas W. Lindwasser et.al.|[link](http://arxiv.org/abs/2607.21514v1)|null|
+|**2026-07-23**|**Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it**|Federico Boggia et.al.|[link](http://arxiv.org/abs/2607.21498v1)|null|
+|**2026-07-23**|**Persistent Entropy Transform: An entropy-based descriptor for topological data analysis**|Victor Toscano-Duran et.al.|[link](http://arxiv.org/abs/2607.21476v1)|null|
+|**2026-07-23**|**Relational path integral, effective actions and quantum frame covariance**|Sergio E. Aguilar-Gutierrez et.al.|[link](http://arxiv.org/abs/2607.21463v1)|null|
+|**2026-07-23**|**The Evolution of Digital Search: From Blue Links to Delegated Decision-Making**|David M. Rothschild et.al.|[link](http://arxiv.org/abs/2607.21459v1)|null|
+|**2026-07-23**|**SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**|Zhongming Liu et.al.|[link](http://arxiv.org/abs/2607.21456v1)|null|
+|**2026-07-23**|**Rack-integrated quantum dot-based source of single and entangled photons at telecom C-band**|Michal Vyvlecka et.al.|[link](http://arxiv.org/abs/2607.21454v1)|null|
 |**2026-07-21**|**Appearance Pointers -- Multimodal Region Control of Diffusion Transformers**|Rahul Sajnani et.al.|[link](http://arxiv.org/abs/2607.19344v1)|null|
 |**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[link](http://arxiv.org/abs/2607.19332v1)|null|
 |**2026-07-21**|**Selective State-Space Adaptation and Retrieval for Language Model Reasoning**|Atahan Dokme et.al.|[link](http://arxiv.org/abs/2607.19326v1)|null|
@@ -3090,6 +3110,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-23**|**Multimodal Pretraining for Generalizable EEG Representation Learning**|Targol Bakhtiarvand et.al.|[link](http://arxiv.org/abs/2607.21384v1)|null|
+|**2026-07-23**|**Naju: A Native Discrete State-Space Model with Independent Retention and Writing for Long-Sequence Memory**|Hyuk Lim et.al.|[link](http://arxiv.org/abs/2607.21000v1)|null|
+|**2026-07-22**|**User-Centric Modeling of Transactional Sequences with Explainable State Space Models**|Ivan Palagin et.al.|[link](http://arxiv.org/abs/2607.20228v1)|null|
+|**2026-07-22**|**Frequency-Hierarchical Active k-Space Sampling for Diagnostic MRI**|Ruru Xu et.al.|[link](http://arxiv.org/abs/2607.19779v1)|null|
 |**2026-07-21**|**Selective State-Space Adaptation and Retrieval for Language Model Reasoning**|Atahan Dokme et.al.|[link](http://arxiv.org/abs/2607.19326v1)|null|
 |**2026-07-21**|**Black-Mamba: Biologically-Inspired Leaky Accumulation for Conceptual Knowledge under Distribution Drift**|Giuseppe Soriano et.al.|[link](http://arxiv.org/abs/2607.18899v1)|null|
 |**2026-07-21**|**Norm or Direction? Decoding Vision Mambas for High-Resolution Vision**|Jin Yu et.al.|[link](http://arxiv.org/abs/2607.18625v1)|null|
@@ -3759,6 +3783,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[link](http://arxiv.org/abs/2607.21592v1)|null|
+|**2026-07-23**|**Expanding Flow Maps**|Sophia Tang et.al.|[link](http://arxiv.org/abs/2607.21585v1)|null|
+|**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[link](http://arxiv.org/abs/2607.21580v1)|null|
+|**2026-07-23**|**Tight Hamilton Cycles in Linearly Quasirandom 3-Graphs**|Xichao Shu et.al.|[link](http://arxiv.org/abs/2607.21568v1)|null|
+|**2026-07-23**|**Arithmetic progressions in a random set on a budget**|Jan Hladký et.al.|[link](http://arxiv.org/abs/2607.21565v1)|null|
+|**2026-07-23**|**Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling**|Aaron Feller et.al.|[link](http://arxiv.org/abs/2607.21561v1)|null|
+|**2026-07-23**|**UnDA: Unpaired Domain Alignment for Cross-Modal Knowledge Transfer in Medical Imaging**|Rafsan Jany et.al.|[link](http://arxiv.org/abs/2607.21546v1)|null|
+|**2026-07-23**|**Improved lower bounds for the Shannon capacity of odd cycles**|Nathaniel Itty et.al.|[link](http://arxiv.org/abs/2607.21517v1)|null|
+|**2026-07-23**|**Chromatic symmetric functions of claw-free graphs are not Schur positive**|Jacob P. Matherne et.al.|[link](http://arxiv.org/abs/2607.21508v1)|null|
+|**2026-07-23**|**Adjacency-degree algebras and spectral determination of graphs**|Zhipeng Lu et.al.|[link](http://arxiv.org/abs/2607.21494v1)|null|
+|**2026-07-23**|**Symmetries of (3, 6)-Fullerenes**|Linda E Green et.al.|[link](http://arxiv.org/abs/2607.21483v1)|null|
+|**2026-07-23**|**Fatness and Flatness**|Arnold Filtser et.al.|[link](http://arxiv.org/abs/2607.21474v1)|null|
+|**2026-07-23**|**Morphing Graphs on Hyperbolic Surfaces**|Yanwen Luo et.al.|[link](http://arxiv.org/abs/2607.21469v1)|null|
+|**2026-07-23**|**SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**|Zhongming Liu et.al.|[link](http://arxiv.org/abs/2607.21456v1)|null|
+|**2026-07-23**|**Agent-Guided Relational Concept Discovery: Toward Interpretable Surgical Margin Assessment**|Nooshin Maghsoodi et.al.|[link](http://arxiv.org/abs/2607.21437v1)|null|
+|**2026-07-23**|**Revisiting Degree-Corrected Spectral Clustering: a Condition-Free Spectral Analysis and Extension**|Wei Li et.al.|[link](http://arxiv.org/abs/2607.21435v1)|null|
+|**2026-07-23**|**Subcritical percolation and network archaeology on random recursive tree substrate networks**|Shankar Bhamidi et.al.|[link](http://arxiv.org/abs/2607.21428v1)|null|
+|**2026-07-23**|**Bridging the Gap Between Plausibility and Admissibility: Constraint-Aware Flow Maps for Dynamic Graph Systems**|Michael Romei de Socio et.al.|[link](http://arxiv.org/abs/2607.21421v1)|null|
+|**2026-07-23**|**Chip Floorplanning Combining Convex and Non-convex Optimization**|Yilihamujiang Yimamu et.al.|[link](http://arxiv.org/abs/2607.21408v1)|null|
+|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[link](http://arxiv.org/abs/2607.21400v1)|null|
 |**2026-07-21**|**Bellman-Ford in Almost-Linear Time**|Isaac M. Hair et.al.|[link](http://arxiv.org/abs/2607.19346v1)|null|
 |**2026-07-21**|**Improved Strongly Polynomial Work-Span Tradeoffs for Directed Single Source Shortest Paths**|Isaac M. Hair et.al.|[link](http://arxiv.org/abs/2607.19342v1)|null|
 |**2026-07-21**|**Selective State-Space Adaptation and Retrieval for Language Model Reasoning**|Atahan Dokme et.al.|[link](http://arxiv.org/abs/2607.19326v1)|null|
@@ -6385,6 +6429,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-07-23**|**AUCH-Net: Action Unit-Based Consistency-Aware Hypergraph Network for Cross-Domain Few-Shot Facial Expression Recognition**|Xinhan Qiu et.al.|[link](http://arxiv.org/abs/2607.21004v1)|null|
+|**2026-07-22**|**Cross-Domain Generalization in Optical Networks via Joint Contrastive and Classification Learning**|Ali Al Housseini et.al.|[link](http://arxiv.org/abs/2607.20666v1)|null|
+|**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[link](http://arxiv.org/abs/2607.20116v1)|null|
+|**2026-07-22**|**WiFi Sensing via Reservoir Computing**|Heping Wang et.al.|[link](http://arxiv.org/abs/2607.20103v1)|null|
+|**2026-07-22**|**A Systematic Benchmark of Intensity Normalisation Methods for 3D Knee MRI Segmentation and Cross-Domain Generalisability**|Oliver Mills et.al.|[link](http://arxiv.org/abs/2607.20028v1)|null|
 |**2026-07-21**|**Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation**|Bo Liang et.al.|[link](http://arxiv.org/abs/2607.18875v1)|null|
 |**2026-07-21**|**Continual Video-MLLM Adaptation over Evolving Domains**|Rui Cheng et.al.|[link](http://arxiv.org/abs/2607.18716v1)|null|
 |**2026-07-20**|**Engineering Trustworthy Agentic AI for Critical Systems**|Omar Al-Refai et.al.|[link](http://arxiv.org/abs/2607.18548v1)|null|
