@@ -1,4 +1,4 @@
-## Updated on 2026.07.29
+## Updated on 2026.07.31
 
 ### ISTD
 
@@ -315,6 +315,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[link](http://arxiv.org/abs/2607.28628v1)|null|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[link](http://arxiv.org/abs/2607.28625v1)|null|
+|**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[link](http://arxiv.org/abs/2607.28623v1)|null|
+|**2026-07-30**|**On Optimal Measurement-State Preparation via Geometric Transport of the Squeezing Ellipse**|Vsevolod Salakhutdinov et.al.|[link](http://arxiv.org/abs/2607.28620v1)|null|
+|**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[link](http://arxiv.org/abs/2607.28611v1)|null|
+|**2026-07-30**|**SymFT: Universal Fault-Tolerant Quantum Circuit Simulation via Symbolic Clifford--Pauli Frames and Stabilizer Coordinates**|Wang Fang et.al.|[link](http://arxiv.org/abs/2607.28600v1)|null|
+|**2026-07-30**|**Explicit Matrices over $\mathbb Z_2$ with CNOT and Row Complexity $4n-\mathrm{o}(n)$ and Local Logic Gates**|Sherry Gong et.al.|[link](http://arxiv.org/abs/2607.28598v1)|null|
+|**2026-07-30**|**FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation**|Lifeng Zhuo et.al.|[link](http://arxiv.org/abs/2607.28596v1)|null|
+|**2026-07-30**|**MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers**|Md. Mehrab Hossain Opi et.al.|[link](http://arxiv.org/abs/2607.28589v1)|null|
+|**2026-07-30**|**ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation**|Xiao Luo et.al.|[link](http://arxiv.org/abs/2607.28581v1)|null|
+|**2026-07-30**|**Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently**|Simon Roy et.al.|[link](http://arxiv.org/abs/2607.28571v1)|null|
+|**2026-07-30**|**Relativistic transport near moving interfaces**|Lorenzo Gavassino et.al.|[link](http://arxiv.org/abs/2607.28569v1)|null|
+|**2026-07-30**|**MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion**|Yunzhan Fu et.al.|[link](http://arxiv.org/abs/2607.28565v1)|null|
+|**2026-07-30**|**Soft charges and zero modes at null boundaries**|Dušan Đorđ ević et.al.|[link](http://arxiv.org/abs/2607.28543v1)|null|
+|**2026-07-30**|**A Provable Oracle-Free Quantum Algorithm for Nonlinear Dynamics on Hybrid Oscillator-Qubit Processors**|Kausthubh Chandramouli et.al.|[link](http://arxiv.org/abs/2607.28541v1)|null|
+|**2026-07-30**|**MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition**|Alex Andonian et.al.|[link](http://arxiv.org/abs/2607.28532v1)|null|
+|**2026-07-30**|**Selective Credibility-Limited Belief Update**|Theofanis Aravanis et.al.|[link](http://arxiv.org/abs/2607.28523v1)|null|
+|**2026-07-30**|**Creative Transformation in Literary Texts: Modelling Change Across Representational Levels**|Ioana-Roxana Boriceanu et.al.|[link](http://arxiv.org/abs/2607.28513v1)|null|
+|**2026-07-30**|**Spacetime Layout and Logical Compilation of Color Code**|Qinjing Yu et.al.|[link](http://arxiv.org/abs/2607.28504v1)|null|
+|**2026-07-30**|**AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans**|Jingwen Yang et.al.|[link](http://arxiv.org/abs/2607.28487v1)|null|
 |**2026-07-28**|**VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening**|Syed Mhamudul Hasan et.al.|[link](http://arxiv.org/abs/2607.26042v1)|null|
 |**2026-07-28**|**Weighted Webs: Morphology-Informed Marked Fields**|Mikel Martin Barandiaran et.al.|[link](http://arxiv.org/abs/2607.26021v1)|null|
 |**2026-07-28**|**MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar**|Solomon Micheal Serunjogi et.al.|[link](http://arxiv.org/abs/2607.26016v1)|null|
@@ -3132,6 +3152,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-30**|**Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently**|Simon Roy et.al.|[link](http://arxiv.org/abs/2607.28571v1)|null|
+|**2026-07-30**|**MSCM-net: A hyperspectral image classiffcation method based on multi-scale convolution and Mamba**|Jianjun Chen et.al.|[link](http://arxiv.org/abs/2607.28277v1)|null|
+|**2026-07-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al.|[link](http://arxiv.org/abs/2607.28065v1)|null|
+|**2026-07-30**|**SPFM-Net: Semantic-Prior-Guided Frequency-Constrained Mamba for Invisible Watermark Attack**|Chunpeng Wang et.al.|[link](http://arxiv.org/abs/2607.27811v1)|null|
+|**2026-07-29**|**Phoneme- vs. Character-Level Targets and Selective State-Space Models for Intracortical Brain-to-Text**|Lucas Zamora Vera et.al.|[link](http://arxiv.org/abs/2607.26751v1)|null|
+|**2026-07-28**|**Rad-JEPA 3D: Radiology Joint-Embedding Predictive Model for 3D Computed Tomography**|Quoc-Huy Trinh et.al.|[link](http://arxiv.org/abs/2607.26196v1)|null|
 |**2026-07-28**|**FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model**|Tresor Y. Koffi et.al.|[link](http://arxiv.org/abs/2607.25791v1)|null|
 |**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|
 |**2026-07-26**|**A Controlled Visual-Backbone Benchmark for Multimodal Short-Term Solar Irradiance Forecasting**|Oshadha Samarakoon et.al.|[link](http://arxiv.org/abs/2607.23633v1)|null|
@@ -3815,6 +3841,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[link](http://arxiv.org/abs/2607.28623v1)|null|
+|**2026-07-30**|**Lifting Lifted Product Codes**|Yuta Hirasaki et.al.|[link](http://arxiv.org/abs/2607.28621v1)|null|
+|**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[link](http://arxiv.org/abs/2607.28618v1)|null|
+|**2026-07-30**|**Logical computation with canonical lifted product codes**|Han Zheng et.al.|[link](http://arxiv.org/abs/2607.28605v1)|null|
+|**2026-07-30**|**MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers**|Md. Mehrab Hossain Opi et.al.|[link](http://arxiv.org/abs/2607.28589v1)|null|
+|**2026-07-30**|**DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation**|Jiacheng Tao et.al.|[link](http://arxiv.org/abs/2607.28580v1)|null|
+|**2026-07-30**|**Quantum Chaos and Diffusive Transport from Geometric Randomness**|Bibek Saha et.al.|[link](http://arxiv.org/abs/2607.28579v1)|null|
+|**2026-07-30**|**MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion**|Yunzhan Fu et.al.|[link](http://arxiv.org/abs/2607.28565v1)|null|
+|**2026-07-30**|**Graph Neural Network Force Fields for Spin Dynamics in Metallic Magnets**|Ali Rayat et.al.|[link](http://arxiv.org/abs/2607.28537v1)|null|
+|**2026-07-30**|**AIx4Soccer: A Unified Platform Architecture for Football Club Management and Structured Athlete Development**|Frederico Falconi Costa et.al.|[link](http://arxiv.org/abs/2607.28531v1)|null|
+|**2026-07-30**|**Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors**|Neelam Akula et.al.|[link](http://arxiv.org/abs/2607.28525v1)|null|
+|**2026-07-30**|**Spectral gaps of ironed two-qubit gadgets matching the iSWAP gap**|Yanying Liang et.al.|[link](http://arxiv.org/abs/2607.28521v1)|null|
+|**2026-07-30**|**AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans**|Jingwen Yang et.al.|[link](http://arxiv.org/abs/2607.28487v1)|null|
+|**2026-07-30**|**Towards Real-Time PixOOD: Efficient Anomaly Segmentation for Autonomous Vehicles**|Luca de Martino et.al.|[link](http://arxiv.org/abs/2607.28483v1)|null|
+|**2026-07-30**|**Design and beam-test characterization of the CRILIN semi-homogeneous crystal calorimeter**|S. Ceravolo et.al.|[link](http://arxiv.org/abs/2607.28477v1)|null|
+|**2026-07-30**|**DB-Bench: Benchmarking Deblenders for LSST DESC Using the Blending ToolKit**|Aidan Berres et.al.|[link](http://arxiv.org/abs/2607.28475v1)|null|
+|**2026-07-30**|**Can Vision-Language Models Reason about AI Edits in Images?**|Darsha Udayanga et.al.|[link](http://arxiv.org/abs/2607.28464v1)|null|
+|**2026-07-30**|**VisualRouter: Query-Grounded Visual Sampling for Long Video Understanding**|Haiyue Zhang et.al.|[link](http://arxiv.org/abs/2607.28463v1)|null|
+|**2026-07-30**|**Graph Neural Multilevel Preconditioners for Iterative Solvers**|Zechen Zhang et.al.|[link](http://arxiv.org/abs/2607.28456v1)|null|
+|**2026-07-30**|**Oracle-Budgeted Molecular Optimization with Short-Term Graph Memory**|Jiannan Yang et.al.|[link](http://arxiv.org/abs/2607.28437v1)|null|
 |**2026-07-28**|**INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models**|Junhan Sun et.al.|[link](http://arxiv.org/abs/2607.26056v1)|null|
 |**2026-07-28**|**Recent progress in graph theory using expansion**|Richard Montgomery et.al.|[link](http://arxiv.org/abs/2607.26049v1)|null|
 |**2026-07-28**|**Quantum Gravity from Fractal Entanglement Geometry**|Jaume Gine et.al.|[link](http://arxiv.org/abs/2607.26035v1)|null|
@@ -6481,6 +6527,18 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[link](http://arxiv.org/abs/2607.28394v1)|null|
+|**2026-07-30**|**When Linear RUL Labels Disagree with Vibration Degradation: A Stage-Aware Target and Dual-Scale Predictor Evaluated on XJTU-SY and IMS**|Behrad Mousaei Shir-Mohammad et.al.|[link](http://arxiv.org/abs/2607.28115v1)|null|
+|**2026-07-30**|**What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models**|Dongxiao He et.al.|[link](http://arxiv.org/abs/2607.27966v1)|null|
+|**2026-07-30**|**ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation**|Dekun Yuan et.al.|[link](http://arxiv.org/abs/2607.27585v1)|null|
+|**2026-07-29**|**A Taxonomy of Human-Robot Teamwork Requirements**|Anastasia Mavridou et.al.|[link](http://arxiv.org/abs/2607.27302v1)|null|
+|**2026-07-28**|**More Data, Worse Decisions? Preference Reversals in Neural Networks under Gram Incompatibility**|Yanli Yan et.al.|[link](http://arxiv.org/abs/2607.27255v1)|null|
+|**2026-07-29**|**Assurance-Scoped Reliability for Agentic Networks: Capturing the State That Matters**|Bilgehan Erman et.al.|[link](http://arxiv.org/abs/2607.26953v1)|null|
+|**2026-07-29**|**Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising**|Zipeng Chen et.al.|[link](http://arxiv.org/abs/2607.26893v1)|null|
+|**2026-07-29**|**TREA-Net: A Transferable Residual Epidemiological Adaptation Network for Dengue Incidence Forecasting**|Inesh Shukla et.al.|[link](http://arxiv.org/abs/2607.26854v1)|null|
+|**2026-07-29**|**Audio-Anchored Fusion of Multi-Ratio DiT Reconstruction Residuals for Cross-Domain Audio Deepfake Detection**|Haotian Mo et.al.|[link](http://arxiv.org/abs/2607.26472v1)|null|
+|**2026-07-29**|**FAS-R1: A Unified Multi-Task MLLM for Reasoning Face Anti-Spoofing**|Hongyang Wang et.al.|[link](http://arxiv.org/abs/2607.26432v1)|null|
+|**2026-07-28**|**When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses**|Zihan Chen et.al.|[link](http://arxiv.org/abs/2607.26348v1)|null|
 |**2026-07-28**|**A Control System, a Dataset, and a Recipe for Making Frozen LLM Agents Learn a Domain**|Debjyoti Paul et.al.|[link](http://arxiv.org/abs/2607.25415v1)|null|
 |**2026-07-28**|**ANFI: Rethinking Neighbor Feature Interaction in Person Re-ID**|Xulin Li et.al.|[link](http://arxiv.org/abs/2607.25407v1)|null|
 |**2026-07-28**|**Sharpness-aware Model Merging with Salience Recovery for LLM-based Cross-Domain Sequential Recommendation**|Huwei Ji et.al.|[link](http://arxiv.org/abs/2607.25366v1)|null|
