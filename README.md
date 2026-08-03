@@ -1,4 +1,4 @@
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 
 ### ISTD
 
@@ -13,7 +13,7 @@
 |**2026-07-02**|**Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement**|Handong Zeng et.al.|[link](http://arxiv.org/abs/2607.01555v1)|null|
 |**2026-06-26**|**Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2606.27655v1)|null|
 |**2026-06-27**|**Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2606.21956v2)|**[code](https://github.com/IVPLabs/ECFNet)**|
-|**2026-06-17**|**SCR-Guided Difficulty-Aware Optimization for Infrared Small Target Detection**|Yunus Sevim et.al.|[link](http://arxiv.org/abs/2606.18783v1)|null|
+|**2026-06-17**|**SCR-Guided Difficulty-Aware Optimization for Infrared Small Target Detection**|Yunus Sevim et.al.|[link](http://arxiv.org/abs/2606.18783v1)|**[code](https://github.com/yall-in-one/Reemm)**|
 |**2026-06-13**|**Decoupled Motion Representation Learning for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2606.15286v1)|null|
 |**2026-06-01**|**RPCASSM: Robust PCA State Space Model For Infrared Small Target Detection**|Pingping Liu et.al.|[link](http://arxiv.org/abs/2606.01689v1)|null|
 |**2026-05-20**|**Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection**|Zhu Liu et.al.|[link](http://arxiv.org/abs/2605.20766v1)|null|
@@ -315,6 +315,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-31**|**The large mass limit of monopoles: abelian limits and Dirac singularities**|Daniel Fadel et.al.|[link](http://arxiv.org/abs/2607.29667v1)|null|
+|**2026-07-31**|**Reusing Past Repairs Through Hierarchical Trajectory Abstraction for Coding Agents**|Yisen Xu et.al.|[link](http://arxiv.org/abs/2607.29658v1)|null|
+|**2026-07-31**|**Elastic Curves via Geometric Mechanics**|Oliver Gross et.al.|[link](http://arxiv.org/abs/2607.29654v1)|null|
+|**2026-07-31**|**RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning**|Qian Wang et.al.|[link](http://arxiv.org/abs/2607.29622v1)|null|
+|**2026-07-31**|**CENDRe: Concept Extraction with Natural Domain Representations**|Antonia Holzapfel et.al.|[link](http://arxiv.org/abs/2607.29621v1)|null|
+|**2026-07-31**|**Educating the Agentic Engineer: Curricula, Collaboration, and Continuous Learning in the AI Era**|Mamdouh Alenezi et.al.|[link](http://arxiv.org/abs/2607.29610v1)|null|
+|**2026-07-31**|**A two-dimensional Allen-Cahn theory for interfaces with boundary**|Marco Badran et.al.|[link](http://arxiv.org/abs/2607.29588v1)|null|
+|**2026-07-31**|**TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning**|Binnan Liu et.al.|[link](http://arxiv.org/abs/2607.29586v1)|null|
+|**2026-07-31**|**SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving**|Pol G. Recasens et.al.|[link](http://arxiv.org/abs/2607.29575v1)|null|
+|**2026-07-31**|**DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation**|Yu-Pu Hsu et.al.|[link](http://arxiv.org/abs/2607.29568v1)|null|
+|**2026-07-31**|**Alteron: A Tool for Behavioral Regression Testing Across NLP Classifier Versions**|Shazzad Hossain et.al.|[link](http://arxiv.org/abs/2607.29557v1)|null|
+|**2026-07-31**|**MoRoute: Dynamic Routing for In-Context Multimodal Video Generation**|Chong Gao et.al.|[link](http://arxiv.org/abs/2607.29545v1)|null|
+|**2026-07-31**|**Expected signatures via partial integration, coordinate change and symmetrization**|Paul P. Hager et.al.|[link](http://arxiv.org/abs/2607.29534v1)|null|
+|**2026-07-31**|**TerraNova: A Foundation Model for the Anthropocene**|Carlos Rodriguez-Pardo et.al.|[link](http://arxiv.org/abs/2607.29527v1)|null|
+|**2026-07-31**|**Elastodynamics from Eulerian Poisson-bracket formalism: application to chiral odd solids**|Cheng-Tai Lee et.al.|[link](http://arxiv.org/abs/2607.29521v1)|null|
+|**2026-07-31**|**Leveraging Transfer Learning with Class-Specific Decoders for Laparoscopic Segmentation**|Priya Tomar et.al.|[link](http://arxiv.org/abs/2607.29509v1)|null|
+|**2026-07-31**|**The fundamental limit of jet tagging: Beyond top jets**|Sarah Koller et.al.|[link](http://arxiv.org/abs/2607.29508v1)|null|
+|**2026-07-31**|**The Grokked Illusion: True Equilibrium Mitigates Catastrophic Forgetting**|Xiaotian Zhang et.al.|[link](http://arxiv.org/abs/2607.29503v1)|null|
+|**2026-07-31**|**Transcript-Managed Transformers: Monotone Multi-Agent Collapse and Universality with Two Pop-Enabled Transcripts**|Sergey Salishev et.al.|[link](http://arxiv.org/abs/2607.29496v1)|null|
+|**2026-07-31**|**Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module**|Simone Lugani et.al.|[link](http://arxiv.org/abs/2607.29473v1)|null|
 |**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[link](http://arxiv.org/abs/2607.28628v1)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[link](http://arxiv.org/abs/2607.28625v1)|null|
 |**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[link](http://arxiv.org/abs/2607.28623v1)|null|
@@ -3152,6 +3172,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-31**|**Progressive Decision-Making for Localizing Open-Ended AI-Generated Image Forgeries**|Jingyi Hou et.al.|[link](http://arxiv.org/abs/2607.29156v1)|null|
 |**2026-07-30**|**Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently**|Simon Roy et.al.|[link](http://arxiv.org/abs/2607.28571v1)|null|
 |**2026-07-30**|**MSCM-net: A hyperspectral image classiffcation method based on multi-scale convolution and Mamba**|Jianjun Chen et.al.|[link](http://arxiv.org/abs/2607.28277v1)|null|
 |**2026-07-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al.|[link](http://arxiv.org/abs/2607.28065v1)|null|
@@ -3841,6 +3862,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-07-31**|**The motivic Lie algebra embeds into the cohomology of the general linear group**|Francis Brown et.al.|[link](http://arxiv.org/abs/2607.29671v1)|null|
+|**2026-07-31**|**Structural Tractability Frontiers for Metric Repair**|Asaf Etgar et.al.|[link](http://arxiv.org/abs/2607.29649v1)|null|
+|**2026-07-31**|**Exact-Distance Domination in Grid Graphs**|Sandip Das et.al.|[link](http://arxiv.org/abs/2607.29648v1)|null|
+|**2026-07-31**|**A minimum-degree threshold for colour-biased Hamilton cycles in hypergraphs**|Natalie Behague et.al.|[link](http://arxiv.org/abs/2607.29628v1)|null|
+|**2026-07-31**|**Dimension Reduction and Asymptotic Approximation of Reactive Transport in a Bulk Domain with a Branched Thin Fracture**|Taras Mel'nyk et.al.|[link](http://arxiv.org/abs/2607.29605v1)|null|
+|**2026-07-31**|**HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation**|An Liu et.al.|[link](http://arxiv.org/abs/2607.29600v1)|null|
+|**2026-07-31**|**A two-dimensional Allen-Cahn theory for interfaces with boundary**|Marco Badran et.al.|[link](http://arxiv.org/abs/2607.29588v1)|null|
+|**2026-07-31**|**Bipartite Extremal Numbers of Trees**|Lucas Waite et.al.|[link](http://arxiv.org/abs/2607.29579v1)|null|
+|**2026-07-31**|**The gate of self-address: where decidable adjudication ends**|Platon Sifnaios et.al.|[link](http://arxiv.org/abs/2607.29576v1)|null|
+|**2026-07-31**|**Strongly converging unitary representations for extensions by exact groups**|David Gao et.al.|[link](http://arxiv.org/abs/2607.29571v1)|null|
+|**2026-07-31**|**DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation**|Yu-Pu Hsu et.al.|[link](http://arxiv.org/abs/2607.29568v1)|null|
+|**2026-07-31**|**Improving the Understandability of Conceptual Models via Abstract Notation Engineering**|Amine Abbad-Andaloussi et.al.|[link](http://arxiv.org/abs/2607.29552v1)|null|
+|**2026-07-31**|**iSWAP maximises the second-moment spectral gap in random quantum circuits**|Yanying Liang et.al.|[link](http://arxiv.org/abs/2607.29551v1)|null|
+|**2026-07-31**|**Multi-Source Multi-View Graph Domain Adaptation with Hyperbolic Residual Encoding for Cross-Site MDD Identification from rs-fMRI**|Zhanpeng Zheng et.al.|[link](http://arxiv.org/abs/2607.29531v1)|null|
+|**2026-07-31**|**AuditCoder: Responsibility-Preserving Task Graphs for Auditable Code Generation and Bounded Repair**|Kangjie Huang et.al.|[link](http://arxiv.org/abs/2607.29529v1)|null|
+|**2026-07-31**|**Homotopy-Aware Corridor Generation without Predefined Reference Paths**|Haoze Dong et.al.|[link](http://arxiv.org/abs/2607.29513v1)|null|
+|**2026-07-31**|**On some perfect matching conjectures in infinite, cubic, bridgeless graphs**|Paulo Magalhães Júnior et.al.|[link](http://arxiv.org/abs/2607.29511v1)|null|
+|**2026-07-31**|**Ordered-to-disordered transfer learning with graph neural networks for formation-energy and HOMO-LUMO gap prediction in high-entropy perovskite oxides**|Panupol Untarabut et.al.|[link](http://arxiv.org/abs/2607.29510v1)|null|
+|**2026-07-31**|**Leveraging Transfer Learning with Class-Specific Decoders for Laparoscopic Segmentation**|Priya Tomar et.al.|[link](http://arxiv.org/abs/2607.29509v1)|null|
+|**2026-07-31**|**Fast Mixing for Low-Temperature Potts Models via Poisson Trees**|Zongchen Chen et.al.|[link](http://arxiv.org/abs/2607.29495v1)|null|
 |**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[link](http://arxiv.org/abs/2607.28623v1)|null|
 |**2026-07-30**|**Lifting Lifted Product Codes**|Yuta Hirasaki et.al.|[link](http://arxiv.org/abs/2607.28621v1)|null|
 |**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[link](http://arxiv.org/abs/2607.28618v1)|null|
@@ -6527,6 +6568,14 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-07-31**|**Leveraging Transfer Learning with Class-Specific Decoders for Laparoscopic Segmentation**|Priya Tomar et.al.|[link](http://arxiv.org/abs/2607.29509v1)|null|
+|**2026-07-31**|**MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classification**|Sebastian Doerrich et.al.|[link](http://arxiv.org/abs/2607.29462v1)|null|
+|**2026-07-31**|**Beyond Component Testing: Validating Agentic AI Systems**|Fabio Orazio Mirto et.al.|[link](http://arxiv.org/abs/2607.29405v1)|null|
+|**2026-07-31**|**Cross-Resolution Semantic Learning for Graph Domain Adaptation**|Yingxu Wang et.al.|[link](http://arxiv.org/abs/2607.29365v1)|null|
+|**2026-07-31**|**Training-Free Entity-Level Few-Shot Segmentation of Remote Sensing Images with Advection Refinement**|Xueting Bai et.al.|[link](http://arxiv.org/abs/2607.29278v1)|null|
+|**2026-07-31**|**Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models**|Yi Wang et.al.|[link](http://arxiv.org/abs/2607.28980v1)|null|
+|**2026-07-31**|**Domain-Adaptive Deep Joint Source-Channel Coding for Image Classification**|Yishen Li et.al.|[link](http://arxiv.org/abs/2607.28907v1)|null|
+|**2026-07-30**|**Metaphor-Induced Algorithmic Steering: Cross-Domain Procedural Transfer in LLM Code Generation**|Zhibo Hu et.al.|[link](http://arxiv.org/abs/2607.28683v1)|null|
 |**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[link](http://arxiv.org/abs/2607.28394v1)|null|
 |**2026-07-30**|**When Linear RUL Labels Disagree with Vibration Degradation: A Stage-Aware Target and Dual-Scale Predictor Evaluated on XJTU-SY and IMS**|Behrad Mousaei Shir-Mohammad et.al.|[link](http://arxiv.org/abs/2607.28115v1)|null|
 |**2026-07-30**|**What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models**|Dongxiao He et.al.|[link](http://arxiv.org/abs/2607.27966v1)|null|
