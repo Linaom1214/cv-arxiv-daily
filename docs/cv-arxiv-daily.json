@@ -159,7 +159,7 @@
     "2605.20766v1": "|**2026-05-20**|**Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection**|Zhu Liu et.al.|[link](http://arxiv.org/abs/2605.20766v1)|null|\n",
     "2607.17148v1": "|**2026-07-19**|**Noise-Robust Box-Supervised Infrared Small Target Detection via Physics-Inspired Soft Label Optimization**|Xizhe Zhang et.al.|[link](http://arxiv.org/abs/2607.17148v1)|null|\n",
     "2607.19040v1": "|**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[link](http://arxiv.org/abs/2607.19040v1)|null|\n",
-    "2607.24184v1": "|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|\n",
+    "2607.24184v1": "|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|**[code](https://github.com/Haoyu096/LCMamNet)**|\n",
     "2607.23994v2": "|**2026-07-28**|**Effective Receptive Field Ordering Matters for Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2607.23994v2)|null|\n",
     "2608.20870v1": "|**2026-08-21**|**RDANet: Relative Degradation Aware Network for Infrared Small Target Detection**|Rui Liu et.al.|[link](http://arxiv.org/abs/2608.20870v1)|null|\n",
     "2608.20754v2": "|**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|\n",
@@ -3181,7 +3181,27 @@
     "2608.25918v1": "|**2026-08-26**|**Random Invariance Testing on Quadratic Form Statistics with Application to Autocorrelation**|Amitakshar Biswas et.al.|[link](http://arxiv.org/abs/2608.25918v1)|null|\n",
     "2608.25897v1": "|**2026-08-26**|**Towards A Unified Information Bottleneck Framework for Time Series Explanations**|Xu Zheng et.al.|[link](http://arxiv.org/abs/2608.25897v1)|null|\n",
     "2608.25894v1": "|**2026-08-26**|**From Passive Response to Proactive Correction: Enhancing LLM Robustness Against Input Fact Perturbations**|Ping Wang et.al.|[link](http://arxiv.org/abs/2608.25894v1)|null|\n",
-    "2608.25893v1": "|**2026-08-26**|**A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks**|Yikun Han et.al.|[link](http://arxiv.org/abs/2608.25893v1)|**[code](https://github.com/ywee-25/A-General-Purpose-Molecular-Foundation-Model-Transfers-Across-Diverse-Olfactory-Tasks)**|\n"
+    "2608.25893v1": "|**2026-08-26**|**A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks**|Yikun Han et.al.|[link](http://arxiv.org/abs/2608.25893v1)|**[code](https://github.com/ywee-25/A-General-Purpose-Molecular-Foundation-Model-Transfers-Across-Diverse-Olfactory-Tasks)**|\n",
+    "2608.27452v1": "|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[link](http://arxiv.org/abs/2608.27452v1)|null|\n",
+    "2608.27451v1": "|**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chik\u00e9 Abuah et.al.|[link](http://arxiv.org/abs/2608.27451v1)|null|\n",
+    "2608.27449v1": "|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[link](http://arxiv.org/abs/2608.27449v1)|null|\n",
+    "2608.27430v1": "|**2026-08-27**|**Factorized Boolean representations for efficient quantum synthesis**|Mehul Shah et.al.|[link](http://arxiv.org/abs/2608.27430v1)|null|\n",
+    "2608.27429v1": "|**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[link](http://arxiv.org/abs/2608.27429v1)|null|\n",
+    "2608.27410v1": "|**2026-08-27**|**Doubly-scaled planar ${\\cal N} = 4$ SYM \\& Carroll Holography**|Arjun Bagchi et.al.|[link](http://arxiv.org/abs/2608.27410v1)|null|\n",
+    "2608.27407v1": "|**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Agniv Chatterjee et.al.|[link](http://arxiv.org/abs/2608.27407v1)|null|\n",
+    "2608.27397v1": "|**2026-08-27**|**Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction**|Jin Mu et.al.|[link](http://arxiv.org/abs/2608.27397v1)|null|\n",
+    "2608.27382v1": "|**2026-08-27**|**Token-Level Advertising**|Hanbing Liu et.al.|[link](http://arxiv.org/abs/2608.27382v1)|null|\n",
+    "2608.27367v1": "|**2026-08-27**|**Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models**|Frederik Berenz et.al.|[link](http://arxiv.org/abs/2608.27367v1)|null|\n",
+    "2608.27361v1": "|**2026-08-27**|**Temperature dependence of the charge density from first principles: application to the (222) forbidden reflection in silicon**|Jean Paul Nery et.al.|[link](http://arxiv.org/abs/2608.27361v1)|null|\n",
+    "2608.27354v1": "|**2026-08-27**|**Super-Resolution of Range-Doppler Maps: A Case Study with Chirp-Sequence Radar and Transformer**|Sven Hinderer et.al.|[link](http://arxiv.org/abs/2608.27354v1)|null|\n",
+    "2608.27325v1": "|**2026-08-27**|**Why Three Phases? A Historical and Engineering Reassessment of Phase Order in AC Power Transmission**|Kai Sun et.al.|[link](http://arxiv.org/abs/2608.27325v1)|null|\n",
+    "2608.27321v1": "|**2026-08-27**|**A blueprint for the formalization of norm-variation of multiple ergodic averages for commuting transformations**|Floris van Doorn et.al.|[link](http://arxiv.org/abs/2608.27321v1)|null|\n",
+    "2608.27314v1": "|**2026-08-27**|**Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections**|Md Sharier Nazim et.al.|[link](http://arxiv.org/abs/2608.27314v1)|null|\n",
+    "2608.27308v1": "|**2026-08-27**|**Wess-Zumino gauge for analytic prepotentials of off-shell $\\mathcal{N}=2$ supergravity: bosonic sector**|Nikita Zaigraev et.al.|[link](http://arxiv.org/abs/2608.27308v1)|null|\n",
+    "2608.27305v1": "|**2026-08-27**|**The Spherical Hadwiger Theorem**|Suijie Wang et.al.|[link](http://arxiv.org/abs/2608.27305v1)|null|\n",
+    "2608.27303v1": "|**2026-08-27**|**The Higher-Dimensional Nitsche Conjecture: Sharp Bounds and Rigidity**|Bin Deng et.al.|[link](http://arxiv.org/abs/2608.27303v1)|null|\n",
+    "2608.27290v1": "|**2026-08-27**|**Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan**|Francesca Razzano et.al.|[link](http://arxiv.org/abs/2608.27290v1)|null|\n",
+    "2608.27276v1": "|**2026-08-27**|**The complete spectrum of the linearized $p$-Laplacian at a Sobolev extremal**|Yitian Zhang et.al.|[link](http://arxiv.org/abs/2608.27276v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -3875,8 +3895,8 @@
     "2608.25190v1": "|**2026-08-25**|**BanglaMamba: Exploring State Space Models for Bangla Fake News Detection**|M. K. Khalidi Siam et.al.|[link](http://arxiv.org/abs/2608.25190v1)|null|\n",
     "2608.24810v1": "|**2026-08-25**|**Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core**|Yogesh Kumar et.al.|[link](http://arxiv.org/abs/2608.24810v1)|null|\n",
     "2608.24561v1": "|**2026-08-25**|**SeisMamba: Low-Latency Single-Station Seismic Magnitude Estimation for Spatially Distributed Earthquake Early Warning**|Quenton Yeo et.al.|[link](http://arxiv.org/abs/2608.24561v1)|null|\n",
-    "2608.24959v1": "|**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[link](http://arxiv.org/abs/2608.24959v1)|**[code](https://github.com/GaussVLA/GaussVLA)**|\n",
-    "2608.22861v1": "|**2026-08-24**|**Following Motion for Sequential Modeling in Video Frame Interpolation**|Jaehyun Park et.al.|[link](http://arxiv.org/abs/2608.22861v1)|**[code](https://github.com/Jaep0805/MGMVFI)**|\n",
+    "2608.24959v1": "|**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[link](http://arxiv.org/abs/2608.24959v1)|null|\n",
+    "2608.22861v1": "|**2026-08-24**|**Following Motion for Sequential Modeling in Video Frame Interpolation**|Jaehyun Park et.al.|[link](http://arxiv.org/abs/2608.22861v1)|null|\n",
     "2608.21952v1": "|**2026-08-22**|**SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality**|Hyunwoo Kim et.al.|[link](http://arxiv.org/abs/2608.21952v1)|null|\n",
     "2608.20580v1": "|**2026-08-20**|**Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning**|Xinyun Liu et.al.|[link](http://arxiv.org/abs/2608.20580v1)|null|\n",
     "2608.19813v1": "|**2026-08-20**|**Energy-Mamba: A Physics-Constrained State-Space Model for Medical Image Classification**|Mohamed Mabrok et.al.|[link](http://arxiv.org/abs/2608.19813v1)|null|\n",
@@ -3888,7 +3908,8 @@
     "2608.17421v1": "|**2026-08-18**|**TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake**|Ruicheng Zhang et.al.|[link](http://arxiv.org/abs/2608.17421v1)|null|\n",
     "2608.16338v1": "|**2026-08-17**|**SIGMA-Lane: Scale-pyramId Gated MAmba for Temporally Consistent Video Lane Detection**|Tiancheng Zhang et.al.|[link](http://arxiv.org/abs/2608.16338v1)|null|\n",
     "2608.15831v1": "|**2026-08-16**|**CardiacMamba: Fair and Robust RGB-RF Fusion for Remote Heart Rate Estimation via State Space Modeling**|Bo Zhao et.al.|[link](http://arxiv.org/abs/2608.15831v1)|null|\n",
-    "2608.15573v1": "|**2026-08-16**|**Not All History Helps: Velocity-Aware Selective Memory for Long-Horizon End-to-End Autonomous Driving**|Yuchen Liu et.al.|[link](http://arxiv.org/abs/2608.15573v1)|null|\n"
+    "2608.15573v1": "|**2026-08-16**|**Not All History Helps: Velocity-Aware Selective Memory for Long-Horizon End-to-End Autonomous Driving**|Yuchen Liu et.al.|[link](http://arxiv.org/abs/2608.15573v1)|null|\n",
+    "2608.26607v1": "|**2026-08-27**|**FU-Mamba: A Frequency-Enhanced Dynamic Scanning Framework for Oralscan Image Segmentation**|Xinxin Zhao et.al.|[link](http://arxiv.org/abs/2608.26607v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -6610,7 +6631,27 @@
     "2608.25866v1": "|**2026-08-26**|**LUTSeg: A Longitudinal Multi-Expert Dataset for Ulcer Tissue Segmentation**|Karen Sanchez et.al.|[link](http://arxiv.org/abs/2608.25866v1)|null|\n",
     "2608.25831v1": "|**2026-08-26**|**Clique-saturating non-edges throughout the Tur\u00e1n range**|Xiaolin Wang et.al.|[link](http://arxiv.org/abs/2608.25831v1)|null|\n",
     "2608.25830v1": "|**2026-08-26**|**Anytime Global Tensor Motion Planning**|Sai Coumar et.al.|[link](http://arxiv.org/abs/2608.25830v1)|null|\n",
-    "2608.25819v1": "|**2026-08-26**|**Steer the Sampling, Not the Kernel Grid: Geometry-Guided Sampling Operator for Volumetric Segmentation**|Sizhe Wang et.al.|[link](http://arxiv.org/abs/2608.25819v1)|null|\n"
+    "2608.25819v1": "|**2026-08-26**|**Steer the Sampling, Not the Kernel Grid: Geometry-Guided Sampling Operator for Volumetric Segmentation**|Sizhe Wang et.al.|[link](http://arxiv.org/abs/2608.25819v1)|null|\n",
+    "2608.27452v1": "|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[link](http://arxiv.org/abs/2608.27452v1)|null|\n",
+    "2608.27449v1": "|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[link](http://arxiv.org/abs/2608.27449v1)|null|\n",
+    "2608.27429v1": "|**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[link](http://arxiv.org/abs/2608.27429v1)|null|\n",
+    "2608.27425v1": "|**2026-08-27**|**Leading term strandings for webs**|Michael Bo et.al.|[link](http://arxiv.org/abs/2608.27425v1)|null|\n",
+    "2608.27422v1": "|**2026-08-27**|**misi: a Metric Inverted Sample Index**|Edgar Chavez et.al.|[link](http://arxiv.org/abs/2608.27422v1)|null|\n",
+    "2608.27413v1": "|**2026-08-27**|**Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling**|Maksim Utushkin et.al.|[link](http://arxiv.org/abs/2608.27413v1)|null|\n",
+    "2608.27407v1": "|**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Agniv Chatterjee et.al.|[link](http://arxiv.org/abs/2608.27407v1)|null|\n",
+    "2608.27405v1": "|**2026-08-27**|**Asymptotic Bounds for Online Ramsey Numbers of Stars versus Long Paths and Cycles**|Sam Beilis et.al.|[link](http://arxiv.org/abs/2608.27405v1)|null|\n",
+    "2608.27404v1": "|**2026-08-27**|**The Erdos--Gallai bound for consecutive even cycle lengths**|Yaobin Chen et.al.|[link](http://arxiv.org/abs/2608.27404v1)|null|\n",
+    "2608.27396v1": "|**2026-08-27**|**Sharp quadratic $\u03c7$-binding functions for powers of bipartite graphs**|Arpan Sadhukhan et.al.|[link](http://arxiv.org/abs/2608.27396v1)|null|\n",
+    "2608.27381v1": "|**2026-08-27**|**Boxicity and Threshold Dimension of Zero Divisor Graphs**|Marco Caoduro et.al.|[link](http://arxiv.org/abs/2608.27381v1)|null|\n",
+    "2608.27347v1": "|**2026-08-27**|**Blindfolded pursuit with delays of your choice**|Torben Sch\u00fcrenberg et.al.|[link](http://arxiv.org/abs/2608.27347v1)|null|\n",
+    "2608.27342v1": "|**2026-08-27**|**Sign-preserving solutions to the Tzitz\u00e9ica equation on lattice graphs**|Pengxiu Yu et.al.|[link](http://arxiv.org/abs/2608.27342v1)|null|\n",
+    "2608.27331v1": "|**2026-08-27**|**Sharp Same-Color Cycle Covers in Two-Colored Complete Graphs**|Xiao-Chuan Liu et.al.|[link](http://arxiv.org/abs/2608.27331v1)|null|\n",
+    "2608.27324v1": "|**2026-08-27**|**Sharp partial regularity of Hamiltonian stationary and special Lagrangian graphs**|Arunima Bhattacharya et.al.|[link](http://arxiv.org/abs/2608.27324v1)|null|\n",
+    "2608.27303v1": "|**2026-08-27**|**The Higher-Dimensional Nitsche Conjecture: Sharp Bounds and Rigidity**|Bin Deng et.al.|[link](http://arxiv.org/abs/2608.27303v1)|null|\n",
+    "2608.27295v1": "|**2026-08-27**|**A Temporal Multiplex Graph Neural Network for Systemic Risk Transmission in Global Banking**|Nneka Umeorah et.al.|[link](http://arxiv.org/abs/2608.27295v1)|null|\n",
+    "2608.27290v1": "|**2026-08-27**|**Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan**|Francesca Razzano et.al.|[link](http://arxiv.org/abs/2608.27290v1)|null|\n",
+    "2608.27265v1": "|**2026-08-27**|**SCIT: Testing Causal Cache Carriers in Latent Chain-of-Thought Models**|Yi Ding et.al.|[link](http://arxiv.org/abs/2608.27265v1)|null|\n",
+    "2608.27263v1": "|**2026-08-27**|**Asymptotic consensus and flocking under decaying persistent excitation on rooted digraphs**|Chiara Cicolani et.al.|[link](http://arxiv.org/abs/2608.27263v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -7776,6 +7817,9 @@
     "2608.23235v1": "|**2026-08-24**|**A Multi-Domain and Multi-Task Generative Framework with Explicit Task and Domain Conditioning for Cross-Domain Event Extraction**|Siting Liang et.al.|[link](http://arxiv.org/abs/2608.23235v1)|null|\n",
     "2608.23140v1": "|**2026-08-24**|**MIVIFI: Bridging Perspective and Fisheye Domains for Training Multi-View Fisheye Image Generation Models**|Matthias Neuwirth-Trapp et.al.|[link](http://arxiv.org/abs/2608.23140v1)|null|\n",
     "2608.23131v1": "|**2026-08-24**|**A Dual-Expert Strategy Integrating LLMs to Mitigate Negative Transfer in Cross-Domain Sequential Recommendation**|Hyeongjun Yun et.al.|[link](http://arxiv.org/abs/2608.23131v1)|null|\n",
-    "2608.22688v1": "|**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[link](http://arxiv.org/abs/2608.22688v1)|null|\n"
+    "2608.22688v1": "|**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[link](http://arxiv.org/abs/2608.22688v1)|null|\n",
+    "2608.27409v1": "|**2026-08-27**|**Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms**|Siye Wu et.al.|[link](http://arxiv.org/abs/2608.27409v1)|null|\n",
+    "2608.27181v1": "|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[link](http://arxiv.org/abs/2608.27181v1)|null|\n",
+    "2608.24947v2": "|**2026-08-27**|**CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery**|Mahir Shahriar Tamim et.al.|[link](http://arxiv.org/abs/2608.24947v2)|null|\n"
   }
 }

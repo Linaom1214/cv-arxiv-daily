@@ -1,4 +1,4 @@
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 
 ### ISTD
 
@@ -8,7 +8,7 @@
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|
 |**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|
-|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|
+|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|**[code](https://github.com/Haoyu096/LCMamNet)**|
 |**2026-07-28**|**Effective Receptive Field Ordering Matters for Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2607.23994v2)|null|
 |**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[link](http://arxiv.org/abs/2607.19040v1)|null|
 |**2026-07-19**|**Noise-Robust Box-Supervised Infrared Small Target Detection via Physics-Inspired Soft Label Optimization**|Xizhe Zhang et.al.|[link](http://arxiv.org/abs/2607.17148v1)|null|
@@ -320,6 +320,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[link](http://arxiv.org/abs/2608.27452v1)|null|
+|**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chiké Abuah et.al.|[link](http://arxiv.org/abs/2608.27451v1)|null|
+|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[link](http://arxiv.org/abs/2608.27449v1)|null|
+|**2026-08-27**|**Factorized Boolean representations for efficient quantum synthesis**|Mehul Shah et.al.|[link](http://arxiv.org/abs/2608.27430v1)|null|
+|**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[link](http://arxiv.org/abs/2608.27429v1)|null|
+|**2026-08-27**|**Doubly-scaled planar ${\cal N} = 4$ SYM \& Carroll Holography**|Arjun Bagchi et.al.|[link](http://arxiv.org/abs/2608.27410v1)|null|
+|**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Agniv Chatterjee et.al.|[link](http://arxiv.org/abs/2608.27407v1)|null|
+|**2026-08-27**|**Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction**|Jin Mu et.al.|[link](http://arxiv.org/abs/2608.27397v1)|null|
+|**2026-08-27**|**Token-Level Advertising**|Hanbing Liu et.al.|[link](http://arxiv.org/abs/2608.27382v1)|null|
+|**2026-08-27**|**Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models**|Frederik Berenz et.al.|[link](http://arxiv.org/abs/2608.27367v1)|null|
+|**2026-08-27**|**Temperature dependence of the charge density from first principles: application to the (222) forbidden reflection in silicon**|Jean Paul Nery et.al.|[link](http://arxiv.org/abs/2608.27361v1)|null|
+|**2026-08-27**|**Super-Resolution of Range-Doppler Maps: A Case Study with Chirp-Sequence Radar and Transformer**|Sven Hinderer et.al.|[link](http://arxiv.org/abs/2608.27354v1)|null|
+|**2026-08-27**|**Why Three Phases? A Historical and Engineering Reassessment of Phase Order in AC Power Transmission**|Kai Sun et.al.|[link](http://arxiv.org/abs/2608.27325v1)|null|
+|**2026-08-27**|**A blueprint for the formalization of norm-variation of multiple ergodic averages for commuting transformations**|Floris van Doorn et.al.|[link](http://arxiv.org/abs/2608.27321v1)|null|
+|**2026-08-27**|**Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections**|Md Sharier Nazim et.al.|[link](http://arxiv.org/abs/2608.27314v1)|null|
+|**2026-08-27**|**Wess-Zumino gauge for analytic prepotentials of off-shell $\mathcal{N}=2$ supergravity: bosonic sector**|Nikita Zaigraev et.al.|[link](http://arxiv.org/abs/2608.27308v1)|null|
+|**2026-08-27**|**The Spherical Hadwiger Theorem**|Suijie Wang et.al.|[link](http://arxiv.org/abs/2608.27305v1)|null|
+|**2026-08-27**|**The Higher-Dimensional Nitsche Conjecture: Sharp Bounds and Rigidity**|Bin Deng et.al.|[link](http://arxiv.org/abs/2608.27303v1)|null|
+|**2026-08-27**|**Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan**|Francesca Razzano et.al.|[link](http://arxiv.org/abs/2608.27290v1)|null|
+|**2026-08-27**|**The complete spectrum of the linearized $p$-Laplacian at a Sobolev extremal**|Yitian Zhang et.al.|[link](http://arxiv.org/abs/2608.27276v1)|null|
 |**2026-08-26**|**Massive Ghost Confinement, Dipole Equation and Multipole States in Quadratic Gravity**|Ichiro Oda et.al.|[link](http://arxiv.org/abs/2608.26085v1)|null|
 |**2026-08-26**|**Numerical Direct Scattering Transform for Dark Solitons**|Ilya Mullyadzhanov et.al.|[link](http://arxiv.org/abs/2608.26054v1)|null|
 |**2026-08-26**|**How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention**|Gerard Conangla Planes et.al.|[link](http://arxiv.org/abs/2608.26052v1)|null|
@@ -3197,14 +3217,15 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-27**|**FU-Mamba: A Frequency-Enhanced Dynamic Scanning Framework for Oralscan Image Segmentation**|Xinxin Zhao et.al.|[link](http://arxiv.org/abs/2608.26607v1)|null|
 |**2026-08-26**|**CrossMambaTuning: Synergistic Spatial and Cross-Layer Adaptation for Machine Vision Compression**|Haobo Xiong et.al.|[link](http://arxiv.org/abs/2608.25568v1)|null|
 |**2026-08-25**|**Multi-View Trust Evaluation for Collaborator Selection via Evidential Deep Learning**|Botao Zhu et.al.|[link](http://arxiv.org/abs/2608.25235v1)|null|
 |**2026-08-25**|**Long-Term Behavioral Evaluation for Trusted Collaborator Selection via Bidirectional Mamba**|Botao Zhu et.al.|[link](http://arxiv.org/abs/2608.25232v1)|null|
 |**2026-08-25**|**BanglaMamba: Exploring State Space Models for Bangla Fake News Detection**|M. K. Khalidi Siam et.al.|[link](http://arxiv.org/abs/2608.25190v1)|null|
-|**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[link](http://arxiv.org/abs/2608.24959v1)|**[code](https://github.com/GaussVLA/GaussVLA)**|
+|**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[link](http://arxiv.org/abs/2608.24959v1)|null|
 |**2026-08-25**|**Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core**|Yogesh Kumar et.al.|[link](http://arxiv.org/abs/2608.24810v1)|null|
 |**2026-08-25**|**SeisMamba: Low-Latency Single-Station Seismic Magnitude Estimation for Spatially Distributed Earthquake Early Warning**|Quenton Yeo et.al.|[link](http://arxiv.org/abs/2608.24561v1)|null|
-|**2026-08-24**|**Following Motion for Sequential Modeling in Video Frame Interpolation**|Jaehyun Park et.al.|[link](http://arxiv.org/abs/2608.22861v1)|**[code](https://github.com/Jaep0805/MGMVFI)**|
+|**2026-08-24**|**Following Motion for Sequential Modeling in Video Frame Interpolation**|Jaehyun Park et.al.|[link](http://arxiv.org/abs/2608.22861v1)|null|
 |**2026-08-22**|**SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality**|Hyunwoo Kim et.al.|[link](http://arxiv.org/abs/2608.21952v1)|null|
 |**2026-08-20**|**Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning**|Xinyun Liu et.al.|[link](http://arxiv.org/abs/2608.20580v1)|null|
 |**2026-08-20**|**Energy-Mamba: A Physics-Constrained State-Space Model for Medical Image Classification**|Mohamed Mabrok et.al.|[link](http://arxiv.org/abs/2608.19813v1)|null|
@@ -3907,6 +3928,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[link](http://arxiv.org/abs/2608.27452v1)|null|
+|**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[link](http://arxiv.org/abs/2608.27449v1)|null|
+|**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[link](http://arxiv.org/abs/2608.27429v1)|null|
+|**2026-08-27**|**Leading term strandings for webs**|Michael Bo et.al.|[link](http://arxiv.org/abs/2608.27425v1)|null|
+|**2026-08-27**|**misi: a Metric Inverted Sample Index**|Edgar Chavez et.al.|[link](http://arxiv.org/abs/2608.27422v1)|null|
+|**2026-08-27**|**Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling**|Maksim Utushkin et.al.|[link](http://arxiv.org/abs/2608.27413v1)|null|
+|**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Agniv Chatterjee et.al.|[link](http://arxiv.org/abs/2608.27407v1)|null|
+|**2026-08-27**|**Asymptotic Bounds for Online Ramsey Numbers of Stars versus Long Paths and Cycles**|Sam Beilis et.al.|[link](http://arxiv.org/abs/2608.27405v1)|null|
+|**2026-08-27**|**The Erdos--Gallai bound for consecutive even cycle lengths**|Yaobin Chen et.al.|[link](http://arxiv.org/abs/2608.27404v1)|null|
+|**2026-08-27**|**Sharp quadratic $χ$-binding functions for powers of bipartite graphs**|Arpan Sadhukhan et.al.|[link](http://arxiv.org/abs/2608.27396v1)|null|
+|**2026-08-27**|**Boxicity and Threshold Dimension of Zero Divisor Graphs**|Marco Caoduro et.al.|[link](http://arxiv.org/abs/2608.27381v1)|null|
+|**2026-08-27**|**Blindfolded pursuit with delays of your choice**|Torben Schürenberg et.al.|[link](http://arxiv.org/abs/2608.27347v1)|null|
+|**2026-08-27**|**Sign-preserving solutions to the Tzitzéica equation on lattice graphs**|Pengxiu Yu et.al.|[link](http://arxiv.org/abs/2608.27342v1)|null|
+|**2026-08-27**|**Sharp Same-Color Cycle Covers in Two-Colored Complete Graphs**|Xiao-Chuan Liu et.al.|[link](http://arxiv.org/abs/2608.27331v1)|null|
+|**2026-08-27**|**Sharp partial regularity of Hamiltonian stationary and special Lagrangian graphs**|Arunima Bhattacharya et.al.|[link](http://arxiv.org/abs/2608.27324v1)|null|
+|**2026-08-27**|**The Higher-Dimensional Nitsche Conjecture: Sharp Bounds and Rigidity**|Bin Deng et.al.|[link](http://arxiv.org/abs/2608.27303v1)|null|
+|**2026-08-27**|**A Temporal Multiplex Graph Neural Network for Systemic Risk Transmission in Global Banking**|Nneka Umeorah et.al.|[link](http://arxiv.org/abs/2608.27295v1)|null|
+|**2026-08-27**|**Detection of Christmas tree plantations from high-resolution aerial imagery. A case study in the French Morvan**|Francesca Razzano et.al.|[link](http://arxiv.org/abs/2608.27290v1)|null|
+|**2026-08-27**|**SCIT: Testing Causal Cache Carriers in Latent Chain-of-Thought Models**|Yi Ding et.al.|[link](http://arxiv.org/abs/2608.27265v1)|null|
+|**2026-08-27**|**Asymptotic consensus and flocking under decaying persistent excitation on rooted digraphs**|Chiara Cicolani et.al.|[link](http://arxiv.org/abs/2608.27263v1)|null|
 |**2026-08-26**|**MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching**|Hao Yin et.al.|[link](http://arxiv.org/abs/2608.26094v1)|null|
 |**2026-08-26**|**Partially-Dynamic All-Pairs Maxflow and Effective Resistance via Stable Sparsifiers**|Gramoz Goranci et.al.|[link](http://arxiv.org/abs/2608.26037v1)|null|
 |**2026-08-26**|**UltraPIPS: Improving model perception in B-mode ultrasound with foundation models**|Tal Grutman et.al.|[link](http://arxiv.org/abs/2608.26033v1)|null|
@@ -6633,11 +6674,14 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-08-27**|**Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms**|Siye Wu et.al.|[link](http://arxiv.org/abs/2608.27409v1)|null|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[link](http://arxiv.org/abs/2608.27181v1)|null|
 |**2026-08-26**|**From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**|Lukas Edman et.al.|[link](http://arxiv.org/abs/2608.25605v1)|null|
 |**2026-08-26**|**TransRetrieval: Scaling Up Transformer-Based Retrieval for Industrial Recommendation**|Zhifei Zheng et.al.|[link](http://arxiv.org/abs/2608.25528v1)|null|
 |**2026-08-26**|**CRAMER: Control via Request-Aware Masking for Editing Recommenders**|Zhiyuan Julian Su et.al.|[link](http://arxiv.org/abs/2608.25370v1)|null|
 |**2026-08-26**|**Leveraging Speech Acts for Low-Data and Cross-Domain Conversation Derailment Forecasting**|Angela Yifei Yuan et.al.|[link](http://arxiv.org/abs/2608.25359v1)|null|
 |**2026-08-25**|**FrontierChallenge: Evaluating Scientific Workflow Completion**|Liangcai Su et.al.|[link](http://arxiv.org/abs/2608.24979v1)|null|
+|**2026-08-27**|**CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery**|Mahir Shahriar Tamim et.al.|[link](http://arxiv.org/abs/2608.24947v2)|null|
 |**2026-08-24**|**CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery**|Mahir Shahriar Tamim et.al.|[link](http://arxiv.org/abs/2608.24947v1)|null|
 |**2026-08-25**|**Image Difference Quantification Using Autoencoder-Based Latent Representations**|Manish Sharma et.al.|[link](http://arxiv.org/abs/2608.24782v1)|null|
 |**2026-08-25**|**ICS Cybersecurity Datasets: A Systematic Meta-Review of Coverage, Evaluation Practice, and Structural Gaps**|Konstantinos E. Kampourakis et.al.|[link](http://arxiv.org/abs/2608.24757v1)|null|
