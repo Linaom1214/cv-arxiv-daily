@@ -1,4 +1,4 @@
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 
 ### ISTD
 
@@ -320,6 +320,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-28**|**Renormalization-guided cascade upscaling for lattice field generation**|Anna Hasenfratz et.al.|[link](http://arxiv.org/abs/2608.28581v1)|null|
+|**2026-08-28**|**Renormalization-guided inverse blocking for lattice field generation: construction and validation**|Anna Hasenfratz et.al.|[link](http://arxiv.org/abs/2608.28580v1)|null|
+|**2026-08-28**|**Quantum Fourier transform toolbox**|Carli Bruinsma et.al.|[link](http://arxiv.org/abs/2608.28573v1)|null|
+|**2026-08-28**|**Quantum Fourier transform for the symmetric group**|Carli Bruinsma et.al.|[link](http://arxiv.org/abs/2608.28569v1)|null|
+|**2026-08-28**|**SignRR: Retrieve and Refine Real Motion for Sign Language Production**|Fidel Omar Tito Cruz et.al.|[link](http://arxiv.org/abs/2608.28568v1)|null|
+|**2026-08-28**|**Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks**|Arun D. Kulkarni et.al.|[link](http://arxiv.org/abs/2608.28524v1)|null|
+|**2026-08-28**|**Classical Commitment over Quantum Channels with Limited Entanglement Assistance**|Remi A. Chou et.al.|[link](http://arxiv.org/abs/2608.28500v1)|null|
+|**2026-08-28**|**AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction**|Yafei Zhang et.al.|[link](http://arxiv.org/abs/2608.28491v1)|null|
+|**2026-08-28**|**Approaching Resource-Theoretic Optimal Performance with Structured Environments**|Lea Lautenbacher et.al.|[link](http://arxiv.org/abs/2608.28488v1)|null|
+|**2026-08-28**|**Quantum-Based Solutions for Security Enhancement in Open Radio Access Networks**|Dzung Quoc Ngo et.al.|[link](http://arxiv.org/abs/2608.28480v1)|null|
+|**2026-08-28**|**ScatterWorks: A Python package for building and solving scattering network models**|R. Johanna Zijderveld et.al.|[link](http://arxiv.org/abs/2608.28479v1)|null|
+|**2026-08-28**|**Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V**|Pablo Lozano-Jimenez et.al.|[link](http://arxiv.org/abs/2608.28461v1)|null|
+|**2026-08-28**|**ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT**|Huseyin Umut Isik et.al.|[link](http://arxiv.org/abs/2608.28455v1)|null|
+|**2026-08-28**|**Prompt-Guided Interactive Segmentation of Interstitial Lung Disease in Thoracic CT**|Vasilis Dedousis et.al.|[link](http://arxiv.org/abs/2608.28453v1)|null|
+|**2026-08-28**|**Between Algorithm (AI) and Intuition (Human): Preserving Designer Agency in AI-Assisted Sensemaking of Qualitative UX Data**|Md Haseen Akhtar et.al.|[link](http://arxiv.org/abs/2608.28420v1)|null|
+|**2026-08-28**|**A unified approach via Geronimus transformation to various types of orthogonal polynomials**|Maxim Derevyagin et.al.|[link](http://arxiv.org/abs/2608.28414v1)|null|
+|**2026-08-28**|**SymboLLM-FE: LLM-Accelerated Symbolic Regression for Automated Feature Engineering on Tabular Data**|Zi-Jian Cheng et.al.|[link](http://arxiv.org/abs/2608.28408v1)|null|
+|**2026-08-28**|**Recovering Software Architecture Intent from Historical Work Items using Generative AI: A Mixed-Methods Industry Case Study**|Dominik Storck et.al.|[link](http://arxiv.org/abs/2608.28403v1)|null|
+|**2026-08-28**|**VERA-8B: Evidence-Grounded Audit Risk Reasoning from SEC Filings**|Menghan Liu et.al.|[link](http://arxiv.org/abs/2608.28402v1)|null|
+|**2026-08-28**|**When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning**|Mingyuan Huang et.al.|[link](http://arxiv.org/abs/2608.28400v1)|null|
 |**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[link](http://arxiv.org/abs/2608.27452v1)|null|
 |**2026-08-27**|**Tacet: A Language and Type System for Automatic Statistical Validity Accounting**|Chiké Abuah et.al.|[link](http://arxiv.org/abs/2608.27451v1)|null|
 |**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[link](http://arxiv.org/abs/2608.27449v1)|null|
@@ -3217,6 +3237,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-28**|**Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration**|Simeng Sun et.al.|[link](http://arxiv.org/abs/2608.28511v1)|null|
+|**2026-08-28**|**Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction**|Mrudul Mittal et.al.|[link](http://arxiv.org/abs/2608.28343v1)|null|
+|**2026-08-28**|**PhyMamba: Physics-Modulated Mamba for Robust Battery Health Prognostics**|Sara Sameer et.al.|[link](http://arxiv.org/abs/2608.27978v1)|null|
+|**2026-08-28**|**SOMTab: Set-Order Mamba for Efficient Tabular In-Context Learning**|Hao Wang et.al.|[link](http://arxiv.org/abs/2608.27882v1)|null|
 |**2026-08-27**|**FU-Mamba: A Frequency-Enhanced Dynamic Scanning Framework for Oralscan Image Segmentation**|Xinxin Zhao et.al.|[link](http://arxiv.org/abs/2608.26607v1)|null|
 |**2026-08-26**|**CrossMambaTuning: Synergistic Spatial and Cross-Layer Adaptation for Machine Vision Compression**|Haobo Xiong et.al.|[link](http://arxiv.org/abs/2608.25568v1)|null|
 |**2026-08-25**|**Multi-View Trust Evaluation for Collaborator Selection via Evidential Deep Learning**|Botao Zhu et.al.|[link](http://arxiv.org/abs/2608.25235v1)|null|
@@ -3928,6 +3952,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-28**|**QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs**|Vaibhav Mehandiratta et.al.|[link](http://arxiv.org/abs/2608.28589v1)|null|
+|**2026-08-28**|**SignRR: Retrieve and Refine Real Motion for Sign Language Production**|Fidel Omar Tito Cruz et.al.|[link](http://arxiv.org/abs/2608.28568v1)|null|
+|**2026-08-28**|**The Erdős-Hajnal Property for the six-vertex Graph with Edge Set $\{ab,bc,cd,de,af,bf,df\}$**|Viet-Hoang Tran et.al.|[link](http://arxiv.org/abs/2608.28551v1)|null|
+|**2026-08-28**|**Analysis of Polynomial Threshold Functions on Random Regular Graphs: Computational Complexity of Detecting Noisy Random Lift**|Xifan Yu et.al.|[link](http://arxiv.org/abs/2608.28539v1)|null|
+|**2026-08-28**|**Rethinking Vulnerability Remediation as a Capacity Allocation Problem**|Jana Stucke et.al.|[link](http://arxiv.org/abs/2608.28509v1)|null|
+|**2026-08-28**|**Quantum-Based Solutions for Security Enhancement in Open Radio Access Networks**|Dzung Quoc Ngo et.al.|[link](http://arxiv.org/abs/2608.28480v1)|null|
+|**2026-08-28**|**Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge**|Zhuoshi Pan et.al.|[link](http://arxiv.org/abs/2608.28478v1)|null|
+|**2026-08-28**|**Structural Change and Random Graph Models in Global Oil Trade Networks**|Anthony Bonato et.al.|[link](http://arxiv.org/abs/2608.28474v1)|null|
+|**2026-08-28**|**On Left Adjoints Preserving Colimits in Homotopy Type Theory**|Perry Hart et.al.|[link](http://arxiv.org/abs/2608.28473v1)|null|
+|**2026-08-28**|**Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V**|Pablo Lozano-Jimenez et.al.|[link](http://arxiv.org/abs/2608.28461v1)|null|
+|**2026-08-28**|**Prompt-Guided Interactive Segmentation of Interstitial Lung Disease in Thoracic CT**|Vasilis Dedousis et.al.|[link](http://arxiv.org/abs/2608.28453v1)|null|
+|**2026-08-28**|**Singular difference graphs of vector spaces of square matrices**|Shrinath Hadimani et.al.|[link](http://arxiv.org/abs/2608.28436v1)|null|
+|**2026-08-28**|**BEACON: Behavior-Anchored Cross-Source Knowledge Graph Construction for Cyber Threat Intelligence**|Changze Li et.al.|[link](http://arxiv.org/abs/2608.28394v1)|null|
+|**2026-08-28**|**Adaptive Strategies for GR(1) Games**|S. Krishna et.al.|[link](http://arxiv.org/abs/2608.28391v1)|null|
+|**2026-08-28**|**Propagating construction-time knowledge quality into medical question answering: A framework grounded in clinical guidelines**|Jie Hu et.al.|[link](http://arxiv.org/abs/2608.28360v1)|null|
+|**2026-08-28**|**Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys**|Zacharias Liasi et.al.|[link](http://arxiv.org/abs/2608.28347v1)|null|
+|**2026-08-28**|**AGENT-O: A Semantic Agent Card Framework for Interoperable and Governed Healthcare AI Agents**|Pengze Li et.al.|[link](http://arxiv.org/abs/2608.28345v1)|null|
+|**2026-08-28**|**Scalable dynamic community detection on temporal graphs using graph neural networks**|Peijie Zhong et.al.|[link](http://arxiv.org/abs/2608.28342v1)|null|
+|**2026-08-28**|**JWST telemetry combined with active coronagraphy: raw contrast predictions for exoplanet imaging with the Habitable Worlds Observatory**|Raphaël Pourcelot et.al.|[link](http://arxiv.org/abs/2608.28322v1)|null|
+|**2026-08-28**|**VeriTS: Verifiable Model-Enhanced Time-Series Queries on Blockchain Systems**|Zhongming Yao et.al.|[link](http://arxiv.org/abs/2608.28318v1)|null|
 |**2026-08-27**|**Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment**|Binayyak Bhusan Roy et.al.|[link](http://arxiv.org/abs/2608.27452v1)|null|
 |**2026-08-27**|**SWE-Prime: Fewer Trajectories, Better Performance**|Dewu Zheng et.al.|[link](http://arxiv.org/abs/2608.27449v1)|null|
 |**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[link](http://arxiv.org/abs/2608.27429v1)|null|
@@ -6674,6 +6718,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-08-28**|**Generalized Context in Cross Attention for Transfer Learning of Disjoint Tabular Data**|Kazi F. Akhter et.al.|[link](http://arxiv.org/abs/2608.28209v1)|null|
+|**2026-08-28**|**EXPOSE: Explainable and Domain-Robust Embeddings from Pathology Vision Foundation Models using Sparse Autoencoders**|Anja Witte et.al.|[link](http://arxiv.org/abs/2608.28191v1)|null|
+|**2026-08-28**|**From Architecture to Binary: Ensuring Cross-Domain Consistency in Model-Based Airborne Software Development**|Nils Schlautmann et.al.|[link](http://arxiv.org/abs/2608.28156v1)|null|
 |**2026-08-27**|**Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms**|Siye Wu et.al.|[link](http://arxiv.org/abs/2608.27409v1)|null|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[link](http://arxiv.org/abs/2608.27181v1)|null|
 |**2026-08-26**|**From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**|Lukas Edman et.al.|[link](http://arxiv.org/abs/2608.25605v1)|null|
