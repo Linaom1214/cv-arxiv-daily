@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 
 ### ISTD
 
@@ -320,6 +320,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-31**|**Context-Aware Interleaved Batching for WhisperX**|Carlos Bain et.al.|[link](http://arxiv.org/abs/2608.31170v1)|null|
+|**2026-08-31**|**The Analysis, not the Aperture: End-to-End Transformer Reconstruction for Imaging Atmospheric Cherenkov Telescopes**|Elli Jobst et.al.|[link](http://arxiv.org/abs/2608.31148v1)|null|
+|**2026-08-31**|**BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives**|Pradyumn Goyal et.al.|[link](http://arxiv.org/abs/2608.31113v1)|null|
+|**2026-08-31**|**S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?**|Jiajun Shi et.al.|[link](http://arxiv.org/abs/2608.31100v1)|null|
+|**2026-08-31**|**One Adapter, Many Tasks: Task-Conditioned Feature Transformations for Continual Learning**|Yunxiang Fu et.al.|[link](http://arxiv.org/abs/2608.31096v1)|null|
+|**2026-08-31**|**LISynSeg: Data-Centric Label-to-Image Synthesis for Cross-Modality Whole-Heart Segmentation**|Jiacheng Wang et.al.|[link](http://arxiv.org/abs/2608.31073v1)|null|
+|**2026-08-31**|**Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers**|Takuya Ito et.al.|[link](http://arxiv.org/abs/2608.31067v1)|null|
+|**2026-08-31**|**Large zeta sums and zeros of the Riemann zeta function**|Zikang Dong et.al.|[link](http://arxiv.org/abs/2608.31060v1)|null|
+|**2026-08-31**|**Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models**|Keith G. Mills et.al.|[link](http://arxiv.org/abs/2608.31052v1)|null|
+|**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[link](http://arxiv.org/abs/2608.31048v1)|null|
+|**2026-08-31**|**Rotational Equivariance in Machine Learning: A Comprehensive Tutorial**|Peter Lippmann et.al.|[link](http://arxiv.org/abs/2608.31045v1)|null|
+|**2026-08-31**|**Controlling Refusal Behavior of LLMs via Stiefel-Constrained Rotation Steering**|Kirill Bunin et.al.|[link](http://arxiv.org/abs/2608.30986v1)|null|
+|**2026-08-31**|**Higher genus Cherry flows and full families of GIETs**|Luca Marchese et.al.|[link](http://arxiv.org/abs/2608.30965v1)|null|
+|**2026-08-31**|**Audio-Driven Adversarial Defense for 3D Talking Face Generation with totally Visual Fidelity Preservation**|Rui-Qing Sun et.al.|[link](http://arxiv.org/abs/2608.30951v1)|null|
+|**2026-08-31**|**Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning with Expert Arbitration for Medical Referral**|Qi Peng et.al.|[link](http://arxiv.org/abs/2608.30938v1)|null|
+|**2026-08-31**|**Constrained minimax approximation for quantum signal processing**|Yulong Dong et.al.|[link](http://arxiv.org/abs/2608.30937v1)|null|
+|**2026-08-31**|**Effects of isospin imbalance on the chiral phase transition within a Chiral Dual Partner Model**|R. M. Aguirre et.al.|[link](http://arxiv.org/abs/2608.30936v1)|null|
+|**2026-08-31**|**Stride-k Subsampling: Train-Free Audio Token Reduction for Whisper**|Chanhee Cho et.al.|[link](http://arxiv.org/abs/2608.30927v1)|null|
+|**2026-08-31**|**A Controlled Evaluation of Model Rankings and Input Reliance in Surface Water Segmentation**|Kittipat Phunjanna et.al.|[link](http://arxiv.org/abs/2608.30895v1)|null|
+|**2026-08-31**|**Extremes of solar spectral irradiance in the SORCE/XPS record**|Enzo Brasil et.al.|[link](http://arxiv.org/abs/2608.30878v1)|null|
 |**2026-08-28**|**Renormalization-guided cascade upscaling for lattice field generation**|Anna Hasenfratz et.al.|[link](http://arxiv.org/abs/2608.28581v1)|null|
 |**2026-08-28**|**Renormalization-guided inverse blocking for lattice field generation: construction and validation**|Anna Hasenfratz et.al.|[link](http://arxiv.org/abs/2608.28580v1)|null|
 |**2026-08-28**|**Quantum Fourier transform toolbox**|Carli Bruinsma et.al.|[link](http://arxiv.org/abs/2608.28573v1)|null|
@@ -3237,6 +3257,13 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-31**|**Rad-R: A Raw-ADC Radar Dataset and Capture-Invariant SSM for Hardware-Fault Diagnosis**|Mainak Mallick et.al.|[link](http://arxiv.org/abs/2608.30896v1)|null|
+|**2026-08-31**|**Can Video World Models Track Unobserved World States?**|Joonghyuk Shin et.al.|[link](http://arxiv.org/abs/2608.30692v1)|null|
+|**2026-08-30**|**A Hybrid State-Space Approach for Census-Tract Population Estimation**|Jackson R. Ye et.al.|[link](http://arxiv.org/abs/2608.30094v1)|null|
+|**2026-08-30**|**GraM-Diff: A Unified Graph-Mamba Diffusion Framework for EEG-Based Alzheimer's Disease Data Generation and Diagnosis**|M. Tanveer et.al.|[link](http://arxiv.org/abs/2608.29755v1)|null|
+|**2026-08-30**|**ButterMamba: Butterworth-Enhanced Spatial-Temporal Mamba for Efficient Traffic Flow Prediction**|Limiao Zhang et.al.|[link](http://arxiv.org/abs/2608.29658v1)|null|
+|**2026-08-30**|**SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images**|Yi Xu et.al.|[link](http://arxiv.org/abs/2608.29626v1)|null|
+|**2026-08-28**|**Toward Postural State Classification in Immersive VR with Multimodal Data and Explainability Analysis**|Nipa Anjum et.al.|[link](http://arxiv.org/abs/2608.28844v1)|null|
 |**2026-08-28**|**Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration**|Simeng Sun et.al.|[link](http://arxiv.org/abs/2608.28511v1)|null|
 |**2026-08-28**|**Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction**|Mrudul Mittal et.al.|[link](http://arxiv.org/abs/2608.28343v1)|null|
 |**2026-08-28**|**PhyMamba: Physics-Modulated Mamba for Robust Battery Health Prognostics**|Sara Sameer et.al.|[link](http://arxiv.org/abs/2608.27978v1)|null|
@@ -3952,6 +3979,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-08-31**|**Context-Aware Interleaved Batching for WhisperX**|Carlos Bain et.al.|[link](http://arxiv.org/abs/2608.31170v1)|null|
+|**2026-08-31**|**Local Private Information Retrieval for Graph-Based Replicated Systems**|Shreya Meel et.al.|[link](http://arxiv.org/abs/2608.31150v1)|null|
+|**2026-08-31**|**OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques**|Hamed Babaei Giglou et.al.|[link](http://arxiv.org/abs/2608.31137v1)|null|
+|**2026-08-31**|**Colorful Exponential Random Graph Models**|Bhaswar B. Bhattacharya et.al.|[link](http://arxiv.org/abs/2608.31130v1)|null|
+|**2026-08-31**|**VeriCam: A Verification Baseline for the Classification of Unknown Data**|Lucas Wojcik et.al.|[link](http://arxiv.org/abs/2608.31107v1)|null|
+|**2026-08-31**|**Properties of the $\mathcal V$-Monoid of Weighted Leavitt Path Algebras**|Rishabh Goswami et.al.|[link](http://arxiv.org/abs/2608.31087v1)|null|
+|**2026-08-31**|**LISynSeg: Data-Centric Label-to-Image Synthesis for Cross-Modality Whole-Heart Segmentation**|Jiacheng Wang et.al.|[link](http://arxiv.org/abs/2608.31073v1)|null|
+|**2026-08-31**|**The toughness of random graphs**|Guang Li et.al.|[link](http://arxiv.org/abs/2608.31056v1)|null|
+|**2026-08-31**|**Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models**|Keith G. Mills et.al.|[link](http://arxiv.org/abs/2608.31052v1)|null|
+|**2026-08-31**|**On the equivalence between the Polchinski flow and the Connes-Kreimer approaches to perturbative renormalisation**|Yvain Bruned et.al.|[link](http://arxiv.org/abs/2608.31049v1)|null|
+|**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[link](http://arxiv.org/abs/2608.31048v1)|null|
+|**2026-08-31**|**Rotational Equivariance in Machine Learning: A Comprehensive Tutorial**|Peter Lippmann et.al.|[link](http://arxiv.org/abs/2608.31045v1)|null|
+|**2026-08-31**|**Fast Fault-Tolerant Decoders for Hypergraph Product and Lifted-Product Codes**|Asit Kumar Pradhan et.al.|[link](http://arxiv.org/abs/2608.31040v1)|null|
+|**2026-08-31**|**GRBench: A Comprehensive Benchmark Evaluation for Graph-relational Data Management**|Zepeng Liu et.al.|[link](http://arxiv.org/abs/2608.31027v1)|null|
+|**2026-08-31**|**SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting**|Haozheng Yu et.al.|[link](http://arxiv.org/abs/2608.31023v1)|null|
+|**2026-08-31**|**Breaking the Exponential Barrier: The First Polynomial-Time Algorithm for the Győri-Lovász Theorem**|Mohammad T. Hajiaghayi et.al.|[link](http://arxiv.org/abs/2608.30945v1)|null|
+|**2026-08-31**|**Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning with Expert Arbitration for Medical Referral**|Qi Peng et.al.|[link](http://arxiv.org/abs/2608.30938v1)|null|
+|**2026-08-31**|**Scaled Null-Adjusted Persistence: A Multiscale Bridge between Modularity and Persistence**|Alessandro Avellone et.al.|[link](http://arxiv.org/abs/2608.30934v1)|null|
+|**2026-08-31**|**Parameter Estimation of Power Electronic Converters with Differentiable Physics Simulation**|Pingjunjin Tan et.al.|[link](http://arxiv.org/abs/2608.30915v1)|null|
+|**2026-08-31**|**Responsible Integration of AI in Cancer Genomics: Barriers, Risks, and Pathways to Trustworthy Clinical Translation**|Bahar İlgen et.al.|[link](http://arxiv.org/abs/2608.30912v1)|null|
 |**2026-08-28**|**QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs**|Vaibhav Mehandiratta et.al.|[link](http://arxiv.org/abs/2608.28589v1)|null|
 |**2026-08-28**|**SignRR: Retrieve and Refine Real Motion for Sign Language Production**|Fidel Omar Tito Cruz et.al.|[link](http://arxiv.org/abs/2608.28568v1)|null|
 |**2026-08-28**|**The Erdős-Hajnal Property for the six-vertex Graph with Edge Set $\{ab,bc,cd,de,af,bf,df\}$**|Viet-Hoang Tran et.al.|[link](http://arxiv.org/abs/2608.28551v1)|null|
@@ -6718,6 +6765,15 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-08-31**|**TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification**|Jérémie Stym-Popper et.al.|[link](http://arxiv.org/abs/2608.31013v1)|null|
+|**2026-08-31**|**Learning to Reason and Use Tools through Unsupervised Fine-Tuning in Task-Oriented Dialog Systems**|Markel Ferro et.al.|[link](http://arxiv.org/abs/2608.30426v1)|null|
+|**2026-08-30**|**VERA: Authority-Preserving Edge Revocation for Federated AI-Agent Workflows**|Lifei Liu et.al.|[link](http://arxiv.org/abs/2608.30091v1)|null|
+|**2026-08-30**|**Matched-View Cross-Domain Evaluation of WireGuard VPN Traffic Classification Using Early-Flow Fingerprints**|Yasameen Sajid Razooqi et.al.|[link](http://arxiv.org/abs/2608.30000v1)|null|
+|**2026-08-30**|**PhasorNet: Learning Structure from Frequency for Real-Time Stereo Matching**|Md Raqib Khan et.al.|[link](http://arxiv.org/abs/2608.29819v1)|null|
+|**2026-08-30**|**Task-Relevant Feature-Dynamics Fidelity Enables Zero-Shot Sim-to-Real Transfer for Robotic Ultrasound Scanning**|Yizhao Qian et.al.|[link](http://arxiv.org/abs/2608.29516v1)|null|
+|**2026-08-29**|**Toward Trustworthy Robot-Assisted Sliding Palpation for Shallow Vessel Localisation with a Calibrated Digital Twin**|Piotr Blaszyk et.al.|[link](http://arxiv.org/abs/2608.29396v1)|null|
+|**2026-08-29**|**Multi-Scale Temporal Domain Alignment for Federated Video Domain Adaptation**|Lee En-Yi Hannah et.al.|[link](http://arxiv.org/abs/2608.29186v1)|null|
+|**2026-08-28**|**ActiveAugment: Online Active Learning for Augmentation Selection in Deep Learning**|Noah Videcrantz et.al.|[link](http://arxiv.org/abs/2608.28923v1)|null|
 |**2026-08-28**|**Generalized Context in Cross Attention for Transfer Learning of Disjoint Tabular Data**|Kazi F. Akhter et.al.|[link](http://arxiv.org/abs/2608.28209v1)|null|
 |**2026-08-28**|**EXPOSE: Explainable and Domain-Robust Embeddings from Pathology Vision Foundation Models using Sparse Autoencoders**|Anja Witte et.al.|[link](http://arxiv.org/abs/2608.28191v1)|null|
 |**2026-08-28**|**From Architecture to Binary: Ensuring Cross-Domain Consistency in Model-Based Airborne Software Development**|Nils Schlautmann et.al.|[link](http://arxiv.org/abs/2608.28156v1)|null|
