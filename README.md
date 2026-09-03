@@ -1,4 +1,4 @@
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 
 ### ISTD
 
@@ -10,7 +10,7 @@
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|
 |**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|
-|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|
+|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|**[code](https://github.com/Haoyu096/LCMamNet)**|
 |**2026-07-28**|**Effective Receptive Field Ordering Matters for Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2607.23994v2)|null|
 |**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[link](http://arxiv.org/abs/2607.19040v1)|null|
 |**2026-07-19**|**Noise-Robust Box-Supervised Infrared Small Target Detection via Physics-Inspired Soft Label Optimization**|Xizhe Zhang et.al.|[link](http://arxiv.org/abs/2607.17148v1)|null|
@@ -322,6 +322,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-02**|**Graph Machine: Towards Better Pretraining via Edges**|Lintai Hou et.al.|[link](http://arxiv.org/abs/2609.02881v1)|null|
+|**2026-09-02**|**Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation**|Yutong Liu et.al.|[link](http://arxiv.org/abs/2609.02864v1)|null|
+|**2026-09-02**|**Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework**|Cagri Temel et.al.|[link](http://arxiv.org/abs/2609.02861v1)|null|
+|**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[link](http://arxiv.org/abs/2609.02860v1)|null|
+|**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[link](http://arxiv.org/abs/2609.02854v1)|null|
+|**2026-09-02**|**UE5M3 FP4 Block Scaling for Stable Language Model Pretraining**|Robert Hu et.al.|[link](http://arxiv.org/abs/2609.02846v1)|null|
+|**2026-09-02**|**Exponential speedup of polarization stabilization for long distance DWDM quantum networks**|Jinyi Du et.al.|[link](http://arxiv.org/abs/2609.02841v1)|null|
+|**2026-09-02**|**Efficient All-in-One Weather Restoration using Spectral Harmonization**|Paula Garrido-Mellado et.al.|[link](http://arxiv.org/abs/2609.02839v1)|null|
+|**2026-09-02**|**Understanding Automatic Mixing: A Subtask-Oriented Analysis of Two-Stage Mixing System**|Jinjie Shi et.al.|[link](http://arxiv.org/abs/2609.02835v1)|null|
+|**2026-09-02**|**Copula Transformations for Data-Consistent Inversion**|Troy Butler et.al.|[link](http://arxiv.org/abs/2609.02832v1)|null|
+|**2026-09-02**|**Benchmarking RAW and RGB Restoration in Image Signal Processors**|Zihao Lu et.al.|[link](http://arxiv.org/abs/2609.02831v1)|null|
+|**2026-09-02**|**Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts**|Samir Abou Haidar et.al.|[link](http://arxiv.org/abs/2609.02830v1)|null|
+|**2026-09-02**|**GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design**|Adrienne Deganutti et.al.|[link](http://arxiv.org/abs/2609.02813v1)|null|
+|**2026-09-02**|**Quasiconformal folding - a review of `Models for the Eremenko-Lyubich class'**|Philip J. Rippon et.al.|[link](http://arxiv.org/abs/2609.02806v1)|null|
+|**2026-09-02**|**Ratio and limiting zero distribution asymptotics for symmetric multiple orthogonal polynomials**|Ana Loureiro et.al.|[link](http://arxiv.org/abs/2609.02801v1)|null|
+|**2026-09-02**|**Quantum mutual information statistics for detecting dependence-structure change points in time series**|Jiwon Kang et.al.|[link](http://arxiv.org/abs/2609.02787v1)|null|
+|**2026-09-02**|**CodePoisonRAG: Knowledge Poisoning Attacks on Retrieval-Augmented Code Generation**|Varun Gadey et.al.|[link](http://arxiv.org/abs/2609.02774v1)|null|
+|**2026-09-02**|**AlterSeeK-Path: Systematic construction of generalized band-structure paths for displaying altermagnetic spin splitting**|Yujia Teng et.al.|[link](http://arxiv.org/abs/2609.02770v1)|null|
+|**2026-09-02**|**Effective quasiparticle conserving Lindbladians in the thermodynamic limit**|Lea Lenke et.al.|[link](http://arxiv.org/abs/2609.02725v1)|null|
+|**2026-09-02**|**Trace as State: Reasoning Traces as Conditional States for Long-Context Transformers**|Xu Zou et.al.|[link](http://arxiv.org/abs/2609.02702v1)|null|
 |**2026-09-01**|**UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture**|Asees Kaur et.al.|[link](http://arxiv.org/abs/2609.01598v1)|null|
 |**2026-09-01**|**H3-World: Turning Language Understanding into World Control**|Danze Chen et.al.|[link](http://arxiv.org/abs/2609.01560v1)|null|
 |**2026-09-01**|**Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks**|Jing Xiao et.al.|[link](http://arxiv.org/abs/2609.01558v1)|null|
@@ -3279,6 +3299,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-02**|**HyperMC: Multi-Fidelity Hyperparameter Tuning for Stochastic Gradient MCMC**|Ming Tan et.al.|[link](http://arxiv.org/abs/2609.02138v1)|null|
+|**2026-09-01**|**CRB-Guided Sensing and Resource Allocation for Human Pose Prediction in Integrated Sensing, Communication, and Computation Systems**|Zhonghao Liu et.al.|[link](http://arxiv.org/abs/2609.01908v1)|null|
 |**2026-08-31**|**Rad-R: A Raw-ADC Radar Dataset and Capture-Invariant SSM for Hardware-Fault Diagnosis**|Mainak Mallick et.al.|[link](http://arxiv.org/abs/2608.30896v1)|null|
 |**2026-08-31**|**Can Video World Models Track Unobserved World States?**|Joonghyuk Shin et.al.|[link](http://arxiv.org/abs/2608.30692v1)|null|
 |**2026-08-30**|**A Hybrid State-Space Approach for Census-Tract Population Estimation**|Jackson R. Ye et.al.|[link](http://arxiv.org/abs/2608.30094v1)|null|
@@ -4001,6 +4023,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-02**|**Graph Machine: Towards Better Pretraining via Edges**|Lintai Hou et.al.|[link](http://arxiv.org/abs/2609.02881v1)|null|
+|**2026-09-02**|**Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework**|Cagri Temel et.al.|[link](http://arxiv.org/abs/2609.02861v1)|null|
+|**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[link](http://arxiv.org/abs/2609.02860v1)|null|
+|**2026-09-02**|**Localized Persistent Commutative Algebra**|Kaiyue He et.al.|[link](http://arxiv.org/abs/2609.02858v1)|null|
+|**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[link](http://arxiv.org/abs/2609.02854v1)|null|
+|**2026-09-02**|**Almost Linear 3-Spanners of Temporal Cliques**|Julia Baligacs et.al.|[link](http://arxiv.org/abs/2609.02851v1)|null|
+|**2026-09-02**|**Degeneracy bounds, stability, and a sharp gap for $B$-colorings**|Xiaoxue Hu et.al.|[link](http://arxiv.org/abs/2609.02845v1)|null|
+|**2026-09-02**|**Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts**|Samir Abou Haidar et.al.|[link](http://arxiv.org/abs/2609.02830v1)|null|
+|**2026-09-02**|**frb100-40 After Two Decades: An Optimality Certificate and a Preregistered Search Study**|Onur Uğurlu et.al.|[link](http://arxiv.org/abs/2609.02804v1)|null|
+|**2026-09-02**|**ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases**|Afsana Tasnim et.al.|[link](http://arxiv.org/abs/2609.02789v1)|null|
+|**2026-09-02**|**Quantum mutual information statistics for detecting dependence-structure change points in time series**|Jiwon Kang et.al.|[link](http://arxiv.org/abs/2609.02787v1)|null|
+|**2026-09-02**|**Characterization of Stanley-Reisner varieties by their automorphism group**|Roberto Díaz et.al.|[link](http://arxiv.org/abs/2609.02785v1)|null|
+|**2026-09-02**|**AlterSeeK-Path: Systematic construction of generalized band-structure paths for displaying altermagnetic spin splitting**|Yujia Teng et.al.|[link](http://arxiv.org/abs/2609.02770v1)|null|
+|**2026-09-02**|**Bounded Twin-Width Tournaments are $\dchi$-Bounded**|Chaoliang Tang et.al.|[link](http://arxiv.org/abs/2609.02763v1)|null|
+|**2026-09-02**|**HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design**|Ge Sun et.al.|[link](http://arxiv.org/abs/2609.02746v1)|null|
+|**2026-09-02**|**Mathematical Koans and Cartan Convexity: $Γ$-Convex Hulls and Butterfly Realizations**|J. E. Pascoe et.al.|[link](http://arxiv.org/abs/2609.02714v1)|null|
+|**2026-09-02**|**Circuit Decomposition for Triangulations of Surfaces**|Jens Harlander et.al.|[link](http://arxiv.org/abs/2609.02701v1)|null|
+|**2026-09-02**|**Random-mapped intensity optical neural network: all-optical two-layer computing for multimodal optical-field inference**|Gi-Hyun Go et.al.|[link](http://arxiv.org/abs/2609.02698v1)|null|
+|**2026-09-02**|**H3DNAS: Hardware-Aware ONNX-Native 3D Point Cloud Model Compression**|Anchit Mulye et.al.|[link](http://arxiv.org/abs/2609.02684v1)|null|
+|**2026-09-02**|**LDP for Tensor Forms**|Reihaneh Malekian et.al.|[link](http://arxiv.org/abs/2609.02682v1)|null|
 |**2026-09-01**|**UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture**|Asees Kaur et.al.|[link](http://arxiv.org/abs/2609.01598v1)|null|
 |**2026-09-01**|**SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants**|Rohit Menon et.al.|[link](http://arxiv.org/abs/2609.01579v1)|null|
 |**2026-09-01**|**A systematic Approach to constructing a Chance-and-Risk Matrix for Semiconductor Supply Chains**|Ema Salkić et.al.|[link](http://arxiv.org/abs/2609.01563v1)|null|
@@ -6807,6 +6849,14 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-02**|**Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts**|Samir Abou Haidar et.al.|[link](http://arxiv.org/abs/2609.02830v1)|null|
+|**2026-09-01**|**Physics-Driven Independent Pair Generation for Iterative Self-Supervised Low-Dose CT Denoising**|Xianlei Han et.al.|[link](http://arxiv.org/abs/2609.02654v1)|null|
+|**2026-09-02**|**EEG-based Visual Retrieval and Reconstruction: From Neurally Visible Optimal Layer to Hierarchical Diffusion Generation**|Minyi Wang et.al.|[link](http://arxiv.org/abs/2609.02582v1)|null|
+|**2026-09-02**|**RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains**|Thijs A. Eker et.al.|[link](http://arxiv.org/abs/2609.02556v1)|null|
+|**2026-09-02**|**Blending Concepts: Benchmarking Visual Metaphor Generation in Text-to-Image Models**|Chuer Chen et.al.|[link](http://arxiv.org/abs/2609.02502v1)|null|
+|**2026-09-02**|**NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning**|Meixuan Chen et.al.|[link](http://arxiv.org/abs/2609.02366v1)|null|
+|**2026-09-02**|**InstEditSeg: Instruction-Driven Image Editing for Polyp and Skin Lesion Segmentation**|Ziquan Liu et.al.|[link](http://arxiv.org/abs/2609.02004v1)|null|
+|**2026-09-02**|**Benchmarking Language Models for Statistical Problem Formulation**|Chen Wang et.al.|[link](http://arxiv.org/abs/2609.01982v1)|null|
 |**2026-09-01**|**A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios**|Sergio M. Silva et.al.|[link](http://arxiv.org/abs/2609.01584v1)|null|
 |**2026-09-01**|**From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix**|Olga Tsymboi et.al.|[link](http://arxiv.org/abs/2609.01572v1)|null|
 |**2026-09-01**|**TRIAGE: Three-level Routing and Intelligent Agent Guidance for Efficient Execution**|Ruocan Wei et.al.|[link](http://arxiv.org/abs/2609.01428v1)|null|
