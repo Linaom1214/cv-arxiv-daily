@@ -152,7 +152,7 @@
     "2607.04603v1": "|**2026-07-06**|**LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection**|Tianfang Zhang et.al.|[link](http://arxiv.org/abs/2607.04603v1)|null|\n",
     "2607.01555v1": "|**2026-07-02**|**Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement**|Handong Zeng et.al.|[link](http://arxiv.org/abs/2607.01555v1)|null|\n",
     "2606.27655v1": "|**2026-06-26**|**Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection**|Yinghui Xing et.al.|[link](http://arxiv.org/abs/2606.27655v1)|null|\n",
-    "2606.21956v2": "|**2026-06-27**|**Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2606.21956v2)|**[code](https://github.com/IVPLabs/ECFNet)**|\n",
+    "2606.21956v2": "|**2026-06-27**|**Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2606.21956v2)|null|\n",
     "2606.18783v1": "|**2026-06-17**|**SCR-Guided Difficulty-Aware Optimization for Infrared Small Target Detection**|Yunus Sevim et.al.|[link](http://arxiv.org/abs/2606.18783v1)|null|\n",
     "2606.15286v1": "|**2026-06-13**|**Decoupled Motion Representation Learning for Moving Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2606.15286v1)|null|\n",
     "2606.01689v1": "|**2026-06-01**|**RPCASSM: Robust PCA State Space Model For Infrared Small Target Detection**|Pingping Liu et.al.|[link](http://arxiv.org/abs/2606.01689v1)|null|\n",
@@ -3303,7 +3303,27 @@
     "2609.03970v1": "|**2026-09-03**|**Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation**|Augustin Raju et.al.|[link](http://arxiv.org/abs/2609.03970v1)|null|\n",
     "2609.03964v1": "|**2026-09-03**|**Ultra-compact twin stars with hybrid equations of state from bosonic dark matter**|Ishfaq Ahmad Rather et.al.|[link](http://arxiv.org/abs/2609.03964v1)|null|\n",
     "2609.03958v1": "|**2026-09-03**|**Interior Curvature Estimates of Semi-convex Solutions for the scalar curvature equation with Lipschitz Right-Hand Sides**|Lichun Liang et.al.|[link](http://arxiv.org/abs/2609.03958v1)|null|\n",
-    "2609.03947v1": "|**2026-09-03**|**Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models**|Jiaqi Lv et.al.|[link](http://arxiv.org/abs/2609.03947v1)|null|\n"
+    "2609.03947v1": "|**2026-09-03**|**Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models**|Jiaqi Lv et.al.|[link](http://arxiv.org/abs/2609.03947v1)|null|\n",
+    "2609.05415v1": "|**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[link](http://arxiv.org/abs/2609.05415v1)|null|\n",
+    "2609.05403v1": "|**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen et.al.|[link](http://arxiv.org/abs/2609.05403v1)|null|\n",
+    "2609.05381v1": "|**2026-09-04**|**Molecular D\u00e9j\u00e0 Vu: Digit-Level Retrieval of Published Values in Frontier Language Models**|Matthias Busch et.al.|[link](http://arxiv.org/abs/2609.05381v1)|null|\n",
+    "2609.05376v1": "|**2026-09-04**|**What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies**|Vivek Chavan et.al.|[link](http://arxiv.org/abs/2609.05376v1)|null|\n",
+    "2609.05351v1": "|**2026-09-04**|**MEOX: Compact Multimodal Mixture-of-Experts for Earth Observation**|Mohanad Albughdadi et.al.|[link](http://arxiv.org/abs/2609.05351v1)|null|\n",
+    "2609.05343v1": "|**2026-09-04**|**On the phase transition for the number of collisions on comb graphs**|Umberto De Ambroggio et.al.|[link](http://arxiv.org/abs/2609.05343v1)|null|\n",
+    "2609.05335v1": "|**2026-09-04**|**The History Is the Detector: Executing CVE Patch History, End-to-End**|Qiushi Wu et.al.|[link](http://arxiv.org/abs/2609.05335v1)|null|\n",
+    "2609.05334v1": "|**2026-09-04**|**Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions**|Mahadev Sunil Kumar et.al.|[link](http://arxiv.org/abs/2609.05334v1)|null|\n",
+    "2609.05333v1": "|**2026-09-04**|**Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models**|Jos\u00e9 Luciano Ver\u00e7osa Marques et.al.|[link](http://arxiv.org/abs/2609.05333v1)|null|\n",
+    "2609.05328v1": "|**2026-09-04**|**Embedded Graph Flows for Categorical Graph Generation**|Ethan Ma et.al.|[link](http://arxiv.org/abs/2609.05328v1)|null|\n",
+    "2609.05303v1": "|**2026-09-04**|**Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution**|Liqian Yang et.al.|[link](http://arxiv.org/abs/2609.05303v1)|null|\n",
+    "2609.05300v1": "|**2026-09-04**|**Human-Human & Human-Robot Interaction Transformer (H2INT) for Robot Navigation in Dense and Uncertain Crowds**|Ao Shen et.al.|[link](http://arxiv.org/abs/2609.05300v1)|null|\n",
+    "2609.05289v1": "|**2026-09-04**|**Beyond Aggregate Scores: Behavioral Correctness Assumptions for Assessing Reference-Based Automatic Evaluation Methods**|Maria Mahbub et.al.|[link](http://arxiv.org/abs/2609.05289v1)|null|\n",
+    "2609.05281v1": "|**2026-09-04**|**KanAdapter: A Kolmogorov-Arnold Network-based Plug-and-Play Module for Efficient Fine-tuning of Foundation Speech Models**|Phuong Tuan Dat et.al.|[link](http://arxiv.org/abs/2609.05281v1)|null|\n",
+    "2609.05275v1": "|**2026-09-04**|**Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference**|Mostafa Elhoushi et.al.|[link](http://arxiv.org/abs/2609.05275v1)|null|\n",
+    "2609.05270v1": "|**2026-09-04**|**AI for Computational Design Science: A Responsible Human-AI Framework and Case Study on Short-Form Video Safety Surveillance**|Wenli Zhang et.al.|[link](http://arxiv.org/abs/2609.05270v1)|null|\n",
+    "2609.05269v1": "|**2026-09-04**|**CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls**|Chris Zheng et.al.|[link](http://arxiv.org/abs/2609.05269v1)|null|\n",
+    "2609.05257v1": "|**2026-09-04**|**Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions**|Bahar Uddin Mahmud et.al.|[link](http://arxiv.org/abs/2609.05257v1)|null|\n",
+    "2609.05250v1": "|**2026-09-04**|**Memory-Optimal Sequential Synthesis of Multimode Gaussian Transformations**|Fucheng Guo et.al.|[link](http://arxiv.org/abs/2609.05250v1)|null|\n",
+    "2609.05247v1": "|**2026-09-04**|**Diffusion under competing bulk and surface stopping mechanisms**|Yilin Ye et.al.|[link](http://arxiv.org/abs/2609.05247v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -4025,7 +4045,8 @@
     "2608.28844v1": "|**2026-08-28**|**Toward Postural State Classification in Immersive VR with Multimodal Data and Explainability Analysis**|Nipa Anjum et.al.|[link](http://arxiv.org/abs/2608.28844v1)|null|\n",
     "2609.02138v1": "|**2026-09-02**|**HyperMC: Multi-Fidelity Hyperparameter Tuning for Stochastic Gradient MCMC**|Ming Tan et.al.|[link](http://arxiv.org/abs/2609.02138v1)|null|\n",
     "2609.01908v1": "|**2026-09-01**|**CRB-Guided Sensing and Resource Allocation for Human Pose Prediction in Integrated Sensing, Communication, and Computation Systems**|Zhonghao Liu et.al.|[link](http://arxiv.org/abs/2609.01908v1)|null|\n",
-    "2609.03689v1": "|**2026-09-03**|**Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology**|Feixing Chen et.al.|[link](http://arxiv.org/abs/2609.03689v1)|null|\n"
+    "2609.03689v1": "|**2026-09-03**|**Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology**|Feixing Chen et.al.|[link](http://arxiv.org/abs/2609.03689v1)|null|\n",
+    "2609.04747v1": "|**2026-09-04**|**BEAM3R: Beam's-eye-view architecture with Mamba-3 for implicit dose reconstruction**|Chen Cheng et.al.|[link](http://arxiv.org/abs/2609.04747v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -6867,7 +6888,27 @@
     "2609.04002v1": "|**2026-09-03**|**Reconstruction of a slice regular function from some of its real components**|Cinzia Bisi et.al.|[link](http://arxiv.org/abs/2609.04002v1)|null|\n",
     "2609.03998v1": "|**2026-09-03**|**Typed Flexible-Arity Slotted E-Graphs: A Soundness Construction and an Alloy Case Study**|Guanxuan Wu et.al.|[link](http://arxiv.org/abs/2609.03998v1)|null|\n",
     "2609.03976v1": "|**2026-09-03**|**A Polynomial PDE Criterion for the $-n/d$ Root of the Bernstein-Sato polynomial of Homogeneous Ideals**|Yifan Chen et.al.|[link](http://arxiv.org/abs/2609.03976v1)|null|\n",
-    "2609.03970v1": "|**2026-09-03**|**Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation**|Augustin Raju et.al.|[link](http://arxiv.org/abs/2609.03970v1)|null|\n"
+    "2609.03970v1": "|**2026-09-03**|**Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation**|Augustin Raju et.al.|[link](http://arxiv.org/abs/2609.03970v1)|null|\n",
+    "2609.05417v1": "|**2026-09-04**|**The Erd\\H os-S\u00f3s conjecture in dense graphs**|Bruce Reed et.al.|[link](http://arxiv.org/abs/2609.05417v1)|null|\n",
+    "2609.05415v1": "|**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[link](http://arxiv.org/abs/2609.05415v1)|null|\n",
+    "2609.05414v1": "|**2026-09-04**|**Non-Hamiltonian $\\frac{3}{2}$-Tough Plane Triangulations**|Songling Shan et.al.|[link](http://arxiv.org/abs/2609.05414v1)|null|\n",
+    "2609.05411v1": "|**2026-09-04**|**The extremal cases of the Erd\\H os--S\u00f3s conjecture**|Bruce Reed et.al.|[link](http://arxiv.org/abs/2609.05411v1)|null|\n",
+    "2609.05395v1": "|**2026-09-04**|**Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe**|Dain Kim et.al.|[link](http://arxiv.org/abs/2609.05395v1)|null|\n",
+    "2609.05369v1": "|**2026-09-04**|**Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation**|Vivek Chavan et.al.|[link](http://arxiv.org/abs/2609.05369v1)|null|\n",
+    "2609.05368v1": "|**2026-09-04**|**Integrality Gap Bounds for the Goemans-Linial SDP on Finite Abelian Cayley Graphs**|Georgios Stamoulis et.al.|[link](http://arxiv.org/abs/2609.05368v1)|null|\n",
+    "2609.05351v1": "|**2026-09-04**|**MEOX: Compact Multimodal Mixture-of-Experts for Earth Observation**|Mohanad Albughdadi et.al.|[link](http://arxiv.org/abs/2609.05351v1)|null|\n",
+    "2609.05343v1": "|**2026-09-04**|**On the phase transition for the number of collisions on comb graphs**|Umberto De Ambroggio et.al.|[link](http://arxiv.org/abs/2609.05343v1)|null|\n",
+    "2609.05339v1": "|**2026-09-04**|**Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability**|Ankit Goyal et.al.|[link](http://arxiv.org/abs/2609.05339v1)|null|\n",
+    "2609.05328v1": "|**2026-09-04**|**Embedded Graph Flows for Categorical Graph Generation**|Ethan Ma et.al.|[link](http://arxiv.org/abs/2609.05328v1)|null|\n",
+    "2609.05303v1": "|**2026-09-04**|**Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution**|Liqian Yang et.al.|[link](http://arxiv.org/abs/2609.05303v1)|null|\n",
+    "2609.05297v1": "|**2026-09-04**|**The oriented Kesten--McKay law for random regular digraphs**|Yukun He et.al.|[link](http://arxiv.org/abs/2609.05297v1)|null|\n",
+    "2609.05290v1": "|**2026-09-04**|**Universal Exponent-Two Degree Laws in Range-Renewal Networks**|Jiansheng Xie et.al.|[link](http://arxiv.org/abs/2609.05290v1)|null|\n",
+    "2609.05284v1": "|**2026-09-04**|**GUT: Quantifying and Optimizing the Reasoning Uncertainty of LLMs via Graph Complexity**|Shuang Liang et.al.|[link](http://arxiv.org/abs/2609.05284v1)|null|\n",
+    "2609.05271v1": "|**2026-09-04**|**Relative ($\u03c4$), Expanders, and Decay of Correlations for certain Expanding Maps**|Rhiannon Dougall et.al.|[link](http://arxiv.org/abs/2609.05271v1)|null|\n",
+    "2609.05268v1": "|**2026-09-04**|**Ramsey properties of maximal (outer)planar graphs**|Adriana Baldacchino et.al.|[link](http://arxiv.org/abs/2609.05268v1)|null|\n",
+    "2609.05261v1": "|**2026-09-04**|**Trace2Tower: Transition-Aware EigenTrace Induction of Multi-Level Skills for LLM Agents**|Jiazheng Sun et.al.|[link](http://arxiv.org/abs/2609.05261v1)|null|\n",
+    "2609.05259v1": "|**2026-09-04**|**Order 14 is the largest order for which every 4-total coloring of every cubic graph is equitable**|Matheus Adauto et.al.|[link](http://arxiv.org/abs/2609.05259v1)|null|\n",
+    "2609.05257v1": "|**2026-09-04**|**Commonsense Reasoning in Computer Vision: Foundations, Recent Advancements, and Future Directions**|Bahar Uddin Mahmud et.al.|[link](http://arxiv.org/abs/2609.05257v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -8069,6 +8110,13 @@
     "2609.03505v1": "|**2026-09-03**|**An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data**|Mahshid Rezakhani et.al.|[link](http://arxiv.org/abs/2609.03505v1)|null|\n",
     "2609.03330v1": "|**2026-09-03**|**Less Is Moral: A CHARMing Framework for Moral Foundations Detection in Endorsement Behaviour**|Huixiang Fu et.al.|[link](http://arxiv.org/abs/2609.03330v1)|null|\n",
     "2609.03064v1": "|**2026-09-02**|**Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems**|Srikumar Nayak et.al.|[link](http://arxiv.org/abs/2609.03064v1)|null|\n",
-    "2609.02947v1": "|**2026-09-01**|**Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis**|Yagna Manasa Boyapati et.al.|[link](http://arxiv.org/abs/2609.02947v1)|null|\n"
+    "2609.02947v1": "|**2026-09-01**|**Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis**|Yagna Manasa Boyapati et.al.|[link](http://arxiv.org/abs/2609.02947v1)|null|\n",
+    "2609.05397v1": "|**2026-09-04**|**CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation**|Samer Abualhanud et.al.|[link](http://arxiv.org/abs/2609.05397v1)|null|\n",
+    "2609.05253v1": "|**2026-09-04**|**GLASS: Graph-Language Alignment with Spherical Scoring for Transferable Graph-Level Anomaly Detection**|Xudong Wang et.al.|[link](http://arxiv.org/abs/2609.05253v1)|null|\n",
+    "2609.05239v1": "|**2026-09-04**|**Cross-Domain Tracker Adaptation Without Target-Domain Labels via Vision-Language Agents**|Daniel Davila et.al.|[link](http://arxiv.org/abs/2609.05239v1)|null|\n",
+    "2609.04870v1": "|**2026-09-04**|**CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games**|Kai Wang et.al.|[link](http://arxiv.org/abs/2609.04870v1)|null|\n",
+    "2609.04860v1": "|**2026-09-04**|**Mitigating Performance Discrepancy in Cross-Domain 3D Class-Incremental Learning**|Jinge Ma et.al.|[link](http://arxiv.org/abs/2609.04860v1)|null|\n",
+    "2609.04782v1": "|**2026-09-04**|**DODR: Deterministic Operator-Driven Reasoning in Latent Space**|Weicai Huang et.al.|[link](http://arxiv.org/abs/2609.04782v1)|null|\n",
+    "2609.04409v1": "|**2026-09-03**|**A Systematic Evaluation of Cross-Lingual Consistency Enhancement Methods in Multilingual Language Models**|Jirui Qi et.al.|[link](http://arxiv.org/abs/2609.04409v1)|null|\n"
   }
 }
