@@ -1,4 +1,4 @@
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 
 ### ISTD
 
@@ -10,7 +10,7 @@
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|
 |**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|
-|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|**[code](https://github.com/Haoyu096/LCMamNet)**|
+|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|
 |**2026-07-28**|**Effective Receptive Field Ordering Matters for Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2607.23994v2)|null|
 |**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[link](http://arxiv.org/abs/2607.19040v1)|null|
 |**2026-07-19**|**Noise-Robust Box-Supervised Infrared Small Target Detection via Physics-Inspired Soft Label Optimization**|Xizhe Zhang et.al.|[link](http://arxiv.org/abs/2607.17148v1)|null|
@@ -322,7 +322,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
-|**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[link](http://arxiv.org/abs/2609.05415v1)|null|
+|**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[link](http://arxiv.org/abs/2609.05415v1)|**[code](https://github.com/Friedrich-M/UniMate)**|
 |**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen et.al.|[link](http://arxiv.org/abs/2609.05403v1)|null|
 |**2026-09-04**|**Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models**|Matthias Busch et.al.|[link](http://arxiv.org/abs/2609.05381v1)|null|
 |**2026-09-04**|**What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies**|Vivek Chavan et.al.|[link](http://arxiv.org/abs/2609.05376v1)|null|
