@@ -1,4 +1,4 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 
 ### ISTD
 
@@ -323,6 +323,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-09**|**Precision in Rice Variety Classification using Stacking-Based Ensemble Learning**|Md. Masudul Islam et.al.|[link](http://arxiv.org/abs/2609.10524v1)|null|
+|**2026-09-09**|**An isoperimetric problem for Fourier zeros of centrally symmetric convex bodies**|Javier Gómez-Serrano et.al.|[link](http://arxiv.org/abs/2609.10517v1)|null|
+|**2026-09-09**|**Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts**|Simon Khan et.al.|[link](http://arxiv.org/abs/2609.10498v1)|null|
+|**2026-09-09**|**Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation**|Siddharth Gupta et.al.|[link](http://arxiv.org/abs/2609.10495v1)|null|
+|**2026-09-09**|**Box dimension prints**|Peizhi Liu et.al.|[link](http://arxiv.org/abs/2609.10485v1)|null|
+|**2026-09-09**|**Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems**|Ian C. Guzmán et.al.|[link](http://arxiv.org/abs/2609.10479v1)|null|
+|**2026-09-09**|**Invariant domain preservation for hybrid point-value and cell-average discretizations of hyperbolic equations on general meshes**|Shengrong Ding et.al.|[link](http://arxiv.org/abs/2609.10476v1)|null|
+|**2026-09-09**|**Phoneme-Aware Pronunciation Representations for L2-English L1-Background Accent Identification**|Yangyang Qu et.al.|[link](http://arxiv.org/abs/2609.10466v1)|null|
+|**2026-09-09**|**JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition**|Zixiang Chen et.al.|[link](http://arxiv.org/abs/2609.10451v1)|null|
+|**2026-09-09**|**Aldous' spectral gap phenomena in stochastic exchange models**|Pietro Caputo et.al.|[link](http://arxiv.org/abs/2609.10450v1)|null|
+|**2026-09-09**|**The bounds $\hbar_{p,X}\lesssim(β_{p,X})^2$ and $β_{p,X}\lesssim(\hbar_{p,X})^2$ are sharp**|Emiel Lorist et.al.|[link](http://arxiv.org/abs/2609.10444v1)|null|
+|**2026-09-09**|**ConvMem: Convolutional Memory for Long-Context Reasoning**|Hongming Zhang et.al.|[link](http://arxiv.org/abs/2609.10441v1)|null|
+|**2026-09-09**|**Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs**|Ravi Ranjan et.al.|[link](http://arxiv.org/abs/2609.10439v1)|null|
+|**2026-09-09**|**Noncommutative sharp Hausdorff-Young inequality**|Hongsen Qiu et.al.|[link](http://arxiv.org/abs/2609.10424v1)|null|
+|**2026-09-09**|**TrajMark: Ownership Attribution and Segment-Level Tamper Localization for Coding-Agent Trajectories**|Bokang Zeng et.al.|[link](http://arxiv.org/abs/2609.10416v1)|null|
+|**2026-09-09**|**Hyperbolic distance matrix completion**|Mihai Putinar et.al.|[link](http://arxiv.org/abs/2609.10403v1)|null|
+|**2026-09-09**|**Teacher-Free Self-Distilled Consistency Trajectory Learning for Fast Speech Enhancement**|Shuubham Ojha et.al.|[link](http://arxiv.org/abs/2609.10392v1)|null|
+|**2026-09-09**|**Field quantization in rotating frames: coordinate covariance and the circular-detector response**|Sidney Natzuka Junior et.al.|[link](http://arxiv.org/abs/2609.10390v1)|null|
+|**2026-09-09**|**Economic Evaluation of V2G-Enabled Fast Charging Stations Under Endogenous EV Adoption Dynamics**|Mingjian Tuo et.al.|[link](http://arxiv.org/abs/2609.10388v1)|null|
+|**2026-09-09**|**Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask**|Yixiao Li et.al.|[link](http://arxiv.org/abs/2609.10387v1)|null|
 |**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Thodoris Betsas et.al.|[link](http://arxiv.org/abs/2609.09082v1)|null|
 |**2026-09-08**|**"World Knowledge" in the Weights: Reading Concept Circuits of Vision Transformers**|Yanlin Chen et.al.|[link](http://arxiv.org/abs/2609.09055v1)|null|
 |**2026-09-08**|**A Joint 2D-3D Statistical Shape Model for Orthopedic Reconstruction**|Florence Dell'Aniello Picard et.al.|[link](http://arxiv.org/abs/2609.09010v1)|null|
@@ -3373,6 +3393,7 @@
 |**2026-09-03**|**Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology**|Feixing Chen et.al.|[link](http://arxiv.org/abs/2609.03689v1)|null|
 |**2026-09-02**|**HyperMC: Multi-Fidelity Hyperparameter Tuning for Stochastic Gradient MCMC**|Ming Tan et.al.|[link](http://arxiv.org/abs/2609.02138v1)|null|
 |**2026-09-01**|**CRB-Guided Sensing and Resource Allocation for Human Pose Prediction in Integrated Sensing, Communication, and Computation Systems**|Zhonghao Liu et.al.|[link](http://arxiv.org/abs/2609.01908v1)|null|
+|**2026-09-09**|**Rad-R: A Raw-ADC Radar Dataset and Capture-Invariant SSM for Hardware-Fault Diagnosis**|Mainak Mallick et.al.|[link](http://arxiv.org/abs/2608.30896v2)|null|
 |**2026-08-31**|**Rad-R: A Raw-ADC Radar Dataset and Capture-Invariant SSM for Hardware-Fault Diagnosis**|Mainak Mallick et.al.|[link](http://arxiv.org/abs/2608.30896v1)|null|
 |**2026-08-31**|**Can Video World Models Track Unobserved World States?**|Joonghyuk Shin et.al.|[link](http://arxiv.org/abs/2608.30692v1)|null|
 |**2026-08-30**|**A Hybrid State-Space Approach for Census-Tract Population Estimation**|Jackson R. Ye et.al.|[link](http://arxiv.org/abs/2608.30094v1)|null|
@@ -4095,6 +4116,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-09**|**The Ding--Song--Sun inequality via a maximum principle**|Fu-Hsuan Ho et.al.|[link](http://arxiv.org/abs/2609.10528v1)|null|
+|**2026-09-09**|**Subexponential Approximation of the Permanent in Deterministic Polynomial Time**|Sergei Kudria et.al.|[link](http://arxiv.org/abs/2609.10516v1)|null|
+|**2026-09-09**|**Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation**|Siddharth Gupta et.al.|[link](http://arxiv.org/abs/2609.10495v1)|null|
+|**2026-09-09**|**Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs**|Saurabh Sihag et.al.|[link](http://arxiv.org/abs/2609.10490v1)|null|
+|**2026-09-09**|**Nonmaximal sums of maximally monotone operators under Rockafellar's constraint qualification**|Weifeng Yang et.al.|[link](http://arxiv.org/abs/2609.10487v1)|null|
+|**2026-09-09**|**Phoneme-Aware Pronunciation Representations for L2-English L1-Background Accent Identification**|Yangyang Qu et.al.|[link](http://arxiv.org/abs/2609.10466v1)|null|
+|**2026-09-09**|**Aldous' spectral gap phenomena in stochastic exchange models**|Pietro Caputo et.al.|[link](http://arxiv.org/abs/2609.10450v1)|null|
+|**2026-09-09**|**ConvMem: Convolutional Memory for Long-Context Reasoning**|Hongming Zhang et.al.|[link](http://arxiv.org/abs/2609.10441v1)|null|
+|**2026-09-09**|**Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs**|Kostia Kudriavtsev et.al.|[link](http://arxiv.org/abs/2609.10430v1)|null|
+|**2026-09-09**|**Faster Computation with the Generalized Laplacian Quantum Walk**|Jonas Duda et.al.|[link](http://arxiv.org/abs/2609.10429v1)|null|
+|**2026-09-09**|**Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support**|Jonathan A. Handler et.al.|[link](http://arxiv.org/abs/2609.10421v1)|null|
+|**2026-09-09**|**TrajMark: Ownership Attribution and Segment-Level Tamper Localization for Coding-Agent Trajectories**|Bokang Zeng et.al.|[link](http://arxiv.org/abs/2609.10416v1)|null|
+|**2026-09-09**|**Induced Forest Minor Theorem for Graphs Without an Induced Star**|Robert Hickingbotham et.al.|[link](http://arxiv.org/abs/2609.10406v1)|null|
+|**2026-09-09**|**Hyperbolic distance matrix completion**|Mihai Putinar et.al.|[link](http://arxiv.org/abs/2609.10403v1)|null|
+|**2026-09-09**|**Superpolynomial lower bounds for vertex numbers of real projective space triangulations via a topological Figiel-Lindenstrauss-Milman theorem**|Florian Frick et.al.|[link](http://arxiv.org/abs/2609.10402v1)|null|
+|**2026-09-09**|**Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask**|Yixiao Li et.al.|[link](http://arxiv.org/abs/2609.10387v1)|null|
+|**2026-09-09**|**Making the Graph Laplacian Physical: Multiscale Coarse-Graining in Electrical Oscillator Networks**|Juan Bisquert et.al.|[link](http://arxiv.org/abs/2609.10386v1)|null|
+|**2026-09-09**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Yuanxin Tian et.al.|[link](http://arxiv.org/abs/2609.10377v1)|null|
+|**2026-09-09**|**Beyond Weak Labels: Prompt-Guided Local Refinement for Weakly Supervised Water Segmentation in High-Resolution Multispectral Imagery**|Muhammad Farhan Humayun et.al.|[link](http://arxiv.org/abs/2609.10371v1)|null|
+|**2026-09-09**|**Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System**|Alex Leytes et.al.|[link](http://arxiv.org/abs/2609.10350v1)|null|
 |**2026-09-08**|**Catalan-many tropical morphisms to trees; Part II: A space and a count**|Alejandro Vargas et.al.|[link](http://arxiv.org/abs/2609.09109v1)|null|
 |**2026-09-08**|**GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting**|Thodoris Betsas et.al.|[link](http://arxiv.org/abs/2609.09082v1)|null|
 |**2026-09-08**|**"World Knowledge" in the Weights: Reading Concept Circuits of Vision Transformers**|Yanlin Chen et.al.|[link](http://arxiv.org/abs/2609.09055v1)|null|
@@ -6981,6 +7022,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-09**|**Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition**|Rishabh Jain et.al.|[link](http://arxiv.org/abs/2609.10394v1)|null|
+|**2026-09-09**|**From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis**|Yazhou Zhu et.al.|[link](http://arxiv.org/abs/2609.10001v1)|null|
+|**2026-09-09**|**A Kernel-Based Modular Discriminant Analysis Framework for Small-Sample Learning**|Lingxiao Qu et.al.|[link](http://arxiv.org/abs/2609.09910v1)|null|
+|**2026-09-09**|**Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis**|Hong Nguyen et.al.|[link](http://arxiv.org/abs/2609.09757v1)|null|
+|**2026-09-09**|**Settling: Equilibrium Inference for Non-Convex Validity Sets**|Lyes Saad Saoud et.al.|[link](http://arxiv.org/abs/2609.09682v1)|null|
 |**2026-09-08**|**Compensating for Scarce Historical Images in Cross-Domain Cultural Heritage Retrieval Using Synthetic Aging**|Marcin Iwanowski et.al.|[link](http://arxiv.org/abs/2609.08766v1)|null|
 |**2026-09-08**|**CrossRAFT: Cross-Domain Complex-Valued Feature Extraction for Ultrasound Motion Estimation**|Yang Leng et.al.|[link](http://arxiv.org/abs/2609.08631v1)|null|
 |**2026-09-08**|**AI-Native Orchestration in the 6G Continuum: Evolving Operator Platforms with Agentic AI**|Claudia Carballo González et.al.|[link](http://arxiv.org/abs/2609.08441v1)|null|
