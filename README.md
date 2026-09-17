@@ -1,9 +1,10 @@
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 
 ### ISTD
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[link](http://arxiv.org/abs/2609.18773v1)|null|
 |**2026-09-07**|**PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2609.07515v1)|null|
 |**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|**[code](https://github.com/iLearn-Lab/MM26-ADGNet)**|
 |**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|**[code](https://github.com/iLearn-Lab/MM26-DGNet)**|
@@ -323,6 +324,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[link](http://arxiv.org/abs/2609.19143v1)|null|
+|**2026-09-16**|**PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics**|Bardienus P. Duisterhof et.al.|[link](http://arxiv.org/abs/2609.19142v1)|null|
+|**2026-09-16**|**ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments**|Hejia Geng et.al.|[link](http://arxiv.org/abs/2609.19134v1)|null|
+|**2026-09-16**|**Track, Articulate, Act: Generating Articulation from Casual Human Videos**|Jiaming Zhang et.al.|[link](http://arxiv.org/abs/2609.19119v1)|null|
+|**2026-09-16**|**Floquet-Plasmon Enhanced Charge Transfer at Catalytic Interfaces**|Annabelle Canestraight et.al.|[link](http://arxiv.org/abs/2609.19117v1)|null|
+|**2026-09-16**|**How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents**|Zixi Chen et.al.|[link](http://arxiv.org/abs/2609.19107v1)|null|
+|**2026-09-16**|**When duality changes the poles: $SL(2,\mathbb{Z})$ transformations of linear response EFTs**|Andrea Amoretti et.al.|[link](http://arxiv.org/abs/2609.19075v1)|null|
+|**2026-09-16**|**Learning Holistic Whole-Body Loco-Manipulation with a Bipedal Mobile Manipulator**|Zhongyu Chen et.al.|[link](http://arxiv.org/abs/2609.18930v1)|null|
+|**2026-09-16**|**Geometry-Controlled Relaxation Spectra in Viscoelastic Fluids**|Niloyendu Roy et.al.|[link](http://arxiv.org/abs/2609.18926v1)|null|
+|**2026-09-16**|**PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image**|Sneha Paul et.al.|[link](http://arxiv.org/abs/2609.18920v1)|null|
+|**2026-09-16**|**Logarithmic-depth quantum simulation of boson sampling**|Changhun Oh et.al.|[link](http://arxiv.org/abs/2609.18907v1)|null|
+|**2026-09-16**|**NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting**|Yihan Zang et.al.|[link](http://arxiv.org/abs/2609.18898v1)|null|
+|**2026-09-16**|**Low-Rank Masking for Single-Server Matrix Multiplication**|Alejandro Cohen et.al.|[link](http://arxiv.org/abs/2609.18876v1)|null|
+|**2026-09-16**|**Using OCR Heads to Verbalize Image Semantics**|Sheridan Feucht et.al.|[link](http://arxiv.org/abs/2609.18823v1)|null|
+|**2026-09-16**|**WaveTLM: Reliable Time-Series Language Modeling through Task Compilation**|Jiahui Chen et.al.|[link](http://arxiv.org/abs/2609.18812v1)|null|
+|**2026-09-16**|**Toward Markerless Video-based Tremor Analysis: Objective Quantification of Pathological Tremor in Mouse Preclinical Models**|Yota Koshimoto et.al.|[link](http://arxiv.org/abs/2609.18753v1)|null|
+|**2026-09-16**|**TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection**|Huiyuan Liu et.al.|[link](http://arxiv.org/abs/2609.18748v1)|null|
+|**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[link](http://arxiv.org/abs/2609.18738v1)|null|
+|**2026-09-16**|**LocQE: Principled Domain Adaptation for Localisation Quality Estimation by Leveraging Post-Edits**|Kathy Hämmerl et.al.|[link](http://arxiv.org/abs/2609.18720v1)|null|
+|**2026-09-16**|**RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation**|Xiaochen Ma et.al.|[link](http://arxiv.org/abs/2609.18703v1)|null|
 |**2026-09-15**|**$B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations**|Claudio Ranucci et.al.|[link](http://arxiv.org/abs/2609.17531v1)|null|
 |**2026-09-15**|**ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents**|Shuhan Xue et.al.|[link](http://arxiv.org/abs/2609.17523v1)|**[code](https://github.com/Gen-Verse/ScienceBuddy)**|
 |**2026-09-15**|**What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity**|Congjing Zhang et.al.|[link](http://arxiv.org/abs/2609.17515v1)|null|
@@ -3420,6 +3441,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-16**|**Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding**|Benedikt Mayrhofer et.al.|[link](http://arxiv.org/abs/2609.18686v1)|null|
+|**2026-09-16**|**A general lightweight global modeling framework for three-dimensional seismic exploration**|Changxin Wei et.al.|[link](http://arxiv.org/abs/2609.18294v1)|null|
+|**2026-09-16**|**G-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[link](http://arxiv.org/abs/2609.18009v1)|null|
+|**2026-09-16**|**The Attention Within: Consensus Dynamics in Selective State Space Models**|João Pedro Silvestre et.al.|[link](http://arxiv.org/abs/2609.17997v1)|null|
 |**2026-09-15**|**Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality**|Jonghyeon Lim et.al.|[link](http://arxiv.org/abs/2609.16656v1)|null|
 |**2026-09-15**|**DiSR-ECG: Residual Shifting Conditional Diffusion for Robust ECG Super-Resolution**|Fan-Yi Hsu et.al.|[link](http://arxiv.org/abs/2609.16619v1)|null|
 |**2026-09-15**|**What Does Layer-Importance Reveal About Transformers and State-Space Models?**|Istabrak Abbes et.al.|[link](http://arxiv.org/abs/2609.16537v1)|null|
@@ -4170,6 +4195,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[link](http://arxiv.org/abs/2609.19143v1)|null|
+|**2026-09-16**|**Maximum Matching Size for Bounded Arboricity Graphs in the Dynamic Graph Stream Model using $\tilde{O}(n^{2/3})$ space**|Andrew McGregor et.al.|[link](http://arxiv.org/abs/2609.19136v1)|null|
+|**2026-09-16**|**Track, Articulate, Act: Generating Articulation from Casual Human Videos**|Jiaming Zhang et.al.|[link](http://arxiv.org/abs/2609.19119v1)|null|
+|**2026-09-16**|**Hamiltonicity in graphs defined by primes and primitive elements**|Yue-Feng She et.al.|[link](http://arxiv.org/abs/2609.19114v1)|null|
+|**2026-09-16**|**Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion**|Lining Mao et.al.|[link](http://arxiv.org/abs/2609.18928v1)|null|
+|**2026-09-16**|**Graph lattice sums and graph zeta functions for long-range interacting quantum lattice models**|Andreas Alexander Buchheit et.al.|[link](http://arxiv.org/abs/2609.18918v1)|null|
+|**2026-09-16**|**Examples of $\mathbb{Z}/2$-Harmonic 1-Forms**|Jiahuang Chen et.al.|[link](http://arxiv.org/abs/2609.18915v1)|null|
+|**2026-09-16**|**CaSCo: Cascade-Aware Soft-Collision Motion Planning**|Shivaram Kumar et.al.|[link](http://arxiv.org/abs/2609.18910v1)|null|
+|**2026-09-16**|**NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting**|Yihan Zang et.al.|[link](http://arxiv.org/abs/2609.18898v1)|null|
+|**2026-09-16**|**Fluid Notarization: Verifiable Evolution of Concurrently Edited Structured Documents**|Amos Brocco et.al.|[link](http://arxiv.org/abs/2609.18886v1)|null|
+|**2026-09-16**|**Connected Mutual-Visibility in Graphs**|Tonny K B et.al.|[link](http://arxiv.org/abs/2609.18877v1)|null|
+|**2026-09-16**|**The Regularity datum on time-varying graph domains and Dirichlet--Regularity duality**|Martin Dindoš et.al.|[link](http://arxiv.org/abs/2609.18874v1)|null|
+|**2026-09-16**|**A non-trivial bound for 3AP-intersecting families**|Peter Keevash et.al.|[link](http://arxiv.org/abs/2609.18870v1)|null|
+|**2026-09-16**|**PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning**|Yu Liu et.al.|[link](http://arxiv.org/abs/2609.18861v1)|null|
+|**2026-09-16**|**Degree-Free Spectral Independence for Log-Concave Holant Measures**|Xiaoyu Chen et.al.|[link](http://arxiv.org/abs/2609.18835v1)|null|
+|**2026-09-16**|**Isolated singularities of the capillary equation with negative gravity**|Bin Deng et.al.|[link](http://arxiv.org/abs/2609.18832v1)|null|
+|**2026-09-16**|**Core stability recognition for minimum-cost spanning tree games: Parameterized perspective**|Michal Dvořák et.al.|[link](http://arxiv.org/abs/2609.18807v1)|null|
+|**2026-09-16**|**Routing Multiple Agents Below the Sum of Distances**|Matthias Bentert et.al.|[link](http://arxiv.org/abs/2609.18802v1)|null|
+|**2026-09-16**|**Exact and fast series expansions for quantum models with long-range interactions**|Antonia Duft et.al.|[link](http://arxiv.org/abs/2609.18761v1)|null|
+|**2026-09-16**|**Stable Filters for Generative Modeling of Graph Signals**|Martin Schmidt et.al.|[link](http://arxiv.org/abs/2609.18759v1)|null|
 |**2026-09-15**|**An Alon-Boppana Bound for the Non-Backtracking Operator**|Theo McKenzie et.al.|[link](http://arxiv.org/abs/2609.17529v1)|null|
 |**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[link](http://arxiv.org/abs/2609.17509v1)|null|
 |**2026-09-15**|**Extending Andreotti's proof of Torelli's theorem to nodal curves**|Alex Abreu et.al.|[link](http://arxiv.org/abs/2609.17502v1)|null|
@@ -7116,6 +7161,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-16**|**Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding**|Benedikt Mayrhofer et.al.|[link](http://arxiv.org/abs/2609.18686v1)|null|
+|**2026-09-15**|**RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos**|Alexandru-Bogdan Dura et.al.|[link](http://arxiv.org/abs/2609.17843v1)|null|
+|**2026-09-15**|**Not All Patches Are Equally Forgettable: Spatially Localized Domain Unlearning in Vision-Language Models**|Akanksha Singh et.al.|[link](http://arxiv.org/abs/2609.17790v1)|null|
 |**2026-09-15**|**Cross-Domain Inference for Human Localization: Applying Wi-Fi RSSI Data to CSI-Trained Models**|Ariel Duschanek-Myers et.al.|[link](http://arxiv.org/abs/2609.17204v1)|null|
 |**2026-09-15**|**SOTER: A Generative Time-Series Foundation Model for Wearable Human Physiological Signals**|Fangke Chen et.al.|[link](http://arxiv.org/abs/2609.16804v1)|null|
 |**2026-09-15**|**Decoder Design Matters for ECG Delineation**|Joseph Scharpf et.al.|[link](http://arxiv.org/abs/2609.16489v1)|null|
