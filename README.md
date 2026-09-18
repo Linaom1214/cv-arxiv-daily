@@ -1,4 +1,4 @@
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 
 ### ISTD
 
@@ -324,6 +324,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-17**|**FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations**|Kevin Qu et.al.|[link](http://arxiv.org/abs/2609.20817v1)|null|
+|**2026-09-17**|**Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**|Hanyu Xue et.al.|[link](http://arxiv.org/abs/2609.20813v1)|null|
+|**2026-09-17**|**A note on generating polyhedra and quadrangulations**|Luisa Andreis et.al.|[link](http://arxiv.org/abs/2609.20811v1)|null|
+|**2026-09-17**|**Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations**|Sarah Wyer et.al.|[link](http://arxiv.org/abs/2609.20779v1)|null|
+|**2026-09-17**|**dQwen3.5: Hybrid-Attention Diffusion Language Models**|Anton Xue et.al.|[link](http://arxiv.org/abs/2609.20751v1)|null|
+|**2026-09-17**|**Efficient Non-Uniform Quantum Hermite Transform through Adaptive Sampling**|Nitay Mayo et.al.|[link](http://arxiv.org/abs/2609.20739v1)|null|
+|**2026-09-17**|**Active Hydrodynamics Couples Polymer Organization, Shape Fluctuations, and Motility in Deformable Droplets**|Ritu Raj et.al.|[link](http://arxiv.org/abs/2609.20730v1)|null|
+|**2026-09-17**|**PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving**|Zhexiang Zhang et.al.|[link](http://arxiv.org/abs/2609.20723v1)|null|
+|**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[link](http://arxiv.org/abs/2609.20722v1)|null|
+|**2026-09-17**|**An invertible map between 3D Breit-frame mechanical distributions and 2D infinite-momentum-frame mechanical densities in spin-1 hadrons**|Kemal Tezgin et.al.|[link](http://arxiv.org/abs/2609.20714v1)|null|
+|**2026-09-17**|**Solutions of the Navier-Stokes Equation Through Affine Transformations: The Triad Triplet**|Ö. D. Gürcan et.al.|[link](http://arxiv.org/abs/2609.20710v1)|null|
+|**2026-09-17**|**MoWAM: Explicit Future Motion Prediction for Efficient World Action Models**|Jiayu Wang et.al.|[link](http://arxiv.org/abs/2609.20709v1)|null|
+|**2026-09-17**|**Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation**|Lili Wang et.al.|[link](http://arxiv.org/abs/2609.20700v1)|null|
+|**2026-09-17**|**Phase transitions in non-Hermitian spherical integrals**|Pierre Bousseyroux et.al.|[link](http://arxiv.org/abs/2609.20685v1)|null|
+|**2026-09-17**|**FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents**|Dennis Rotondi et.al.|[link](http://arxiv.org/abs/2609.20673v1)|null|
+|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Zimu Han et.al.|[link](http://arxiv.org/abs/2609.20659v1)|null|
+|**2026-09-17**|**Gravity from Invariant Weyl-Integrable space-time (IWIST)**|José Edgar Madriz Aguilar et.al.|[link](http://arxiv.org/abs/2609.20619v1)|null|
+|**2026-09-17**|**Recursive Quantum Long Short-Term Memory for Stable Short-Horizon Temperature Forecasting**|Mu-En Lee et.al.|[link](http://arxiv.org/abs/2609.20594v1)|null|
+|**2026-09-17**|**CrystalMO-TuRBO: Multi-Objective Trust-Region Bayesian Optimization for High-precision Joint Crystal Structure Refinement**|Joseph Agada et.al.|[link](http://arxiv.org/abs/2609.20592v1)|null|
+|**2026-09-17**|**Walking on the Slope: Stable Bipedal Gaits with Genetic-Algorithm-Optimized Trajectories**|Madhav Rijal et.al.|[link](http://arxiv.org/abs/2609.20570v1)|null|
 |**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[link](http://arxiv.org/abs/2609.19143v1)|null|
 |**2026-09-16**|**PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics**|Bardienus P. Duisterhof et.al.|[link](http://arxiv.org/abs/2609.19142v1)|null|
 |**2026-09-16**|**ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments**|Hejia Geng et.al.|[link](http://arxiv.org/abs/2609.19134v1)|null|
@@ -3441,6 +3461,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-17**|**Foreground Voice Activity Detection: Learning Speaker Selectivity from Supervision**|Guangzhao Yang et.al.|[link](http://arxiv.org/abs/2609.19856v1)|null|
 |**2026-09-16**|**Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding**|Benedikt Mayrhofer et.al.|[link](http://arxiv.org/abs/2609.18686v1)|null|
 |**2026-09-16**|**A general lightweight global modeling framework for three-dimensional seismic exploration**|Changxin Wei et.al.|[link](http://arxiv.org/abs/2609.18294v1)|null|
 |**2026-09-16**|**G-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[link](http://arxiv.org/abs/2609.18009v1)|null|
@@ -4195,6 +4216,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-17**|**FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations**|Kevin Qu et.al.|[link](http://arxiv.org/abs/2609.20817v1)|null|
+|**2026-09-17**|**A note on generating polyhedra and quadrangulations**|Luisa Andreis et.al.|[link](http://arxiv.org/abs/2609.20811v1)|null|
+|**2026-09-17**|**Disorder on the hyperbolic square lattice I: Anderson delocalization and absolutely continuous spectrum**|Simon Becker et.al.|[link](http://arxiv.org/abs/2609.20798v1)|null|
+|**2026-09-17**|**Metric Weighted Edit Distance: $(3+\varepsilon)$-Approximation in $\widetilde O_\varepsilon(N^{1.6})$ Time**|Debarati Das et.al.|[link](http://arxiv.org/abs/2609.20796v1)|null|
+|**2026-09-17**|**Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights**|Tica Lin et.al.|[link](http://arxiv.org/abs/2609.20768v1)|null|
+|**2026-09-17**|**RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents**|Mingxuan Zhang et.al.|[link](http://arxiv.org/abs/2609.20754v1)|null|
+|**2026-09-17**|**An Interpretable Approach to Money Laundering Detection in Transaction Graphs using Pass-Through Templates**|Paolo Climaco et.al.|[link](http://arxiv.org/abs/2609.20737v1)|null|
+|**2026-09-17**|**Active Hydrodynamics Couples Polymer Organization, Shape Fluctuations, and Motility in Deformable Droplets**|Ritu Raj et.al.|[link](http://arxiv.org/abs/2609.20730v1)|null|
+|**2026-09-17**|**Longest cycles intersect linearly in highly connected graphs**|Jie Ma et.al.|[link](http://arxiv.org/abs/2609.20724v1)|null|
+|**2026-09-17**|**Hölder Selections under Stieltjes Clocks: Uniform Disconnectedness and Jump Dominance**|Serkan İlter et.al.|[link](http://arxiv.org/abs/2609.20706v1)|null|
+|**2026-09-17**|**Cutting a convex body into fat parts and approximating Euclidean distance by graph distances**|János Pach et.al.|[link](http://arxiv.org/abs/2609.20702v1)|null|
+|**2026-09-17**|**Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation**|Lili Wang et.al.|[link](http://arxiv.org/abs/2609.20700v1)|null|
+|**2026-09-17**|**A counterexample to the quantum Hedetniemi conjecture**|Julius A. Zeiss et.al.|[link](http://arxiv.org/abs/2609.20690v1)|null|
+|**2026-09-17**|**Schrijver-Delsarte rigidity in association schemes and undecidability of quantum graph homomorphism**|Lorenzo Ciardo et.al.|[link](http://arxiv.org/abs/2609.20678v1)|null|
+|**2026-09-17**|**Epidemiological Causal Graph Identification: Challenges, Identifiability and Algorithms**|Sambit Mishra et.al.|[link](http://arxiv.org/abs/2609.20676v1)|null|
+|**2026-09-17**|**FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents**|Dennis Rotondi et.al.|[link](http://arxiv.org/abs/2609.20673v1)|null|
+|**2026-09-17**|**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**|Zimu Han et.al.|[link](http://arxiv.org/abs/2609.20659v1)|null|
+|**2026-09-17**|**Framingtopes**|Sergio Alejandro Fernandez de soto Guerrero et.al.|[link](http://arxiv.org/abs/2609.20656v1)|null|
+|**2026-09-17**|**Hardness of Pathfinding in a Welded Tree**|David Miloschewsky et.al.|[link](http://arxiv.org/abs/2609.20651v1)|null|
+|**2026-09-17**|**SmellDiffusion: Diffusion-Based Quadruped Navigation with Olfactory Scene Graphs**|Faith Ogunwoye et.al.|[link](http://arxiv.org/abs/2609.20624v1)|null|
 |**2026-09-16**|**PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection**|Sara Pieri et.al.|[link](http://arxiv.org/abs/2609.19143v1)|null|
 |**2026-09-16**|**Maximum Matching Size for Bounded Arboricity Graphs in the Dynamic Graph Stream Model using $\tilde{O}(n^{2/3})$ space**|Andrew McGregor et.al.|[link](http://arxiv.org/abs/2609.19136v1)|null|
 |**2026-09-16**|**Track, Articulate, Act: Generating Articulation from Casual Human Videos**|Jiaming Zhang et.al.|[link](http://arxiv.org/abs/2609.19119v1)|null|
@@ -7161,6 +7202,12 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-17**|**Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL**|Juzheng Zhang et.al.|[link](http://arxiv.org/abs/2609.20715v1)|null|
+|**2026-09-17**|**FreqCondNorm: Towards Cross-domain Predictive Maintenance through a Frequency-Conditioned Transformer Foundation Model**|Zaynab Raounak et.al.|[link](http://arxiv.org/abs/2609.20535v1)|null|
+|**2026-09-17**|**SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models**|Xiaodong He et.al.|[link](http://arxiv.org/abs/2609.20419v1)|null|
+|**2026-09-17**|**CoRELoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection**|Kunyu Feng et.al.|[link](http://arxiv.org/abs/2609.19818v1)|null|
+|**2026-09-17**|**BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems**|Shunsuke Ito et.al.|[link](http://arxiv.org/abs/2609.19699v1)|null|
+|**2026-09-17**|**AURORA: A Natural Language-Driven Agentic Framework for Understanding, Reasoning, and Orchestrating Reliable Air-Ground Co-Simulation**|Keshu Wu et.al.|[link](http://arxiv.org/abs/2609.19527v1)|null|
 |**2026-09-16**|**Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding**|Benedikt Mayrhofer et.al.|[link](http://arxiv.org/abs/2609.18686v1)|null|
 |**2026-09-15**|**RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos**|Alexandru-Bogdan Dura et.al.|[link](http://arxiv.org/abs/2609.17843v1)|null|
 |**2026-09-15**|**Not All Patches Are Equally Forgettable: Spatially Localized Domain Unlearning in Vision-Language Models**|Akanksha Singh et.al.|[link](http://arxiv.org/abs/2609.17790v1)|null|
