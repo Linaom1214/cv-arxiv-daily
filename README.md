@@ -1,4 +1,4 @@
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 
 ### ISTD
 
@@ -324,6 +324,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-18**|**Stellahedral Geometry of Partially Ordered Sets**|Tommaso Faustini et.al.|[link](http://arxiv.org/abs/2609.22078v1)|null|
+|**2026-09-18**|**Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features**|Arefeh Rezaei et.al.|[link](http://arxiv.org/abs/2609.22060v1)|null|
+|**2026-09-18**|**Optical Mode Sorting with a Programmable Diffractive Neural Network**|Qian Zhang et.al.|[link](http://arxiv.org/abs/2609.22015v1)|null|
+|**2026-09-18**|**COMPLEX: A Closed-Form Certified Embedding of Multiparameter Persistence Modules**|Sushovan Majhi et.al.|[link](http://arxiv.org/abs/2609.22012v1)|null|
+|**2026-09-18**|**Time series generation with spectrally aligned latent flow matching**|Camilo Carvajal Reyes et.al.|[link](http://arxiv.org/abs/2609.21989v1)|null|
+|**2026-09-18**|**Learning-Based Augmentation and Adaptation for Grid Sim-to-Real Model Discrepancy**|Sayak Mukherjee et.al.|[link](http://arxiv.org/abs/2609.21986v1)|null|
+|**2026-09-18**|**SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation**|Pengjun Niu et.al.|[link](http://arxiv.org/abs/2609.21983v1)|null|
+|**2026-09-18**|**CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching**|Shuqi Zhao et.al.|[link](http://arxiv.org/abs/2609.21982v1)|null|
+|**2026-09-18**|**A variational approach for the 2D Abelian Yang-Mills-Higgs measure**|Nikolay Barashkov et.al.|[link](http://arxiv.org/abs/2609.21972v1)|null|
+|**2026-09-18**|**A boundedness result for degenerate parabolic Riesz transforms with rough coefficients**|Khalid Baadi et.al.|[link](http://arxiv.org/abs/2609.21949v1)|null|
+|**2026-09-18**|**Learning to Move Cities: Deep Meta-Models and Reinforcement Policies for Calibration and Control in Urban Networks**|Adewumi Augustine Adepitan et.al.|[link](http://arxiv.org/abs/2609.21945v1)|null|
+|**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[link](http://arxiv.org/abs/2609.21938v1)|null|
+|**2026-09-18**|**Joint Remaining Useful Life Prediction and Capacity Estimation of Lithium-Ion Batteries Using Partial-Charging Data**|Khoa Tran et.al.|[link](http://arxiv.org/abs/2609.21932v1)|null|
+|**2026-09-18**|**A colorful Steinitz theorem with different centers**|G. Ivanov et.al.|[link](http://arxiv.org/abs/2609.21927v1)|null|
+|**2026-09-18**|**Training Music Sample Identification Models on Real Sample Pairs**|R. Oguz Araz et.al.|[link](http://arxiv.org/abs/2609.21911v1)|null|
+|**2026-09-18**|**The Role of Radiometric Features in Cross-Site Leaf-Wood Segmentation of LiDAR Point Clouds**|Roman Kaharlytskyi et.al.|[link](http://arxiv.org/abs/2609.21903v1)|null|
+|**2026-09-18**|**Multi-Resolution Wire-Fencing for Efficient Path Sampling**|Simen Z. Stenersen Michler et.al.|[link](http://arxiv.org/abs/2609.21897v1)|null|
+|**2026-09-18**|**Catena: A Comprehensive Software Suite for Large-Scale Connectomics**|Samia Mohinta et.al.|[link](http://arxiv.org/abs/2609.21887v1)|null|
+|**2026-09-18**|**Velocity Averaging for the Wigner Equation with Electromagnetic Fields**|François Golse et.al.|[link](http://arxiv.org/abs/2609.21885v1)|null|
+|**2026-09-18**|**The Weight Is Over - Interactive Diffusion on Consumer GPUs**|Frieder Ganz et.al.|[link](http://arxiv.org/abs/2609.21849v1)|null|
 |**2026-09-17**|**FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations**|Kevin Qu et.al.|[link](http://arxiv.org/abs/2609.20817v1)|null|
 |**2026-09-17**|**Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**|Hanyu Xue et.al.|[link](http://arxiv.org/abs/2609.20813v1)|null|
 |**2026-09-17**|**A note on generating polyhedra and quadrangulations**|Luisa Andreis et.al.|[link](http://arxiv.org/abs/2609.20811v1)|null|
@@ -3461,13 +3481,19 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-18**|**PointLAM: Local Attentive Mamba for Efficient Point-based 3D Object Detection**|Xuanming Shang et.al.|[link](http://arxiv.org/abs/2609.21780v1)|null|
+|**2026-09-18**|**Dual-Interest Sequential Product Recommendation With Multi-Granular SSM**|Shuiying Liao et.al.|[link](http://arxiv.org/abs/2609.21548v1)|null|
+|**2026-09-18**|**WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field**|Hang Jiang et.al.|[link](http://arxiv.org/abs/2609.21391v1)|null|
+|**2026-09-18**|**S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining**|Kui Jiang et.al.|[link](http://arxiv.org/abs/2609.21322v1)|null|
+|**2026-09-18**|**HAMMER: Harmonic-Aware Parallel Context Modeling and Discriminator-Free Perceptual Optimization for Speech Enhancement**|Shang-Fu Chen et.al.|[link](http://arxiv.org/abs/2609.21171v1)|null|
 |**2026-09-17**|**Foreground Voice Activity Detection: Learning Speaker Selectivity from Supervision**|Guangzhao Yang et.al.|[link](http://arxiv.org/abs/2609.19856v1)|null|
 |**2026-09-16**|**Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding**|Benedikt Mayrhofer et.al.|[link](http://arxiv.org/abs/2609.18686v1)|null|
 |**2026-09-16**|**A general lightweight global modeling framework for three-dimensional seismic exploration**|Changxin Wei et.al.|[link](http://arxiv.org/abs/2609.18294v1)|null|
+|**2026-09-18**|**SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[link](http://arxiv.org/abs/2609.18009v2)|null|
 |**2026-09-16**|**G-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[link](http://arxiv.org/abs/2609.18009v1)|null|
 |**2026-09-16**|**The Attention Within: Consensus Dynamics in Selective State Space Models**|João Pedro Silvestre et.al.|[link](http://arxiv.org/abs/2609.17997v1)|null|
 |**2026-09-15**|**Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality**|Jonghyeon Lim et.al.|[link](http://arxiv.org/abs/2609.16656v1)|null|
-|**2026-09-15**|**DiSR-ECG: Residual Shifting Conditional Diffusion for Robust ECG Super-Resolution**|Fan-Yi Hsu et.al.|[link](http://arxiv.org/abs/2609.16619v1)|**[code](https://github.com/FLYIH/DiSR-ECG)**|
+|**2026-09-15**|**DiSR-ECG: Residual Shifting Conditional Diffusion for Robust ECG Super-Resolution**|Fan-Yi Hsu et.al.|[link](http://arxiv.org/abs/2609.16619v1)|null|
 |**2026-09-15**|**What Does Layer-Importance Reveal About Transformers and State-Space Models?**|Istabrak Abbes et.al.|[link](http://arxiv.org/abs/2609.16537v1)|null|
 |**2026-09-14**|**Anatomy of Associative Recall in Fixed-State Recurrences: A Matched-State Decomposition, an Interference Wall, and a Curriculum That Breaks It**|Julian Boesch et.al.|[link](http://arxiv.org/abs/2609.16183v1)|null|
 |**2026-09-14**|**MambaMPD: A Mamba-Driven Segmentation Framework for Marine Pollution Detection from Remote Sensing Imagery**|Shuaiyu Chen et.al.|[link](http://arxiv.org/abs/2609.15676v1)|null|
@@ -4216,6 +4242,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[link](http://arxiv.org/abs/2609.22082v1)|null|
+|**2026-09-18**|**Duality and minors for embeddings of graphs in pseudosurfaces**|Blake Dunshee et.al.|[link](http://arxiv.org/abs/2609.22061v1)|null|
+|**2026-09-18**|**Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features**|Arefeh Rezaei et.al.|[link](http://arxiv.org/abs/2609.22060v1)|null|
+|**2026-09-18**|**Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise**|Fabricio Breve et.al.|[link](http://arxiv.org/abs/2609.22053v1)|null|
+|**2026-09-18**|**Auditing bipartite motif interpretations: a worked example with conservation checks and open-path decomposition**|Tengfei Shao et.al.|[link](http://arxiv.org/abs/2609.22014v1)|null|
+|**2026-09-18**|**COMPLEX: A Closed-Form Certified Embedding of Multiparameter Persistence Modules**|Sushovan Majhi et.al.|[link](http://arxiv.org/abs/2609.22012v1)|null|
+|**2026-09-18**|**CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching**|Shuqi Zhao et.al.|[link](http://arxiv.org/abs/2609.21982v1)|null|
+|**2026-09-18**|**Finite Quotients of Right-angled Artin Groups**|Zihao Liu et.al.|[link](http://arxiv.org/abs/2609.21946v1)|null|
+|**2026-09-18**|**Sampling Matchings in Near-linear Time**|Tianshun Miao et.al.|[link](http://arxiv.org/abs/2609.21936v1)|null|
+|**2026-09-18**|**Joint Remaining Useful Life Prediction and Capacity Estimation of Lithium-Ion Batteries Using Partial-Charging Data**|Khoa Tran et.al.|[link](http://arxiv.org/abs/2609.21932v1)|null|
+|**2026-09-18**|**A colorful Steinitz theorem with different centers**|G. Ivanov et.al.|[link](http://arxiv.org/abs/2609.21927v1)|null|
+|**2026-09-18**|**The Role of Radiometric Features in Cross-Site Leaf-Wood Segmentation of LiDAR Point Clouds**|Roman Kaharlytskyi et.al.|[link](http://arxiv.org/abs/2609.21903v1)|null|
+|**2026-09-18**|**Multi-Resolution Wire-Fencing for Efficient Path Sampling**|Simen Z. Stenersen Michler et.al.|[link](http://arxiv.org/abs/2609.21897v1)|null|
+|**2026-09-18**|**Digraphs of Large Girth and Dichromatic Number in Tournaments with Large Dichromatic Number**|Pierre Charbit et.al.|[link](http://arxiv.org/abs/2609.21895v1)|null|
+|**2026-09-18**|**Local large deviations for triangles in sparse random graphs**|Jade Lintott et.al.|[link](http://arxiv.org/abs/2609.21890v1)|null|
+|**2026-09-18**|**Catena: A Comprehensive Software Suite for Large-Scale Connectomics**|Samia Mohinta et.al.|[link](http://arxiv.org/abs/2609.21887v1)|null|
+|**2026-09-18**|**Velocity Averaging for the Wigner Equation with Electromagnetic Fields**|François Golse et.al.|[link](http://arxiv.org/abs/2609.21885v1)|null|
+|**2026-09-18**|**Diagnosing Inconsistencies in 4d N=1 Gauge Theories with Explainable AI**|Seong-Jin Lee et.al.|[link](http://arxiv.org/abs/2609.21867v1)|null|
+|**2026-09-18**|**Distributed Multiconsensus Control of BESSs Based on Centrality of Eigenvectors**|Yalin Zhang et.al.|[link](http://arxiv.org/abs/2609.21856v1)|null|
+|**2026-09-18**|**Distributed Balanced Butterfly Counting in Signed Bipartite Graphs**|Kiran Mekala et.al.|[link](http://arxiv.org/abs/2609.21848v1)|null|
 |**2026-09-17**|**FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations**|Kevin Qu et.al.|[link](http://arxiv.org/abs/2609.20817v1)|null|
 |**2026-09-17**|**A note on generating polyhedra and quadrangulations**|Luisa Andreis et.al.|[link](http://arxiv.org/abs/2609.20811v1)|null|
 |**2026-09-17**|**Disorder on the hyperbolic square lattice I: Anderson delocalization and absolutely continuous spectrum**|Simon Becker et.al.|[link](http://arxiv.org/abs/2609.20798v1)|null|
@@ -7202,9 +7248,15 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[link](http://arxiv.org/abs/2609.22083v1)|null|
+|**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[link](http://arxiv.org/abs/2609.22081v1)|null|
+|**2026-09-18**|**Purification and Regulation: Comorbidity-Aware Multi-Label Few-Shot Learning for Medical Image Classification**|Ying-Chih Lin et.al.|[link](http://arxiv.org/abs/2609.21541v1)|null|
+|**2026-09-18**|**Beyond Exact Match: Task-Aware GRPO for Cross-Domain PCBA Visual Question Answering**|Jia Li et.al.|[link](http://arxiv.org/abs/2609.21276v1)|null|
+|**2026-09-17**|**DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real**|Jin Wu et.al.|[link](http://arxiv.org/abs/2609.21045v1)|null|
 |**2026-09-17**|**Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL**|Juzheng Zhang et.al.|[link](http://arxiv.org/abs/2609.20715v1)|null|
 |**2026-09-17**|**FreqCondNorm: Towards Cross-domain Predictive Maintenance through a Frequency-Conditioned Transformer Foundation Model**|Zaynab Raounak et.al.|[link](http://arxiv.org/abs/2609.20535v1)|null|
 |**2026-09-17**|**SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models**|Xiaodong He et.al.|[link](http://arxiv.org/abs/2609.20419v1)|null|
+|**2026-09-18**|**CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection**|Kunyu Feng et.al.|[link](http://arxiv.org/abs/2609.19818v2)|null|
 |**2026-09-17**|**CoRELoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection**|Kunyu Feng et.al.|[link](http://arxiv.org/abs/2609.19818v1)|null|
 |**2026-09-17**|**BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems**|Shunsuke Ito et.al.|[link](http://arxiv.org/abs/2609.19699v1)|null|
 |**2026-09-17**|**AURORA: A Natural Language-Driven Agentic Framework for Understanding, Reasoning, and Orchestrating Reliable Air-Ground Co-Simulation**|Keshu Wu et.al.|[link](http://arxiv.org/abs/2609.19527v1)|null|
