@@ -1,4 +1,4 @@
-## Updated on 2026.09.21
+## Updated on 2026.09.23
 
 ### ISTD
 
@@ -12,7 +12,7 @@
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|
 |**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|
-|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|**[code](https://github.com/Haoyu096/LCMamNet)**|
+|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|
 |**2026-07-28**|**Effective Receptive Field Ordering Matters for Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2607.23994v2)|null|
 |**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[link](http://arxiv.org/abs/2607.19040v1)|null|
 |**2026-07-19**|**Noise-Robust Box-Supervised Infrared Small Target Detection via Physics-Inspired Soft Label Optimization**|Xizhe Zhang et.al.|[link](http://arxiv.org/abs/2607.17148v1)|null|
@@ -324,6 +324,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-22**|**Attention Guided Conditional Adversarial Learning for EMG Artifact Suppression in Single Channel EEG**|Haoyi Wang et.al.|[link](http://arxiv.org/abs/2609.26772v1)|null|
+|**2026-09-22**|**Empirical Bayes prepivoting under group invariance: false discovery rate control and moderated t-tests**|Nikolaos Ignatiadis et.al.|[link](http://arxiv.org/abs/2609.26764v1)|null|
+|**2026-09-22**|**The existence and uniqueness of magic-faced hypercubes, and applications to Khajuraho most-perfect magic squares, cubes, and hypercubes**|Manjul Bhargava et.al.|[link](http://arxiv.org/abs/2609.26762v1)|null|
+|**2026-09-22**|**FleXray: Universal Clinical X-ray Segmentation**|Victor Ion Butoi et.al.|[link](http://arxiv.org/abs/2609.26756v1)|null|
+|**2026-09-22**|**Analytic toroidal 3D MHD equilibria and steady Euler flows with invariant surfaces**|Matt Landreman et.al.|[link](http://arxiv.org/abs/2609.26742v1)|null|
+|**2026-09-22**|**Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism**|Christopher Burger et.al.|[link](http://arxiv.org/abs/2609.26733v1)|null|
+|**2026-09-22**|**GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation**|Fang Wang et.al.|[link](http://arxiv.org/abs/2609.26729v1)|null|
+|**2026-09-22**|**Extending the reconstruction of displaced tracks at CMS during the HL-LHC with Line Segment Tracking**|Jade Chismar et.al.|[link](http://arxiv.org/abs/2609.26695v1)|null|
+|**2026-09-22**|**A Spectral Theory of Grokking: Weight Decay induces Feature Learning**|Lenz Pracher et.al.|[link](http://arxiv.org/abs/2609.26679v1)|null|
+|**2026-09-22**|**Immersed hypersurfaces with positive first Newton transformation**|Jiangcheng You et.al.|[link](http://arxiv.org/abs/2609.26665v1)|null|
+|**2026-09-22**|**Longitudinal Retinal Vascular Remodeling in Myopic Children Treated with Orthokeratology or Defocus Lenses: A Two-Year Comparative Study**|Zhihao Zhao et.al.|[link](http://arxiv.org/abs/2609.26662v1)|null|
+|**2026-09-22**|**Discovery-Driven Integration of Disjoint Tables via Text**|Md Ataur Rahman et.al.|[link](http://arxiv.org/abs/2609.26658v1)|null|
+|**2026-09-22**|**Context-Adaptive Thresholding for Conditionally Representative Monitoring and Classification**|Ansgar Steland et.al.|[link](http://arxiv.org/abs/2609.26652v1)|null|
+|**2026-09-22**|**Laryngeal Structure Segmentation in High-Speed Videoendoscopy Using Deep Learning**|Sardar Nafis Bin Ali et.al.|[link](http://arxiv.org/abs/2609.26636v1)|null|
+|**2026-09-22**|**MambaVoice: Lightweight Audiovisual Singing Voice Separation Via A Hybrid Mamba-Transformer Model**|Adithi Shankar et.al.|[link](http://arxiv.org/abs/2609.26635v1)|null|
+|**2026-09-22**|**Annihilator and twisted Euclidean duality for quasi-polycyclic codes**|Tushar Bag et.al.|[link](http://arxiv.org/abs/2609.26633v1)|null|
+|**2026-09-22**|**Unlocking Cross-Scenario Physical Layer Security: A Mixture-of-Experts Framework with Generative Diffusion Models**|Xiao Tang et.al.|[link](http://arxiv.org/abs/2609.26598v1)|null|
+|**2026-09-22**|**On the Convex Transform Order of Order Statistics**|Yijia Li et.al.|[link](http://arxiv.org/abs/2609.26595v1)|null|
+|**2026-09-22**|**A New Method For Manipulating Circuits, Application To Quantum Adders**|William Schober et.al.|[link](http://arxiv.org/abs/2609.26591v1)|null|
+|**2026-09-22**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[link](http://arxiv.org/abs/2609.26590v1)|null|
 |**2026-09-18**|**Stellahedral Geometry of Partially Ordered Sets**|Tommaso Faustini et.al.|[link](http://arxiv.org/abs/2609.22078v1)|null|
 |**2026-09-18**|**Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features**|Arefeh Rezaei et.al.|[link](http://arxiv.org/abs/2609.22060v1)|null|
 |**2026-09-18**|**Optical Mode Sorting with a Programmable Diffractive Neural Network**|Qian Zhang et.al.|[link](http://arxiv.org/abs/2609.22015v1)|null|
@@ -3481,6 +3501,20 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-22**|**GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation**|Fang Wang et.al.|[link](http://arxiv.org/abs/2609.26729v1)|null|
+|**2026-09-22**|**MambaVoice: Lightweight Audiovisual Singing Voice Separation Via A Hybrid Mamba-Transformer Model**|Adithi Shankar et.al.|[link](http://arxiv.org/abs/2609.26635v1)|null|
+|**2026-09-22**|**SE-MSB: End-to-End Unpaired Speech Enhancement using Mamba Schrödinger Bridges**|Andreas Bagge et.al.|[link](http://arxiv.org/abs/2609.26000v1)|null|
+|**2026-09-22**|**When Quantum Meets AI: Quantum Methods for Machine Learning and Machine Learning Methods for Quantum Systems**|Tak Hur et.al.|[link](http://arxiv.org/abs/2609.25641v1)|null|
+|**2026-09-22**|**Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity**|Wei Zhou et.al.|[link](http://arxiv.org/abs/2609.25538v1)|null|
+|**2026-09-21**|**SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models**|Ali Kerem Bozkurt et.al.|[link](http://arxiv.org/abs/2609.24894v1)|null|
+|**2026-09-21**|**CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention**|Xuezhi Xiang et.al.|[link](http://arxiv.org/abs/2609.24494v1)|null|
+|**2026-09-21**|**Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders**|Rithin Nagaraj et.al.|[link](http://arxiv.org/abs/2609.24440v1)|null|
+|**2026-09-21**|**Pharmacokinetic State Space Models for Unbiased Prediction of Haemodynamic Collapse**|Rithin Nagaraj et.al.|[link](http://arxiv.org/abs/2609.24338v1)|null|
+|**2026-09-22**|**LiAuto-MindViT: A Hybrid Vision Backbone with Adaptive Bidirectional Mamba**|Lifu Mu et.al.|[link](http://arxiv.org/abs/2609.24337v2)|null|
+|**2026-09-21**|**Audio-based UAV Localization with Adaptive Temporal Correspondence via Reinforcement Learning**|Haoxiang Lei et.al.|[link](http://arxiv.org/abs/2609.24218v1)|null|
+|**2026-09-21**|**H-Spec: Parallel Speculative Decoding Without a Drafter-Side KV Cache**|Weifan Jiang et.al.|[link](http://arxiv.org/abs/2609.24197v1)|null|
+|**2026-09-21**|**U-PEN Mamba: Progressive Expansion with Selective State-Space Modeling for Efficient Retinal Vessel Segmentation**|Abel A. Reyes-Angulo et.al.|[link](http://arxiv.org/abs/2609.24049v1)|null|
+|**2026-09-19**|**HDMamba-YOLO: Efficient State-Space Perception and Local Spatial Reconstruction for UAV Small Object**|Linduo Wei et.al.|[link](http://arxiv.org/abs/2609.23061v1)|null|
 |**2026-09-18**|**PointLAM: Local Attentive Mamba for Efficient Point-based 3D Object Detection**|Xuanming Shang et.al.|[link](http://arxiv.org/abs/2609.21780v1)|null|
 |**2026-09-18**|**Dual-Interest Sequential Product Recommendation With Multi-Granular SSM**|Shuiying Liao et.al.|[link](http://arxiv.org/abs/2609.21548v1)|null|
 |**2026-09-18**|**WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field**|Hang Jiang et.al.|[link](http://arxiv.org/abs/2609.21391v1)|null|
@@ -4242,6 +4276,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-22**|**Quantum Advantage for Distributed Symmetry Breaking**|Maxime Flin et.al.|[link](http://arxiv.org/abs/2609.26788v1)|null|
+|**2026-09-22**|**Comparing phylogenetic trees of stars with spectral graph distances**|Theosamuele Signor et.al.|[link](http://arxiv.org/abs/2609.26782v1)|null|
+|**2026-09-22**|**Attention Guided Conditional Adversarial Learning for EMG Artifact Suppression in Single Channel EEG**|Haoyi Wang et.al.|[link](http://arxiv.org/abs/2609.26772v1)|null|
+|**2026-09-22**|**FleXray: Universal Clinical X-ray Segmentation**|Victor Ion Butoi et.al.|[link](http://arxiv.org/abs/2609.26756v1)|null|
+|**2026-09-22**|**Automatic depth-based local center clustering via $β$-integrated local depth and adaptive grouping**|Siyi Wang et.al.|[link](http://arxiv.org/abs/2609.26748v1)|null|
+|**2026-09-22**|**Diffusion-Induced Spatial Attention Overlapping Community Detection**|Kosti Koistinen et.al.|[link](http://arxiv.org/abs/2609.26737v1)|null|
+|**2026-09-22**|**GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation**|Fang Wang et.al.|[link](http://arxiv.org/abs/2609.26729v1)|null|
+|**2026-09-22**|**A quantum lower bound for path finding in welded trees**|Joseph Carolan et.al.|[link](http://arxiv.org/abs/2609.26712v1)|null|
+|**2026-09-22**|**TraceVIC: Causal Reasoning over Code Evolution for Identifying Vulnerability-Inducing Commits**|Fnu Tanish et.al.|[link](http://arxiv.org/abs/2609.26711v1)|null|
+|**2026-09-22**|**Graphs with Minimum Algebraic Connectivity II: Regular Graphs of Even Degree**|Maryam Abdi et.al.|[link](http://arxiv.org/abs/2609.26700v1)|null|
+|**2026-09-22**|**Graphs with Minimum Algebraic Connectivity I: Proofs of Aldous-Fill and Guiduli-Mohar Conjectures**|Maryam Abdi et.al.|[link](http://arxiv.org/abs/2609.26699v1)|null|
+|**2026-09-22**|**Extending the reconstruction of displaced tracks at CMS during the HL-LHC with Line Segment Tracking**|Jade Chismar et.al.|[link](http://arxiv.org/abs/2609.26695v1)|null|
+|**2026-09-22**|**Databases with Missing Values that are Governed by Missingness Mechanisms**|Leopoldo Bertossi et.al.|[link](http://arxiv.org/abs/2609.26692v1)|null|
+|**2026-09-22**|**A graph planar algebra approach to near-group categories**|Cain Edie-Michell et.al.|[link](http://arxiv.org/abs/2609.26684v1)|null|
+|**2026-09-22**|**Strong matchgate designs in nearly optimal depth**|Maxwell West et.al.|[link](http://arxiv.org/abs/2609.26677v1)|null|
+|**2026-09-22**|**MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning**|Kairui Yang et.al.|[link](http://arxiv.org/abs/2609.26667v1)|null|
+|**2026-09-22**|**Longitudinal Retinal Vascular Remodeling in Myopic Children Treated with Orthokeratology or Defocus Lenses: A Two-Year Comparative Study**|Zhihao Zhao et.al.|[link](http://arxiv.org/abs/2609.26662v1)|null|
+|**2026-09-22**|**Resilience of rainbow Hamilton cycles in pseudorandom graphs**|Elad Aigner-Horev et.al.|[link](http://arxiv.org/abs/2609.26655v1)|null|
+|**2026-09-22**|**Laryngeal Structure Segmentation in High-Speed Videoendoscopy Using Deep Learning**|Sardar Nafis Bin Ali et.al.|[link](http://arxiv.org/abs/2609.26636v1)|null|
+|**2026-09-22**|**MambaVoice: Lightweight Audiovisual Singing Voice Separation Via A Hybrid Mamba-Transformer Model**|Adithi Shankar et.al.|[link](http://arxiv.org/abs/2609.26635v1)|null|
 |**2026-09-18**|**On (Directed) Width-Parameters of Geometric Spanners**|Kevin Buchin et.al.|[link](http://arxiv.org/abs/2609.22082v1)|null|
 |**2026-09-18**|**Duality and minors for embeddings of graphs in pseudosurfaces**|Blake Dunshee et.al.|[link](http://arxiv.org/abs/2609.22061v1)|null|
 |**2026-09-18**|**Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features**|Arefeh Rezaei et.al.|[link](http://arxiv.org/abs/2609.22060v1)|null|
@@ -7248,6 +7302,23 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-22**|**PP-Net: A Hybrid Physical-Prior Neural Network for Scattered Light Removal in Biomedical Images on Embedded Devices**|Yongfei Guo et.al.|[link](http://arxiv.org/abs/2609.26474v1)|null|
+|**2026-09-22**|**Can We Predict Anomaly Detection Performance from Embedding-Space Geometry?**|Kevin Wilkinghoff et.al.|[link](http://arxiv.org/abs/2609.26460v1)|null|
+|**2026-09-22**|**HYDRA: Proactive Android Malware Drift Adaptation via Hierarchical Graph Contrastive Learning**|Han Chen et.al.|[link](http://arxiv.org/abs/2609.26352v1)|null|
+|**2026-09-22**|**Co-Fabric: Breaking Host-Domain Boundaries for Unified xPU Interconnection**|Zhen Peng et.al.|[link](http://arxiv.org/abs/2609.25560v1)|null|
+|**2026-09-21**|**A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization**|Wonho Bae et.al.|[link](http://arxiv.org/abs/2609.25471v1)|null|
+|**2026-09-21**|**MUSE: Dependency-Aware Adaptation of a Frozen Vision Backbone for Multivariate Time Series Forecasting**|Xinying Cai et.al.|[link](http://arxiv.org/abs/2609.24441v1)|null|
+|**2026-09-21**|**Mitigating Entity Type Confusion in Cross-Domain NER via Multidimensional Quantification and Reasoning Enhancement**|Jingyu Wang et.al.|[link](http://arxiv.org/abs/2609.24357v1)|null|
+|**2026-09-21**|**MGRD: Compact morphology-gated residual diffusion for variance-aware cross-domain neurite forecasting**|Tsung Yeh Hsieh et.al.|[link](http://arxiv.org/abs/2609.23990v1)|null|
+|**2026-09-21**|**Binding-Motivated Contextuality: A Cross-Domain Cyclic Test in Perception and Judgment**|Adam Y. Shavit et.al.|[link](http://arxiv.org/abs/2609.23977v1)|null|
+|**2026-09-21**|**Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video**|Zhihao Xing et.al.|[link](http://arxiv.org/abs/2609.23961v1)|null|
+|**2026-09-20**|**Reading the Data Back: Enriching Variable-Level Metadata for Model-Data Consistency Checks**|Eryk Kulikowski et.al.|[link](http://arxiv.org/abs/2609.23767v1)|null|
+|**2026-09-20**|**Training-Free Spectral Transductive Refinement for Cross-Domain Few-Shot Classification**|Fahim Rahman et.al.|[link](http://arxiv.org/abs/2609.23758v1)|null|
+|**2026-09-20**|**Global Ranks Survive, Selected Heads Shift: BOS-Sink Topology under 4-bit Weight-Only Quantization**|Kuanlin Chen et.al.|[link](http://arxiv.org/abs/2609.23585v1)|null|
+|**2026-09-19**|**Evaluative Dynamics of AI Integration and Expert Performance under Epistemic Dependence across Heterogeneous Stakes**|Dennis Kim et.al.|[link](http://arxiv.org/abs/2609.23135v1)|null|
+|**2026-09-19**|**When Agentic Trust Crosses Organizational Boundaries: Structural Externalization and a Reference Model for Trust Evidence**|Huafu Li et.al.|[link](http://arxiv.org/abs/2609.22961v1)|null|
+|**2026-09-18**|**Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Benchmark**|Gang Liu et.al.|[link](http://arxiv.org/abs/2609.22622v1)|null|
+|**2026-09-18**|**Multicentre Bi-atrial Segmentation from LGE-MRI for Atrial Fibrillation with a 2D and 3D Framework**|Malitha Gunawardhana et.al.|[link](http://arxiv.org/abs/2609.22398v1)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[link](http://arxiv.org/abs/2609.22083v1)|null|
 |**2026-09-18**|**Cross-sector generalization of accident-process role classification in occupational accident narratives**|Aho Yapi et.al.|[link](http://arxiv.org/abs/2609.22081v1)|null|
 |**2026-09-18**|**Purification and Regulation: Comorbidity-Aware Multi-Label Few-Shot Learning for Medical Image Classification**|Ying-Chih Lin et.al.|[link](http://arxiv.org/abs/2609.21541v1)|null|
