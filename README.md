@@ -1,4 +1,4 @@
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 
 ### ISTD
 
@@ -12,7 +12,7 @@
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|
 |**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|
-|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|
+|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|**[code](https://github.com/Haoyu096/LCMamNet)**|
 |**2026-07-28**|**Effective Receptive Field Ordering Matters for Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2607.23994v2)|null|
 |**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[link](http://arxiv.org/abs/2607.19040v1)|null|
 |**2026-07-19**|**Noise-Robust Box-Supervised Infrared Small Target Detection via Physics-Inspired Soft Label Optimization**|Xizhe Zhang et.al.|[link](http://arxiv.org/abs/2607.17148v1)|null|
@@ -324,6 +324,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-23**|**Detecting Structural Changes in High-Dimensional Multivariate Regression Models**|Haoran Li et.al.|[link](http://arxiv.org/abs/2609.28462v1)|null|
+|**2026-09-23**|**Sterile Neutrino Dark Matter Cries for GeV Heavy Neutral Leptons**|Marco Drewes et.al.|[link](http://arxiv.org/abs/2609.28457v1)|null|
+|**2026-09-23**|**Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality**|Qucheng Gao et.al.|[link](http://arxiv.org/abs/2609.28448v1)|null|
+|**2026-09-23**|**Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections**|Karolina Drabik et.al.|[link](http://arxiv.org/abs/2609.28438v1)|null|
+|**2026-09-23**|**Cooperative Domain-Wall Dynamics in a Two-Dimensional Quasiclassical Holstein Model**|Arunangshu Bora et.al.|[link](http://arxiv.org/abs/2609.28436v1)|null|
+|**2026-09-23**|**Predicting the Progression of Adolescent Idiopathic Scoliosis**|Owen Pullen et.al.|[link](http://arxiv.org/abs/2609.28434v1)|null|
+|**2026-09-23**|**The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint**|Vijesh KP et.al.|[link](http://arxiv.org/abs/2609.28424v1)|null|
+|**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Hantao Ye et.al.|[link](http://arxiv.org/abs/2609.28393v1)|null|
+|**2026-09-23**|**The Lumina Project: Morphology of Ionized Bubbles and Neutral Islands**|Meredith Neyer et.al.|[link](http://arxiv.org/abs/2609.28390v1)|null|
+|**2026-09-23**|**OranSim: Simulating Social Media Marketing**|Jianxiang Ma et.al.|[link](http://arxiv.org/abs/2609.28388v1)|null|
+|**2026-09-23**|**Image Compression Using Quantum Wavelet Transform and Quantum Convolutional Networks**|Harshdeep Jadhav et.al.|[link](http://arxiv.org/abs/2609.28387v1)|null|
+|**2026-09-23**|**Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models**|Liangyu Li et.al.|[link](http://arxiv.org/abs/2609.28386v1)|null|
+|**2026-09-23**|**From a Gap in the Lyapunov Spectrum to Dominated Splittings**|Lucas Backes et.al.|[link](http://arxiv.org/abs/2609.28384v1)|null|
+|**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[link](http://arxiv.org/abs/2609.28360v1)|null|
+|**2026-09-23**|**MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference**|Romain Facq et.al.|[link](http://arxiv.org/abs/2609.28358v1)|null|
+|**2026-09-23**|**Morphological evolution of an Au crystalline domain in a nano-particle investigated by Bragg coherent diffraction imaging**|Seonghyun Han et.al.|[link](http://arxiv.org/abs/2609.28346v1)|null|
+|**2026-09-23**|**Phase retrieval from a uniformly discrete point set**|Jaume de Dios Pont et.al.|[link](http://arxiv.org/abs/2609.28341v1)|null|
+|**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[link](http://arxiv.org/abs/2609.28339v1)|null|
+|**2026-09-23**|**An Open Pipeline and Dashboard for Systemic-Risk Evidence under the EU AI Act's Code of Practice**|Jacob T. Emmerson et.al.|[link](http://arxiv.org/abs/2609.28335v1)|null|
+|**2026-09-23**|**BronchoTop: Bronchoscopy Navigation via RGB-Only Topological Localization**|Clara Tomasini et.al.|[link](http://arxiv.org/abs/2609.28328v1)|null|
 |**2026-09-22**|**Attention Guided Conditional Adversarial Learning for EMG Artifact Suppression in Single Channel EEG**|Haoyi Wang et.al.|[link](http://arxiv.org/abs/2609.26772v1)|null|
 |**2026-09-22**|**Empirical Bayes prepivoting under group invariance: false discovery rate control and moderated t-tests**|Nikolaos Ignatiadis et.al.|[link](http://arxiv.org/abs/2609.26764v1)|null|
 |**2026-09-22**|**The existence and uniqueness of magic-faced hypercubes, and applications to Khajuraho most-perfect magic squares, cubes, and hypercubes**|Manjul Bhargava et.al.|[link](http://arxiv.org/abs/2609.26762v1)|null|
@@ -3501,6 +3521,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-23**|**Non-Commutative State Tracking with Input-Dependent Low-Rank Updates in Mamba-3**|Hiroki Fujii et.al.|[link](http://arxiv.org/abs/2609.28273v1)|null|
+|**2026-09-23**|**Mamba-Family State-Space Model Kernels on a Programmable CGLA**|Takuto Ando et.al.|[link](http://arxiv.org/abs/2609.27437v1)|null|
+|**2026-09-22**|**Temporally Ordered Region-Token Mamba with Logit-Space Diffusion for Remote Sensing Change Detection**|Anuvab Sen et.al.|[link](http://arxiv.org/abs/2609.27149v1)|null|
+|**2026-09-22**|**AI-Enabled Wireless Propagation Modeling and Radio Environment Maps for 5G Aerial Wireless Networks**|Gautham Reddy et.al.|[link](http://arxiv.org/abs/2609.27083v1)|null|
 |**2026-09-22**|**GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation**|Fang Wang et.al.|[link](http://arxiv.org/abs/2609.26729v1)|null|
 |**2026-09-22**|**MambaVoice: Lightweight Audiovisual Singing Voice Separation Via A Hybrid Mamba-Transformer Model**|Adithi Shankar et.al.|[link](http://arxiv.org/abs/2609.26635v1)|null|
 |**2026-09-22**|**SE-MSB: End-to-End Unpaired Speech Enhancement using Mamba Schrödinger Bridges**|Andreas Bagge et.al.|[link](http://arxiv.org/abs/2609.26000v1)|null|
@@ -4276,6 +4300,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-23**|**Detecting Structural Changes in High-Dimensional Multivariate Regression Models**|Haoran Li et.al.|[link](http://arxiv.org/abs/2609.28462v1)|null|
+|**2026-09-23**|**Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections**|Karolina Drabik et.al.|[link](http://arxiv.org/abs/2609.28438v1)|null|
+|**2026-09-23**|**Cooperative Domain-Wall Dynamics in a Two-Dimensional Quasiclassical Holstein Model**|Arunangshu Bora et.al.|[link](http://arxiv.org/abs/2609.28436v1)|null|
+|**2026-09-23**|**Transfer Dynamics and Spectral Cascades in Graph-Coupled Kuramoto Networks**|Marcin Kowalczyk et.al.|[link](http://arxiv.org/abs/2609.28432v1)|null|
+|**2026-09-23**|**A second-order structure- and positivity-preserving convex limiting method for the Vlasov equations**|Katharina Kormann et.al.|[link](http://arxiv.org/abs/2609.28412v1)|null|
+|**2026-09-23**|**The Lumina Project: Morphology of Ionized Bubbles and Neutral Islands**|Meredith Neyer et.al.|[link](http://arxiv.org/abs/2609.28390v1)|null|
+|**2026-09-23**|**OranSim: Simulating Social Media Marketing**|Jianxiang Ma et.al.|[link](http://arxiv.org/abs/2609.28388v1)|null|
+|**2026-09-23**|**From a Gap in the Lyapunov Spectrum to Dominated Splittings**|Lucas Backes et.al.|[link](http://arxiv.org/abs/2609.28384v1)|null|
+|**2026-09-23**|**Field independence of the first seven Betti numbers of flag complexes**|Omkar Javadekar et.al.|[link](http://arxiv.org/abs/2609.28376v1)|null|
+|**2026-09-23**|**A Multidimensional Birkhoff Theorem for some $C^0$ Lagrangians**|Skander Charfi et.al.|[link](http://arxiv.org/abs/2609.28373v1)|null|
+|**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[link](http://arxiv.org/abs/2609.28360v1)|null|
+|**2026-09-23**|**BronchoTop: Bronchoscopy Navigation via RGB-Only Topological Localization**|Clara Tomasini et.al.|[link](http://arxiv.org/abs/2609.28328v1)|null|
+|**2026-09-23**|**LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder**|Andrei Arhire et.al.|[link](http://arxiv.org/abs/2609.28327v1)|null|
+|**2026-09-23**|**Time-frequency analysis for LISA: Fast waveform templates**|Neil J. Cornish et.al.|[link](http://arxiv.org/abs/2609.28316v1)|null|
+|**2026-09-23**|**The Naito--Okuda--Ouyang Biconcave Red Blood Cell Profile as a Finite-Energy Unbranched Weak Immersion with Point-Force Residues**|Hao Wu et.al.|[link](http://arxiv.org/abs/2609.28278v1)|null|
+|**2026-09-23**|**Evaluating $\mathrm {SU}(3)$ Verlinde sums using spectral graph theory**|Jay Jorgenson et.al.|[link](http://arxiv.org/abs/2609.28265v1)|null|
+|**2026-09-23**|**RAMP: Robust Adaptive Mixed-Precision Quantization for Edge CPU Vision Models**|David Población-Criado et.al.|[link](http://arxiv.org/abs/2609.28262v1)|null|
+|**2026-09-23**|**Beyond Maximal Entanglement: Exact Resources for Multiparty Encrypted Quantum Cloning**|Pritam Roy et.al.|[link](http://arxiv.org/abs/2609.28241v1)|null|
+|**2026-09-23**|**From Alignment to Fusion in 3D Vision-Language**|Xueqi Qiu et.al.|[link](http://arxiv.org/abs/2609.28222v1)|null|
+|**2026-09-23**|**Connectivity Preservation and Graph Stretching in Range-Only Swarm Dispersion**|Ariel Barel et.al.|[link](http://arxiv.org/abs/2609.28190v1)|null|
 |**2026-09-22**|**Quantum Advantage for Distributed Symmetry Breaking**|Maxime Flin et.al.|[link](http://arxiv.org/abs/2609.26788v1)|null|
 |**2026-09-22**|**Comparing phylogenetic trees of stars with spectral graph distances**|Theosamuele Signor et.al.|[link](http://arxiv.org/abs/2609.26782v1)|null|
 |**2026-09-22**|**Attention Guided Conditional Adversarial Learning for EMG Artifact Suppression in Single Channel EEG**|Haoyi Wang et.al.|[link](http://arxiv.org/abs/2609.26772v1)|null|
@@ -7302,6 +7346,11 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-23**|**From Agent Output to Authorized Transition**|Christopher Koch et.al.|[link](http://arxiv.org/abs/2609.28216v1)|null|
+|**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Preeti Chatterjee et.al.|[link](http://arxiv.org/abs/2609.27509v1)|null|
+|**2026-09-23**|**Overlapping Visual Grouping Without Semantic Priors**|Teemu Saukkio et.al.|[link](http://arxiv.org/abs/2609.27423v1)|null|
+|**2026-09-23**|**JASPER: Joint Audio and Speech Pre-trained Encoder Representations**|Geeth George et.al.|[link](http://arxiv.org/abs/2609.27260v1)|null|
+|**2026-09-22**|**When Post-Processing Fairness Constraints Help and When They Harm: Evidence from Eight Cross-Domain Evaluations**|Nithin Raghava Ramachandra Narla et.al.|[link](http://arxiv.org/abs/2609.26955v1)|null|
 |**2026-09-22**|**PP-Net: A Hybrid Physical-Prior Neural Network for Scattered Light Removal in Biomedical Images on Embedded Devices**|Yongfei Guo et.al.|[link](http://arxiv.org/abs/2609.26474v1)|null|
 |**2026-09-22**|**Can We Predict Anomaly Detection Performance from Embedding-Space Geometry?**|Kevin Wilkinghoff et.al.|[link](http://arxiv.org/abs/2609.26460v1)|null|
 |**2026-09-22**|**HYDRA: Proactive Android Malware Drift Adaptation via Hierarchical Graph Contrastive Learning**|Han Chen et.al.|[link](http://arxiv.org/abs/2609.26352v1)|null|
