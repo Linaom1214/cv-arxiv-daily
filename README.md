@@ -1,4 +1,4 @@
-## Updated on 2026.09.26
+## Updated on 2026.09.27
 
 ### ISTD
 
@@ -12,7 +12,7 @@
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|
 |**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|
-|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|**[code](https://github.com/Haoyu096/LCMamNet)**|
+|**2026-07-27**|**LCMamNet: A Lightweight Cross-scale Mamba Network for Infrared Small Target Detection**|Yuhao Fan et.al.|[link](http://arxiv.org/abs/2607.24184v1)|null|
 |**2026-07-28**|**Effective Receptive Field Ordering Matters for Infrared Small Target Detection**|Guoyi Zhang et.al.|[link](http://arxiv.org/abs/2607.23994v2)|null|
 |**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[link](http://arxiv.org/abs/2607.19040v1)|null|
 |**2026-07-19**|**Noise-Robust Box-Supervised Infrared Small Target Detection via Physics-Inspired Soft Label Optimization**|Xizhe Zhang et.al.|[link](http://arxiv.org/abs/2607.17148v1)|null|
