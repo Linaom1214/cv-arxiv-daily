@@ -1,4 +1,4 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 
 ### ISTD
 
@@ -324,6 +324,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-25**|**Trust Guided Decision Transformer**|Chainesh Gautam et.al.|[link](http://arxiv.org/abs/2609.31586v1)|null|
+|**2026-09-25**|**Free semigroups of power series**|Wade Hindes et.al.|[link](http://arxiv.org/abs/2609.31582v1)|null|
+|**2026-09-25**|**Optimal stability hierarchies of the Heisenberg Uncertainty Principle for solenoidal fields and of the second order Caffarelli--Kohn--Nirenberg inequalities**|Anh Do et.al.|[link](http://arxiv.org/abs/2609.31579v1)|null|
+|**2026-09-25**|**How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI**|Ziyao Shang et.al.|[link](http://arxiv.org/abs/2609.31573v1)|null|
+|**2026-09-25**|**Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP**|Ahmed Abdelnaby et.al.|[link](http://arxiv.org/abs/2609.31558v1)|null|
+|**2026-09-25**|**BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment**|Mohammad Nur Hossain Khan et.al.|[link](http://arxiv.org/abs/2609.31546v1)|null|
+|**2026-09-25**|**Spectral Invariance for Black-Hole Differential Observables**|Vedant Subhash et.al.|[link](http://arxiv.org/abs/2609.31530v1)|null|
+|**2026-09-25**|**TinyAudio: Compact and Efficient Text-to-Audio Generation for Low-Resource Deployment**|Junxi Liu et.al.|[link](http://arxiv.org/abs/2609.31525v1)|null|
+|**2026-09-25**|**Asymptotic Behavior of One-Dimensional Hartree Equations with the Long-Range Interaction**|Changhun Yang et.al.|[link](http://arxiv.org/abs/2609.31515v1)|null|
+|**2026-09-25**|**Statistical Foundations for a Google Play User-Review Sentiment Index: Signal Fusion, Shrinkage, Distributional Validation, and Dynamic Smoothing**|Marco Mandap et.al.|[link](http://arxiv.org/abs/2609.31513v1)|null|
+|**2026-09-25**|**Assessing a Mathematical Model of Syllable Production via CTW Alignment with EMA Data**|Frédéric Berthommier et.al.|[link](http://arxiv.org/abs/2609.31508v1)|null|
+|**2026-09-25**|**Fundamental Limits of Sequence Reconstruction Problems in Immunogenomics**|Jaswanthi Mandalapu et.al.|[link](http://arxiv.org/abs/2609.31501v1)|null|
+|**2026-09-25**|**"AI is (not) the new...": A Diagnostic Analogy Framework for Generative AI's Cultural Impacts**|Rida Qadri et.al.|[link](http://arxiv.org/abs/2609.31482v1)|null|
+|**2026-09-25**|**Gottesman-Kitaev-Preskill error-correction with decohered resources**|Rajendra S. Bhati et.al.|[link](http://arxiv.org/abs/2609.31462v1)|null|
+|**2026-09-25**|**KneePreM: Towards 3D Knee MRI Foundation Models via Large-Scale Unlabeled Pretraining and Label-Efficient Fine-Tuning**|Xinxin Wang et.al.|[link](http://arxiv.org/abs/2609.31461v1)|null|
+|**2026-09-25**|**Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency**|Myeongjun Erik Jang et.al.|[link](http://arxiv.org/abs/2609.31460v1)|null|
+|**2026-09-25**|**Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and Local Geometry-Adaptivity of Transformers**|Jaehee Seo et.al.|[link](http://arxiv.org/abs/2609.31458v1)|null|
+|**2026-09-25**|**Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding**|Domen Tabernik et.al.|[link](http://arxiv.org/abs/2609.31452v1)|null|
+|**2026-09-25**|**Low-Order Refined Preconditioning for Spectral/hp Element Method for Complex, 3D Geometries**|Parv Khurana et.al.|[link](http://arxiv.org/abs/2609.31443v1)|null|
+|**2026-09-25**|**AxonSynth: Domain-Randomized Synthetic Data for Zero-Shot 3D Axon Segmentation in Light-Sheet Microscopy**|Edward Gaibor et.al.|[link](http://arxiv.org/abs/2609.31431v1)|null|
 |**2026-09-24**|**Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning**|Sudip Bhujel et.al.|[link](http://arxiv.org/abs/2609.30258v1)|null|
 |**2026-09-24**|**Towards Practical Compression of 3D Gaussian Splatting**|Pengpeng Yu et.al.|[link](http://arxiv.org/abs/2609.30245v1)|null|
 |**2026-09-24**|**A Proxy-likelihood Estimator for Multivariate Extremes Models with Intractable Likelihoods**|Troy P. Wixson et.al.|[link](http://arxiv.org/abs/2609.30244v1)|null|
@@ -3541,6 +3561,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-25**|**Impedance Cloning: Learning Equilibrium Point Parameters for Contact-Rich Manipulation**|Hayato Takahashi et.al.|[link](http://arxiv.org/abs/2609.30842v1)|null|
+|**2026-09-25**|**Quantizing Looped Transformers: Feedback Exposure and Calibration Blindness**|Nux Li et.al.|[link](http://arxiv.org/abs/2609.30820v1)|null|
+|**2026-09-24**|**Selective state space model for photon energy estimation in microwave kinetic inductance detectors**|Benjamin A. Mazin et.al.|[link](http://arxiv.org/abs/2609.30382v1)|null|
 |**2026-09-24**|**Physics and Data Driven Transformer-Mamba Framework for Flow Field**|Zhuo Zhang et.al.|[link](http://arxiv.org/abs/2609.29087v1)|null|
 |**2026-09-23**|**BiMamba2 Masked Discrete-Unit Prediction for Multilingual Speech Representation for Unsupervised Speech in the Wild Challenge**|Prakriti Subedi et.al.|[link](http://arxiv.org/abs/2609.28758v1)|null|
 |**2026-09-23**|**Token Clustering and Semantic Sequence Mamba for Hyperspectral Image Classification**|Yimin Zhu et.al.|[link](http://arxiv.org/abs/2609.28580v1)|null|
@@ -4323,6 +4346,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-25**|**GraphWrit3R: End-to-End 3D Scene Graph Writing**|Luka Milivojevic et.al.|[link](http://arxiv.org/abs/2609.31595v1)|null|
+|**2026-09-25**|**AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs**|Raphael Shu et.al.|[link](http://arxiv.org/abs/2609.31590v1)|null|
+|**2026-09-25**|**Polychromatic 2-colorings with Bounded Discrepancy for Triangulations**|Alma Arevalo Loyola et.al.|[link](http://arxiv.org/abs/2609.31574v1)|null|
+|**2026-09-25**|**How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI**|Ziyao Shang et.al.|[link](http://arxiv.org/abs/2609.31573v1)|null|
+|**2026-09-25**|**Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP**|Ahmed Abdelnaby et.al.|[link](http://arxiv.org/abs/2609.31558v1)|null|
+|**2026-09-25**|**BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment**|Mohammad Nur Hossain Khan et.al.|[link](http://arxiv.org/abs/2609.31546v1)|null|
+|**2026-09-25**|**Quotients of $L_1$ by subsequences of the Haar system have cotype 2**|Stephen Dilworth et.al.|[link](http://arxiv.org/abs/2609.31542v1)|null|
+|**2026-09-25**|**Discounted Hitting Domination on Graphs with Submodularity, Complexity and Exact Algorithms**|Julian D. Allagan et.al.|[link](http://arxiv.org/abs/2609.31535v1)|null|
+|**2026-09-25**|**Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment**|Qing Xu et.al.|[link](http://arxiv.org/abs/2609.31524v1)|null|
+|**2026-09-25**|**Fundamental Limits of Sequence Reconstruction Problems in Immunogenomics**|Jaswanthi Mandalapu et.al.|[link](http://arxiv.org/abs/2609.31501v1)|null|
+|**2026-09-25**|**Scaffold: Support Graph Theory Based Sparsification for Graph Neural Networks**|Siddhartha Shankar Das et.al.|[link](http://arxiv.org/abs/2609.31466v1)|null|
+|**2026-09-25**|**KneePreM: Towards 3D Knee MRI Foundation Models via Large-Scale Unlabeled Pretraining and Label-Efficient Fine-Tuning**|Xinxin Wang et.al.|[link](http://arxiv.org/abs/2609.31461v1)|null|
+|**2026-09-25**|**Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency**|Myeongjun Erik Jang et.al.|[link](http://arxiv.org/abs/2609.31460v1)|null|
+|**2026-09-25**|**Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding**|Domen Tabernik et.al.|[link](http://arxiv.org/abs/2609.31452v1)|null|
+|**2026-09-25**|**The Kelly--Trotter conjecture and dimension of poset products**|Zhaochen Dong et.al.|[link](http://arxiv.org/abs/2609.31441v1)|null|
+|**2026-09-25**|**AxonSynth: Domain-Randomized Synthetic Data for Zero-Shot 3D Axon Segmentation in Light-Sheet Microscopy**|Edward Gaibor et.al.|[link](http://arxiv.org/abs/2609.31431v1)|null|
+|**2026-09-25**|**A variety of the mutual-visibility coloring problem for graphs**|Saneesh Babu et.al.|[link](http://arxiv.org/abs/2609.31427v1)|null|
+|**2026-09-25**|**dRVG: Quadtree-Guided, Resolution-Complete Online Motion Planning for Polygonal Robots in Unknown Environments**|Duo Zhang et.al.|[link](http://arxiv.org/abs/2609.31412v1)|null|
+|**2026-09-25**|**Exact counting of unlabeled quartic graphs by permutation-cycle aggregation**|Yue Cheng et.al.|[link](http://arxiv.org/abs/2609.31407v1)|null|
+|**2026-09-25**|**RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors**|Zijun Zhao et.al.|[link](http://arxiv.org/abs/2609.31374v1)|null|
 |**2026-09-24**|**BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation**|Luc Bouteille et.al.|[link](http://arxiv.org/abs/2609.30223v1)|null|
 |**2026-09-24**|**On the Binary Rank of Matrices with Constant Real Rank**|Michal Parnas et.al.|[link](http://arxiv.org/abs/2609.30203v1)|null|
 |**2026-09-24**|**An extremal theorem for non-isomorphic spanning trees**|Zhifei Yan et.al.|[link](http://arxiv.org/abs/2609.30201v1)|null|
@@ -7389,6 +7432,17 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-25**|**How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI**|Ziyao Shang et.al.|[link](http://arxiv.org/abs/2609.31573v1)|null|
+|**2026-09-25**|**Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling**|Guanlin Li et.al.|[link](http://arxiv.org/abs/2609.31207v1)|null|
+|**2026-09-25**|**Aurora-X: Built for Extreme Time Series Forecasting**|Xingjian Wu et.al.|[link](http://arxiv.org/abs/2609.31038v1)|null|
+|**2026-09-25**|**MOPD-Router: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation**|Tianze Xu et.al.|[link](http://arxiv.org/abs/2609.30837v1)|null|
+|**2026-09-25**|**SUCRe: Selective Uncertainty-Aware Contrastive Representation for Graph Transfer Learning**|Mingcan Wang et.al.|[link](http://arxiv.org/abs/2609.30826v1)|null|
+|**2026-09-25**|**XPhysICS: Cross-Physical-Domain Threat Grounding for Industrial Control Systems Security**|Sangshin Park et.al.|[link](http://arxiv.org/abs/2609.30805v1)|null|
+|**2026-09-25**|**Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes**|Rushab Rasik Karania et.al.|[link](http://arxiv.org/abs/2609.30769v1)|null|
+|**2026-09-25**|**Learning Polarization Image Restoration with General Restoration Priors**|Chenggong Li et.al.|[link](http://arxiv.org/abs/2609.30728v1)|null|
+|**2026-09-24**|**Audio LLMs Know When They Can't Hear You**|Amirhosein Javadi et.al.|[link](http://arxiv.org/abs/2609.30625v1)|null|
+|**2026-09-24**|**Orchestrating GenAI for Interdisciplinary Research**|Shirley Anugrah Hayati et.al.|[link](http://arxiv.org/abs/2609.30588v1)|null|
+|**2026-09-24**|**The Shape of Events: Edge-Based Inductive Biases via Cross-Domain Distillation**|Soshun Kihara et.al.|[link](http://arxiv.org/abs/2609.30478v1)|null|
 |**2026-09-24**|**Efficient Continuous DEM Reconstruction under Limited Target-Resolution Supervision**|Zekai Shi et.al.|[link](http://arxiv.org/abs/2609.29864v1)|null|
 |**2026-09-24**|**STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**|Victor Tolulope Olufemi et.al.|[link](http://arxiv.org/abs/2609.29805v1)|null|
 |**2026-09-24**|**Domain Recentering and Confidence-Weighted Prior Calibration for Vision-Language Models**|Youngeun Seol et.al.|[link](http://arxiv.org/abs/2609.29358v1)|null|
