@@ -1,4 +1,4 @@
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 
 ### ISTD
 
@@ -325,6 +325,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-29**|**Point2Part: Unified 3D Partitioning from Point Prompts**|Hao-Tang Tsui et.al.|[link](http://arxiv.org/abs/2609.38180v1)|null|
+|**2026-09-29**|**When Classical Correlations Certify Entanglement Recovery**|Takeru Utsumi et.al.|[link](http://arxiv.org/abs/2609.38168v1)|null|
+|**2026-09-29**|**Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data**|Joseph Metcalfe et.al.|[link](http://arxiv.org/abs/2609.38165v1)|null|
+|**2026-09-29**|**Pretraining Latent Information Feedback Transformers with Teacher Supervision**|Dor Tirosh et.al.|[link](http://arxiv.org/abs/2609.38149v1)|null|
+|**2026-09-29**|**Global Synchronization for Multi-Source Data Integration under Blockwise Missing Patterns**|Runbing Zheng et.al.|[link](http://arxiv.org/abs/2609.38141v1)|null|
+|**2026-09-29**|**Fast and Flow-rious: Gravitational Wave Background Bayesian Model Comparison using Normalizing Flows and Nested Sampling**|David C. Wright et.al.|[link](http://arxiv.org/abs/2609.38122v1)|null|
+|**2026-09-29**|**WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms**|Jiale Chen et.al.|[link](http://arxiv.org/abs/2609.38121v1)|null|
+|**2026-09-29**|**ReCIRC: Rectified Conformal Risk Control**|Bruno Marcondes e Resende et.al.|[link](http://arxiv.org/abs/2609.38112v1)|null|
+|**2026-09-29**|**How Local Mixing Encodes Relative Position in Global NoPE Attention**|Cutter Dawes et.al.|[link](http://arxiv.org/abs/2609.38109v1)|null|
+|**2026-09-29**|**Traversing the solution space of neural networks with Hessian Null Space Continuation**|Ann Huang et.al.|[link](http://arxiv.org/abs/2609.38081v1)|null|
+|**2026-09-29**|**OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?**|Jiaxin Ge et.al.|[link](http://arxiv.org/abs/2609.38079v1)|null|
+|**2026-09-29**|**A sharp Santaló inequality in a slab with centrally symmetric sections**|Shiri Artstein-Avidan et.al.|[link](http://arxiv.org/abs/2609.38041v1)|null|
+|**2026-09-29**|**The finite-horizon five-expert prediction problem**|Jeff Calder et.al.|[link](http://arxiv.org/abs/2609.38035v1)|null|
+|**2026-09-29**|**PE-EK-PINN: Physics Embedding with Evolving Kernel for Scalable Physics-Informed Neural Networks**|Huiwen Zhang et.al.|[link](http://arxiv.org/abs/2609.38023v1)|null|
+|**2026-09-29**|**Quadratic inequalities between the largest eigenvalues of a graph**|Roland Paulin et.al.|[link](http://arxiv.org/abs/2609.37980v1)|null|
+|**2026-09-29**|**PhysWAM: Physically Consistent World Action Model for Autonomous Driving**|Dhruv Parikh et.al.|[link](http://arxiv.org/abs/2609.37970v1)|null|
+|**2026-09-29**|**SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video**|Haozhe Liu et.al.|[link](http://arxiv.org/abs/2609.37969v1)|null|
+|**2026-09-29**|**Harmonic maps from $\mathbb{S}^{2n+1}$ into $\mathbb{CP}^n$ with least Morse index**|Qun Chen et.al.|[link](http://arxiv.org/abs/2609.37945v1)|null|
+|**2026-09-29**|**Semiparametric Bernstein-von Mises theorems from Stein's method**|Paul Rosa et.al.|[link](http://arxiv.org/abs/2609.37939v1)|null|
+|**2026-09-29**|**Look Closer: Patch-wise Supervision for AI-Generated Image Detection**|Zhida Zhang et.al.|[link](http://arxiv.org/abs/2609.37937v1)|null|
 |**2026-09-28**|**Telescopic Language Models**|Zhilin Guo et.al.|[link](http://arxiv.org/abs/2609.35769v1)|null|
 |**2026-09-28**|**Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales**|András Kovács et.al.|[link](http://arxiv.org/abs/2609.35765v1)|null|
 |**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[link](http://arxiv.org/abs/2609.35760v1)|null|
@@ -3582,6 +3602,10 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-29**|**Spatiotemporal Hyperedges for EEG Seizure Detection and Prediction**|Hyunju Kim et.al.|[link](http://arxiv.org/abs/2609.37730v1)|null|
+|**2026-09-29**|**Sequence Models for Layer-3 Protocol Emulation**|Alix Jeannerot et.al.|[link](http://arxiv.org/abs/2609.37697v1)|null|
+|**2026-09-29**|**Remember What You Did: Action-History Memory with Dual-Expert Denoising for Long-Horizon Vision-Language-Action Policies**|Yaxin Zhao et.al.|[link](http://arxiv.org/abs/2609.37307v1)|null|
+|**2026-09-28**|**SMat-Attention: Structured Long-Context Sequence Modeling**|Emile Anand et.al.|[link](http://arxiv.org/abs/2609.36062v1)|null|
 |**2026-09-28**|**DR-net-Mamba: Selective State-Space Modeling for Long-Range ECG Time-Series Denoising**|Basile Morel et.al.|[link](http://arxiv.org/abs/2609.35634v1)|null|
 |**2026-09-28**|**ReCAT: Remember, Count, and Time: Structured Recurrent Memory for Robot Manipulation**|Pankhuri Vanjani et.al.|[link](http://arxiv.org/abs/2609.35200v1)|null|
 |**2026-09-28**|**Coordinated Lane-Level Variable Speed Limits and Ramp Metering for Successive Weaving Segments Considering Merging/Diverging Risks: A Hybrid Model Predictive Control and Multi-Agent Reinforcement Learning Approach**|Guodong Ma et.al.|[link](http://arxiv.org/abs/2609.35152v1)|null|
@@ -4382,6 +4406,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-29**|**Point2Part: Unified 3D Partitioning from Point Prompts**|Hao-Tang Tsui et.al.|[link](http://arxiv.org/abs/2609.38180v1)|null|
+|**2026-09-29**|**Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data**|Joseph Metcalfe et.al.|[link](http://arxiv.org/abs/2609.38165v1)|null|
+|**2026-09-29**|**A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization**|Jianru Shen et.al.|[link](http://arxiv.org/abs/2609.38161v1)|null|
+|**2026-09-29**|**Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning**|Paras Dahal et.al.|[link](http://arxiv.org/abs/2609.38147v1)|null|
+|**2026-09-29**|**Local autonomous inference machines for quantum LDPC codes**|Siddhant Midha et.al.|[link](http://arxiv.org/abs/2609.38139v1)|null|
+|**2026-09-29**|**A nearly linear bound for the Lovász conjecture**|Bowen Li et.al.|[link](http://arxiv.org/abs/2609.38135v1)|null|
+|**2026-09-29**|**ReCIRC: Rectified Conformal Risk Control**|Bruno Marcondes e Resende et.al.|[link](http://arxiv.org/abs/2609.38112v1)|null|
+|**2026-09-29**|**Peaks and peak-nestings on unit interval graphs**|Per Alexandersson et.al.|[link](http://arxiv.org/abs/2609.38084v1)|null|
+|**2026-09-29**|**OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?**|Jiaxin Ge et.al.|[link](http://arxiv.org/abs/2609.38079v1)|null|
+|**2026-09-29**|**Ramanujan quantum expanders from the Weil representation**|Siddhartha Jain et.al.|[link](http://arxiv.org/abs/2609.38075v1)|null|
+|**2026-09-29**|**Kruskal-style algorithm for Boltzmann equation molecule reduction**|Yvain Bruned et.al.|[link](http://arxiv.org/abs/2609.38061v1)|null|
+|**2026-09-29**|**A Tale of Two Walks: Kipnis, Marchioro and Presutti Meet Kac in a Quantum World**|Qian Chen et.al.|[link](http://arxiv.org/abs/2609.38044v1)|null|
+|**2026-09-29**|**On the asymptotics of the Erdős-Rogers function**|Domagoj Bradač et.al.|[link](http://arxiv.org/abs/2609.37987v1)|null|
+|**2026-09-29**|**Independence number, essential connectivity and the distance spectral radius of graphs**|Shuang Ding et.al.|[link](http://arxiv.org/abs/2609.37981v1)|null|
+|**2026-09-29**|**Quadratic inequalities between the largest eigenvalues of a graph**|Roland Paulin et.al.|[link](http://arxiv.org/abs/2609.37980v1)|null|
+|**2026-09-29**|**Can We Break Fine-Grained and NP-Hardness Barriers if We've Seen the Graph Before? The Isomorphic-Priors Model**|Dani Dorfmann et.al.|[link](http://arxiv.org/abs/2609.37979v1)|null|
+|**2026-09-29**|**There is no $8$-regular $K_3$-irregular graph**|Artem Hak et.al.|[link](http://arxiv.org/abs/2609.37978v1)|null|
+|**2026-09-29**|**On-line majority edge-colourings of graphs**|Paweł Pękała et.al.|[link](http://arxiv.org/abs/2609.37973v1)|null|
+|**2026-09-29**|**Dagger: Decoupling-based Model Stealing Attack against Graph Neural Networks**|Ying Song et.al.|[link](http://arxiv.org/abs/2609.37972v1)|null|
+|**2026-09-29**|**Tight bounds for positive discrepancy via eigenvalues**|Oliver Janzer et.al.|[link](http://arxiv.org/abs/2609.37961v1)|null|
 |**2026-09-28**|**Hamiltonicity of mildly pseudorandom regular graphs**|Alp Müyesser et.al.|[link](http://arxiv.org/abs/2609.35766v1)|null|
 |**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[link](http://arxiv.org/abs/2609.35760v1)|null|
 |**2026-09-28**|**Superquadric Primitive Decomposition of 3D point clouds via Geometric-Aware Inlier Refinement**|Alessandro Rinaldi et.al.|[link](http://arxiv.org/abs/2609.35725v1)|null|
@@ -7488,6 +7532,19 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-29**|**Can a Cacheable Decision Model Follow Rules?**|Dushyant Rajput et.al.|[link](http://arxiv.org/abs/2609.37832v1)|null|
+|**2026-09-29**|**Recompositional Robotics: Cross-Domain, Open-set, and Lifelong Modularity Beyond Morphology**|Steven Swanbeck et.al.|[link](http://arxiv.org/abs/2609.37734v1)|null|
+|**2026-09-28**|**REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse**|Yuxiao Yang et.al.|[link](http://arxiv.org/abs/2609.37500v1)|null|
+|**2026-09-29**|**Exploring In-Context Learning for Handwritten Text Recognition**|Eric Ayllon et.al.|[link](http://arxiv.org/abs/2609.37195v1)|null|
+|**2026-09-29**|**Volcanite: Commodity-Hardware Segmentation Volume Visualization for Connectomics and Beyond**|Max Piochowiak et.al.|[link](http://arxiv.org/abs/2609.36898v1)|null|
+|**2026-09-29**|**DSPO: Diversity-aware Subjective Policy Optimization for Robust Emotional Reasoning**|Cheng Ye et.al.|[link](http://arxiv.org/abs/2609.36775v1)|null|
+|**2026-09-29**|**Group-Marginalized Self-Rewarding RL Drives Zero-Label Self-Evolving**|Yiming Wang et.al.|[link](http://arxiv.org/abs/2609.36750v1)|null|
+|**2026-09-29**|**Deep Learning Latency Attacks and Defenses: A Cross-Domain Survey of Availability Threats**|Zonghua Gu et.al.|[link](http://arxiv.org/abs/2609.36732v1)|null|
+|**2026-09-29**|**CHAIN: Calibrated LLM Forecasting via Causal-Temporal Hypergraph Inference**|Wenjin Liu et.al.|[link](http://arxiv.org/abs/2609.36689v1)|null|
+|**2026-09-29**|**Semantic Projection for Continual Self-Evolution of Language Agents**|Ziyu Liu et.al.|[link](http://arxiv.org/abs/2609.36626v1)|null|
+|**2026-09-29**|**From Checkpoint Variation to Selection Gains in Supervised Fine-Tuning**|Yupeng Chang et.al.|[link](http://arxiv.org/abs/2609.36569v1)|null|
+|**2026-09-29**|**How Medical VLMs Underutilize Their Vision Encoders: A Dermatology Perspective**|Janet Wang et.al.|[link](http://arxiv.org/abs/2609.36557v1)|null|
+|**2026-09-28**|**From Sharp Eyes to Expert Mind: Internalizing Expert Knowledge in MLLMs for Tampered Text Detection**|Kaiqing Lin et.al.|[link](http://arxiv.org/abs/2609.36145v1)|null|
 |**2026-09-28**|**Large Language Models for Automated Cross-Domain Machine Learning Task Type Identification: A Benchmark Dataset and Evaluation**|Petros Tsialis et.al.|[link](http://arxiv.org/abs/2609.35335v1)|null|
 |**2026-09-28**|**Domain-adaptive Zero-Shot Image Enhancement via Locality-Constrained Diffusion Guidance**|Theresa Neubauer et.al.|[link](http://arxiv.org/abs/2609.35289v1)|null|
 |**2026-09-28**|**Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling**|KunHo Heo et.al.|[link](http://arxiv.org/abs/2609.35059v1)|null|
