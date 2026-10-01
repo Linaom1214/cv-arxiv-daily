@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 
 ### ISTD
 
@@ -325,6 +325,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-30**|**Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[link](http://arxiv.org/abs/2609.40359v1)|null|
+|**2026-09-30**|**Image Classifiers are Efficient Self-Supervised Video Representation Learners**|Owais Iqbal et.al.|[link](http://arxiv.org/abs/2609.40347v1)|null|
+|**2026-09-30**|**A Fast Nonuniform Solver for the Poisson Equation over a Disk**|Charlie Pyle et.al.|[link](http://arxiv.org/abs/2609.40344v1)|null|
+|**2026-09-30**|**Quantization through Dissipation and the Optical Quantum Hall Effect**|Zhenisbek Tagay et.al.|[link](http://arxiv.org/abs/2609.40337v1)|null|
+|**2026-09-30**|**Fast Quantum Algorithms for Learning Linear Threshold Functions**|Aleksandrs Krivcenko et.al.|[link](http://arxiv.org/abs/2609.40331v1)|null|
+|**2026-09-30**|**GLARE: Generating Listening Heads with Appropriate Reactions**|Zikai Liao et.al.|[link](http://arxiv.org/abs/2609.40317v1)|null|
+|**2026-09-30**|**Scaling Laws for Looped Mixture of Experts**|Yanbei Chen et.al.|[link](http://arxiv.org/abs/2609.40316v1)|null|
+|**2026-09-30**|**Planted Cliques and Quantum Symmetry-Adapted Measurements**|Vojtech Havlicek et.al.|[link](http://arxiv.org/abs/2609.40310v1)|null|
+|**2026-09-30**|**Looped Diffusion Transformer**|Yong Xien Chng et.al.|[link](http://arxiv.org/abs/2609.40305v1)|null|
+|**2026-09-30**|**Mixing FM-indexes and CSAs: backward search over an order-1 rank encoding**|Travis Gagie et.al.|[link](http://arxiv.org/abs/2609.40299v1)|null|
+|**2026-09-30**|**PMosFM: Preconditioned Manifold Matching for One-Step Physics-Constrained Generation**|Zhangyong Liang et.al.|[link](http://arxiv.org/abs/2609.40287v1)|null|
+|**2026-09-30**|**Conditioning-Free Non-Uniform Quantum Fourier and Chebyshev Transforms**|Chaowen Guan et.al.|[link](http://arxiv.org/abs/2609.40277v1)|null|
+|**2026-09-30**|**Resurgent rigidity of mock theta functions: uniqueness and natural boundary crossing**|Ovidiu Costin et.al.|[link](http://arxiv.org/abs/2609.40276v1)|null|
+|**2026-09-30**|**Linear-fractional rotational interval exchange transformations**|Alexey Teplinsky et.al.|[link](http://arxiv.org/abs/2609.40261v1)|null|
+|**2026-09-30**|**Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling**|Ruoyu Zhao et.al.|[link](http://arxiv.org/abs/2609.40258v1)|null|
+|**2026-09-30**|**Quantum oblique eigenprojection**|Alexander M. Dalzell et.al.|[link](http://arxiv.org/abs/2609.40254v1)|null|
+|**2026-09-30**|**Two bits about lossy compression: On the limits of compression in cosmology**|Hurum Maksora Tohfa et.al.|[link](http://arxiv.org/abs/2609.40239v1)|null|
+|**2026-09-30**|**LOCI: Spatial Linear Memory for Streaming World Models**|Ji Xia et.al.|[link](http://arxiv.org/abs/2609.40222v1)|null|
+|**2026-09-30**|**Purification brings advantages in sequential quantum channel discrimination**|Zoe G. del Toro et.al.|[link](http://arxiv.org/abs/2609.40218v1)|null|
+|**2026-09-30**|**Unpolarized quasi- and pseudo-distributions at one loop: gluon correlator decomposition, matching, and the region $|x|>1$**|Christopher Monahan et.al.|[link](http://arxiv.org/abs/2609.40205v1)|null|
 |**2026-09-29**|**Point2Part: Unified 3D Partitioning from Point Prompts**|Hao-Tang Tsui et.al.|[link](http://arxiv.org/abs/2609.38180v1)|null|
 |**2026-09-29**|**When Classical Correlations Certify Entanglement Recovery**|Takeru Utsumi et.al.|[link](http://arxiv.org/abs/2609.38168v1)|null|
 |**2026-09-29**|**Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data**|Joseph Metcalfe et.al.|[link](http://arxiv.org/abs/2609.38165v1)|null|
@@ -3602,6 +3622,9 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-30**|**Hyperspectral Image Models: Technical Report**|Tanishq Rachamalla et.al.|[link](http://arxiv.org/abs/2609.39871v1)|null|
+|**2026-09-30**|**Low-Discrepancy Dither for Quantized Recurrent State Caches**|Snigdha Chandan Khilar et.al.|[link](http://arxiv.org/abs/2609.39185v1)|null|
+|**2026-09-29**|**An Input-Frugal Deep Learning Framework for Weather-Driven National Crop-Yield Forecasting: A Case Study of Brazilian Soybean**|Fernando Dupin da Cunha Mello et.al.|[link](http://arxiv.org/abs/2609.38447v1)|null|
 |**2026-09-29**|**Spatiotemporal Hyperedges for EEG Seizure Detection and Prediction**|Hyunju Kim et.al.|[link](http://arxiv.org/abs/2609.37730v1)|null|
 |**2026-09-29**|**Sequence Models for Layer-3 Protocol Emulation**|Alix Jeannerot et.al.|[link](http://arxiv.org/abs/2609.37697v1)|null|
 |**2026-09-29**|**Remember What You Did: Action-History Memory with Dual-Expert Denoising for Long-Horizon Vision-Language-Action Policies**|Yaxin Zhao et.al.|[link](http://arxiv.org/abs/2609.37307v1)|null|
@@ -4406,6 +4429,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-09-30**|**Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[link](http://arxiv.org/abs/2609.40359v1)|null|
+|**2026-09-30**|**Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms**|Sheng-Ku Lin et.al.|[link](http://arxiv.org/abs/2609.40336v1)|null|
+|**2026-09-30**|**Local Automorphism-Aware Syndrome Compilation for General Quantum LDPC Codes**|Eugenio Durazo Rocha et.al.|[link](http://arxiv.org/abs/2609.40319v1)|null|
+|**2026-09-30**|**Quantum Sampling of Random Spanning Trees via Amortized Data Structures**|Yassine Hamoudi et.al.|[link](http://arxiv.org/abs/2609.40314v1)|null|
+|**2026-09-30**|**Explicit Capacity-Achieving Quantum LDPC Codes List Decodable in Near-linear Time**|William Gay et.al.|[link](http://arxiv.org/abs/2609.40313v1)|null|
+|**2026-09-30**|**Planted Cliques and Quantum Symmetry-Adapted Measurements**|Vojtech Havlicek et.al.|[link](http://arxiv.org/abs/2609.40310v1)|null|
+|**2026-09-30**|**Quantum Fine-Grained Lower Bounds for SetDisjointness via Sub-Linear Reductions from 3SUM**|Jeremy Huang et.al.|[link](http://arxiv.org/abs/2609.40293v1)|null|
+|**2026-09-30**|**Another proof that the two color bipartite Ramsey number is $O(2^t)$**|Yury Person et.al.|[link](http://arxiv.org/abs/2609.40288v1)|null|
+|**2026-09-30**|**Distinguishing Coherent Crosstalk from Calibration Drift via Pauli-Transfer Signatures and Quantum Edge Detection**|Syed Emad Uddin Shubha et.al.|[link](http://arxiv.org/abs/2609.40283v1)|null|
+|**2026-09-30**|**Classical simulation of coherent crosstalk in surface codes**|Andrew S. Darmawan et.al.|[link](http://arxiv.org/abs/2609.40279v1)|null|
+|**2026-09-30**|**Signal Processing over Product DAGs: Causal Shifts and Filters**|Sundeep Prabhakar Chepuri et.al.|[link](http://arxiv.org/abs/2609.40275v1)|null|
+|**2026-09-30**|**Classification of prime graphs with 2-switch-degree at most 4**|Victor N. Schvöllner et.al.|[link](http://arxiv.org/abs/2609.40274v1)|null|
+|**2026-09-30**|**Superlinear Quantum Query Lower Bounds for Subgraph Detection**|Amin Shiraz Gilani et.al.|[link](http://arxiv.org/abs/2609.40263v1)|null|
+|**2026-09-30**|**Hierarchically Hyperbolic Surface-by-surface Groups**|Spencer Dowdall et.al.|[link](http://arxiv.org/abs/2609.40240v1)|null|
+|**2026-09-30**|**A Quantum Algorithm for $st$-Transport on Flat Connection Graphs**|Stacey Jeffery et.al.|[link](http://arxiv.org/abs/2609.40231v1)|null|
+|**2026-09-30**|**Quantum Log-Determinant Methods for Torsion-Sensitive Topological Data Analysis**|Dimitrios Thanos et.al.|[link](http://arxiv.org/abs/2609.40216v1)|null|
+|**2026-09-30**|**On the solution to the Erdős-Hajnal problem on high-girth high-chromatic subgraphs**|Tung Nguyen et.al.|[link](http://arxiv.org/abs/2609.40192v1)|null|
+|**2026-09-30**|**A mixing time method for estimating the sample complexity of quantum state discrimination**|Juntai Zhou et.al.|[link](http://arxiv.org/abs/2609.40182v1)|null|
+|**2026-09-30**|**Improved Quantum Query Bounds for Boolean Matrix Product Verification**|Amin Shiraz Gilani et.al.|[link](http://arxiv.org/abs/2609.40180v1)|null|
+|**2026-09-30**|**Non-Invasive Inspection of Water Canals Using Dronar**|Michael Zielinski et.al.|[link](http://arxiv.org/abs/2609.40178v1)|null|
 |**2026-09-29**|**Point2Part: Unified 3D Partitioning from Point Prompts**|Hao-Tang Tsui et.al.|[link](http://arxiv.org/abs/2609.38180v1)|null|
 |**2026-09-29**|**Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data**|Joseph Metcalfe et.al.|[link](http://arxiv.org/abs/2609.38165v1)|null|
 |**2026-09-29**|**A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization**|Jianru Shen et.al.|[link](http://arxiv.org/abs/2609.38161v1)|null|
@@ -7532,6 +7575,16 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-09-30**|**Cognitive Enhancement: Rethinking the Necessity of Role-Playing for Large Language Models**|Xingjie Zhuang et.al.|[link](http://arxiv.org/abs/2609.39853v1)|null|
+|**2026-09-30**|**Inline Memory Meets Reusable Skills: Memory-centric Framework for Vision-Language-Action Model**|Zaijing Li et.al.|[link](http://arxiv.org/abs/2609.39794v1)|null|
+|**2026-09-30**|**Trust Is Not a Score: Runtime Assurance Contracts for High-Risk AI Agents**|Serhii Zabolotnii et.al.|[link](http://arxiv.org/abs/2609.39717v1)|null|
+|**2026-09-30**|**WinoTS: Wavelet-based Self-Distillation for Time Series Models**|Noam Major et.al.|[link](http://arxiv.org/abs/2609.39337v1)|null|
+|**2026-09-30**|**EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses**|Zhixuan Tan et.al.|[link](http://arxiv.org/abs/2609.39284v1)|null|
+|**2026-09-30**|**Argument Structure Prediction in Online Conversations: A Comparative Study of Modeling Paradigms and Task Architectures**|Siddharth Bhargava et.al.|[link](http://arxiv.org/abs/2609.39225v1)|null|
+|**2026-09-30**|**UniAE-MoE: A Unified Audio Encoder via Mixture of Experts**|Shengbo Cai et.al.|[link](http://arxiv.org/abs/2609.39199v1)|null|
+|**2026-09-30**|**FLOW: Feature-Level Optimal Warping for Generalized Remote Physiological Measurement**|Bo Zhao et.al.|[link](http://arxiv.org/abs/2609.38913v1)|null|
+|**2026-09-30**|**VERA: Verifiable Feasibility Representations with Counterfactual Credit for Constrained Multi-Agent Control**|Bo Yin et.al.|[link](http://arxiv.org/abs/2609.38889v1)|null|
+|**2026-09-29**|**After a Decade: Bringing Shadow Removal into the Real World with Agentic Training Data**|Shilin Hu et.al.|[link](http://arxiv.org/abs/2609.38607v1)|null|
 |**2026-09-29**|**Can a Cacheable Decision Model Follow Rules?**|Dushyant Rajput et.al.|[link](http://arxiv.org/abs/2609.37832v1)|null|
 |**2026-09-29**|**Recompositional Robotics: Cross-Domain, Open-set, and Lifelong Modularity Beyond Morphology**|Steven Swanbeck et.al.|[link](http://arxiv.org/abs/2609.37734v1)|null|
 |**2026-09-28**|**REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse**|Yuxiao Yang et.al.|[link](http://arxiv.org/abs/2609.37500v1)|null|
