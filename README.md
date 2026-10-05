@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 
 ### ISTD
 
@@ -325,6 +325,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[link](http://arxiv.org/abs/2610.03717v1)|null|
+|**2026-10-02**|**MoSE3: Learning World-Space SE(3) at Every Pixel**|Jiahuan Cheng et.al.|[link](http://arxiv.org/abs/2610.03716v1)|null|
+|**2026-10-02**|**How to Build Pseudorandom Unitaries in Microcrypt**|Aditya Gulati et.al.|[link](http://arxiv.org/abs/2610.03711v1)|null|
+|**2026-10-02**|**Unitary complexity in polynomial space**|William Kretschmer et.al.|[link](http://arxiv.org/abs/2610.03705v1)|null|
+|**2026-10-02**|**Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers**|Neel Varma et.al.|[link](http://arxiv.org/abs/2610.03698v1)|null|
+|**2026-10-02**|**Quantum Simulation on Riemannian Manifolds**|Dylan Herman et.al.|[link](http://arxiv.org/abs/2610.03673v1)|null|
+|**2026-10-02**|**ProAR: Learning Prospective Reasoning with Autoregressive Video Models**|Linghui Shen et.al.|[link](http://arxiv.org/abs/2610.03664v1)|null|
+|**2026-10-02**|**Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles**|Junyoung Koh et.al.|[link](http://arxiv.org/abs/2610.03656v1)|null|
+|**2026-10-02**|**SAC-Controlled RIS-Assisted Monopulse Radar for Multipath-Robust Vital-Sign Localization**|Jafar Norolahi et.al.|[link](http://arxiv.org/abs/2610.03643v1)|null|
+|**2026-10-02**|**Sturmian beta-shifts do not have typical periodic optimization**|Wen Huang et.al.|[link](http://arxiv.org/abs/2610.03619v1)|null|
+|**2026-10-02**|**Bridging Frontier Reasoning and Robot Execution: From Autonomous Demonstration Generation to Dense Language Supervision**|Bosung Kim et.al.|[link](http://arxiv.org/abs/2610.03615v1)|null|
+|**2026-10-02**|**Evaluating Inference-time Algorithms for Semantic Sound Scene Segmentation**|Sripathi Sridhar et.al.|[link](http://arxiv.org/abs/2610.03602v1)|null|
+|**2026-10-02**|**Quantum algorithms for orthogonal polynomial transforms**|Anupam Prakash et.al.|[link](http://arxiv.org/abs/2610.03581v1)|null|
+|**2026-10-02**|**Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection**|Shuo Yang et.al.|[link](http://arxiv.org/abs/2610.03577v1)|null|
+|**2026-10-02**|**Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing**|Yuxuan Hu et.al.|[link](http://arxiv.org/abs/2610.03570v1)|null|
+|**2026-10-02**|**Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain**|Antoine Collas et.al.|[link](http://arxiv.org/abs/2610.03558v1)|null|
+|**2026-10-02**|**A graph-theoretic analysis of non-generic free-fermion solvability by Krylov decompositions**|Jannis Ruh et.al.|[link](http://arxiv.org/abs/2610.03557v1)|null|
+|**2026-10-02**|**Complex-momentum form factors from lattice QCD**|Maxwell T. Hansen et.al.|[link](http://arxiv.org/abs/2610.03553v1)|null|
+|**2026-10-02**|**DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation**|Jiahao Zhan et.al.|[link](http://arxiv.org/abs/2610.03543v1)|null|
+|**2026-10-02**|**Quantum cohomology, Hitchin systems, and Fourier--Mukai comparison**|Yunfeng Jiang et.al.|[link](http://arxiv.org/abs/2610.03520v1)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[link](http://arxiv.org/abs/2610.02210v1)|null|
 |**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[link](http://arxiv.org/abs/2610.02203v1)|null|
 |**2026-10-01**|**Decoding Looped Transformers Better for (Almost) Free**|Weihao Liu et.al.|[link](http://arxiv.org/abs/2610.02185v1)|null|
@@ -3642,11 +3662,15 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-02**|**FARM: Fundamental Agentic Reward Model For Multi-task Wireless Network Optimization**|Feiran You et.al.|[link](http://arxiv.org/abs/2610.02947v1)|null|
+|**2026-10-02**|**Bounded Reachability & Jailbreak Detection via Contraction-Constrained State Space Models**|Omanshu Thapliyal et.al.|[link](http://arxiv.org/abs/2610.02853v1)|null|
+|**2026-09-30**|**State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting**|Anidipta Pal et.al.|[link](http://arxiv.org/abs/2610.02248v1)|null|
 |**2026-10-01**|**Learning Rate Transfer for Hybrid Transformer-SSM Architectures**|Jimin Seo et.al.|[link](http://arxiv.org/abs/2610.01172v1)|null|
 |**2026-09-30**|**PI-AMFM: Permutation-Invariant Learning for Variable-Cardinality AM-FM Mode Decomposition in Biomedical Signal Analysis**|Youngsun Kong et.al.|[link](http://arxiv.org/abs/2610.00819v1)|null|
 |**2026-09-30**|**MEG-Mamba: A Scalable State-Space Foundation Model for Magnetoencephalography**|Chetan Gohil et.al.|[link](http://arxiv.org/abs/2610.00746v1)|null|
 |**2026-09-30**|**WIPSNet: Deep Learning for Paediatric Wheeze Detection from Overnight Impedance Pneumography**|Felix Oury et.al.|[link](http://arxiv.org/abs/2610.00398v1)|null|
 |**2026-09-29**|**Beyond Diagonal State Space Models: Exact Non-Abelian Group Tracking, Solvability Barriers, and Geometric Physical Manifolds**|Zeyu Jia et.al.|[link](http://arxiv.org/abs/2610.00329v1)|null|
+|**2026-10-02**|**A PyTorch Library for Hyperspectral Image Models: Technical Report**|Tanishq Rachamalla et.al.|[link](http://arxiv.org/abs/2609.39871v2)|null|
 |**2026-09-30**|**Hyperspectral Image Models: Technical Report**|Tanishq Rachamalla et.al.|[link](http://arxiv.org/abs/2609.39871v1)|null|
 |**2026-09-30**|**Low-Discrepancy Dither for Quantized Recurrent State Caches**|Snigdha Chandan Khilar et.al.|[link](http://arxiv.org/abs/2609.39185v1)|null|
 |**2026-09-29**|**An Input-Frugal Deep Learning Framework for Weather-Driven National Crop-Yield Forecasting: A Case Study of Brazilian Soybean**|Fernando Dupin da Cunha Mello et.al.|[link](http://arxiv.org/abs/2609.38447v1)|null|
@@ -4454,6 +4478,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-02**|**From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing**|Kuangyu Ding et.al.|[link](http://arxiv.org/abs/2610.03709v1)|null|
+|**2026-10-02**|**Non-isomorphic graphs have distinct vertex-Ramsey classes**|Maria Axenovich et.al.|[link](http://arxiv.org/abs/2610.03704v1)|null|
+|**2026-10-02**|**Fractal dimension of critical Gaussian free field sign clusters**|Alexander Drewitz et.al.|[link](http://arxiv.org/abs/2610.03703v1)|null|
+|**2026-10-02**|**On The Complexity of Redundancy-Free Quantum Hamiltonians**|Matthew B. Hastings et.al.|[link](http://arxiv.org/abs/2610.03697v1)|null|
+|**2026-10-02**|**Ordering-Aware Theory of Trotter Error**|Zhenning Liu et.al.|[link](http://arxiv.org/abs/2610.03672v1)|null|
+|**2026-10-02**|**Classical Algorithms for Bipartite Quantum Max-Cut on Dense Expanders**|Stuart Wayland et.al.|[link](http://arxiv.org/abs/2610.03670v1)|null|
+|**2026-10-02**|**Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents**|Yu Li et.al.|[link](http://arxiv.org/abs/2610.03634v1)|null|
+|**2026-10-02**|**Cost convexity controls the architecture of resistance-optimal networks**|Hugo Tovar et.al.|[link](http://arxiv.org/abs/2610.03627v1)|null|
+|**2026-10-02**|**CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites**|Parastoo Ali Pour et.al.|[link](http://arxiv.org/abs/2610.03622v1)|null|
+|**2026-10-02**|**Bridging Frontier Reasoning and Robot Execution: From Autonomous Demonstration Generation to Dense Language Supervision**|Bosung Kim et.al.|[link](http://arxiv.org/abs/2610.03615v1)|null|
+|**2026-10-02**|**Evaluating Inference-time Algorithms for Semantic Sound Scene Segmentation**|Sripathi Sridhar et.al.|[link](http://arxiv.org/abs/2610.03602v1)|null|
+|**2026-10-02**|**HazardWeaver: Scientific Route Selection for Hazard Analysis Agents**|Wangshu Zhu et.al.|[link](http://arxiv.org/abs/2610.03591v1)|null|
+|**2026-10-02**|**Faster Sublinear Maximal Independent Set Size**|Peter Kiss et.al.|[link](http://arxiv.org/abs/2610.03588v1)|null|
+|**2026-10-02**|**Rapid mixing of Gibbs samplers via quantum Dobrushin--Shlosman conditions**|Cambyse Rouzé et.al.|[link](http://arxiv.org/abs/2610.03578v1)|null|
+|**2026-10-02**|**Writerslogic at PAN 2026: Process over Content for Robust Detection under Domain Shift**|David L. Condrey et.al.|[link](http://arxiv.org/abs/2610.03565v1)|null|
+|**2026-10-02**|**Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain**|Antoine Collas et.al.|[link](http://arxiv.org/abs/2610.03558v1)|null|
+|**2026-10-02**|**A graph-theoretic analysis of non-generic free-fermion solvability by Krylov decompositions**|Jannis Ruh et.al.|[link](http://arxiv.org/abs/2610.03557v1)|null|
+|**2026-10-02**|**Get a GRIP, this will be a long TRIP: A Quantifiable Long-Range Framework for Verifying Over-squashing**|Ferran Hernandez Caralt et.al.|[link](http://arxiv.org/abs/2610.03556v1)|null|
+|**2026-10-02**|**Counterexamples to the Strong Roberson Conjecture**|Arnar Á. Kristjánsson et.al.|[link](http://arxiv.org/abs/2610.03550v1)|null|
+|**2026-10-02**|**DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation**|Jiahao Zhan et.al.|[link](http://arxiv.org/abs/2610.03543v1)|null|
 |**2026-10-01**|**Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control**|Akshay Balsubramani et.al.|[link](http://arxiv.org/abs/2610.02195v1)|null|
 |**2026-10-01**|**Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry**|Yiming Huang et.al.|[link](http://arxiv.org/abs/2610.02186v1)|null|
 |**2026-10-01**|**OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning**|Haibo Wang et.al.|[link](http://arxiv.org/abs/2610.02181v1)|null|
@@ -7620,6 +7664,13 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-10-02**|**StanceEval 2026: The Second Stance Detection Shared Task**|Rasha Albalawi et.al.|[link](http://arxiv.org/abs/2610.03215v1)|null|
+|**2026-10-02**|**ULTRADISCOVERY: Abductive Exploration in an Interconnected, Epistemically Open Universe**|Weihan Li et.al.|[link](http://arxiv.org/abs/2610.03092v1)|null|
+|**2026-10-02**|**OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models**|Tao Shi et.al.|[link](http://arxiv.org/abs/2610.02986v1)|null|
+|**2026-10-02**|**Efficient Memory Crystallization for Graph Learning under Non-Stationary Distribution Shifts**|Yue Hou et.al.|[link](http://arxiv.org/abs/2610.02795v1)|null|
+|**2026-10-02**|**Structure-Driven Methodology: An Emerging Cross-Domain Paradigm**|Shengchang Chen et.al.|[link](http://arxiv.org/abs/2610.02698v1)|null|
+|**2026-09-30**|**MACTS-EM: Multi-Agent Collaborative Time Series Forecasting with Emergent Memory**|Ahmad Shahi et.al.|[link](http://arxiv.org/abs/2610.02255v1)|null|
+|**2026-09-30**|**A Missing Latent, Not a Missing Simulator: Radius-Augmented Inference for Real JWST Retrieval**|Angshuman Chakravertty et.al.|[link](http://arxiv.org/abs/2610.02245v1)|null|
 |**2026-10-01**|**GIFTBench: Diagnosing Generalization in Image Forgery Localization and Informing Model Design**|Baoke Dou et.al.|[link](http://arxiv.org/abs/2610.01778v1)|null|
 |**2026-10-01**|**Beyond Domain-Level Adaptation: Margin-Oriented Semantic-Appearance Interaction Correction for Personalized Federated Vision-Language Models**|Wentao Yue et.al.|[link](http://arxiv.org/abs/2610.01625v1)|null|
 |**2026-10-01**|**No Model Required: Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse**|Lewis Mitchell et.al.|[link](http://arxiv.org/abs/2610.01493v1)|null|
