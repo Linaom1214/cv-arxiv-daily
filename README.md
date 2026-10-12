@@ -1,4 +1,4 @@
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 
 ### ISTD
 
@@ -328,6 +328,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-09**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[link](http://arxiv.org/abs/2610.13941v1)|null|
+|**2026-10-09**|**Hide and Seek: HIDE Concepts to SEEK explanations for black box models**|Bhanu Tokas et.al.|[link](http://arxiv.org/abs/2610.13935v1)|null|
+|**2026-10-09**|**Chronos Policy: Learning Robot Policies on Physical Time**|Changhao Wang et.al.|[link](http://arxiv.org/abs/2610.13929v1)|null|
+|**2026-10-09**|**Can machines reason non-verbally?**|Shaheer U. Saeed et.al.|[link](http://arxiv.org/abs/2610.13925v1)|null|
+|**2026-10-09**|**RSI-Anything: Unlocking Recursive Self-Improvement with World Models**|Taoyong Cui et.al.|[link](http://arxiv.org/abs/2610.13912v1)|null|
+|**2026-10-09**|**Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations**|Natalia Goncharova et.al.|[link](http://arxiv.org/abs/2610.13902v1)|null|
+|**2026-10-09**|**An Annealing-based Quantum Neural Network with Discrete Wavelet Transforms for Enhanced Air Pollution Nowcasting**|Otto Menegasso Pires et.al.|[link](http://arxiv.org/abs/2610.13882v1)|null|
+|**2026-10-09**|**GPU-Based Parallel BP Decoding for Quantum LDPC Memory**|Ming Wang et.al.|[link](http://arxiv.org/abs/2610.13879v1)|null|
+|**2026-10-09**|**Modular Properties of Generalised Gibbs Ensembles: The Deformed KdV Hierarchy**|Faisal Karimi et.al.|[link](http://arxiv.org/abs/2610.13875v1)|null|
+|**2026-10-09**|**Impact of ab initio E1 strength on neutron capture rates along the nickel isotopic chain**|Francesca Bonaiti et.al.|[link](http://arxiv.org/abs/2610.13868v1)|null|
+|**2026-10-09**|**LapMerge: Differentiable Exact-Budget Token Merging in Linear Time**|Magdalena Trędowicz et.al.|[link](http://arxiv.org/abs/2610.13858v1)|null|
+|**2026-10-09**|**Event-based Action Recognition by Pre-Training on Multi-Frame Representations**|Emma Norrby et.al.|[link](http://arxiv.org/abs/2610.13856v1)|null|
+|**2026-10-09**|**HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation**|Hajira Amjad et.al.|[link](http://arxiv.org/abs/2610.13849v1)|null|
+|**2026-10-09**|**On diagonal sections of Markov products of copulas**|Roman Drnovšek et.al.|[link](http://arxiv.org/abs/2610.13846v1)|null|
+|**2026-10-09**|**SpatialASM: Internalizing Active Mentalization for Spatial Reasoning**|Yuhong Liu et.al.|[link](http://arxiv.org/abs/2610.13832v1)|null|
+|**2026-10-09**|**REFLECT: Role-Aware Detection of Sentiment, Emotion, Politeness, and Formality**|Sangpil Youm et.al.|[link](http://arxiv.org/abs/2610.13797v1)|null|
+|**2026-10-09**|**Shortcut Learning in Geospatial Foundation Model Embeddings for Cross-Disaster Damage Assessment**|Ali Shibli et.al.|[link](http://arxiv.org/abs/2610.13766v1)|null|
+|**2026-10-09**|**OpenSVBench: Diagnosing Speaker Verification Generalization Across Deployment Scenarios**|Qituan Shangguan et.al.|[link](http://arxiv.org/abs/2610.13760v1)|null|
+|**2026-10-09**|**SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices**|Timi Owolabi et.al.|[link](http://arxiv.org/abs/2610.13740v1)|null|
+|**2026-10-09**|**Orthros: Phase-Aware Heterogeneous Attention for Efficient Transformers**|Yuhong Chou et.al.|[link](http://arxiv.org/abs/2610.13735v1)|null|
 |**2026-10-08**|**One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts**|Adrian Bulat et.al.|[link](http://arxiv.org/abs/2610.12448v1)|null|
 |**2026-10-08**|**LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation**|Suhwan Cho et.al.|[link](http://arxiv.org/abs/2610.12442v1)|null|
 |**2026-10-08**|**Density Ratio Estimation with Stein Displacement Fields**|Song Liu et.al.|[link](http://arxiv.org/abs/2610.12437v1)|null|
@@ -3745,6 +3765,12 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-09**|**ReplaySSM: Cache SSM Inputs, Not State**|Ze-Wei Liou et.al.|[link](http://arxiv.org/abs/2610.13778v1)|**[code](https://github.com/Johnny-Liou/ReplaySSM)**|
+|**2026-10-09**|**State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement**|Yan Luo et.al.|[link](http://arxiv.org/abs/2610.13720v1)|**[code](https://github.com/kkoucy/IsoMamba)**|
+|**2026-10-09**|**Understanding Mamba-3 Through Oscillatory Dynamics**|Shutian Liang et.al.|[link](http://arxiv.org/abs/2610.13341v1)|null|
+|**2026-10-09**|**Selective Spatio-Temporal Fruit Inspector (S$^2$FI): A Mamba-based Framework for Rotational Fruit Quality Assessment**|Hao Tian et.al.|[link](http://arxiv.org/abs/2610.12868v1)|null|
+|**2026-10-09**|**Time Delay System for Sequence Modeling**|Youshan Zhang et.al.|[link](http://arxiv.org/abs/2610.12864v1)|**[code](https://github.com/Aryia-Behroziuan/References)**|
+|**2026-10-08**|**Bridging Human and Model Attention: Explainability Analysis of CNN, Mamba, and ViT Architectures with Gaze-Based Validation**|Marco Stefani et.al.|[link](http://arxiv.org/abs/2610.12703v1)|null|
 |**2026-10-08**|**SACQ: Structured Decoding with Memory-Conditioned Refinement for Long-Horizon Forecasting**|Guo Cheng et.al.|[link](http://arxiv.org/abs/2610.11170v1)|null|
 |**2026-10-07**|**CMP-IRRT*: A Perception-Assisted Height-Adaptive Planner for Quadruped Robots**|Mingfan Zhao et.al.|[link](http://arxiv.org/abs/2610.10470v1)|null|
 |**2026-10-07**|**HAN-Mamba: Hierarchical Selective State Space Networks for Multi-Scale Financial Volatility Forecasting**|Mihai Bogdan Deaconu et.al.|[link](http://arxiv.org/abs/2610.10323v1)|null|
@@ -4574,6 +4600,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-09**|**Can Language Models Play the Wikipedia Game?**|Alexander Hickey et.al.|[link](http://arxiv.org/abs/2610.13948v1)|null|
+|**2026-10-09**|**Constructive Arboricity in Almost-Linear Time for Dense Graphs**|Iman Gholami et.al.|[link](http://arxiv.org/abs/2610.13937v1)|null|
+|**2026-10-09**|**Hide and Seek: HIDE Concepts to SEEK explanations for black box models**|Bhanu Tokas et.al.|[link](http://arxiv.org/abs/2610.13935v1)|null|
+|**2026-10-09**|**Can machines reason non-verbally?**|Shaheer U. Saeed et.al.|[link](http://arxiv.org/abs/2610.13925v1)|null|
+|**2026-10-09**|**The Bernstein problem in higher dimensional Heisenberg groups**|Gianmarco Giovannardi et.al.|[link](http://arxiv.org/abs/2610.13913v1)|null|
+|**2026-10-09**|**When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors**|Shubh Garg et.al.|[link](http://arxiv.org/abs/2610.13910v1)|null|
+|**2026-10-09**|**Quantum Query Complexity of Maximum Degree and its Generalizations**|Amin Shiraz Gilani et.al.|[link](http://arxiv.org/abs/2610.13906v1)|null|
+|**2026-10-09**|**Structural Automata for Neural Semantic Parsing**|Xiao Zhang et.al.|[link](http://arxiv.org/abs/2610.13896v1)|null|
+|**2026-10-09**|**Task Context Shapes Component Roles in Language Models**|Sovesh Mohapatra et.al.|[link](http://arxiv.org/abs/2610.13895v1)|null|
+|**2026-10-09**|**X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems**|Yeonsung Jung et.al.|[link](http://arxiv.org/abs/2610.13886v1)|null|
+|**2026-10-09**|**Interacting Stochastic Systems with Agent-Based Sampling and Connection-Based Reinforcement**|Yogesh Dahiya et.al.|[link](http://arxiv.org/abs/2610.13884v1)|null|
+|**2026-10-09**|**GPU-Based Parallel BP Decoding for Quantum LDPC Memory**|Ming Wang et.al.|[link](http://arxiv.org/abs/2610.13879v1)|null|
+|**2026-10-09**|**Degree similar and net-degree similar signed graphs**|Matteo Cavaleri et.al.|[link](http://arxiv.org/abs/2610.13863v1)|null|
+|**2026-10-09**|**LapMerge: Differentiable Exact-Budget Token Merging in Linear Time**|Magdalena Trędowicz et.al.|[link](http://arxiv.org/abs/2610.13858v1)|null|
+|**2026-10-09**|**Clique and chromatic numbers of graph powers: spectral bounds and anticodes**|Aida Abiad et.al.|[link](http://arxiv.org/abs/2610.13852v1)|null|
+|**2026-10-09**|**Modelling the complex dynamics of online disinformation cascades**|Guillermo Romero Moreno et.al.|[link](http://arxiv.org/abs/2610.13839v1)|null|
+|**2026-10-09**|**MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents**|Jingwei Song et.al.|[link](http://arxiv.org/abs/2610.13829v1)|null|
+|**2026-10-09**|**Counting cographs in locally dense graphs**|Hyunwoo Lee et.al.|[link](http://arxiv.org/abs/2610.13820v1)|null|
+|**2026-10-09**|**Two-orbit right-angled Polytopes and Hypertopes**|Claudio Alexandre Piedade et.al.|[link](http://arxiv.org/abs/2610.13817v1)|null|
+|**2026-10-09**|**Linearity of Graph Manifold Groups**|Daniel T. Wise et.al.|[link](http://arxiv.org/abs/2610.13801v1)|null|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[link](http://arxiv.org/abs/2610.12470v1)|null|
 |**2026-10-08**|**Infinite light rays and infinite clusters with infinitely many pivots**|Martin P. W. Zerner et.al.|[link](http://arxiv.org/abs/2610.12460v1)|null|
 |**2026-10-08**|**Coupling Independence Implies Zero-Freeness**|Shuai Shao et.al.|[link](http://arxiv.org/abs/2610.12456v1)|null|
@@ -7840,6 +7886,12 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-10-09**|**Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation**|Shi-Yu Tian et.al.|[link](http://arxiv.org/abs/2610.13521v1)|null|
+|**2026-10-09**|**A Real-World CAD Segmentation Benchmark: Comparing Rule-Based and Learning-Based Approaches through Hole Detection**|Kai Schütte et.al.|[link](http://arxiv.org/abs/2610.13466v1)|null|
+|**2026-10-09**|**CacheFlex: Direct Software-Managed Access to Higher-Level Cache for Scalable Vector Support**|Jingqun Zhang et.al.|[link](http://arxiv.org/abs/2610.12940v1)|null|
+|**2026-10-09**|**Closed-loop domain generation enhances battery health diagnosis**|Yue Wu et.al.|[link](http://arxiv.org/abs/2610.12859v1)|null|
+|**2026-10-09**|**Co-Modifying Application Code and Deployment Infrastructure: A Causal Study of AI Agent Pull Requests**|Mohammad Wathiq Soualhi et.al.|[link](http://arxiv.org/abs/2610.12849v1)|null|
+|**2026-10-08**|**KITE: A Knowledge-Injected Temporal Encoder for Time-Series Event Forecasting**|Jonas Petersen et.al.|[link](http://arxiv.org/abs/2610.12738v1)|null|
 |**2026-10-08**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[link](http://arxiv.org/abs/2610.12183v1)|null|
 |**2026-10-08**|**DVLA-RL++: Dual-Level Vision-Language Alignment with Reinforcement Learning Gating for Few-Shot Learning**|Wenhao Li et.al.|[link](http://arxiv.org/abs/2610.12095v1)|null|
 |**2026-10-08**|**From Surface to Depth: Towards Cognitive Appraisal Reasoning in Multimodal Emotion Understanding**|Jia Li et.al.|[link](http://arxiv.org/abs/2610.11918v1)|null|
