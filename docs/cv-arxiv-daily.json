@@ -166,8 +166,8 @@
     "2608.07015v1": "|**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|\n",
     "2608.05771v2": "|**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|\n",
     "2607.04603v2": "|**2026-08-03**|**LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection**|Tianfang Zhang et.al.|[link](http://arxiv.org/abs/2607.04603v2)|null|\n",
-    "2609.00853v1": "|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|**[code](https://github.com/iLearn-Lab/MM26-ADGNet)**|\n",
-    "2609.00666v1": "|**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|**[code](https://github.com/iLearn-Lab/MM26-DGNet)**|\n",
+    "2609.00853v1": "|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|null|\n",
+    "2609.00666v1": "|**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|null|\n",
     "2609.07515v1": "|**2026-09-07**|**PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2609.07515v1)|null|\n",
     "2609.18773v1": "|**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[link](http://arxiv.org/abs/2609.18773v1)|null|\n",
     "2606.21956v3": "|**2026-09-28**|**Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2606.21956v3)|null|\n",
@@ -175,7 +175,8 @@
     "2610.05342v1": "|**2026-10-04**|**IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning**|Jiawen Xi et.al.|[link](http://arxiv.org/abs/2610.05342v1)|null|\n",
     "2610.09875v1": "|**2026-10-07**|**SANet: Selective Attention Network for Infrared Small Target Detection**|Yingmei Zhang et.al.|[link](http://arxiv.org/abs/2610.09875v1)|null|\n",
     "2610.18291v1": "|**2026-10-13**|**Unsupervised and Supervised Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 2)**|Thierry Bouwmans et.al.|[link](http://arxiv.org/abs/2610.18291v1)|null|\n",
-    "2610.18276v1": "|**2026-10-13**|**Traditional and Recent Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 1)**|Thierry Bouwmans et.al.|[link](http://arxiv.org/abs/2610.18276v1)|null|\n"
+    "2610.18276v1": "|**2026-10-13**|**Traditional and Recent Approaches for Infrared Small Target Detection : Overview, Challenges and Perspectives (Part 1)**|Thierry Bouwmans et.al.|[link](http://arxiv.org/abs/2610.18276v1)|null|\n",
+    "2607.04603v3": "|**2026-10-15**|**LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection**|Tianfang Zhang et.al.|[link](http://arxiv.org/abs/2607.04603v3)|null|\n"
   },
   "graph": {
     "2510.17799v1": "|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[link](http://arxiv.org/abs/2510.17799v1)|null|\n",
@@ -3771,7 +3772,27 @@
     "2610.20502v1": "|**2026-10-14**|**Graph-Enhanced Disease Trajectory Discovery and Temporal Endpoint Forecasting from Longitudinal Electronic Health Records**|Jin-Jia Zheng et.al.|[link](http://arxiv.org/abs/2610.20502v1)|null|\n",
     "2610.20501v1": "|**2026-10-14**|**OLiVES: An Outdoor Low-Light Video Benchmark for Enhancement and Segmentation**|Yini Li et.al.|[link](http://arxiv.org/abs/2610.20501v1)|null|\n",
     "2610.20500v1": "|**2026-10-14**|**Separation of variables for coupled radiative perturbations of Kerr-Newman-de Sitter black holes**|Daisuke Yoshida et.al.|[link](http://arxiv.org/abs/2610.20500v1)|null|\n",
-    "2610.20461v1": "|**2026-10-14**|**Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR**|Nguyen Nguyen et.al.|[link](http://arxiv.org/abs/2610.20461v1)|null|\n"
+    "2610.20461v1": "|**2026-10-14**|**Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR**|Nguyen Nguyen et.al.|[link](http://arxiv.org/abs/2610.20461v1)|null|\n",
+    "2610.22369v1": "|**2026-10-15**|**SoftCache: Adaptive Step Size Caching for Diffusion Transformers**|Shimon Malnick et.al.|[link](http://arxiv.org/abs/2610.22369v1)|null|\n",
+    "2610.22363v1": "|**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Zirui Wu et.al.|[link](http://arxiv.org/abs/2610.22363v1)|null|\n",
+    "2610.22359v1": "|**2026-10-15**|**Integral and higher-genus quantum McKay correspondence in type D**|Andrea Brini et.al.|[link](http://arxiv.org/abs/2610.22359v1)|null|\n",
+    "2610.22356v1": "|**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Han Su et.al.|[link](http://arxiv.org/abs/2610.22356v1)|null|\n",
+    "2610.22353v1": "|**2026-10-15**|**Rethinking Routing Exploration in Modern Mixture-of-Experts**|Bingcong Li et.al.|[link](http://arxiv.org/abs/2610.22353v1)|null|\n",
+    "2610.22352v1": "|**2026-10-15**|**SUPRA-TEX: 3D Generation with Super-Aligned Texture**|Chen Yang et.al.|[link](http://arxiv.org/abs/2610.22352v1)|null|\n",
+    "2610.22337v1": "|**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Al Bashir et.al.|[link](http://arxiv.org/abs/2610.22337v1)|null|\n",
+    "2610.22330v1": "|**2026-10-15**|**Designing Transformers for Continuous Diffusion Language Models**|Weijian Luo et.al.|[link](http://arxiv.org/abs/2610.22330v1)|null|\n",
+    "2610.22325v1": "|**2026-10-15**|**Dense4D: Pixel-Level 4D Human Correspondence**|R\u0131za Alp G\u00fcler et.al.|[link](http://arxiv.org/abs/2610.22325v1)|null|\n",
+    "2610.22312v1": "|**2026-10-15**|**Grid-Bench: Can LLMs Predict How Discrete Worlds Change?**|Zixiang Xu et.al.|[link](http://arxiv.org/abs/2610.22312v1)|null|\n",
+    "2610.22274v1": "|**2026-10-15**|**Exact algebraic separation of the gravitoelectromagnetic perturbations of Kerr-Newman-(anti-)de Sitter black holes**|Jun-Kun Zhao et.al.|[link](http://arxiv.org/abs/2610.22274v1)|null|\n",
+    "2610.22273v1": "|**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh et.al.|[link](http://arxiv.org/abs/2610.22273v1)|null|\n",
+    "2610.22270v1": "|**2026-10-15**|**Unsupervised Clustering of Public Transport Vehicles Using Deep Morphological Features and Color Histograms**|Juan Irving Vasquez et.al.|[link](http://arxiv.org/abs/2610.22270v1)|null|\n",
+    "2610.22269v1": "|**2026-10-15**|**X-RIC: An Agentic RAN-Intelligent Controller Benchmark for Enhancing Reinforcement Learning**|Adhwaa Al-Chaab et.al.|[link](http://arxiv.org/abs/2610.22269v1)|null|\n",
+    "2610.22259v1": "|**2026-10-15**|**FPG-Seg: Annotation-free Retinal Vessel Topology Segmentation**|James Willoughby et.al.|[link](http://arxiv.org/abs/2610.22259v1)|null|\n",
+    "2610.22250v1": "|**2026-10-15**|**Tree Edit Distance: Near-Linear-Time Approximate, Sublinear, and Dynamic**|Bingbing Hu et.al.|[link](http://arxiv.org/abs/2610.22250v1)|null|\n",
+    "2610.22240v1": "|**2026-10-15**|**MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents**|Huanyao Zhang et.al.|[link](http://arxiv.org/abs/2610.22240v1)|null|\n",
+    "2610.22239v1": "|**2026-10-15**|**High-frequency water megamasers as precision probes of black holes, galaxies and cosmology: A case for a next-generation sub-mm/mm interferometer**|Ingyin Zaw et.al.|[link](http://arxiv.org/abs/2610.22239v1)|null|\n",
+    "2610.22235v1": "|**2026-10-15**|**Classes of integrable metrics on Banach spaces**|A. Konyaev et.al.|[link](http://arxiv.org/abs/2610.22235v1)|null|\n",
+    "2610.22232v1": "|**2026-10-15**|**WaveLLM: Wavelet-Domain LLM Entropy Modeling for Lossless Image Compression**|Yue Yu et.al.|[link](http://arxiv.org/abs/2610.22232v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -4616,7 +4637,10 @@
     "2610.15371v1": "|**2026-10-11**|**A Sovereign, Indic-First, Reasoning Model**|Sutanshu Saksena Raj et.al.|[link](http://arxiv.org/abs/2610.15371v1)|null|\n",
     "2610.15139v1": "|**2026-10-10**|**When Dynamic Scaling Fails: A Scale-State Feedback Governs Recurrent-State Quantization in Linear-Attention and SSM LLMs**|Yuhang Jiang et.al.|[link](http://arxiv.org/abs/2610.15139v1)|null|\n",
     "2610.15117v1": "|**2026-10-10**|**scHFBiMamba: a bidirectional Mamba autoencoder for cardiac disease-state classification from single-nucleus RNA-seq data**|Ugo Lomoio et.al.|[link](http://arxiv.org/abs/2610.15117v1)|null|\n",
-    "2610.14279v1": "|**2026-10-09**|**The RNN Homunculus: Learning to Gate Long-Term Memory**|Zeyu Fan et.al.|[link](http://arxiv.org/abs/2610.14279v1)|null|\n"
+    "2610.14279v1": "|**2026-10-09**|**The RNN Homunculus: Learning to Gate Long-Term Memory**|Zeyu Fan et.al.|[link](http://arxiv.org/abs/2610.14279v1)|null|\n",
+    "2610.21319v1": "|**2026-10-15**|**Constrained Multi-Agent Reinforcement Learning in Imagination**|Raz Shmueli et.al.|[link](http://arxiv.org/abs/2610.21319v1)|null|\n",
+    "2610.21190v1": "|**2026-10-15**|**ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling**|Yuang Liu et.al.|[link](http://arxiv.org/abs/2610.21190v1)|null|\n",
+    "2610.20682v1": "|**2026-10-14**|**TurboMamba: Faster Inference, Faster Training, and Better Prediction with Lexical Memory**|Hanxin Zhang et.al.|[link](http://arxiv.org/abs/2610.20682v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -7918,7 +7942,27 @@
     "2610.20461v1": "|**2026-10-14**|**Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR**|Nguyen Nguyen et.al.|[link](http://arxiv.org/abs/2610.20461v1)|null|\n",
     "2610.20460v1": "|**2026-10-14**|**DD-GBP: Anytime Multi-Arm Planning and Continuous Execution via Distributed Dynamic Gaussian Belief Propagation**|Zhao Jin et.al.|[link](http://arxiv.org/abs/2610.20460v1)|null|\n",
     "2610.20459v1": "|**2026-10-14**|**MolLean: A Process-Verifiable Language for Chemical Reasoning**|Jiatong Li et.al.|[link](http://arxiv.org/abs/2610.20459v1)|null|\n",
-    "2610.20443v1": "|**2026-10-14**|**Intersecting families of loose spanning hypertrees**|Yury Person et.al.|[link](http://arxiv.org/abs/2610.20443v1)|null|\n"
+    "2610.20443v1": "|**2026-10-14**|**Intersecting families of loose spanning hypertrees**|Yury Person et.al.|[link](http://arxiv.org/abs/2610.20443v1)|null|\n",
+    "2610.22357v1": "|**2026-10-15**|**Stability of Quantum LDPC States under Local Pauli Noise**|Tai-Hsuan Yang et.al.|[link](http://arxiv.org/abs/2610.22357v1)|null|\n",
+    "2610.22353v1": "|**2026-10-15**|**Rethinking Routing Exploration in Modern Mixture-of-Experts**|Bingcong Li et.al.|[link](http://arxiv.org/abs/2610.22353v1)|null|\n",
+    "2610.22341v1": "|**2026-10-15**|**3DCodeVerse: Exploring 3D Worlds as Code**|Yipeng Gao et.al.|[link](http://arxiv.org/abs/2610.22341v1)|null|\n",
+    "2610.22339v1": "|**2026-10-15**|**Lean Graph Search for Formal Theorem Proving**|Yihan Xu et.al.|[link](http://arxiv.org/abs/2610.22339v1)|null|\n",
+    "2610.22337v1": "|**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Al Bashir et.al.|[link](http://arxiv.org/abs/2610.22337v1)|null|\n",
+    "2610.22299v1": "|**2026-10-15**|**An Induced Subgraph Paradigm for Strongly Regular Graph Constructions**|Benjamin Baker et.al.|[link](http://arxiv.org/abs/2610.22299v1)|null|\n",
+    "2610.22278v1": "|**2026-10-15**|**Subgraph Counting with Local Node Differential Privacy**|Sofya Raskhodnikova et.al.|[link](http://arxiv.org/abs/2610.22278v1)|null|\n",
+    "2610.22273v1": "|**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh et.al.|[link](http://arxiv.org/abs/2610.22273v1)|null|\n",
+    "2610.22268v1": "|**2026-10-15**|**Uniform Intersection Numbers and Subgroup-Based Generating Graphs of Groups**|Projesh Nath Choudhury et.al.|[link](http://arxiv.org/abs/2610.22268v1)|null|\n",
+    "2610.22259v1": "|**2026-10-15**|**FPG-Seg: Annotation-free Retinal Vessel Topology Segmentation**|James Willoughby et.al.|[link](http://arxiv.org/abs/2610.22259v1)|null|\n",
+    "2610.22248v1": "|**2026-10-15**|**Evolution algebras: a survey of results and a list of open problems**|Ivan Kaygorodov et.al.|[link](http://arxiv.org/abs/2610.22248v1)|null|\n",
+    "2610.22241v1": "|**2026-10-15**|**Geometric Graph Representations via Compact SAT Encodings**|L. Sunil Chandran et.al.|[link](http://arxiv.org/abs/2610.22241v1)|null|\n",
+    "2610.22231v1": "|**2026-10-15**|**Design of a Family of Rate-Adaptive LDPC Convolutional Codes with Short Constraint Length**|Massimo Battaglioni et.al.|[link](http://arxiv.org/abs/2610.22231v1)|null|\n",
+    "2610.22225v1": "|**2026-10-15**|**Safe and Fuel-Efficient Motion Planning for Lunar Propulsive Drones**|Elena Wittemyer et.al.|[link](http://arxiv.org/abs/2610.22225v1)|null|\n",
+    "2610.22215v1": "|**2026-10-15**|**FutureLift: Lifting Trajectory Proposals into Bidirectional Future Graphs for Motion Forecasting**|Daniel Grimm et.al.|[link](http://arxiv.org/abs/2610.22215v1)|null|\n",
+    "2610.22214v1": "|**2026-10-15**|**GNN-Guided Local Refinement for Efficient Layout Decomposition with DSA-MP**|Yu Feng et.al.|[link](http://arxiv.org/abs/2610.22214v1)|null|\n",
+    "2610.22210v1": "|**2026-10-15**|**TRACE: Topology-Aware Reconnection via Prediction-Adaptive Connectivity Enforcement for Thin-Structure Segmentation**|Junho Moon et.al.|[link](http://arxiv.org/abs/2610.22210v1)|null|\n",
+    "2610.22205v1": "|**2026-10-15**|**Classification of bipartite observables III: simplicity, mixtures and quantum error correction**|Eduardo Due\u00f1ez et.al.|[link](http://arxiv.org/abs/2610.22205v1)|null|\n",
+    "2610.22190v1": "|**2026-10-15**|**Connectivity Bounds for GHZ Graphs**|L. Sunil Chandran et.al.|[link](http://arxiv.org/abs/2610.22190v1)|null|\n",
+    "2610.22180v1": "|**2026-10-15**|**A quadratic ancestor inequality for spanning trees**|Gefei Cai et.al.|[link](http://arxiv.org/abs/2610.22180v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -9328,8 +9372,8 @@
     "2610.20388v1": "|**2026-10-14**|**From Relevance to Validity: Zero-Shot Tool Selection via Functional and Contextual Validation**|Xiaoxuan Dong et.al.|[link](http://arxiv.org/abs/2610.20388v1)|null|\n",
     "2610.20174v1": "|**2026-10-14**|**RM-OPD: On-Policy Distillation for Generative Reward Models**|Qinglin Su et.al.|[link](http://arxiv.org/abs/2610.20174v1)|null|\n",
     "2610.20160v1": "|**2026-10-14**|**OneLA: Learning Many Worlds from Latent Actions**|Ziyu Zhu et.al.|[link](http://arxiv.org/abs/2610.20160v1)|null|\n",
-    "2610.20073v1": "|**2026-10-14**|**GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation**|Biplab Poudel et.al.|[link](http://arxiv.org/abs/2610.20073v1)|null|\n",
-    "2610.19678v1": "|**2026-10-14**|**TVPara: Paralinguistic Captioning of Expressive TV-Series Speech in Complex Acoustic Environments**|Ziyang Zhang et.al.|[link](http://arxiv.org/abs/2610.19678v1)|null|\n",
+    "2610.20073v1": "|**2026-10-14**|**GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation**|Biplab Poudel et.al.|[link](http://arxiv.org/abs/2610.20073v1)|**[code](https://github.com/biplabpoudel25/GDBA_Net)**|\n",
+    "2610.19678v1": "|**2026-10-14**|**TVPara: Paralinguistic Captioning of Expressive TV-Series Speech in Complex Acoustic Environments**|Ziyang Zhang et.al.|[link](http://arxiv.org/abs/2610.19678v1)|**[code](https://github.com/anonymous-pages229/TVPara)**|\n",
     "2610.19052v1": "|**2026-10-13**|**Why Do VLMs Fail at Remote Physiological Measurement? Rethinking with Physiological Grounding and Numerical Alignment**|Xiao Yang et.al.|[link](http://arxiv.org/abs/2610.19052v1)|null|\n",
     "2610.18572v1": "|**2026-10-13**|**LLM Agents for Automated Post-Training via Structured Recipe Optimization**|Ruohong Liu et.al.|[link](http://arxiv.org/abs/2610.18572v1)|null|\n",
     "2610.18556v1": "|**2026-10-13**|**Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography**|Parth Giramkar et.al.|[link](http://arxiv.org/abs/2610.18556v1)|null|\n",
@@ -9344,6 +9388,9 @@
     "2610.15837v1": "|**2026-10-11**|**KhyontekAI at CheckThat! 2026: Multilingual Dense Retrieval and Cross-Encoder Reranking for Scientific Web Claims**|Bhargab Jyoti Bhuyan et.al.|[link](http://arxiv.org/abs/2610.15837v1)|null|\n",
     "2610.15427v1": "|**2026-10-11**|**Riemannian Graph Tokenizer for Structural Knowledge Transfer**|Qimin Zhou et.al.|[link](http://arxiv.org/abs/2610.15427v1)|null|\n",
     "2610.15005v1": "|**2026-10-10**|**Retraining-Free Depth Pruning of Vision Transformers: A Cross Domain Study of Layer Redundancy**|Alessandro Viespoli et.al.|[link](http://arxiv.org/abs/2610.15005v1)|null|\n",
-    "2610.14789v1": "|**2026-10-10**|**Training-Free BioNEL-RAG: Advancing Biomedical Entity Linking through Retrieval-Augmented Generation and Large Language Model**|Ziyi Chen et.al.|[link](http://arxiv.org/abs/2610.14789v1)|null|\n"
+    "2610.14789v1": "|**2026-10-10**|**Training-Free BioNEL-RAG: Advancing Biomedical Entity Linking through Retrieval-Augmented Generation and Large Language Model**|Ziyi Chen et.al.|[link](http://arxiv.org/abs/2610.14789v1)|null|\n",
+    "2610.21335v1": "|**2026-10-15**|**When Should a Low-Light Pipeline Generate? Auditable Risk Control for Selective Generative Enhancement**|Qiyi Xie et.al.|[link](http://arxiv.org/abs/2610.21335v1)|null|\n",
+    "2610.21055v1": "|**2026-10-15**|**Athanor: An Agent-Native System for Autonomous Post-Training Research**|Yufa Zhou et.al.|[link](http://arxiv.org/abs/2610.21055v1)|null|\n",
+    "2610.20174v2": "|**2026-10-15**|**RM-OPD: On-Policy Distillation for Generative Reward Models**|Qinglin Su et.al.|[link](http://arxiv.org/abs/2610.20174v2)|null|\n"
   }
 }
