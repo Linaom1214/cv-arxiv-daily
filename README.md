@@ -1,4 +1,4 @@
-## Updated on 2026.10.16
+## Updated on 2026.10.18
 
 ### ISTD
 
@@ -11,7 +11,7 @@
 |**2026-10-04**|**IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning**|Jiawen Xi et.al.|[link](http://arxiv.org/abs/2610.05342v1)|null|
 |**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[link](http://arxiv.org/abs/2609.18773v1)|null|
 |**2026-09-07**|**PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2609.07515v1)|null|
-|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|null|
+|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|**[code](https://github.com/iLearn-Lab/MM26-ADGNet)**|
 |**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|null|
 |**2026-08-21**|**RDANet: Relative Degradation Aware Network for Infrared Small Target Detection**|Rui Liu et.al.|[link](http://arxiv.org/abs/2608.20870v1)|null|
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
@@ -7991,8 +7991,8 @@
 |**2026-10-15**|**RM-OPD: On-Policy Distillation for Generative Reward Models**|Qinglin Su et.al.|[link](http://arxiv.org/abs/2610.20174v2)|null|
 |**2026-10-14**|**RM-OPD: On-Policy Distillation for Generative Reward Models**|Qinglin Su et.al.|[link](http://arxiv.org/abs/2610.20174v1)|null|
 |**2026-10-14**|**OneLA: Learning Many Worlds from Latent Actions**|Ziyu Zhu et.al.|[link](http://arxiv.org/abs/2610.20160v1)|null|
-|**2026-10-14**|**GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation**|Biplab Poudel et.al.|[link](http://arxiv.org/abs/2610.20073v1)|**[code](https://github.com/biplabpoudel25/GDBA_Net)**|
-|**2026-10-14**|**TVPara: Paralinguistic Captioning of Expressive TV-Series Speech in Complex Acoustic Environments**|Ziyang Zhang et.al.|[link](http://arxiv.org/abs/2610.19678v1)|**[code](https://github.com/anonymous-pages229/TVPara)**|
+|**2026-10-14**|**GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation**|Biplab Poudel et.al.|[link](http://arxiv.org/abs/2610.20073v1)|null|
+|**2026-10-14**|**TVPara: Paralinguistic Captioning of Expressive TV-Series Speech in Complex Acoustic Environments**|Ziyang Zhang et.al.|[link](http://arxiv.org/abs/2610.19678v1)|null|
 |**2026-10-13**|**Why Do VLMs Fail at Remote Physiological Measurement? Rethinking with Physiological Grounding and Numerical Alignment**|Xiao Yang et.al.|[link](http://arxiv.org/abs/2610.19052v1)|null|
 |**2026-10-13**|**LLM Agents for Automated Post-Training via Structured Recipe Optimization**|Ruohong Liu et.al.|[link](http://arxiv.org/abs/2610.18572v1)|null|
 |**2026-10-13**|**Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography**|Parth Giramkar et.al.|[link](http://arxiv.org/abs/2610.18556v1)|null|
