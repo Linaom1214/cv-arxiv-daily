@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 
 ### ISTD
 
@@ -331,6 +331,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-19**|**SARP: An On-SSD Index for KVCache with Fast Prefix Matching and Recovery**|Jun Kong et.al.|[link](http://arxiv.org/abs/2610.26849v1)|null|
+|**2026-10-19**|**SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration**|Javad Rajabi et.al.|[link](http://arxiv.org/abs/2610.26837v1)|null|
+|**2026-10-19**|**Real-Time Radar Semantic and Panoptic Scene Understanding**|Santosh Parit et.al.|[link](http://arxiv.org/abs/2610.26816v1)|null|
+|**2026-10-19**|**Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages**|Shobhit Banga et.al.|[link](http://arxiv.org/abs/2610.26776v1)|null|
+|**2026-10-19**|**TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning**|Liana Patel et.al.|[link](http://arxiv.org/abs/2610.26754v1)|null|
+|**2026-10-19**|**recAMPLIFY: Large-Scale Pretraining of Recursive Protein Language Models**|Saurav Jha et.al.|[link](http://arxiv.org/abs/2610.26747v1)|null|
+|**2026-10-19**|**Large-Level Limit of Doubled Chern-Simons Theory Part I: Regular Sector, Boundaries and Interfaces**|Shengyi Guan et.al.|[link](http://arxiv.org/abs/2610.26735v1)|null|
+|**2026-10-19**|**PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes**|Oussema Dhaouadi et.al.|[link](http://arxiv.org/abs/2610.26729v1)|null|
+|**2026-10-19**|**Copying Under Repetition: From Prefix Matching to Position Hashing**|Anxin Guo et.al.|[link](http://arxiv.org/abs/2610.26722v1)|null|
+|**2026-10-19**|**Foundation Model Driven Optical Flow**|Praroop Chanda et.al.|[link](http://arxiv.org/abs/2610.26690v1)|null|
+|**2026-10-19**|**MuLaCover: Flexible Cover Song Generation via Symbolic Tonal Control**|Lynn Yi et.al.|[link](http://arxiv.org/abs/2610.26684v1)|null|
+|**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[link](http://arxiv.org/abs/2610.26633v1)|null|
+|**2026-10-19**|**Rational Dyck Excursion Counts as Sums of Generalized Fuss-Catalan Products**|Brecht Verbeken et.al.|[link](http://arxiv.org/abs/2610.26596v1)|null|
+|**2026-10-19**|**Local Measurement Theory for Quantum Cellular Automata**|Tommaso Brambilla et.al.|[link](http://arxiv.org/abs/2610.26587v1)|null|
+|**2026-10-19**|**Mellin transformed exponential volumes and probabilistic moduli spaces**|Alexander B. Goncharov et.al.|[link](http://arxiv.org/abs/2610.26580v1)|null|
+|**2026-10-19**|**Powers and Functional Calculus for $m$-Selfadjoint and Skew $m$-Selfadjoint Operators**|M. Faghih-Ahmadi et.al.|[link](http://arxiv.org/abs/2610.26572v1)|null|
+|**2026-10-19**|**Distributional Lifting for Discrete Optimization**|Ningji Wei et.al.|[link](http://arxiv.org/abs/2610.26521v1)|null|
+|**2026-10-19**|**Learn the Task, Not the Schedule: Reducing Spurious Cross-Arm Coupling in Bimanual Imitation Learning**|Shuyuan Hu et.al.|[link](http://arxiv.org/abs/2610.26507v1)|null|
+|**2026-10-19**|**A direct obstacle proof of a dimension-free weak-type $(1,1)$ bound for the Gaussian Riesz transforms**|Cristian E. Gutiérrez et.al.|[link](http://arxiv.org/abs/2610.26478v1)|null|
+|**2026-10-19**|**Spatiotemporal spherical Gaussian pulses**|A. Konzel et.al.|[link](http://arxiv.org/abs/2610.26476v1)|null|
 |**2026-10-16**|**Rethinking the design space of Vanilla Pixel Diffusion Transformers**|Soumik Mukhopadhyay et.al.|[link](http://arxiv.org/abs/2610.23854v1)|null|
 |**2026-10-16**|**Identifiability from Moments in Independent Component Analysis Mixture Models**|Pardis Semnani et.al.|[link](http://arxiv.org/abs/2610.23846v1)|null|
 |**2026-10-16**|**Canonical Layer Inference for Deep Gaussian Processes via Symmetry-Breaking Augmentation**|Yichen Zhu et.al.|[link](http://arxiv.org/abs/2610.23842v1)|null|
@@ -3828,6 +3848,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-19**|**Multi-scale Fusion of Fast Vision Mamba and Foundation Model Features for Patch-Level Gleason Grading in Computational Pathology**|Zihe Zhang et.al.|[link](http://arxiv.org/abs/2610.25904v1)|null|
+|**2026-10-18**|**SlimFormer++: Token Mixing Where It Matters for Efficient 3D Medical Image Segmentation**|Yang Hong et.al.|[link](http://arxiv.org/abs/2610.25488v1)|null|
 |**2026-10-16**|**Stabilizing Illumination Conditioning in SSM-Based Low-Light Image Enhancement with Bottleneck Prompt Sidecars**|Wei Chen Ng et.al.|[link](http://arxiv.org/abs/2610.22958v1)|null|
 |**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Khuyen Pham et.al.|[link](http://arxiv.org/abs/2610.22951v1)|null|
 |**2026-10-15**|**Constrained Multi-Agent Reinforcement Learning in Imagination**|Raz Shmueli et.al.|[link](http://arxiv.org/abs/2610.21319v1)|null|
@@ -4681,6 +4703,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-19**|**SARP: An On-SSD Index for KVCache with Fast Prefix Matching and Recovery**|Jun Kong et.al.|[link](http://arxiv.org/abs/2610.26849v1)|null|
+|**2026-10-19**|**Real-Time Radar Semantic and Panoptic Scene Understanding**|Santosh Parit et.al.|[link](http://arxiv.org/abs/2610.26816v1)|null|
+|**2026-10-19**|**Rényi Multi-entropy for Stabilizer States: A Finite Field Gauss Sum Problem**|Bartlomiej Czech et.al.|[link](http://arxiv.org/abs/2610.26814v1)|null|
+|**2026-10-19**|**A simplified proof of the FPRAS for counting perfect matchings**|Chenghua Liu et.al.|[link](http://arxiv.org/abs/2610.26803v1)|null|
+|**2026-10-19**|**Learning to Refer: Inference-Time Collaboration in Decentralized Federated Learning**|Yuheng Ma et.al.|[link](http://arxiv.org/abs/2610.26800v1)|null|
+|**2026-10-19**|**LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences**|Lu Sun et.al.|[link](http://arxiv.org/abs/2610.26787v1)|null|
+|**2026-10-19**|**Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages**|Shobhit Banga et.al.|[link](http://arxiv.org/abs/2610.26776v1)|null|
+|**2026-10-19**|**Tight Inapproximability for Generalized Circuits**|Panagiotis Kanellopoulos et.al.|[link](http://arxiv.org/abs/2610.26772v1)|null|
+|**2026-10-19**|**Small subgraphs of large minimum degree**|Zach Hunter et.al.|[link](http://arxiv.org/abs/2610.26763v1)|null|
+|**2026-10-19**|**DexOAK: Object-Aware Kinematic Retargeting**|Federica Spinola et.al.|[link](http://arxiv.org/abs/2610.26762v1)|null|
+|**2026-10-19**|**FOMTools: Development and AI-Assisted Code Generation for First-Order Methods**|Vinit Ranjan et.al.|[link](http://arxiv.org/abs/2610.26743v1)|null|
+|**2026-10-19**|**PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes**|Oussema Dhaouadi et.al.|[link](http://arxiv.org/abs/2610.26729v1)|null|
+|**2026-10-19**|**Motion Planning with Temporal Logic Precedence Specifications in Dynamic Environments via Spacetime Augmented Graphs of Convex Sets**|Shilin You et.al.|[link](http://arxiv.org/abs/2610.26712v1)|null|
+|**2026-10-19**|**Ground-State Sampling Correspondence between Penalty-Based and Constrained Quantum Annealing**|Shunta Ide et.al.|[link](http://arxiv.org/abs/2610.26687v1)|null|
+|**2026-10-19**|**MuLaCover: Flexible Cover Song Generation via Symbolic Tonal Control**|Lynn Yi et.al.|[link](http://arxiv.org/abs/2610.26684v1)|null|
+|**2026-10-19**|**PACT: Plan-Augmented Coordination via Trace-Graphs for Dynamic Multi-Agent Combinatorial Optimization**|Xiao Zhou et.al.|[link](http://arxiv.org/abs/2610.26671v1)|null|
+|**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[link](http://arxiv.org/abs/2610.26633v1)|null|
+|**2026-10-19**|**Asymptotic Enumeration of $F$-decompositions in Typical Hypergraphs and of Universal Cycles**|Danni Li et.al.|[link](http://arxiv.org/abs/2610.26579v1)|null|
+|**2026-10-19**|**Single-Mode Laser Arrays with Size-Invariant Loss Discrimination**|Wenwen Liu et.al.|[link](http://arxiv.org/abs/2610.26578v1)|null|
+|**2026-10-19**|**Constrained modularity maximization in complex networks via branch-and-price**|Jaewoo Kim et.al.|[link](http://arxiv.org/abs/2610.26562v1)|null|
 |**2026-10-16**|**Geometric Viewpoint of $L^\infty$ Estimates for Linearized Monge-Ampère Equations**|Arghya Rakshit et.al.|[link](http://arxiv.org/abs/2610.23848v1)|null|
 |**2026-10-16**|**Online Graph Coloring with Random Arrivals**|Hirotaka Yoneda et.al.|[link](http://arxiv.org/abs/2610.23824v1)|null|
 |**2026-10-16**|**FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper**|Wei Wang et.al.|[link](http://arxiv.org/abs/2610.23796v1)|null|
@@ -8027,6 +8069,18 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-10-19**|**Scaling Vision Foundation Models for Toxicologic Pathology**|Jessica Loo et.al.|[link](http://arxiv.org/abs/2610.26586v1)|null|
+|**2026-10-19**|**Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation**|Yuankun Xia et.al.|[link](http://arxiv.org/abs/2610.25810v1)|null|
+|**2026-10-19**|**Fine-Grained Units, Flat Decisions: Hierarchical Micro-Expert Pruning for Mixture-of-Experts Models**|Zukang Xu et.al.|[link](http://arxiv.org/abs/2610.25717v1)|null|
+|**2026-10-19**|**Confidence-Guided Pseudo-Label Refinement for Unsupervised Cross-Domain Person Re-Identification**|Sundas Iqbal et.al.|[link](http://arxiv.org/abs/2610.25633v1)|null|
+|**2026-10-19**|**MapSteal: Map-based Autonomous Knowledge Stealing Attack Against Large Language Models**|Zhengao Li et.al.|[link](http://arxiv.org/abs/2610.25626v1)|null|
+|**2026-10-18**|**Design and Cross-Domain Evaluation of an Agent Execution Harness**|Saurav Joshi et.al.|[link](http://arxiv.org/abs/2610.25568v1)|null|
+|**2026-10-18**|**When Semantics Fall Short: Persona-Guided Cross-Domain Sequential Recommendation with Large Language Models**|Jundong Chen et.al.|[link](http://arxiv.org/abs/2610.25221v1)|null|
+|**2026-10-17**|**A Cross-Domain Evaluation of Prompting Techniques for Large Language Models**|Kevin Krazius et.al.|[link](http://arxiv.org/abs/2610.24913v1)|null|
+|**2026-10-17**|**Toward Collective Model Intelligence: Characterizing and Coordinating Models**| SinapisAI Team et.al.|[link](http://arxiv.org/abs/2610.24739v1)|null|
+|**2026-10-17**|**RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization**|Kahim Wong et.al.|[link](http://arxiv.org/abs/2610.24480v1)|null|
+|**2026-10-16**|**Multi-author style detection with stylistic embeddings**|Man-Ling Sung et.al.|[link](http://arxiv.org/abs/2610.24184v1)|null|
+|**2026-10-16**|**Beyond the Disc--Spheroid Dichotomy at $0.6 < z < 8.0$: Evidence for a Morphological Indeterminacy Regime from JWST**|Igor Kolesnikov et.al.|[link](http://arxiv.org/abs/2610.24078v1)|null|
 |**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[link](http://arxiv.org/abs/2610.23600v1)|null|
 |**2026-10-16**|**From Adult Renal Masses to Pediatric Wilms Tumors: Evaluating Cross-Domain Generalization of Kidney Lesion Segmentation on MRI**|Sarah de Boer et.al.|[link](http://arxiv.org/abs/2610.23568v1)|null|
 |**2026-10-16**|**UniPolar: Joint Image and Polarimetric Restoration under Compound Degradations via Physical Consistency Learning**|Yang Jin et.al.|[link](http://arxiv.org/abs/2610.23360v1)|null|
