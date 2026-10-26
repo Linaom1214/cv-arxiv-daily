@@ -1,4 +1,4 @@
-## Updated on 2026.10.23
+## Updated on 2026.10.26
 
 ### ISTD
 
@@ -15,7 +15,7 @@
 |**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[link](http://arxiv.org/abs/2609.18773v1)|null|
 |**2026-09-07**|**PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2609.07515v1)|null|
 |**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|**[code](https://github.com/iLearn-Lab/MM26-ADGNet)**|
-|**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|**[code](https://github.com/iLearn-Lab/MM26-DGNet)**|
+|**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|null|
 |**2026-08-21**|**RDANet: Relative Degradation Aware Network for Infrared Small Target Detection**|Rui Liu et.al.|[link](http://arxiv.org/abs/2608.20870v1)|null|
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
 |**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|
@@ -334,6 +334,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-23**|**Low-Complexity Wideband Channel Estimation for ISAC in Analog Millimeter-Wave Systems**|Hamza Touati et.al.|[link](http://arxiv.org/abs/2610.32953v1)|null|
+|**2026-10-23**|**A direct proof of the equivalence of the A2 and the Helson--Szego conditions**|Christos Grigoriadis et.al.|[link](http://arxiv.org/abs/2610.32922v1)|null|
+|**2026-10-23**|**CO2-Induced Shifts in the Confined Phase Transformation of CH4 in Metal-Organic Frameworks**|Anthony Dorhauer et.al.|[link](http://arxiv.org/abs/2610.32918v1)|null|
+|**2026-10-23**|**Linear transformations of tropical matrices preserving individual values of the cyclicity index**|Alexander Guterman et.al.|[link](http://arxiv.org/abs/2610.32897v1)|null|
+|**2026-10-23**|**VTRL-Med: Progressive Visual Refinement with Topology-Guided Regularization for Medical Image Clustering**|Guangyu Meng et.al.|[link](http://arxiv.org/abs/2610.32884v1)|null|
+|**2026-10-23**|**Multimodal Generative AI Assists Comprehensive Echocardiographic Interpretation**|Yi Qin et.al.|[link](http://arxiv.org/abs/2610.32880v1)|null|
+|**2026-10-23**|**From Deliberately Constructed Systemic Representations of the World of Activity to Dialogue: A Five-Level Communication Architecture for Strong Language-Based ASI**|Maxim Osovsky et.al.|[link](http://arxiv.org/abs/2610.32869v1)|null|
+|**2026-10-23**|**Hardy inequalities on the positive integer lattice: a dimensional transition**|Carlos Lizama et.al.|[link](http://arxiv.org/abs/2610.32858v1)|null|
+|**2026-10-23**|**Singular Geometry of Low-Rank Adaptation**|Kamillo Ferry et.al.|[link](http://arxiv.org/abs/2610.32854v1)|null|
+|**2026-10-23**|**U-NeXt: General-purpose event detection for neonatal EEG**|Robert Hogan et.al.|[link](http://arxiv.org/abs/2610.32811v1)|null|
+|**2026-10-23**|**Frontier-OPD: Discovering the Edge of Agent Capability and Teaching Agents to Go Beyond**|Zheng Jiang et.al.|[link](http://arxiv.org/abs/2610.32802v1)|null|
+|**2026-10-23**|**Consommé: Conditioned Token Merging for Split Inference**|Man Ngo et.al.|[link](http://arxiv.org/abs/2610.32794v1)|null|
+|**2026-10-23**|**Large profinite genus and extensions in Bestvina-Brady groups**|Vladimir Vankov et.al.|[link](http://arxiv.org/abs/2610.32775v1)|null|
+|**2026-10-23**|**Deep Learning-Based Prediction of HER2 Status from Whole-Brain MRI in Breast Cancer Brain Metastases**|Sara Early et.al.|[link](http://arxiv.org/abs/2610.32774v1)|null|
+|**2026-10-23**|**Quantum Machine Learning in Medical Imaging: A Primer for Radiologists**|Ruben Ortiz Cordero et.al.|[link](http://arxiv.org/abs/2610.32762v1)|null|
+|**2026-10-23**|**Polarization on Bounded Euclidean Spaces and More General Compact Groups**|Sharang M. Sriramu et.al.|[link](http://arxiv.org/abs/2610.32760v1)|null|
+|**2026-10-23**|**Cross-Architectural Feature Fusion for Coronary Artery Stenosis Detection in X-ray Angiography**|Haobo Zhu et.al.|[link](http://arxiv.org/abs/2610.32730v1)|null|
+|**2026-10-23**|**Cross-Scenario Controller Parameter Transformation from Real-World Driving Data through Flow Matching**|Christian Zink et.al.|[link](http://arxiv.org/abs/2610.32719v1)|null|
+|**2026-10-23**|**Supercontinuum-driven broadband Fourier-transform photothermal microspectroscopy**|Senyu Wang et.al.|[link](http://arxiv.org/abs/2610.32718v1)|null|
+|**2026-10-23**|**Are Textual Residuals Truly Complementary? Learning Visual Complements under Semantic Superposition for Visible-Infrared Person Re-Identification**|Xiaoyang Li et.al.|[link](http://arxiv.org/abs/2610.32709v1)|null|
 |**2026-10-22**|**Half-Completeness from Standard Gravitational Dispersion Relations**|Lukas W. Lindwasser et.al.|[link](http://arxiv.org/abs/2610.31665v1)|null|
 |**2026-10-22**|**SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing**|Sy-Tuyen Ho et.al.|[link](http://arxiv.org/abs/2610.31659v1)|null|
 |**2026-10-22**|**METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning**|Ali Najar et.al.|[link](http://arxiv.org/abs/2610.31656v1)|null|
@@ -3891,6 +3911,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-23**|**FOCUS: A Lightweight Mamba-2 Model for EEG-Based Cognitive Workload Classification**|Ioannis Kyprakis et.al.|[link](http://arxiv.org/abs/2610.32361v1)|null|
 |**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[link](http://arxiv.org/abs/2610.31186v1)|null|
 |**2026-10-22**|**Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering**|Aman Behera et.al.|[link](http://arxiv.org/abs/2610.31135v1)|null|
 |**2026-10-21**|**NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction**|Julian Silva et.al.|[link](http://arxiv.org/abs/2610.29815v1)|null|
@@ -3907,7 +3928,7 @@
 |**2026-10-19**|**Long-wave Infrared Polarimetric Remote Sensing Image Fusion for Vehicle Detection**|Wenjuan Zhang et.al.|[link](http://arxiv.org/abs/2610.27018v1)|null|
 |**2026-10-19**|**Multi-scale Fusion of Fast Vision Mamba and Foundation Model Features for Patch-Level Gleason Grading in Computational Pathology**|Zihe Zhang et.al.|[link](http://arxiv.org/abs/2610.25904v1)|null|
 |**2026-10-18**|**SlimFormer++: Token Mixing Where It Matters for Efficient 3D Medical Image Segmentation**|Yang Hong et.al.|[link](http://arxiv.org/abs/2610.25488v1)|null|
-|**2026-10-16**|**Stabilizing Illumination Conditioning in SSM-Based Low-Light Image Enhancement with Bottleneck Prompt Sidecars**|Wei Chen Ng et.al.|[link](http://arxiv.org/abs/2610.22958v1)|null|
+|**2026-10-16**|**Stabilizing Illumination Conditioning in SSM-Based Low-Light Image Enhancement with Bottleneck Prompt Sidecars**|Wei Chen Ng et.al.|[link](http://arxiv.org/abs/2610.22958v1)|**[code](https://github.com/WeiChenNg/SIC-BPS)**|
 |**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Khuyen Pham et.al.|[link](http://arxiv.org/abs/2610.22951v1)|null|
 |**2026-10-15**|**Constrained Multi-Agent Reinforcement Learning in Imagination**|Raz Shmueli et.al.|[link](http://arxiv.org/abs/2610.21319v1)|null|
 |**2026-10-15**|**ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling**|Yuang Liu et.al.|[link](http://arxiv.org/abs/2610.21190v1)|null|
@@ -4760,6 +4781,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-23**|**Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox**|Federico Lucca et.al.|[link](http://arxiv.org/abs/2610.32955v1)|null|
+|**2026-10-23**|**Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness**|Jørgen Bang-Jensen et.al.|[link](http://arxiv.org/abs/2610.32954v1)|null|
+|**2026-10-23**|**Stationary bistable fronts on a periodic necklace graph: existence, stability and multiplicity**|Yoichiro Mori et.al.|[link](http://arxiv.org/abs/2610.32917v1)|null|
+|**2026-10-23**|**VTRL-Med: Progressive Visual Refinement with Topology-Guided Regularization for Medical Image Clustering**|Guangyu Meng et.al.|[link](http://arxiv.org/abs/2610.32884v1)|null|
+|**2026-10-23**|**The lower tail of triangle counts in sparse random graphs**|Dong Huang et.al.|[link](http://arxiv.org/abs/2610.32879v1)|null|
+|**2026-10-23**|**Self-similar solutions for the gSQG patch equations**|Javier Gomez-Serrano et.al.|[link](http://arxiv.org/abs/2610.32857v1)|null|
+|**2026-10-23**|**Compressed Boolean Matrix Multiplication using Bicliques**|Nicolás Araya et.al.|[link](http://arxiv.org/abs/2610.32836v1)|null|
+|**2026-10-23**|**HarnessMM: Recursive Self-Improvement for Harness Token Efficiency**|Yuhua Jiang et.al.|[link](http://arxiv.org/abs/2610.32813v1)|null|
+|**2026-10-23**|**U-NeXt: General-purpose event detection for neonatal EEG**|Robert Hogan et.al.|[link](http://arxiv.org/abs/2610.32811v1)|null|
+|**2026-10-23**|**Low-Crossing Spanning Paths via Quasi-Uniform Sampling and their Applications**|Mónika Csikós et.al.|[link](http://arxiv.org/abs/2610.32806v1)|null|
+|**2026-10-23**|**Frontier-OPD: Discovering the Edge of Agent Capability and Teaching Agents to Go Beyond**|Zheng Jiang et.al.|[link](http://arxiv.org/abs/2610.32802v1)|null|
+|**2026-10-23**|**Triangle-Free Sets in Exact-Distance Hamming Graphs**|Bence Csajbók et.al.|[link](http://arxiv.org/abs/2610.32789v1)|null|
+|**2026-10-23**|**Every Edge Needs a Quote: Building a Quote-Grounded Knowledge Graph of Healthcare Software Adoption with Language-Model Agents**|Juan Felipe Duran et.al.|[link](http://arxiv.org/abs/2610.32781v1)|null|
+|**2026-10-23**|**Deep Learning-Based Prediction of HER2 Status from Whole-Brain MRI in Breast Cancer Brain Metastases**|Sara Early et.al.|[link](http://arxiv.org/abs/2610.32774v1)|null|
+|**2026-10-23**|**Quantum Machine Learning in Medical Imaging: A Primer for Radiologists**|Ruben Ortiz Cordero et.al.|[link](http://arxiv.org/abs/2610.32762v1)|null|
+|**2026-10-23**|**ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents**|Navyansh Mahla et.al.|[link](http://arxiv.org/abs/2610.32752v1)|null|
+|**2026-10-23**|**Cross-Architectural Feature Fusion for Coronary Artery Stenosis Detection in X-ray Angiography**|Haobo Zhu et.al.|[link](http://arxiv.org/abs/2610.32730v1)|null|
+|**2026-10-23**|**Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications**|Aayush Acharya et.al.|[link](http://arxiv.org/abs/2610.32725v1)|null|
+|**2026-10-23**|**Deterministic Incremental Triconnectivity in $O(\log^2 n)$ Worst-Case Time**|Niels Inselmann Christiansen et.al.|[link](http://arxiv.org/abs/2610.32721v1)|null|
+|**2026-10-23**|**Total eight-colorings of maximal planar graphs of maximum degree six**|Enqiang Zhu et.al.|[link](http://arxiv.org/abs/2610.32717v1)|null|
 |**2026-10-22**|**Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation**|Gabriele Dominici et.al.|[link](http://arxiv.org/abs/2610.31639v1)|null|
 |**2026-10-22**|**HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction**|Zunnan Xu et.al.|[link](http://arxiv.org/abs/2610.31635v1)|null|
 |**2026-10-22**|**F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation**|Jinyu Zhang et.al.|[link](http://arxiv.org/abs/2610.31623v1)|null|
@@ -8166,14 +8207,15 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-10-23**|**Cross-Architectural Feature Fusion for Coronary Artery Stenosis Detection in X-ray Angiography**|Haobo Zhu et.al.|[link](http://arxiv.org/abs/2610.32730v1)|null|
 |**2026-10-22**|**AgentVQA: A Unified Benchmark for Agentic Visual Understanding**|Advait Gupta et.al.|[link](http://arxiv.org/abs/2610.31494v1)|null|
 |**2026-10-22**|**Reinforcing intra-operative tumour localisation with weak supervision from pre-operative appearances**|Sidhart Sami et.al.|[link](http://arxiv.org/abs/2610.31253v1)|null|
 |**2026-10-22**|**REGATTA: A Cross-Domain Measurement Framework and Fault-Injection Harness for Enterprise AI Agents**|Luong Tuan Thanh et.al.|[link](http://arxiv.org/abs/2610.30924v1)|null|
 |**2026-10-22**|**Synthetic-to-Real Code-Switched ASR: A Spontaneous Nepali-English Podcast Benchmark**|Firoj Paudel et.al.|[link](http://arxiv.org/abs/2610.30860v1)|null|
 |**2026-10-22**|**Bezier-Guided Adaptive Flow for Cross-domain Sequential Recommendation**|Ziang Lu et.al.|[link](http://arxiv.org/abs/2610.30825v1)|null|
-|**2026-10-22**|**Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook**|Zhijie Zhong et.al.|[link](http://arxiv.org/abs/2610.30628v1)|**[code](https://github.com/EmorZz1G/FTSAD)**|
+|**2026-10-22**|**Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook**|Zhijie Zhong et.al.|[link](http://arxiv.org/abs/2610.30628v1)|null|
 |**2026-10-21**|**SciFusion: Physics-Guided Compositional Diffusion for Multimodal 3D Scientific Image Generation**|Luoxi Wang et.al.|[link](http://arxiv.org/abs/2610.30313v1)|null|
-|**2026-10-21**|**AI Mindmeld: A Latent Interconnect Protocol**|Siavash Golkar et.al.|[link](http://arxiv.org/abs/2610.30215v1)|**[code](https://github.com/PolymathicAI/AI-Mindmeld)**|
+|**2026-10-21**|**AI Mindmeld: A Latent Interconnect Protocol**|Siavash Golkar et.al.|[link](http://arxiv.org/abs/2610.30215v1)|null|
 |**2026-10-21**|**Delay-Doppler Domain Aided OFDM (DD-a-OFDM): Pulsone Pilot and Cross-Domain Iterative Receiver Design**|Rongrong Xin et.al.|[link](http://arxiv.org/abs/2610.29742v1)|null|
 |**2026-10-21**|**Beyond Shortcut Learning: Hierarchical Spatial Prototype Regularization for Face Forgery Detection**|Chao Shuai et.al.|[link](http://arxiv.org/abs/2610.29442v1)|null|
 |**2026-10-21**|**UNIVERS: Learning UNIversal Voxel-wise Embedding via Randomized Synthesis for generalizable one-shot landmark localization**|Derong Yu et.al.|[link](http://arxiv.org/abs/2610.29098v1)|null|
