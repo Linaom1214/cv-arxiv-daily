@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 
 ### ISTD
 
@@ -334,6 +334,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-29**|**G-equivariant Alterfold TQFT in any dimension**|Zixuan Feng et.al.|[link](http://arxiv.org/abs/2610.40041v1)|null|
+|**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v1)|null|
+|**2026-10-29**|**DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis**|Roxanne De Maeyer et.al.|[link](http://arxiv.org/abs/2610.40018v1)|null|
+|**2026-10-29**|**Greenscapes: Optimized Vegetation Configurations in Cities**|Patryk Bartkowiak et.al.|[link](http://arxiv.org/abs/2610.40007v1)|null|
+|**2026-10-29**|**Blind Video Denoising for Vocal Tract rtMRI using a Self-Supervised Ensemble**|Julian Andres Hernandez-Potes et.al.|[link](http://arxiv.org/abs/2610.39972v1)|null|
+|**2026-10-29**|**On the variational characterization of a laminated core model in ferromagnetic materials**|Herbert Egger et.al.|[link](http://arxiv.org/abs/2610.39952v1)|null|
+|**2026-10-29**|**UniRA: Unified Representation Alignment and Auto-Encoding for Efficient Diffusion Generation**|An Lanji et.al.|[link](http://arxiv.org/abs/2610.39948v1)|null|
+|**2026-10-29**|**ElasticFormer: Detecting Objects in HRW Shots via Elastic Computing Vision Transformer**|Wenxi Li et.al.|[link](http://arxiv.org/abs/2610.39946v1)|null|
+|**2026-10-29**|**BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots**|Jingchen Huang et.al.|[link](http://arxiv.org/abs/2610.39937v1)|null|
+|**2026-10-29**|**Spectral Invariant Fusion and Refinement for Domain Generalized Semantic Segmentation**|Yansong Bai et.al.|[link](http://arxiv.org/abs/2610.39926v1)|null|
+|**2026-10-29**|**Sequince: a modular sequential Monte Carlo toolkit**|Michael J. Williams et.al.|[link](http://arxiv.org/abs/2610.39915v1)|null|
+|**2026-10-29**|**CovFedAvg: Local Low-Loss Curves and Federated Model Selection**|Federico Lucchetti et.al.|[link](http://arxiv.org/abs/2610.39902v1)|null|
+|**2026-10-29**|**Edge intelligence for distributed acoustic sensing with ultracompact neural networks**|Yuan Gao et.al.|[link](http://arxiv.org/abs/2610.39892v1)|null|
+|**2026-10-29**|**TACFormer: Transformer-Based Generative Model for Target-Conditioned De Novo PROTAC Design**|Yossra Gharbi et.al.|[link](http://arxiv.org/abs/2610.39891v1)|null|
+|**2026-10-29**|**What Survives Label Downsampling? Exact Region Survival for Coarse Segmentation Targets**|Zhiyuan Zhang et.al.|[link](http://arxiv.org/abs/2610.39880v1)|null|
+|**2026-10-29**|**Syndrome Trellis Decryption in Post-Quantum Cryptography**|Meir Ariel et.al.|[link](http://arxiv.org/abs/2610.39873v1)|null|
+|**2026-10-29**|**Attention, Dynamic Wave and Hybrid Sequence Mixers in Language Models**|Dmytro Babarytskyi et.al.|[link](http://arxiv.org/abs/2610.39854v1)|null|
+|**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[link](http://arxiv.org/abs/2610.39848v1)|null|
+|**2026-10-29**|**When are complements and substitutes dual?**|Philip R. Neary et.al.|[link](http://arxiv.org/abs/2610.39844v1)|null|
+|**2026-10-29**|**Euler--Lagrange Flow Monotonicity for the Radon Transform**|Yannis Galanos et.al.|[link](http://arxiv.org/abs/2610.39818v1)|null|
 |**2026-10-27**|**The 't Hooft model on (A)dS$_2$**|Panos Betzios et.al.|[link](http://arxiv.org/abs/2610.37667v1)|null|
 |**2026-10-27**|**Exact Analytical Treatment of Collectively Pumped Dicke Superradiance**|Avishi Poddar et.al.|[link](http://arxiv.org/abs/2610.37665v1)|null|
 |**2026-10-27**|**Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops**|Aakash Sarkar et.al.|[link](http://arxiv.org/abs/2610.37656v1)|null|
@@ -3951,6 +3971,15 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v1)|null|
+|**2026-10-29**|**LinQuant: Functional Invariances for Low-Precision Linear Recurrences**|Neehal Tumma et.al.|[link](http://arxiv.org/abs/2610.39418v1)|null|
+|**2026-10-28**|**Dual DeltaNet: Value-Side Memory Reorganization for Linear Attention**|Yixiao Qian et.al.|[link](http://arxiv.org/abs/2610.38578v1)|null|
+|**2026-10-28**|**UnMixMamba: Unmixing Guided State Space Subpixel Mapping of Crops from MODIS Time Series**|Motasem Alkayid et.al.|[link](http://arxiv.org/abs/2610.38507v1)|null|
+|**2026-10-28**|**SSQA: Sibling-Selective Quadtree Attention for Hierarchical Modeling in Perception Tasks**|Yufan Chen et.al.|[link](http://arxiv.org/abs/2610.38320v1)|null|
+|**2026-10-28**|**ParaTTT: Parallelizing Test-Time Training Layers with Deep Memories**|Noel Loo et.al.|[link](http://arxiv.org/abs/2610.38255v1)|null|
+|**2026-10-28**|**Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**| NVIDIA et.al.|[link](http://arxiv.org/abs/2610.38095v1)|null|
+|**2026-10-27**|**Are Seismic Foundation Models More Than Glorified Feature Extractors?**|Laura Laurenti et.al.|[link](http://arxiv.org/abs/2610.38003v1)|null|
+|**2026-10-27**|**Think Twice: The Metis-1.6 Technical Report**|Giulianno Vollmer et.al.|[link](http://arxiv.org/abs/2610.37903v1)|null|
 |**2026-10-27**|**Multi-State Linear Attention with Generalized Second-Order Routing**|Hee Seung Hwang et.al.|[link](http://arxiv.org/abs/2610.37645v1)|null|
 |**2026-10-27**|**A note on data-efficient finetuning of vision foundation models**|Niclas Hergenröther et.al.|[link](http://arxiv.org/abs/2610.37510v1)|null|
 |**2026-10-27**|**Multi-task Disentangling Fusion Mamba-CNN for MODIS Spectral-Temporal Unmixing with Endmember Variability Modeling**|Motasem Alkayid et.al.|[link](http://arxiv.org/abs/2610.36750v1)|null|
@@ -4830,6 +4859,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-29**|**Submodular decompositions: a bounded-variation counterexample and an exact planar cut formula**|Guoqing Wang et.al.|[link](http://arxiv.org/abs/2610.40032v1)|null|
+|**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v1)|null|
+|**2026-10-29**|**DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis**|Roxanne De Maeyer et.al.|[link](http://arxiv.org/abs/2610.40018v1)|null|
+|**2026-10-29**|**LOGIV: Graph-Verified Execution with Causal Local Repair for Long-Horizon Robot Tasks**|Enqiao Lu et.al.|[link](http://arxiv.org/abs/2610.40016v1)|null|
+|**2026-10-29**|**Accumulating Pruning Constraints: New Exact Polynomial-Space Algorithms for Max 2-SAT**|Konstantin Kutzkov et.al.|[link](http://arxiv.org/abs/2610.39992v1)|null|
+|**2026-10-29**|**Complexity of finding color-avoiding connected components**|Panna Tímea Fekete et.al.|[link](http://arxiv.org/abs/2610.39982v1)|null|
+|**2026-10-29**|**On the maximum interval index of a graph**|Martin Knor et.al.|[link](http://arxiv.org/abs/2610.39966v1)|null|
+|**2026-10-29**|**Dense Minors from the Crux**|Xia Wang et.al.|[link](http://arxiv.org/abs/2610.39957v1)|null|
+|**2026-10-29**|**Spectral Invariant Fusion and Refinement for Domain Generalized Semantic Segmentation**|Yansong Bai et.al.|[link](http://arxiv.org/abs/2610.39926v1)|null|
+|**2026-10-29**|**Tokenizer Tokens Tell Training Tales**|Nishita Jain et.al.|[link](http://arxiv.org/abs/2610.39919v1)|null|
+|**2026-10-29**|**Structural Change in the Multilayer World Trade Web: An Economic Dominance Theory Approach**|Didier Lebert et.al.|[link](http://arxiv.org/abs/2610.39906v1)|null|
+|**2026-10-29**|**The asymptotic number of zonotopes**|Olivier Bodini et.al.|[link](http://arxiv.org/abs/2610.39900v1)|null|
+|**2026-10-29**|**What Survives Label Downsampling? Exact Region Survival for Coarse Segmentation Targets**|Zhiyuan Zhang et.al.|[link](http://arxiv.org/abs/2610.39880v1)|null|
+|**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[link](http://arxiv.org/abs/2610.39848v1)|null|
+|**2026-10-29**|**A note on the ideal lattice of a weighted Leavitt path algebra**|Raimund Preusser et.al.|[link](http://arxiv.org/abs/2610.39842v1)|null|
+|**2026-10-29**|**Exact Avoid-or-Compress Extrema for Dense Reachable Images: Defects Four and Five**|Qichao Wang et.al.|[link](http://arxiv.org/abs/2610.39833v1)|null|
+|**2026-10-29**|**On convex envelopes of bilinear terms over polygonal domains**|Adrian Göß et.al.|[link](http://arxiv.org/abs/2610.39826v1)|null|
+|**2026-10-29**|**Device-Induced Mobility Heterogeneity and Its Impact on Federated Next-Location Prediction**|André Felipe Zanella et.al.|[link](http://arxiv.org/abs/2610.39791v1)|null|
+|**2026-10-29**|**Data-Driven or Model-Constrained? Comparing Airflow Estimation Methods under Sparse Sensing**|Dominik Aigner et.al.|[link](http://arxiv.org/abs/2610.39789v1)|null|
+|**2026-10-29**|**EPPA for Reducts of the Random Graph**|Sofia Brenner et.al.|[link](http://arxiv.org/abs/2610.39760v1)|null|
 |**2026-10-27**|**The 't Hooft model on (A)dS$_2$**|Panos Betzios et.al.|[link](http://arxiv.org/abs/2610.37667v1)|null|
 |**2026-10-27**|**Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops**|Aakash Sarkar et.al.|[link](http://arxiv.org/abs/2610.37656v1)|null|
 |**2026-10-27**|**Multi-State Linear Attention with Generalized Second-Order Routing**|Hee Seung Hwang et.al.|[link](http://arxiv.org/abs/2610.37645v1)|null|
@@ -8296,6 +8345,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-10-29**|**FlexTry-On: A Time-Efficient Framework for Multi-Scenario Virtual Try-on**|Phuong Dam et.al.|[link](http://arxiv.org/abs/2610.39646v1)|null|
+|**2026-10-28**|**Data Scaling Laws in Stereo Matching: From In-domain Fitting to Cross-domain Generalization**|Tong Zhao et.al.|[link](http://arxiv.org/abs/2610.38600v1)|null|
+|**2026-10-28**|**Agent Transfer Protocol: Server-Mediated Agent-to-Agent Communication Architecture for the Agentic Web**|Yuqi Qiu et.al.|[link](http://arxiv.org/abs/2610.38398v1)|null|
 |**2026-10-27**|**semanticfa: An R Package for Response-Free Semantic Factor Analysis of Psychometric Scales**|Devon Yanitski et.al.|[link](http://arxiv.org/abs/2610.37494v1)|null|
 |**2026-10-27**|**CAMR: Compatibility-Aware Memory Replay for Continual Learning in Large Language Models**|Jingpu Yang et.al.|[link](http://arxiv.org/abs/2610.36734v1)|null|
 |**2026-10-26**|**OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**| Xiaomi Embodied Intelligence Team et.al.|[link](http://arxiv.org/abs/2610.36013v1)|null|
