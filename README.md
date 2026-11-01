@@ -1,4 +1,4 @@
-## Updated on 2026.10.30
+## Updated on 2026.11.01
 
 ### ISTD
 
@@ -334,6 +334,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-29**|**Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers**|Jiongfan Yang et.al.|[link](http://arxiv.org/abs/2610.40647v1)|null|
+|**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[link](http://arxiv.org/abs/2610.40614v1)|null|
+|**2026-10-29**|**HairDeck: Animation-Ready Stylized Hair Cards from a Single Image**|Yuze He et.al.|[link](http://arxiv.org/abs/2610.40599v1)|null|
+|**2026-10-29**|**Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation**|Fatematuj Johura Mim et.al.|[link](http://arxiv.org/abs/2610.40587v1)|null|
+|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al.|[link](http://arxiv.org/abs/2610.40580v1)|null|
+|**2026-10-29**|**PIVOT: Progressive Intervention via Online Teacher Correction**|Zhihao Yang et.al.|[link](http://arxiv.org/abs/2610.40576v1)|null|
+|**2026-10-29**|**FARMS: A Verifiable Foundation for Automated Computational Science**|Di Wu et.al.|[link](http://arxiv.org/abs/2610.40560v1)|null|
+|**2026-10-29**|**The Privacy and Security Risks of Edge LLM Optimization**|Mingchen Li et.al.|[link](http://arxiv.org/abs/2610.40543v1)|null|
+|**2026-10-29**|**On the Fundamental Limits of Prefill-Based Decoding Length Prediction**|Haowen Shi et.al.|[link](http://arxiv.org/abs/2610.40541v1)|null|
+|**2026-10-29**|**Differentiation and Shift Property Characterisations of the Group Fourier Transform on the Heisenberg Group**|R. Lakshmi Lavanya et.al.|[link](http://arxiv.org/abs/2610.40508v1)|null|
+|**2026-10-29**|**RecHash: Segmented Hash-Entangled Chains for Stateful Sequential Authentication**|Luis Adrián Lizama-Pérez et.al.|[link](http://arxiv.org/abs/2610.40507v1)|null|
+|**2026-10-29**|**Algebraic World Model: From Exploration to Proofs**|Guancheng Pan et.al.|[link](http://arxiv.org/abs/2610.40503v1)|null|
+|**2026-10-29**|**Numerical Integration on Bounded Domains via Learned Reflected Diffusions**|Kirill Korolev et.al.|[link](http://arxiv.org/abs/2610.40499v1)|null|
+|**2026-10-29**|**LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation**|Oliver Hahn et.al.|[link](http://arxiv.org/abs/2610.40495v1)|null|
+|**2026-10-29**|**AVPS-360: A Spatial Audio-Visual Benchmark for Instance Segmentation and Tracking of Sound-Producing Persons**|Yifu Sun et.al.|[link](http://arxiv.org/abs/2610.40480v1)|null|
+|**2026-10-29**|**Trajectory sharpening under quantum reference frame transformations**|Matteo Fadel et.al.|[link](http://arxiv.org/abs/2610.40452v1)|null|
+|**2026-10-29**|**Learning developmental dynamics from lineage context**|Gokul Gowri et.al.|[link](http://arxiv.org/abs/2610.40447v1)|null|
+|**2026-10-29**|**A universal gauge structure in the photon content of light-matter systems**|Arka Dutta et.al.|[link](http://arxiv.org/abs/2610.40446v1)|null|
+|**2026-10-29**|**Adaptive Seismic Inversion in Piecewise Smooth Media Using Whiteness-based Alternating Directions**|Lian Zhao et.al.|[link](http://arxiv.org/abs/2610.40433v1)|null|
+|**2026-10-29**|**Aerodynamic Shape Optimization of unsteady flapping wings**|Hamid R. Karbasian et.al.|[link](http://arxiv.org/abs/2610.40426v1)|null|
 |**2026-10-29**|**G-equivariant Alterfold TQFT in any dimension**|Zixuan Feng et.al.|[link](http://arxiv.org/abs/2610.40041v1)|null|
 |**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v1)|null|
 |**2026-10-29**|**DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis**|Roxanne De Maeyer et.al.|[link](http://arxiv.org/abs/2610.40018v1)|null|
@@ -3971,6 +3991,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40085v1)|null|
 |**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v1)|null|
 |**2026-10-29**|**LinQuant: Functional Invariances for Low-Precision Linear Recurrences**|Neehal Tumma et.al.|[link](http://arxiv.org/abs/2610.39418v1)|null|
 |**2026-10-28**|**Dual DeltaNet: Value-Side Memory Reorganization for Linear Attention**|Yixiao Qian et.al.|[link](http://arxiv.org/abs/2610.38578v1)|null|
@@ -4859,6 +4880,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-10-29**|**Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering**|Moshe Shenfeld et.al.|[link](http://arxiv.org/abs/2610.40654v1)|null|
+|**2026-10-29**|**SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors**|Fnu Aryan et.al.|[link](http://arxiv.org/abs/2610.40632v1)|null|
+|**2026-10-29**|**Central Limit Theorems and Network-Free Inference for Heterogeneous Spatial Autoregressions on Sparse Graphons**|Wei Li et.al.|[link](http://arxiv.org/abs/2610.40630v1)|null|
+|**2026-10-29**|**On Zeros and Algorithms for Disordered Systems II: The Antiferromagnetic Ising Model up to Kesten-Stigum**|Ferenc Bencs et.al.|[link](http://arxiv.org/abs/2610.40598v1)|null|
+|**2026-10-29**|**Maximum Cardinality Matching in $n^{2+o(1)}$ Time**|George Z. Li et.al.|[link](http://arxiv.org/abs/2610.40591v1)|null|
+|**2026-10-29**|**An Adian-Rabin theorem for quantum automorphism groups of graphs**|Josse van Dobben de Bruyn et.al.|[link](http://arxiv.org/abs/2610.40590v1)|null|
+|**2026-10-29**|**Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation**|Fatematuj Johura Mim et.al.|[link](http://arxiv.org/abs/2610.40587v1)|null|
+|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al.|[link](http://arxiv.org/abs/2610.40580v1)|null|
+|**2026-10-29**|**PIVOT: Progressive Intervention via Online Teacher Correction**|Zhihao Yang et.al.|[link](http://arxiv.org/abs/2610.40576v1)|null|
+|**2026-10-29**|**Minimum Label $k$-Cut on Planar Graphs: Complexity and Color Structure**|Yuanhao Wang et.al.|[link](http://arxiv.org/abs/2610.40575v1)|null|
+|**2026-10-29**|**On the Quantum Chromatic Gap II**|Lorenzo Ciardo et.al.|[link](http://arxiv.org/abs/2610.40571v1)|null|
+|**2026-10-29**|**Supersaturation: Cliques and Positive Square Energy**|Abhay Jayarajan et.al.|[link](http://arxiv.org/abs/2610.40570v1)|null|
+|**2026-10-29**|**On the Fundamental Limits of Prefill-Based Decoding Length Prediction**|Haowen Shi et.al.|[link](http://arxiv.org/abs/2610.40541v1)|null|
+|**2026-10-29**|**A DG algebra structure for the edge ideal of any split graph**|David Bronshvayg et.al.|[link](http://arxiv.org/abs/2610.40540v1)|null|
+|**2026-10-29**|**Rate-Optimal Spectral Likelihood-Ratio Clustering in Stochastic Block Models**|Zhixin Zhou et.al.|[link](http://arxiv.org/abs/2610.40531v1)|null|
+|**2026-10-29**|**Single-Temperature Ranked Greedy Cluster Exchange for Max-Cut on Two-Dimensional Tori**|Hao Geng et.al.|[link](http://arxiv.org/abs/2610.40515v1)|null|
+|**2026-10-29**|**Zero-freeness for Random Regular Graphs up to the Replica Symmetry Breaking Threshold**|Zejia Chen et.al.|[link](http://arxiv.org/abs/2610.40510v1)|null|
+|**2026-10-29**|**RecHash: Segmented Hash-Entangled Chains for Stateful Sequential Authentication**|Luis Adrián Lizama-Pérez et.al.|[link](http://arxiv.org/abs/2610.40507v1)|null|
+|**2026-10-29**|**A Parameterized Stochastic Hamiltonian Process on Graphs with Two-Point Boundary Conditions**|Yaxin Feng et.al.|[link](http://arxiv.org/abs/2610.40497v1)|null|
+|**2026-10-29**|**LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation**|Oliver Hahn et.al.|[link](http://arxiv.org/abs/2610.40495v1)|null|
 |**2026-10-29**|**Submodular decompositions: a bounded-variation counterexample and an exact planar cut formula**|Guoqing Wang et.al.|[link](http://arxiv.org/abs/2610.40032v1)|null|
 |**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v1)|null|
 |**2026-10-29**|**DINOv2 for PET: A Pre-Training Domain Benchmark Across Classification, Segmentation, and Prognosis**|Roxanne De Maeyer et.al.|[link](http://arxiv.org/abs/2610.40018v1)|null|
@@ -8345,6 +8386,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-10-29**|**ScienceJudge: Pattern Perturbation Augmentation for Sentence-Level Scientific Claim Verification**|Chuhai Cai et.al.|[link](http://arxiv.org/abs/2610.40238v1)|null|
+|**2026-10-29**|**AdMuse: Skill-Guided Creative Advertising Image Generation**|Minyan Luo et.al.|[link](http://arxiv.org/abs/2610.40190v1)|null|
+|**2026-10-29**|**AFDM-ISAC Design Amalgamating FMCW Radar and Carrier Aggregation**|Qu Luo et.al.|[link](http://arxiv.org/abs/2610.40107v1)|null|
 |**2026-10-29**|**FlexTry-On: A Time-Efficient Framework for Multi-Scenario Virtual Try-on**|Phuong Dam et.al.|[link](http://arxiv.org/abs/2610.39646v1)|null|
 |**2026-10-28**|**Data Scaling Laws in Stereo Matching: From In-domain Fitting to Cross-domain Generalization**|Tong Zhao et.al.|[link](http://arxiv.org/abs/2610.38600v1)|null|
 |**2026-10-28**|**Agent Transfer Protocol: Server-Mediated Agent-to-Agent Communication Architecture for the Agentic Web**|Yuqi Qiu et.al.|[link](http://arxiv.org/abs/2610.38398v1)|null|
