@@ -166,7 +166,7 @@
     "2608.07015v1": "|**2026-08-07**|**Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**|Haoyang Yuan et.al.|[link](http://arxiv.org/abs/2608.07015v1)|null|\n",
     "2608.05771v2": "|**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|\n",
     "2607.04603v2": "|**2026-08-03**|**LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection**|Tianfang Zhang et.al.|[link](http://arxiv.org/abs/2607.04603v2)|null|\n",
-    "2609.00853v1": "|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|null|\n",
+    "2609.00853v1": "|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|**[code](https://github.com/iLearn-Lab/MM26-ADGNet)**|\n",
     "2609.00666v1": "|**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|null|\n",
     "2609.07515v1": "|**2026-09-07**|**PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2609.07515v1)|null|\n",
     "2609.18773v1": "|**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[link](http://arxiv.org/abs/2609.18773v1)|null|\n",
@@ -4016,7 +4016,27 @@
     "2611.05131v1": "|**2026-11-03**|**High-fidelity training-free photovoltaic module mapping from multi-view UAV imagery**|WenHao Duana et.al.|[link](http://arxiv.org/abs/2611.05131v1)|null|\n",
     "2611.05109v1": "|**2026-11-03**|**Stray Losses in Power Transformers: A Comparative Study of Modeling Frameworks for Mild Steel**|Micha Swaanen et.al.|[link](http://arxiv.org/abs/2611.05109v1)|null|\n",
     "2611.05106v1": "|**2026-11-03**|**Label-Preserving Fourier Domain Adaptation with Generative-AI and Real Style Donors for 3D Mitral Valve Segmentation**|Javeria Javed et.al.|[link](http://arxiv.org/abs/2611.05106v1)|null|\n",
-    "2611.05103v1": "|**2026-11-03**|**Molecular Prior Networks**|Pawel Gomoluch et.al.|[link](http://arxiv.org/abs/2611.05103v1)|null|\n"
+    "2611.05103v1": "|**2026-11-03**|**Molecular Prior Networks**|Pawel Gomoluch et.al.|[link](http://arxiv.org/abs/2611.05103v1)|null|\n",
+    "2611.06890v1": "|**2026-11-04**|**Procedural Adversarial Learning**|Jack Nugent et.al.|[link](http://arxiv.org/abs/2611.06890v1)|null|\n",
+    "2611.06879v1": "|**2026-11-04**|**Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes**|Benjamin Jacob Bodner et.al.|[link](http://arxiv.org/abs/2611.06879v1)|null|\n",
+    "2611.06877v1": "|**2026-11-04**|**A property of boundary extensions of atomic singular inner functions**|Iason Efraimidis et.al.|[link](http://arxiv.org/abs/2611.06877v1)|null|\n",
+    "2611.06859v1": "|**2026-11-04**|**Balancing hierarchical representation and quantization: A performance trade-off in text embeddings**|Kai Ponel et.al.|[link](http://arxiv.org/abs/2611.06859v1)|null|\n",
+    "2611.06842v1": "|**2026-11-04**|**Anomaly effective actions for 4d $\\mathcal{N}=1$ superconformal field theories**|Pantelis Panopoulos et.al.|[link](http://arxiv.org/abs/2611.06842v1)|null|\n",
+    "2611.06835v1": "|**2026-11-04**|**LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models**|Lele Yang et.al.|[link](http://arxiv.org/abs/2611.06835v1)|null|\n",
+    "2611.06793v1": "|**2026-11-04**|**Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3**|Harsidak Singh Banwait et.al.|[link](http://arxiv.org/abs/2611.06793v1)|null|\n",
+    "2611.06791v1": "|**2026-11-04**|**A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation**|Mohamed Azzam et.al.|[link](http://arxiv.org/abs/2611.06791v1)|null|\n",
+    "2611.06760v1": "|**2026-11-04**|**Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces**|Shubhabrata Mukherjee et.al.|[link](http://arxiv.org/abs/2611.06760v1)|null|\n",
+    "2611.06748v1": "|**2026-11-04**|**EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models**|Yequan Bie et.al.|[link](http://arxiv.org/abs/2611.06748v1)|null|\n",
+    "2611.06737v1": "|**2026-11-04**|**Data Center Agglomeration and Power Infrastructure Capacity in the United States**|Yutong Ma et.al.|[link](http://arxiv.org/abs/2611.06737v1)|null|\n",
+    "2611.06732v1": "|**2026-11-04**|**ConceptARC at Scale: Studying Conceptual Understanding in Reasoning Models**|Philipp Mondorf et.al.|[link](http://arxiv.org/abs/2611.06732v1)|null|\n",
+    "2611.06725v1": "|**2026-11-04**|**Drowning in Noise: On Signal Saliency in Self-Supervised Learning for Ocean Acoustics**|Shikhar Bharadwaj et.al.|[link](http://arxiv.org/abs/2611.06725v1)|null|\n",
+    "2611.06701v1": "|**2026-11-04**|**Agent-Driven Generative Priors for Pathology Image Synthesis and Segmentation**|Sicheng Yang et.al.|[link](http://arxiv.org/abs/2611.06701v1)|**[code](https://github.com/script-Yang/Agent-GenPath)**|\n",
+    "2611.06697v1": "|**2026-11-04**|**Interacting Boson System at Finite Temperatures: The treatment of the lattice QCD results**|D. Anchishkin et.al.|[link](http://arxiv.org/abs/2611.06697v1)|null|\n",
+    "2611.06685v1": "|**2026-11-04**|**Sekai: Incremental Event Memory for Generalized Reasoning Video Segmentation**|Zhengtao Liu et.al.|[link](http://arxiv.org/abs/2611.06685v1)|null|\n",
+    "2611.06664v1": "|**2026-11-04**|**CardioDrift: Automatic Cardiac Motion Tracking on a 3D Atlas Mesh via Shape-aware Coherent Point Drift with Slice Shift Correction**|Reza Akbari Movahed et.al.|[link](http://arxiv.org/abs/2611.06664v1)|null|\n",
+    "2611.06651v1": "|**2026-11-04**|**Efficient quantum ultraspherical transform and a well-conditioned quantum spectral method**|Trong Duong et.al.|[link](http://arxiv.org/abs/2611.06651v1)|null|\n",
+    "2611.06639v1": "|**2026-11-04**|**Replicability, Reproducibility, and Robustness in Political and Social Science Research with Large Language Models**|Joan C. Timoneda et.al.|[link](http://arxiv.org/abs/2611.06639v1)|null|\n",
+    "2611.06573v1": "|**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[link](http://arxiv.org/abs/2611.06573v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -4919,7 +4939,8 @@
     "2611.00423v1": "|**2026-10-30**|**PAM-Mamba - Efficient Dense Action Detection using Mamba**|Dhruvraj Singh Rawat et.al.|[link](http://arxiv.org/abs/2611.00423v1)|null|\n",
     "2610.41994v2": "|**2026-11-03**|**DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention**|Zhangchi Feng et.al.|[link](http://arxiv.org/abs/2610.41994v2)|null|\n",
     "2610.40085v2": "|**2026-11-01**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40085v2)|null|\n",
-    "2610.40029v2": "|**2026-11-01**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v2)|null|\n"
+    "2610.40029v2": "|**2026-11-01**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v2)|null|\n",
+    "2611.06084v1": "|**2026-11-04**|**Shallow Encoding Emits Deep Memories**|Mingyuan Ma et.al.|[link](http://arxiv.org/abs/2611.06084v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -8461,7 +8482,27 @@
     "2611.05179v1": "|**2026-11-03**|**OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes**|Javal Vyas et.al.|[link](http://arxiv.org/abs/2611.05179v1)|null|\n",
     "2611.05178v1": "|**2026-11-03**|**Weighted Max Cut in Subcubic Graphs**|Will Hausmann et.al.|[link](http://arxiv.org/abs/2611.05178v1)|null|\n",
     "2611.05162v1": "|**2026-11-03**|**Uniform asymptotics for the Kleitman-West problem**|Jiasheng Zeng et.al.|[link](http://arxiv.org/abs/2611.05162v1)|null|\n",
-    "2611.05150v1": "|**2026-11-03**|**What Sets the Serving Speed of Looped Language Models? Measurements and Optimizations Graded by Exactness**|Dezhen Lu et.al.|[link](http://arxiv.org/abs/2611.05150v1)|null|\n"
+    "2611.05150v1": "|**2026-11-03**|**What Sets the Serving Speed of Looped Language Models? Measurements and Optimizations Graded by Exactness**|Dezhen Lu et.al.|[link](http://arxiv.org/abs/2611.05150v1)|null|\n",
+    "2611.06906v1": "|**2026-11-04**|**A Simple Subquadratic Cut Query Protocol for Directed Reachability**|Henry Fleischmann et.al.|[link](http://arxiv.org/abs/2611.06906v1)|null|\n",
+    "2611.06904v1": "|**2026-11-04**|**Sublinear multi-type preferential attachment**|Anna Ben-Hamou et.al.|[link](http://arxiv.org/abs/2611.06904v1)|null|\n",
+    "2611.06894v1": "|**2026-11-04**|**Nonuniform Buy-at-Bulk Network Design: Improved Approximation and LP Integrality Gap**|Iman Gholami et.al.|[link](http://arxiv.org/abs/2611.06894v1)|null|\n",
+    "2611.06890v1": "|**2026-11-04**|**Procedural Adversarial Learning**|Jack Nugent et.al.|[link](http://arxiv.org/abs/2611.06890v1)|null|\n",
+    "2611.06886v1": "|**2026-11-04**|**Off-Diagonal Induced Ramsey Numbers**|Bruno Andrades et.al.|[link](http://arxiv.org/abs/2611.06886v1)|null|\n",
+    "2611.06881v1": "|**2026-11-04**|**VABAR: A Variational Automation Benchmark for Agentic Robotics**|Shuangyu Xie et.al.|[link](http://arxiv.org/abs/2611.06881v1)|null|\n",
+    "2611.06874v1": "|**2026-11-04**|**Learning to Decode Linear Codes with Generalized Belief Propagation Network**|Samira Malek et.al.|[link](http://arxiv.org/abs/2611.06874v1)|null|\n",
+    "2611.06862v1": "|**2026-11-04**|**Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics**|Giordano Cotti et.al.|[link](http://arxiv.org/abs/2611.06862v1)|null|\n",
+    "2611.06857v1": "|**2026-11-04**|**Deterministic Fault-Tolerant Connectivity Oracles with Subquadratic Space**|Merav Parter et.al.|[link](http://arxiv.org/abs/2611.06857v1)|null|\n",
+    "2611.06856v1": "|**2026-11-04**|**LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis**|Haoxiang Cao et.al.|[link](http://arxiv.org/abs/2611.06856v1)|null|\n",
+    "2611.06847v1": "|**2026-11-04**|**Inherited Local Shrinkage for Adaptive Functional Form Discovery**|Jacob C. Schultz et.al.|[link](http://arxiv.org/abs/2611.06847v1)|null|\n",
+    "2611.06820v1": "|**2026-11-04**|**On isospectral potentials on periodic discrete graphs**|Natalia Saburova et.al.|[link](http://arxiv.org/abs/2611.06820v1)|null|\n",
+    "2611.06818v1": "|**2026-11-04**|**Linear-time erasure recovery for quantum expander codes**|Anirudh Krishna et.al.|[link](http://arxiv.org/abs/2611.06818v1)|null|\n",
+    "2611.06816v1": "|**2026-11-04**|**Boxicity of Power Graphs of Finite Nilpotent Groups**|L. Sunil Chandran et.al.|[link](http://arxiv.org/abs/2611.06816v1)|null|\n",
+    "2611.06804v1": "|**2026-11-04**|**Monadically Dependent Graph Classes Have Almost Bounded Merge-Width**|Jan Dreier et.al.|[link](http://arxiv.org/abs/2611.06804v1)|null|\n",
+    "2611.06801v1": "|**2026-11-04**|**Message-passing graph persistence**|Jorge Luiz Franco et.al.|[link](http://arxiv.org/abs/2611.06801v1)|null|\n",
+    "2611.06800v1": "|**2026-11-04**|**Uniqueness and full coverage in $k$-neighbor graphs**|David Coupier et.al.|[link](http://arxiv.org/abs/2611.06800v1)|null|\n",
+    "2611.06791v1": "|**2026-11-04**|**A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation**|Mohamed Azzam et.al.|[link](http://arxiv.org/abs/2611.06791v1)|null|\n",
+    "2611.06782v1": "|**2026-11-04**|**Target PageRank: Matching Prescribed PageRank Scores via Budgeted Edge Additions**|Parth Gupta et.al.|[link](http://arxiv.org/abs/2611.06782v1)|null|\n",
+    "2611.06776v1": "|**2026-11-04**|**Finding full immersions is fixed-parameter tractable in labeled tour graphs**|Hadas Barabash et.al.|[link](http://arxiv.org/abs/2611.06776v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -9974,6 +10015,7 @@
     "2611.01893v1": "|**2026-11-01**|**Rethinking Model Aggregation for Federated Learning with Domain Skew: A Knowledge-Preserving Perspective**|Haotian Wu et.al.|[link](http://arxiv.org/abs/2611.01893v1)|null|\n",
     "2611.01851v1": "|**2026-11-01**|**Missingness-Aware Prior-Data Fitted Network for Irregular Clinical Time-Series**|Hadi Mehdizavareh et.al.|[link](http://arxiv.org/abs/2611.01851v1)|null|\n",
     "2611.01753v1": "|**2026-11-01**|**ReCoG: Relative Node Contexts for Multi-Domain Graph Pre-training**|Yupeng Tong et.al.|[link](http://arxiv.org/abs/2611.01753v1)|null|\n",
-    "2611.01598v1": "|**2026-11-01**|**QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board**|Ayushman Bhattacharya et.al.|[link](http://arxiv.org/abs/2611.01598v1)|null|\n"
+    "2611.01598v1": "|**2026-11-01**|**QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board**|Ayushman Bhattacharya et.al.|[link](http://arxiv.org/abs/2611.01598v1)|null|\n",
+    "2611.05632v1": "|**2026-11-03**|**Assurance-Conditioned Continuous Authorization for Autonomous AI Agents**|Mehdi Shajari et.al.|[link](http://arxiv.org/abs/2611.05632v1)|null|\n"
   }
 }

@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 
 ### ISTD
 
@@ -14,7 +14,7 @@
 |**2026-10-04**|**IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning**|Jiawen Xi et.al.|[link](http://arxiv.org/abs/2610.05342v1)|null|
 |**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[link](http://arxiv.org/abs/2609.18773v1)|null|
 |**2026-09-07**|**PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2609.07515v1)|null|
-|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|null|
+|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|**[code](https://github.com/iLearn-Lab/MM26-ADGNet)**|
 |**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|null|
 |**2026-08-21**|**RDANet: Relative Degradation Aware Network for Infrared Small Target Detection**|Rui Liu et.al.|[link](http://arxiv.org/abs/2608.20870v1)|null|
 |**2026-08-26**|**SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation**|Aji Mao et.al.|[link](http://arxiv.org/abs/2608.20754v2)|null|
@@ -335,6 +335,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-04**|**Procedural Adversarial Learning**|Jack Nugent et.al.|[link](http://arxiv.org/abs/2611.06890v1)|null|
+|**2026-11-04**|**Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes**|Benjamin Jacob Bodner et.al.|[link](http://arxiv.org/abs/2611.06879v1)|null|
+|**2026-11-04**|**A property of boundary extensions of atomic singular inner functions**|Iason Efraimidis et.al.|[link](http://arxiv.org/abs/2611.06877v1)|null|
+|**2026-11-04**|**Balancing hierarchical representation and quantization: A performance trade-off in text embeddings**|Kai Ponel et.al.|[link](http://arxiv.org/abs/2611.06859v1)|null|
+|**2026-11-04**|**Anomaly effective actions for 4d $\mathcal{N}=1$ superconformal field theories**|Pantelis Panopoulos et.al.|[link](http://arxiv.org/abs/2611.06842v1)|null|
+|**2026-11-04**|**LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models**|Lele Yang et.al.|[link](http://arxiv.org/abs/2611.06835v1)|null|
+|**2026-11-04**|**Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3**|Harsidak Singh Banwait et.al.|[link](http://arxiv.org/abs/2611.06793v1)|null|
+|**2026-11-04**|**A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation**|Mohamed Azzam et.al.|[link](http://arxiv.org/abs/2611.06791v1)|null|
+|**2026-11-04**|**Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces**|Shubhabrata Mukherjee et.al.|[link](http://arxiv.org/abs/2611.06760v1)|null|
+|**2026-11-04**|**EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models**|Yequan Bie et.al.|[link](http://arxiv.org/abs/2611.06748v1)|null|
+|**2026-11-04**|**Data Center Agglomeration and Power Infrastructure Capacity in the United States**|Yutong Ma et.al.|[link](http://arxiv.org/abs/2611.06737v1)|null|
+|**2026-11-04**|**ConceptARC at Scale: Studying Conceptual Understanding in Reasoning Models**|Philipp Mondorf et.al.|[link](http://arxiv.org/abs/2611.06732v1)|null|
+|**2026-11-04**|**Drowning in Noise: On Signal Saliency in Self-Supervised Learning for Ocean Acoustics**|Shikhar Bharadwaj et.al.|[link](http://arxiv.org/abs/2611.06725v1)|null|
+|**2026-11-04**|**Agent-Driven Generative Priors for Pathology Image Synthesis and Segmentation**|Sicheng Yang et.al.|[link](http://arxiv.org/abs/2611.06701v1)|**[code](https://github.com/script-Yang/Agent-GenPath)**|
+|**2026-11-04**|**Interacting Boson System at Finite Temperatures: The treatment of the lattice QCD results**|D. Anchishkin et.al.|[link](http://arxiv.org/abs/2611.06697v1)|null|
+|**2026-11-04**|**Sekai: Incremental Event Memory for Generalized Reasoning Video Segmentation**|Zhengtao Liu et.al.|[link](http://arxiv.org/abs/2611.06685v1)|null|
+|**2026-11-04**|**CardioDrift: Automatic Cardiac Motion Tracking on a 3D Atlas Mesh via Shape-aware Coherent Point Drift with Slice Shift Correction**|Reza Akbari Movahed et.al.|[link](http://arxiv.org/abs/2611.06664v1)|null|
+|**2026-11-04**|**Efficient quantum ultraspherical transform and a well-conditioned quantum spectral method**|Trong Duong et.al.|[link](http://arxiv.org/abs/2611.06651v1)|null|
+|**2026-11-04**|**Replicability, Reproducibility, and Robustness in Political and Social Science Research with Large Language Models**|Joan C. Timoneda et.al.|[link](http://arxiv.org/abs/2611.06639v1)|null|
+|**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[link](http://arxiv.org/abs/2611.06573v1)|null|
 |**2026-11-03**|**A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation**|Ivan Martinez-Kay et.al.|[link](http://arxiv.org/abs/2611.05374v1)|null|
 |**2026-11-03**|**A wider state, not wider arithmetic, for single-precision time integration**|Michael F. Barad et.al.|[link](http://arxiv.org/abs/2611.05365v1)|null|
 |**2026-11-03**|**Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits**|Teerawat Tongloy et.al.|[link](http://arxiv.org/abs/2611.05355v1)|null|
@@ -4032,6 +4052,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-04**|**Shallow Encoding Emits Deep Memories**|Mingyuan Ma et.al.|[link](http://arxiv.org/abs/2611.06084v1)|null|
 |**2026-11-03**|**MambaHand: Local Identity and Behavioral Sequence Learning with Mamba for Dynamic Hand Gesture Authentication**|Zenan Lin et.al.|[link](http://arxiv.org/abs/2611.04626v1)|null|
 |**2026-11-03**|**Multi-Path Mamba Diffusion for 3D Point Cloud Semantic Scene Completion**|Li Liang et.al.|[link](http://arxiv.org/abs/2611.04583v1)|null|
 |**2026-11-03**|**Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models**|Xin Liu et.al.|[link](http://arxiv.org/abs/2611.04449v1)|null|
@@ -4938,6 +4959,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-04**|**A Simple Subquadratic Cut Query Protocol for Directed Reachability**|Henry Fleischmann et.al.|[link](http://arxiv.org/abs/2611.06906v1)|null|
+|**2026-11-04**|**Sublinear multi-type preferential attachment**|Anna Ben-Hamou et.al.|[link](http://arxiv.org/abs/2611.06904v1)|null|
+|**2026-11-04**|**Nonuniform Buy-at-Bulk Network Design: Improved Approximation and LP Integrality Gap**|Iman Gholami et.al.|[link](http://arxiv.org/abs/2611.06894v1)|null|
+|**2026-11-04**|**Procedural Adversarial Learning**|Jack Nugent et.al.|[link](http://arxiv.org/abs/2611.06890v1)|null|
+|**2026-11-04**|**Off-Diagonal Induced Ramsey Numbers**|Bruno Andrades et.al.|[link](http://arxiv.org/abs/2611.06886v1)|null|
+|**2026-11-04**|**VABAR: A Variational Automation Benchmark for Agentic Robotics**|Shuangyu Xie et.al.|[link](http://arxiv.org/abs/2611.06881v1)|null|
+|**2026-11-04**|**Learning to Decode Linear Codes with Generalized Belief Propagation Network**|Samira Malek et.al.|[link](http://arxiv.org/abs/2611.06874v1)|null|
+|**2026-11-04**|**Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics**|Giordano Cotti et.al.|[link](http://arxiv.org/abs/2611.06862v1)|null|
+|**2026-11-04**|**Deterministic Fault-Tolerant Connectivity Oracles with Subquadratic Space**|Merav Parter et.al.|[link](http://arxiv.org/abs/2611.06857v1)|null|
+|**2026-11-04**|**LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis**|Haoxiang Cao et.al.|[link](http://arxiv.org/abs/2611.06856v1)|null|
+|**2026-11-04**|**Inherited Local Shrinkage for Adaptive Functional Form Discovery**|Jacob C. Schultz et.al.|[link](http://arxiv.org/abs/2611.06847v1)|null|
+|**2026-11-04**|**On isospectral potentials on periodic discrete graphs**|Natalia Saburova et.al.|[link](http://arxiv.org/abs/2611.06820v1)|null|
+|**2026-11-04**|**Linear-time erasure recovery for quantum expander codes**|Anirudh Krishna et.al.|[link](http://arxiv.org/abs/2611.06818v1)|null|
+|**2026-11-04**|**Boxicity of Power Graphs of Finite Nilpotent Groups**|L. Sunil Chandran et.al.|[link](http://arxiv.org/abs/2611.06816v1)|null|
+|**2026-11-04**|**Monadically Dependent Graph Classes Have Almost Bounded Merge-Width**|Jan Dreier et.al.|[link](http://arxiv.org/abs/2611.06804v1)|null|
+|**2026-11-04**|**Message-passing graph persistence**|Jorge Luiz Franco et.al.|[link](http://arxiv.org/abs/2611.06801v1)|null|
+|**2026-11-04**|**Uniqueness and full coverage in $k$-neighbor graphs**|David Coupier et.al.|[link](http://arxiv.org/abs/2611.06800v1)|null|
+|**2026-11-04**|**A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation**|Mohamed Azzam et.al.|[link](http://arxiv.org/abs/2611.06791v1)|null|
+|**2026-11-04**|**Target PageRank: Matching Prescribed PageRank Scores via Budgeted Edge Additions**|Parth Gupta et.al.|[link](http://arxiv.org/abs/2611.06782v1)|null|
+|**2026-11-04**|**Finding full immersions is fixed-parameter tractable in labeled tour graphs**|Hadas Barabash et.al.|[link](http://arxiv.org/abs/2611.06776v1)|null|
 |**2026-11-03**|**Transfer of Weisfeiler-Leman equivalence under graph operations**|Dmitriy Kunisky et.al.|[link](http://arxiv.org/abs/2611.05366v1)|null|
 |**2026-11-03**|**On the one-arm probability for the metric graph Gaussian free field in high dimensions**|Pierre-François Rodriguez et.al.|[link](http://arxiv.org/abs/2611.05357v1)|null|
 |**2026-11-03**|**Breaking the quantum barriers for Graph Collision**|Arjan Cornelissen et.al.|[link](http://arxiv.org/abs/2611.05356v1)|null|
@@ -8484,6 +8525,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-11-03**|**Assurance-Conditioned Continuous Authorization for Autonomous AI Agents**|Mehdi Shajari et.al.|[link](http://arxiv.org/abs/2611.05632v1)|null|
 |**2026-11-03**|**Dual-VaDE: Efficient and Robust Prototype Learning via Variational Dual-Domain Mixture Priors**|Wugeng Zheng et.al.|[link](http://arxiv.org/abs/2611.05099v1)|null|
 |**2026-11-03**|**Think Less, Locally: Local Preference Learning for Reasoning Compression**|Muyao Yuan et.al.|[link](http://arxiv.org/abs/2611.04814v1)|null|
 |**2026-11-03**|**TriMedium: A Cross-Medium Simulator for Embodied Networking Across Air-Ground-Sea**|Ruizhe Dang et.al.|[link](http://arxiv.org/abs/2611.04763v1)|null|
