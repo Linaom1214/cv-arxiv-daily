@@ -167,7 +167,7 @@
     "2608.05771v2": "|**2026-08-07**|**HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared Small Target Detection**|Aohua Li et.al.|[link](http://arxiv.org/abs/2608.05771v2)|null|\n",
     "2607.04603v2": "|**2026-08-03**|**LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection**|Tianfang Zhang et.al.|[link](http://arxiv.org/abs/2607.04603v2)|null|\n",
     "2609.00853v1": "|**2026-09-01**|**ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection**|Tongtong Wang et.al.|[link](http://arxiv.org/abs/2609.00853v1)|**[code](https://github.com/iLearn-Lab/MM26-ADGNet)**|\n",
-    "2609.00666v1": "|**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|null|\n",
+    "2609.00666v1": "|**2026-09-01**|**DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection**|Chenglong Yu et.al.|[link](http://arxiv.org/abs/2609.00666v1)|**[code](https://github.com/iLearn-Lab/MM26-DGNet)**|\n",
     "2609.07515v1": "|**2026-09-07**|**PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection**|Jingjing Liu et.al.|[link](http://arxiv.org/abs/2609.07515v1)|null|\n",
     "2609.18773v1": "|**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[link](http://arxiv.org/abs/2609.18773v1)|null|\n",
     "2606.21956v3": "|**2026-09-28**|**Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation**|Houzhang Fang et.al.|[link](http://arxiv.org/abs/2606.21956v3)|null|\n",
@@ -4036,7 +4036,27 @@
     "2611.06664v1": "|**2026-11-04**|**CardioDrift: Automatic Cardiac Motion Tracking on a 3D Atlas Mesh via Shape-aware Coherent Point Drift with Slice Shift Correction**|Reza Akbari Movahed et.al.|[link](http://arxiv.org/abs/2611.06664v1)|null|\n",
     "2611.06651v1": "|**2026-11-04**|**Efficient quantum ultraspherical transform and a well-conditioned quantum spectral method**|Trong Duong et.al.|[link](http://arxiv.org/abs/2611.06651v1)|null|\n",
     "2611.06639v1": "|**2026-11-04**|**Replicability, Reproducibility, and Robustness in Political and Social Science Research with Large Language Models**|Joan C. Timoneda et.al.|[link](http://arxiv.org/abs/2611.06639v1)|null|\n",
-    "2611.06573v1": "|**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[link](http://arxiv.org/abs/2611.06573v1)|null|\n"
+    "2611.06573v1": "|**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[link](http://arxiv.org/abs/2611.06573v1)|null|\n",
+    "2611.08487v1": "|**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[link](http://arxiv.org/abs/2611.08487v1)|null|\n",
+    "2611.08438v1": "|**2026-11-05**|**Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety**|Fazl Barez et.al.|[link](http://arxiv.org/abs/2611.08438v1)|null|\n",
+    "2611.08434v1": "|**2026-11-05**|**DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins**|Ke-Xin Tang et.al.|[link](http://arxiv.org/abs/2611.08434v1)|null|\n",
+    "2611.08425v1": "|**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[link](http://arxiv.org/abs/2611.08425v1)|null|\n",
+    "2611.08413v1": "|**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Mohammed Hassan et.al.|[link](http://arxiv.org/abs/2611.08413v1)|null|\n",
+    "2611.08385v1": "|**2026-11-05**|**Anisotropy lifts topological protection of transport in pumped spin chains**|Mainak Pal et.al.|[link](http://arxiv.org/abs/2611.08385v1)|null|\n",
+    "2611.08376v1": "|**2026-11-05**|**Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout**|Tushaar Gangavarapu et.al.|[link](http://arxiv.org/abs/2611.08376v1)|null|\n",
+    "2611.08372v1": "|**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Sateesh Kumar et.al.|[link](http://arxiv.org/abs/2611.08372v1)|null|\n",
+    "2611.08360v1": "|**2026-11-05**|**OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity**|Rupam Mukherjee et.al.|[link](http://arxiv.org/abs/2611.08360v1)|null|\n",
+    "2611.08352v1": "|**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[link](http://arxiv.org/abs/2611.08352v1)|null|\n",
+    "2611.08344v1": "|**2026-11-05**|**Simple Modules over Leavitt Path Algebras Generated by Indicator Functions on Paths**|Elizabeth Pacheco et.al.|[link](http://arxiv.org/abs/2611.08344v1)|null|\n",
+    "2611.08343v1": "|**2026-11-05**|**LABBA: LLM-Assisted Behavioral Biometric Authentication**|Howard Halim et.al.|[link](http://arxiv.org/abs/2611.08343v1)|null|\n",
+    "2611.08339v1": "|**2026-11-05**|**Fluctuations, Moderate and Large Deviations about Hydrodynamic Limits of Space-Time Hawkes Processes**|Fuqing Gao et.al.|[link](http://arxiv.org/abs/2611.08339v1)|null|\n",
+    "2611.08338v1": "|**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Robert Ren et.al.|[link](http://arxiv.org/abs/2611.08338v1)|null|\n",
+    "2611.08322v1": "|**2026-11-05**|**Instabilities of Simpson-Visser black bounces sourced by a phantom scalar and nonlinear electrodynamics**|Kirill A. Bronnikov et.al.|[link](http://arxiv.org/abs/2611.08322v1)|null|\n",
+    "2611.08295v1": "|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[link](http://arxiv.org/abs/2611.08295v1)|null|\n",
+    "2611.08293v1": "|**2026-11-05**|**Dualities in one-dimensional quantum lattice models: Lie groups, Schur-Weyl duality and symmetry breaking**|Dante Bosgoed et.al.|[link](http://arxiv.org/abs/2611.08293v1)|null|\n",
+    "2611.08289v1": "|**2026-11-05**|**Fourier level inequalities on the discrete cube via complex hypercontractivity and Riesz transforms**|Fan Chang et.al.|[link](http://arxiv.org/abs/2611.08289v1)|null|\n",
+    "2611.08273v1": "|**2026-11-05**|**Accelerating Safe Reinforcement Learning with Massive Parallelism**|Joonyoung Lim et.al.|[link](http://arxiv.org/abs/2611.08273v1)|null|\n",
+    "2611.08240v1": "|**2026-11-05**|**FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning**|Haitao Lin et.al.|[link](http://arxiv.org/abs/2611.08240v1)|null|\n"
   },
   "mamba": {
     "2510.17545v1": "|**2025-10-20**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[link](http://arxiv.org/abs/2510.17545v1)|null|\n",
@@ -4940,7 +4960,11 @@
     "2610.41994v2": "|**2026-11-03**|**DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention**|Zhangchi Feng et.al.|[link](http://arxiv.org/abs/2610.41994v2)|null|\n",
     "2610.40085v2": "|**2026-11-01**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40085v2)|null|\n",
     "2610.40029v2": "|**2026-11-01**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[link](http://arxiv.org/abs/2610.40029v2)|null|\n",
-    "2611.06084v1": "|**2026-11-04**|**Shallow Encoding Emits Deep Memories**|Mingyuan Ma et.al.|[link](http://arxiv.org/abs/2611.06084v1)|null|\n"
+    "2611.06084v1": "|**2026-11-04**|**Shallow Encoding Emits Deep Memories**|Mingyuan Ma et.al.|[link](http://arxiv.org/abs/2611.06084v1)|null|\n",
+    "2611.08303v1": "|**2026-11-05**|**First-Token Attraction in Mamba Dynamics**|Trinh T. Nguyen et.al.|[link](http://arxiv.org/abs/2611.08303v1)|null|\n",
+    "2611.07865v1": "|**2026-11-05**|**OcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification**|Kaixiang Mai et.al.|[link](http://arxiv.org/abs/2611.07865v1)|null|\n",
+    "2611.07569v1": "|**2026-11-05**|**MambaTG: Candidate-Aware State Space Modeling for Future Link Prediction on Temporal Graphs**|Nguyen Hong Quan et.al.|[link](http://arxiv.org/abs/2611.07569v1)|null|\n",
+    "2611.06956v1": "|**2026-11-03**|**Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning**|Tianming Sha et.al.|[link](http://arxiv.org/abs/2611.06956v1)|null|\n"
   },
   "graph-seg": {
     "2510.21700v1": "|**2025-10-24**|**O(1)-Distortion Planar Emulators for String Graphs**|Hsien-Chih Chang et.al.|[link](http://arxiv.org/abs/2510.21700v1)|null|\n",
@@ -8502,7 +8526,27 @@
     "2611.06800v1": "|**2026-11-04**|**Uniqueness and full coverage in $k$-neighbor graphs**|David Coupier et.al.|[link](http://arxiv.org/abs/2611.06800v1)|null|\n",
     "2611.06791v1": "|**2026-11-04**|**A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation**|Mohamed Azzam et.al.|[link](http://arxiv.org/abs/2611.06791v1)|null|\n",
     "2611.06782v1": "|**2026-11-04**|**Target PageRank: Matching Prescribed PageRank Scores via Budgeted Edge Additions**|Parth Gupta et.al.|[link](http://arxiv.org/abs/2611.06782v1)|null|\n",
-    "2611.06776v1": "|**2026-11-04**|**Finding full immersions is fixed-parameter tractable in labeled tour graphs**|Hadas Barabash et.al.|[link](http://arxiv.org/abs/2611.06776v1)|null|\n"
+    "2611.06776v1": "|**2026-11-04**|**Finding full immersions is fixed-parameter tractable in labeled tour graphs**|Hadas Barabash et.al.|[link](http://arxiv.org/abs/2611.06776v1)|null|\n",
+    "2611.08466v1": "|**2026-11-05**|**Canonical Cut Hierarchy in Almost-Linear Time via Reduction to Max-Flow**|Karthekeyan Chandrasekaran et.al.|[link](http://arxiv.org/abs/2611.08466v1)|null|\n",
+    "2611.08433v1": "|**2026-11-05**|**MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue**|Donghua Zhang et.al.|[link](http://arxiv.org/abs/2611.08433v1)|null|\n",
+    "2611.08432v1": "|**2026-11-05**|**An improved minimum degree threshold for fractional clique decompositions in partite graphs**|Sean Longbrake et.al.|[link](http://arxiv.org/abs/2611.08432v1)|null|\n",
+    "2611.08425v1": "|**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[link](http://arxiv.org/abs/2611.08425v1)|null|\n",
+    "2611.08420v1": "|**2026-11-05**|**On the limitations of molecular representations**|Acer Blake et.al.|[link](http://arxiv.org/abs/2611.08420v1)|null|\n",
+    "2611.08419v1": "|**2026-11-05**|**A half-line of Schur idempotent norms**|Rupert H. Levene et.al.|[link](http://arxiv.org/abs/2611.08419v1)|null|\n",
+    "2611.08416v1": "|**2026-11-05**|**Low-Temperature Sampling via Equilibrium Disagreements**|Andreas Galanis et.al.|[link](http://arxiv.org/abs/2611.08416v1)|null|\n",
+    "2611.08413v1": "|**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Mohammed Hassan et.al.|[link](http://arxiv.org/abs/2611.08413v1)|null|\n",
+    "2611.08412v1": "|**2026-11-05**|**The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?**|Yuanchuan Guo et.al.|[link](http://arxiv.org/abs/2611.08412v1)|null|\n",
+    "2611.08397v1": "|**2026-11-05**|**A Near-Optimal Generalized Sorting Algorithm**|Sanjeev Khanna et.al.|[link](http://arxiv.org/abs/2611.08397v1)|null|\n",
+    "2611.08379v1": "|**2026-11-05**|**Module-Aware Optimization for Graph Neural Networks**|Guy Hadad et.al.|[link](http://arxiv.org/abs/2611.08379v1)|null|\n",
+    "2611.08375v1": "|**2026-11-05**|**New results on cyclic and ordered Ramsey numbers**|Gaurav Kucheriya et.al.|[link](http://arxiv.org/abs/2611.08375v1)|null|\n",
+    "2611.08360v1": "|**2026-11-05**|**OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity**|Rupam Mukherjee et.al.|[link](http://arxiv.org/abs/2611.08360v1)|null|\n",
+    "2611.08352v1": "|**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[link](http://arxiv.org/abs/2611.08352v1)|null|\n",
+    "2611.08351v1": "|**2026-11-05**|**Connectivity in a New Bounded-Space Dynamic Model**|Bardiya Aryanfard et.al.|[link](http://arxiv.org/abs/2611.08351v1)|null|\n",
+    "2611.08344v1": "|**2026-11-05**|**Simple Modules over Leavitt Path Algebras Generated by Indicator Functions on Paths**|Elizabeth Pacheco et.al.|[link](http://arxiv.org/abs/2611.08344v1)|null|\n",
+    "2611.08315v1": "|**2026-11-05**|**Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation**|Ali Sarabadani et.al.|[link](http://arxiv.org/abs/2611.08315v1)|null|\n",
+    "2611.08306v1": "|**2026-11-05**|**GINGER: Spicing Up Graph-Based Vector Search**|Daniel Salwasser et.al.|[link](http://arxiv.org/abs/2611.08306v1)|null|\n",
+    "2611.08298v1": "|**2026-11-05**|**Beyond Quantum Messages: Toward Quantum-Native Network Functioning**|Angela Sara Cacciapuoti et.al.|[link](http://arxiv.org/abs/2611.08298v1)|null|\n",
+    "2611.08274v1": "|**2026-11-05**|**Wireless Link Scheduling with Graph Signal Diffusion**|Teresa Shang et.al.|[link](http://arxiv.org/abs/2611.08274v1)|null|\n"
   },
   "Cross": {
     "2510.21635v1": "|**2025-10-24**|**DAP-MAE: Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning**|Ziqi Gao et.al.|[link](http://arxiv.org/abs/2510.21635v1)|null|\n",
@@ -10016,6 +10060,8 @@
     "2611.01851v1": "|**2026-11-01**|**Missingness-Aware Prior-Data Fitted Network for Irregular Clinical Time-Series**|Hadi Mehdizavareh et.al.|[link](http://arxiv.org/abs/2611.01851v1)|null|\n",
     "2611.01753v1": "|**2026-11-01**|**ReCoG: Relative Node Contexts for Multi-Domain Graph Pre-training**|Yupeng Tong et.al.|[link](http://arxiv.org/abs/2611.01753v1)|null|\n",
     "2611.01598v1": "|**2026-11-01**|**QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board**|Ayushman Bhattacharya et.al.|[link](http://arxiv.org/abs/2611.01598v1)|null|\n",
-    "2611.05632v1": "|**2026-11-03**|**Assurance-Conditioned Continuous Authorization for Autonomous AI Agents**|Mehdi Shajari et.al.|[link](http://arxiv.org/abs/2611.05632v1)|null|\n"
+    "2611.05632v1": "|**2026-11-03**|**Assurance-Conditioned Continuous Authorization for Autonomous AI Agents**|Mehdi Shajari et.al.|[link](http://arxiv.org/abs/2611.05632v1)|null|\n",
+    "2611.08271v1": "|**2026-11-05**|**DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection**|Muhammad Aqeel et.al.|[link](http://arxiv.org/abs/2611.08271v1)|null|\n",
+    "2611.08188v1": "|**2026-11-05**|**Improving the Clinical Generalizability of Machine Learning-Based Alzheimer's Disease Detection Across Domains and Modalities: A Comprehensive Review**|Yingchao Huang et.al.|[link](http://arxiv.org/abs/2611.08188v1)|null|\n"
   }
 }
