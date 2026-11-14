@@ -1,4 +1,4 @@
-## Updated on 2026.11.13
+## Updated on 2026.11.14
 
 ### ISTD
 
@@ -335,6 +335,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[link](http://arxiv.org/abs/2611.17336v1)|null|
+|**2026-11-12**|**CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation**|Peiwen Li et.al.|[link](http://arxiv.org/abs/2611.17316v1)|null|
+|**2026-11-12**|**FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification**|Mohamed Alimoussa et.al.|[link](http://arxiv.org/abs/2611.17302v1)|null|
+|**2026-11-12**|**Goal Encoding in LLMs**|Arnab Sen Sharma et.al.|[link](http://arxiv.org/abs/2611.17297v1)|null|
+|**2026-11-12**|**A deployed four-city entanglement-based QKD network with real-time key delivery, benchmarked against finite-key security bounds**|Gilberto Borges et.al.|[link](http://arxiv.org/abs/2611.17265v1)|null|
+|**2026-11-12**|**Structure-Preserving Integrators for Locally Conformally Symplectic Systems: Variational Methods and Globalization**|Ayten Gezici et.al.|[link](http://arxiv.org/abs/2611.17256v1)|null|
+|**2026-11-12**|**Objects as Addresses: Instance Binding in Vision Transformer Attention**|Khalil Sabri et.al.|[link](http://arxiv.org/abs/2611.17240v1)|null|
+|**2026-11-12**|**Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models**|Elnaserledinellah Mahmoud Abdelwahab et.al.|[link](http://arxiv.org/abs/2611.17235v1)|null|
+|**2026-11-12**|**Mean-field Fluctuations for First-Passage Percolation with Symmetric Kernels**|Partha S. Dey et.al.|[link](http://arxiv.org/abs/2611.17234v1)|null|
+|**2026-11-12**|**Peak Performance in Matched Filtering: Fused Correlation and Statistically Controlled Screening on CPUs and GPUs**|Alexander H. Nitz et.al.|[link](http://arxiv.org/abs/2611.17229v1)|null|
+|**2026-11-12**|**Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering**|Ksenia Belkovskaya et.al.|[link](http://arxiv.org/abs/2611.17226v1)|null|
+|**2026-11-12**|**Structure-Preserving Leaky Integrate-and-Fire Dynamics on Arbitrary Time Scales**|Billur Kaymakçalan et.al.|[link](http://arxiv.org/abs/2611.17219v1)|null|
+|**2026-11-12**|**On transformations in the Second Painlevé family**|Christine Eagles et.al.|[link](http://arxiv.org/abs/2611.17179v1)|null|
+|**2026-11-12**|**Symmetry in Time: A Representation Theory of Linear Recurrent Memory**|Anif N. Shikder et.al.|[link](http://arxiv.org/abs/2611.17162v1)|null|
+|**2026-11-12**|**AeroZoo: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics**|Peter Sharpe et.al.|[link](http://arxiv.org/abs/2611.17152v1)|null|
+|**2026-11-12**|**Gauge aspects of teleparallel gravity and Noether's second theorem**|Sebastian Brezina et.al.|[link](http://arxiv.org/abs/2611.17147v1)|null|
+|**2026-11-12**|**ISLA: A Coordinate-Free, Measure-Weighted Transformer for Boundary-Driven PDEs**|Peter Sharpe et.al.|[link](http://arxiv.org/abs/2611.17141v1)|null|
+|**2026-11-12**|**STeP-C: Real-Time Neural Compression for Distributed Fiber-Optic Sensing at Scale**|Tingfeng Li et.al.|[link](http://arxiv.org/abs/2611.17126v1)|null|
+|**2026-11-12**|**Designing Institutions for Autonomous AI**|Petter Törnberg et.al.|[link](http://arxiv.org/abs/2611.17114v1)|null|
+|**2026-11-12**|**Spatiotemporal learning improves quantification of pore-space evolution and fluid displacement**|Zhuangzhuang Ma et.al.|[link](http://arxiv.org/abs/2611.17111v1)|null|
 |**2026-11-12**|**An Analytic Toroidal MHD Equilibrium with Trivial Euclidean Symmetry Group**|Kooper de Lacy et.al.|[link](http://arxiv.org/abs/2611.16688v1)|null|
 |**2026-11-12**|**Automatic O(a) Improvement for Wilson Twisted Mass Fermions in the Hamiltonian Formulation**|Carsten Urbach et.al.|[link](http://arxiv.org/abs/2611.16658v1)|null|
 |**2026-11-12**|**Measurement-Calibrated Synthetic Pretraining for Rapid Adaptation of UAV Channel Predictors**|Qiuheng Zhou et.al.|[link](http://arxiv.org/abs/2611.16646v1)|null|
@@ -4132,6 +4152,7 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-12**|**Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences**|Torben Berndt et.al.|[link](http://arxiv.org/abs/2611.16934v1)|null|
 |**2026-11-12**|**Climate Temporal Temperature Prediction via an Adaptive Stacked Bidirectional Residual Mamba Network**|Yongxiang Lei et.al.|[link](http://arxiv.org/abs/2611.16322v1)|null|
 |**2026-11-11**|**Your Secrets Are Showing: Deep Image Hiding Models Are Surprisingly Easy to Attack**|Hao Liu et.al.|[link](http://arxiv.org/abs/2611.15583v1)|null|
 |**2026-11-11**|**SCR-Mamba: Skeleton-conditioned Mamba with cross-scale incremental refinement for efficient 3D human pose estimation**|Jie Wang et.al.|[link](http://arxiv.org/abs/2611.15526v1)|null|
@@ -5061,6 +5082,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-12**|**$C^{1,α}$ Regularity of $W^{2,2}$ $Q$-Valued Maps with Small Laplacian**|Mattia Luchese et.al.|[link](http://arxiv.org/abs/2611.17317v1)|null|
+|**2026-11-12**|**CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation**|Peiwen Li et.al.|[link](http://arxiv.org/abs/2611.17316v1)|null|
+|**2026-11-12**|**Separations Between Submodular-Like Graph Widths**|Karl Bringmann et.al.|[link](http://arxiv.org/abs/2611.17307v1)|null|
+|**2026-11-12**|**Statistics of Fock-space correlation lengths in the many-body localised phase**|Bibek Saha et.al.|[link](http://arxiv.org/abs/2611.17306v1)|null|
+|**2026-11-12**|**A deployed four-city entanglement-based QKD network with real-time key delivery, benchmarked against finite-key security bounds**|Gilberto Borges et.al.|[link](http://arxiv.org/abs/2611.17265v1)|null|
+|**2026-11-12**|**Triameter, distance packings, and vertex connectivity**|Artem Hak et.al.|[link](http://arxiv.org/abs/2611.17259v1)|null|
+|**2026-11-12**|**Matching in Random-Order Streams via Historical Deletion Bounds**|Alireza Farhadi et.al.|[link](http://arxiv.org/abs/2611.17248v1)|null|
+|**2026-11-12**|**Permutation patterns and higher connectivity in inversion graphs**|Emil Verkama et.al.|[link](http://arxiv.org/abs/2611.17237v1)|null|
+|**2026-11-12**|**Mean-field Fluctuations for First-Passage Percolation with Symmetric Kernels**|Partha S. Dey et.al.|[link](http://arxiv.org/abs/2611.17234v1)|null|
+|**2026-11-12**|**Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering**|Ksenia Belkovskaya et.al.|[link](http://arxiv.org/abs/2611.17226v1)|null|
+|**2026-11-12**|**Faster Deterministic All-Pairs Shortest Paths with Real Edge Weights**|Isaac Barouch Essayag et.al.|[link](http://arxiv.org/abs/2611.17215v1)|null|
+|**2026-11-12**|**A Little Length Slack Goes a Long Way in Planar Length-Constrained Network Design**|D Ellis Hershkowitz et.al.|[link](http://arxiv.org/abs/2611.17201v1)|null|
+|**2026-11-12**|**MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI**|Soumi Sarkar et.al.|[link](http://arxiv.org/abs/2611.17199v1)|null|
+|**2026-11-12**|**Omakase: Execution Congestion Control through Conflict-Graph Integration in Multi-Proposer Blockchain**|Dakai Kang et.al.|[link](http://arxiv.org/abs/2611.17184v1)|null|
+|**2026-11-12**|**New bounds on the boxicity of Kneser graphs**|L. Sunil Chandran et.al.|[link](http://arxiv.org/abs/2611.17183v1)|null|
+|**2026-11-12**|**Discrete Helicity on Graphs: Pfaffian Energies and Clique Bounds**|Jingqi Li et.al.|[link](http://arxiv.org/abs/2611.17168v1)|null|
+|**2026-11-12**|**A hierarchical graph neural network for efficient particle-resolved prediction of granular flow dynamics**|Kuang Shi et.al.|[link](http://arxiv.org/abs/2611.17156v1)|null|
+|**2026-11-12**|**STeP-C: Real-Time Neural Compression for Distributed Fiber-Optic Sensing at Scale**|Tingfeng Li et.al.|[link](http://arxiv.org/abs/2611.17126v1)|null|
+|**2026-11-12**|**Universal sampling rules for the signed friendship paradox**|Michail Louvaris et.al.|[link](http://arxiv.org/abs/2611.17118v1)|null|
+|**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[link](http://arxiv.org/abs/2611.17115v1)|null|
 |**2026-11-12**|**Fluctuations of Local Patterns in Non-Periodic Uniquely Ergodic Systems**|Jacek Miękisz et.al.|[link](http://arxiv.org/abs/2611.16685v1)|null|
 |**2026-11-12**|**Edge-Gradient Augmentation under Reinforcement Learning for Temporal Graph**|Yongqing Zhou et.al.|[link](http://arxiv.org/abs/2611.16678v1)|null|
 |**2026-11-12**|**Exact Turán densities of even zycles**|Shuaichao Wang et.al.|[link](http://arxiv.org/abs/2611.16654v1)|null|
@@ -8707,6 +8748,7 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-11-12**|**What Limits Thermal Infrared Drone Detection? A Cross-Dataset Benchmark Analysis**|Tamara R. Lenhard et.al.|[link](http://arxiv.org/abs/2611.16724v1)|null|
 |**2026-11-12**|**HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition**|Yu Li et.al.|[link](http://arxiv.org/abs/2611.16451v1)|null|
 |**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[link](http://arxiv.org/abs/2611.16424v1)|null|
 |**2026-11-12**|**Description-Guided CLIP Adaptation with Local Evidence Calibration for Few-Shot Plant Disease Recognition**|Zhenkun Ye et.al.|[link](http://arxiv.org/abs/2611.16373v1)|null|
