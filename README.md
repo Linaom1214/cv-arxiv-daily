@@ -1,4 +1,4 @@
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 
 ### ISTD
 
@@ -335,6 +335,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-13**|**JVT: Just Video Transformer makes pixel-space video diffusion simple**|Jianjun Zhou et.al.|[link](http://arxiv.org/abs/2611.18549v1)|null|
+|**2026-11-13**|**EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation**|Amir Mohammad Khadem Hosseini et.al.|[link](http://arxiv.org/abs/2611.18524v1)|null|
+|**2026-11-13**|**Patient-specific Modeling of the Tricuspid Valve from 3D Transesophageal Echocardiography**|Davide Tondi et.al.|[link](http://arxiv.org/abs/2611.18522v1)|null|
+|**2026-11-13**|**Efficient Reconfiguration of Independent Transversals**|Sahab Hajebi et.al.|[link](http://arxiv.org/abs/2611.18474v1)|null|
+|**2026-11-13**|**Node Localization by Multidimensional Scaling with Iterative Majorization**|Frank M. T. A. Busing et.al.|[link](http://arxiv.org/abs/2611.18466v1)|null|
+|**2026-11-13**|**VellSSLH: Sound Type-Guided Selective Speculative Load Hardening for LLVM IR**|Swarn Priya et.al.|[link](http://arxiv.org/abs/2611.18463v1)|null|
+|**2026-11-13**|**PACT: A Decoder-Confidence-Guided Two-Round Receiver for Joint Channel and Phase-Noise Estimation in Sub-THz OFDM**|Ruilin Wang et.al.|[link](http://arxiv.org/abs/2611.18450v1)|null|
+|**2026-11-13**|**Toward On-Device Markerless 6DoF Tracking of a Physical Manipulative on a Mixed-Reality Headset: A Preliminary Study**|Guangxi Feng et.al.|[link](http://arxiv.org/abs/2611.18438v1)|null|
+|**2026-11-13**|**Graph diffusion transformer for interpretable generation and inverse design of disordered atomic structures**|Jiani Hu et.al.|[link](http://arxiv.org/abs/2611.18420v1)|null|
+|**2026-11-13**|**LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect**|Mingming Su et.al.|[link](http://arxiv.org/abs/2611.18412v1)|null|
+|**2026-11-13**|**Structure makes quantum circuits trainable**|Wenbo Xie et.al.|[link](http://arxiv.org/abs/2611.18378v1)|null|
+|**2026-11-13**|**Guerra Interpolation and Optimal Transport: Kantorovich Bounds, Brenier Maps and the Replicon**|Elena Agliari et.al.|[link](http://arxiv.org/abs/2611.18373v1)|null|
+|**2026-11-13**|**The BCC Lattice Maximizes the First Positive Neumann Eigenvalue among 3D Lattice Voronoi Cells**|Kaixin Deng et.al.|[link](http://arxiv.org/abs/2611.18368v1)|null|
+|**2026-11-13**|**Adaptable Watermarking: Transforming Image Watermarking Models via Lightweight Adapters**|Mehrdad Saberi et.al.|[link](http://arxiv.org/abs/2611.18363v1)|null|
+|**2026-11-13**|**MaskSCD: Bitemporal Mask Classification for Semantic Change Detection in Remote Sensing Images**|Weikang Yu et.al.|[link](http://arxiv.org/abs/2611.18350v1)|null|
+|**2026-11-13**|**Bäcklund transformations of the fifth Painlevé equation**|Peter A. Clarkson et.al.|[link](http://arxiv.org/abs/2611.18335v1)|null|
+|**2026-11-13**|**Emulating physics-based XCO2 retrievals across OCO-2 viewing modes with compact neural networks**|Xianlei San et.al.|[link](http://arxiv.org/abs/2611.18333v1)|null|
+|**2026-11-13**|**Formulating Uncomputation Beyond Classical Ancilla Use**|Bonan Su et.al.|[link](http://arxiv.org/abs/2611.18325v1)|null|
+|**2026-11-13**|**Unlocking Cross-Attention in Label-Scarce Regimes: A Weakly Supervised Approach for Video Semantic Segmentation**|Andrea Marelli et.al.|[link](http://arxiv.org/abs/2611.18324v1)|null|
+|**2026-11-13**|**All coupling Anderson localization in the quantum kicked rotor model**|Yunfeng Shi et.al.|[link](http://arxiv.org/abs/2611.18320v1)|null|
 |**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[link](http://arxiv.org/abs/2611.17336v1)|null|
 |**2026-11-12**|**CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation**|Peiwen Li et.al.|[link](http://arxiv.org/abs/2611.17316v1)|null|
 |**2026-11-12**|**FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification**|Mohamed Alimoussa et.al.|[link](http://arxiv.org/abs/2611.17302v1)|null|
@@ -4152,6 +4172,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-13**|**nnAEU: a Simple and Efficient CNN-Autoencoder for Hyperspectral Unmixing**|Edgard Dabier et.al.|[link](http://arxiv.org/abs/2611.17956v1)|null|
+|**2026-11-13**|**Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences**|Torben Berndt et.al.|[link](http://arxiv.org/abs/2611.16934v2)|null|
 |**2026-11-12**|**Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences**|Torben Berndt et.al.|[link](http://arxiv.org/abs/2611.16934v1)|null|
 |**2026-11-12**|**Climate Temporal Temperature Prediction via an Adaptive Stacked Bidirectional Residual Mamba Network**|Yongxiang Lei et.al.|[link](http://arxiv.org/abs/2611.16322v1)|null|
 |**2026-11-11**|**Your Secrets Are Showing: Deep Image Hiding Models Are Surprisingly Easy to Attack**|Hao Liu et.al.|[link](http://arxiv.org/abs/2611.15583v1)|null|
@@ -5082,6 +5104,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-13**|**Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction**|Abhilekha Dalal et.al.|[link](http://arxiv.org/abs/2611.18530v1)|null|
+|**2026-11-13**|**EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation**|Amir Mohammad Khadem Hosseini et.al.|[link](http://arxiv.org/abs/2611.18524v1)|null|
+|**2026-11-13**|**Patient-specific Modeling of the Tricuspid Valve from 3D Transesophageal Echocardiography**|Davide Tondi et.al.|[link](http://arxiv.org/abs/2611.18522v1)|null|
+|**2026-11-13**|**EPIGRIDS: Documentation and Validation of Seven Open Synthetic Transmission Grid Cases**|Jonathan M. Snodgrass et.al.|[link](http://arxiv.org/abs/2611.18502v1)|null|
+|**2026-11-13**|**Cohen Macaulayness and Buchsbaumness of Cartesian Products of Paths and Cycles**|Bidwan Chakraborty et.al.|[link](http://arxiv.org/abs/2611.18495v1)|null|
+|**2026-11-13**|**Rigidity of the moving particle lemma for the interchange process**|Joe P. Chen et.al.|[link](http://arxiv.org/abs/2611.18483v1)|null|
+|**2026-11-13**|**Efficient Reconfiguration of Independent Transversals**|Sahab Hajebi et.al.|[link](http://arxiv.org/abs/2611.18474v1)|null|
+|**2026-11-13**|**Dynamic bigraphical Matérn--Whittle processes: learning dependence graphs among spatial-temporal fields**|Alokesh Manna et.al.|[link](http://arxiv.org/abs/2611.18454v1)|null|
+|**2026-11-13**|**Tessa: Encoding Classical Data Across an Entire Quantum Processor**|Daniel Bultrini et.al.|[link](http://arxiv.org/abs/2611.18440v1)|null|
+|**2026-11-13**|**Validating Graph Neural Network Feature Attribution Through Local Perturbations: A Study on CoMoFeNiCu Decomposition Enthalpy**|Miguel Tenorio et.al.|[link](http://arxiv.org/abs/2611.18430v1)|null|
+|**2026-11-13**|**Graph diffusion transformer for interpretable generation and inverse design of disordered atomic structures**|Jiani Hu et.al.|[link](http://arxiv.org/abs/2611.18420v1)|null|
+|**2026-11-13**|**LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect**|Mingming Su et.al.|[link](http://arxiv.org/abs/2611.18412v1)|null|
+|**2026-11-13**|**Color Refinement Distinguishes Connected Rooted Outerplanar Graphs**|Louann Coste et.al.|[link](http://arxiv.org/abs/2611.18391v1)|null|
+|**2026-11-13**|**From Diagonal Coloring to Proper Vertex Labelings Distinguishing Adjacent Facial Sums**|Zhou Guofei et.al.|[link](http://arxiv.org/abs/2611.18384v1)|null|
+|**2026-11-13**|**Where Tree Ensembles Decide: Structural Local Explanation with Decision Predicate Graphs**|Sylvio Barbon Junior et.al.|[link](http://arxiv.org/abs/2611.18382v1)|null|
+|**2026-11-13**|**Structure makes quantum circuits trainable**|Wenbo Xie et.al.|[link](http://arxiv.org/abs/2611.18378v1)|null|
+|**2026-11-13**|**Guerra Interpolation and Optimal Transport: Kantorovich Bounds, Brenier Maps and the Replicon**|Elena Agliari et.al.|[link](http://arxiv.org/abs/2611.18373v1)|null|
+|**2026-11-13**|**How rigid is maximum cardinality search? Stability and locality of MCS orderings under edge updates, verified in Lean**|Md Thoriqul Islam Thonmay et.al.|[link](http://arxiv.org/abs/2611.18369v1)|null|
+|**2026-11-13**|**MaskSCD: Bitemporal Mask Classification for Semantic Change Detection in Remote Sensing Images**|Weikang Yu et.al.|[link](http://arxiv.org/abs/2611.18350v1)|null|
+|**2026-11-13**|**Enumeration of Cospectral Graphs with Respect to the Average Flow Matrix**|Usama Waheed et.al.|[link](http://arxiv.org/abs/2611.18344v1)|null|
 |**2026-11-12**|**$C^{1,α}$ Regularity of $W^{2,2}$ $Q$-Valued Maps with Small Laplacian**|Mattia Luchese et.al.|[link](http://arxiv.org/abs/2611.17317v1)|null|
 |**2026-11-12**|**CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation**|Peiwen Li et.al.|[link](http://arxiv.org/abs/2611.17316v1)|null|
 |**2026-11-12**|**Separations Between Submodular-Like Graph Widths**|Karl Bringmann et.al.|[link](http://arxiv.org/abs/2611.17307v1)|null|
@@ -8748,6 +8790,9 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-11-13**|**Making Experiment Results Comparable through Sitewide Impact Estimation**|Xiaochen Zhang et.al.|[link](http://arxiv.org/abs/2611.18411v1)|null|
+|**2026-11-13**|**NER-D: A cross-domain benchmark for German NER**|Marc Brinner et.al.|[link](http://arxiv.org/abs/2611.18257v1)|null|
+|**2026-11-13**|**STaG: Human-Annotation-Free Unsupervised Domain Adaptation for Text-Based Person Retrieval**|Ji Yucheng et.al.|[link](http://arxiv.org/abs/2611.18172v1)|null|
 |**2026-11-12**|**What Limits Thermal Infrared Drone Detection? A Cross-Dataset Benchmark Analysis**|Tamara R. Lenhard et.al.|[link](http://arxiv.org/abs/2611.16724v1)|null|
 |**2026-11-12**|**HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition**|Yu Li et.al.|[link](http://arxiv.org/abs/2611.16451v1)|null|
 |**2026-11-12**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[link](http://arxiv.org/abs/2611.16424v1)|null|
