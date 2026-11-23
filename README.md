@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 
 ### ISTD
 
@@ -336,6 +336,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-20**|**MemOnce: A Scalable Memory Architecture for Large Language Models**|Chang Nie et.al.|[link](http://arxiv.org/abs/2611.27973v1)|null|
+|**2026-11-20**|**A proof of the polygonal Faber--Krahn inequality**|Yutian Li et.al.|[link](http://arxiv.org/abs/2611.27968v1)|null|
+|**2026-11-20**|**Non-penetrating World Models**|Yuhang Dai et.al.|[link](http://arxiv.org/abs/2611.27963v1)|null|
+|**2026-11-20**|**Model Carving: Training Transformers That Optimize Their Own Topology**|Kaden Zheng et.al.|[link](http://arxiv.org/abs/2611.27962v1)|null|
+|**2026-11-20**|**Differential Transmutations and First-Passage Expansions for Monomial Brownian Boundaries**|Gerardo Hernandez-del-Valle et.al.|[link](http://arxiv.org/abs/2611.27958v1)|null|
+|**2026-11-20**|**Weighted sum commuting maps with the $(f,g)$-Aluthge transform**|Jing-Bin Zhou et.al.|[link](http://arxiv.org/abs/2611.27949v1)|null|
+|**2026-11-20**|**Star Triangulations**|Dimitris Bogiokas et.al.|[link](http://arxiv.org/abs/2611.27936v1)|null|
+|**2026-11-20**|**ESSI: Computationally Efficient Semantic Search for Sparse Autoencoder Concepts**|James Baker et.al.|[link](http://arxiv.org/abs/2611.27921v1)|null|
+|**2026-11-20**|**Star Panoptic Quality: Selectively Evaluating Split and Merged Instances**|Erik Großkopf et.al.|[link](http://arxiv.org/abs/2611.27913v1)|null|
+|**2026-11-20**|**Functional Depth Is Learned: Isolating the Computation That Layers Produce Only Together**|JaeSeong Kim et.al.|[link](http://arxiv.org/abs/2611.27911v1)|null|
+|**2026-11-20**|**Quasi-stationary solutions of the dP$_\text{I}$ equation**|V. E. Adler et.al.|[link](http://arxiv.org/abs/2611.27906v1)|null|
+|**2026-11-20**|**QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization for Streaming Visual Geometry Transformers**|Zunhai Su et.al.|[link](http://arxiv.org/abs/2611.27901v1)|null|
+|**2026-11-20**|**Renormalized Entropy from Symmetries: Simplicity Bias and Neural Heat Death**|Vasco Portilheiro et.al.|[link](http://arxiv.org/abs/2611.27889v1)|null|
+|**2026-11-20**|**LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT**|Maximilian Rokuss et.al.|[link](http://arxiv.org/abs/2611.27876v1)|null|
+|**2026-11-20**|**Integrating Generative Artificial Intelligence with Learning Style Models: Opportunities, Challenges, and Future Directions**|Malithi Nawarathne et.al.|[link](http://arxiv.org/abs/2611.27868v1)|null|
+|**2026-11-20**|**Brane Tilings and Polygons with Two Interior Points**|Rak-Kyeong Seong et.al.|[link](http://arxiv.org/abs/2611.27861v1)|null|
+|**2026-11-20**|**Anchors That Move Without Collapsing: Exclusive-Region Anchor Routing for Vision Transformers**|Aadi Gupta et.al.|[link](http://arxiv.org/abs/2611.27855v1)|null|
+|**2026-11-20**|**DGC-Net: A Depth-Geometric Conditioning Network for Projection-Supervised OCTA Segmentation**|Lucas Santiago et.al.|[link](http://arxiv.org/abs/2611.27854v1)|null|
+|**2026-11-20**|**Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference**|Iuliu Cuceu et.al.|[link](http://arxiv.org/abs/2611.27848v1)|null|
+|**2026-11-20**|**Mixture of Latent Recursions for Low-Rank Adaptation**|Weixun Luo et.al.|[link](http://arxiv.org/abs/2611.27823v1)|null|
 |**2026-11-19**|**RL Post-Training in Diffusion Transformers Is Activation Steering**|Tuna Han Salih Meral et.al.|[link](http://arxiv.org/abs/2611.26627v1)|null|
 |**2026-11-19**|**One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning**|Yuxin Jiang et.al.|[link](http://arxiv.org/abs/2611.26617v1)|null|
 |**2026-11-19**|**Bio-PM-Guided Synthetic IMU Generation**|Deepali Singh et.al.|[link](http://arxiv.org/abs/2611.26607v1)|null|
@@ -4193,6 +4213,8 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-20**|**Inject, Encode, Navigate: Feature-Wise Time Injection for Rectified Flow with Bidirectional Feature Encoding**|Xiaogang Wang et.al.|[link](http://arxiv.org/abs/2611.27179v1)|null|
+|**2026-11-19**|**Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models**|Amit Dhurandhar et.al.|[link](http://arxiv.org/abs/2611.26835v1)|null|
 |**2026-11-19**|**Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields**|Cosmo Santoni et.al.|[link](http://arxiv.org/abs/2611.26355v1)|null|
 |**2026-11-19**|**VidToC: Rethinking Video Token Compression for Multimodal Large Language Models**|Zihan Xiao et.al.|[link](http://arxiv.org/abs/2611.25574v1)|null|
 |**2026-11-18**|**Slim-Mamba: An Efficient and Reconfigurable Mamba-Based Accelerator for Massive MIMO Indoor Localization**|Shengjie Chen et.al.|[link](http://arxiv.org/abs/2611.24553v1)|null|
@@ -5140,6 +5162,26 @@
 
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
+|**2026-11-20**|**Cluster Editing in Subexponential Fixed-Parameter Time**|Alexander Firbas et.al.|[link](http://arxiv.org/abs/2611.27956v1)|null|
+|**2026-11-20**|**Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed**|Dylan Forde et.al.|[link](http://arxiv.org/abs/2611.27951v1)|null|
+|**2026-11-20**|**Intervals of limit points for $B_α$-spectral radii**|Francesco Belardo et.al.|[link](http://arxiv.org/abs/2611.27937v1)|null|
+|**2026-11-20**|**The Power of Sampling for Finding Far-Apart Bases in Matroids**|Mayank Goswami et.al.|[link](http://arxiv.org/abs/2611.27934v1)|null|
+|**2026-11-20**|**A quasi-tree expansion of the Homfly polynomial**|Tamás Kálmán et.al.|[link](http://arxiv.org/abs/2611.27926v1)|null|
+|**2026-11-20**|**ESSI: Computationally Efficient Semantic Search for Sparse Autoencoder Concepts**|James Baker et.al.|[link](http://arxiv.org/abs/2611.27921v1)|null|
+|**2026-11-20**|**Star Panoptic Quality: Selectively Evaluating Split and Merged Instances**|Erik Großkopf et.al.|[link](http://arxiv.org/abs/2611.27913v1)|null|
+|**2026-11-20**|**Linear-Size Spectral Sparsification by Sign Descent**|Trevor Vaughn et.al.|[link](http://arxiv.org/abs/2611.27907v1)|null|
+|**2026-11-20**|**Interpretable Tissue Architecture Complements Pathology Foundation Models**|Zeeshan Shahid et.al.|[link](http://arxiv.org/abs/2611.27881v1)|null|
+|**2026-11-20**|**LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT**|Maximilian Rokuss et.al.|[link](http://arxiv.org/abs/2611.27876v1)|null|
+|**2026-11-20**|**DGC-Net: A Depth-Geometric Conditioning Network for Projection-Supervised OCTA Segmentation**|Lucas Santiago et.al.|[link](http://arxiv.org/abs/2611.27854v1)|null|
+|**2026-11-20**|**How communities help epidemics persist**|Júlia Komjáthy et.al.|[link](http://arxiv.org/abs/2611.27843v1)|null|
+|**2026-11-20**|**Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation**|Samarth Sarin et.al.|[link](http://arxiv.org/abs/2611.27835v1)|null|
+|**2026-11-20**|**Graph Signal Generation via Graph-Aware Diffusion Models**|Vimal K B et.al.|[link](http://arxiv.org/abs/2611.27826v1)|null|
+|**2026-11-20**|**BinXSight: Fast Binary Program Summarization via Hierarchical Modular Decomposition**|Zhijie Liu et.al.|[link](http://arxiv.org/abs/2611.27816v1)|null|
+|**2026-11-20**|**Monomial Ideals Of VEW Graphs**|Manohar Kumar et.al.|[link](http://arxiv.org/abs/2611.27812v1)|null|
+|**2026-11-20**|**DOiT: Better Money-Flow Ranking Can Coexist with Worse Account Selection in Anti-Money Laundering Review**|Gwangui Hong et.al.|[link](http://arxiv.org/abs/2611.27809v1)|null|
+|**2026-11-20**|**Incidence Correspondences and Chow Motives in the Symplectic (Z/2Z)4-K3 Locus**|Sixuan Gu et.al.|[link](http://arxiv.org/abs/2611.27800v1)|null|
+|**2026-11-20**|**$\varepsilon$-SegFormer: Multi-Resolution Vision Transformers for Sparsely Supervised Segmentation in Electron Microscopy**|Erfan Amidi et.al.|[link](http://arxiv.org/abs/2611.27796v1)|null|
+|**2026-11-20**|**Extremal $K_t$-intersecting graph families for large $t$**|Yijia Fang et.al.|[link](http://arxiv.org/abs/2611.27793v1)|null|
 |**2026-11-19**|**AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms**|Omoruyi Atekha et.al.|[link](http://arxiv.org/abs/2611.26625v1)|null|
 |**2026-11-19**|**Additive Fréchet Regression for Random Objects**|Changwon Choi et.al.|[link](http://arxiv.org/abs/2611.26614v1)|null|
 |**2026-11-19**|**Variants of Beam Search for DiskANN**|Viraj Agrawal et.al.|[link](http://arxiv.org/abs/2611.26609v1)|null|
@@ -8846,7 +8888,10 @@
 | Date | Title | Authors | Paper | Code |
 |------|--------|---------|--------|--------|
 |**2009-10-31**|**Finite Size Scaling of Domain Chaos**|M. C. Cross et.al.|[link](http://arxiv.org/abs/nlin/0011048v1)|null|
+|**2026-11-20**|**No Audio, No Transcripts, No Problem: LLM-based ASR Adaptation Using Only Domain Documents**|Sergio Burdisso et.al.|[link](http://arxiv.org/abs/2611.27434v1)|null|
+|**2026-11-20**|**ReSA: Preserving Reference-Specified Foreground in In-Context Segmentation**|Dezhao Su et.al.|[link](http://arxiv.org/abs/2611.27341v1)|null|
 |**2026-11-19**|**Presenting Your Figures: Data-informed Animated Transitions Across Scientific Figure Panels**|Lu Ying et.al.|[link](http://arxiv.org/abs/2611.26036v1)|null|
+|**2026-11-20**|**Decision Boundaries Matter: Graph-Regularized Residual Adaptation for Cross-Domain Fake Image Detection**|Shichuang Xie et.al.|[link](http://arxiv.org/abs/2611.25406v2)|null|
 |**2026-11-19**|**Decision Boundaries Matter: Graph-Regularized Residual Adaptation for Cross-Domain Fake Image Detection**|Shichuang Xie et.al.|[link](http://arxiv.org/abs/2611.25406v1)|null|
 |**2026-11-18**|**Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types**|Lambert Igene et.al.|[link](http://arxiv.org/abs/2611.25108v1)|null|
 |**2026-11-18**|**Cooperative UAV and Ground Station for Robust MEC of Dynamic Aquatic IoT: A Generative AI-Enhanced Approach**|Jiahao You et.al.|[link](http://arxiv.org/abs/2611.24466v1)|null|
